@@ -65,6 +65,7 @@ Project                    | Describe                  | Major Language         
 [Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.gunnner)   
 [v2ex-daily-android](https://github.com/kyze8439690/v2ex-daily-android) | A v2ex client on android platform. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.yugy.v2ex.daily) 
 [androidclient](https://github.com/kontalk/androidclient) | Kontalk official Android client http://www.kontalk.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.kontalk) 
+[RedPhone](https://github.com/WhisperSystems/RedPhone) | A secure calling app for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone) 
 
 ------
 
