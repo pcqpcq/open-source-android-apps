@@ -1,7 +1,15 @@
-# Open Source Android Apps
-> A collection of Android Apps with Open Source.
+# Why?
+> A collection of Android Apps with Open Source.  
+> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But it's [android-fork](https://github.com/dkhamsing/open-source-android-apps) is so that I create this one.
 
 
+# How?
+> I'll push awesome projects when I find any.  
+> It's WELCOM for you to star and fork this project.
+> For now, all applications are tidied with category
+
+
+# What?
 ## Books and Reference   
 Project                    | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
