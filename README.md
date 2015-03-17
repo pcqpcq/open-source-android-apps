@@ -1,6 +1,6 @@
 # Why?
 > A collection of Android Apps with Open Source.  
-> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But it's [android-fork](https://github.com/dkhamsing/open-source-android-apps) is so that I create this one.
+> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But it's [android-fork](https://github.com/dkhamsing/open-source-android-apps) is so lazy that I create this one.
 
 
 # How?
