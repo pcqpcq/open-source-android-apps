@@ -5,7 +5,7 @@
 
 # How?
 > I'll push awesome projects when I find any.  
-> It's WELCOM for you to star and fork this project.
+> It's WELCOM for you to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.
 > For now, all applications are tidied with category
 
 
