@@ -85,5 +85,6 @@ App Name                   | Describe                  | Major Language         
 [translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
 [Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.anhonesteffort.flock)  
 [zxing](https://github.com/zxing/zxing) | Official ZXing ("Zebra Crossing") project home  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)  
+[Prey Anti Theft](https://github.com/prey/prey-android-client) | Android client for the Prey anti-theft software. http://preyproject.com  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.prey)  
 
 ------
