@@ -1,11 +1,13 @@
 # Why?
-> A collection of Android Apps with Open Source.  
-> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But it's [android-fork](https://github.com/dkhamsing/open-source-android-apps) is so lazy that I create this one.
+> This is a collection of Android Apps with Open Source.  
+> I believe we can find something interesting and helpful skills from a product.
+> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But its [android-fork](https://github.com/dkhamsing/open-source-android-apps) is so lazy that I create this one.
 
 
 # How?
 > I'll push awesome projects when I find any.  
-> It's WELCOM for you to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.
+> It's WELCOM for you to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.   
+> If you know something that are not here, it'll be great to [Pull Requests](https://github.com/pcqpcq/open-source-android-apps/pulls)
 > For now, all applications are tidied with category
 
 
