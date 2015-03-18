@@ -47,6 +47,7 @@ App Name                   | Describe                  | Major Language         
 [AnimeTaste](https://github.com/daimajia/AnimeTaste) | Taste global original animation | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.zhan_dui.animetaste)   
 [Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.miz.mizuu)   
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) | A podcast manager for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)   
+[JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful and elegant music player for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.jams.music.player.de.repat)   
 
 ------
 
