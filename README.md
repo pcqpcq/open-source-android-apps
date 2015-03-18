@@ -71,6 +71,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [GitHub Android](https://github.com/github/android) | GitHub Android App | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.github.mobile)  
 [Gitskarios](https://github.com/alorma/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
+[Omni Notes](https://github.com/federicoiosue/Omni-Notes) | Open source note-taking application for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)  
 
 ------
 
