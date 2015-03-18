@@ -14,6 +14,7 @@
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)   
+[WikipediaMobile](https://github.com/wikimedia/WikipediaMobile) | The Google I/O Android App | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.wikipedia)   
 
 ------
 
@@ -73,6 +74,7 @@ App Name                   | Describe                  | Major Language         
 [v2ex-daily-android](https://github.com/kyze8439690/v2ex-daily-android) | A v2ex client on android platform. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.yugy.v2ex.daily) 
 [Kontalk Messenger](https://github.com/kontalk/androidclient) | Kontalk official Android client http://www.kontalk.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.kontalk) 
 [RedPhone](https://github.com/WhisperSystems/RedPhone) | A secure calling app for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone) 
+[TextSecure](https://github.com/WhisperSystems/TextSecure/) | A secure calling app for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) 
 
 ------
 
@@ -82,5 +84,6 @@ App Name                   | Describe                  | Major Language         
 [Telecine](https://github.com/JakeWharton/Telecine) | Record full-resolution video on your Android devices. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.jakewharton.telecine)  
 [translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
 [Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.anhonesteffort.flock)  
+[zxing](https://github.com/zxing/zxing) | Official ZXing ("Zebra Crossing") project home  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)  
 
 ------
