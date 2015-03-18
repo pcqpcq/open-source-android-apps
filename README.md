@@ -1,13 +1,13 @@
 # Why?
 > This is a collection of Android Apps with Open Source.  
-> I believe we can find something interesting and helpful skills from a product.
+> I believe we can find something interesting and helpful skills from a product.  
 > This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But its [android-fork](https://github.com/dkhamsing/open-source-android-apps) is so lazy that I create this one.
 
 
 # How?
 > I'll push awesome projects when I find any.  
 > It's WELCOM for you to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.   
-> If you know something that are not here, it'll be great to [Pull Requests](https://github.com/pcqpcq/open-source-android-apps/pulls)
+> If you know something that are not here, it'll be great to [Pull Requests](https://github.com/pcqpcq/open-source-android-apps/pulls).  
 > For now, all applications are tidied with category
 
 
@@ -77,6 +77,7 @@ App Name                   | Describe                  | Major Language         
 [Kontalk Messenger](https://github.com/kontalk/androidclient) | Kontalk official Android client http://www.kontalk.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.kontalk) 
 [RedPhone](https://github.com/WhisperSystems/RedPhone) | A secure calling app for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone) 
 [TextSecure](https://github.com/WhisperSystems/TextSecure/) | A secure calling app for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) 
+[WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android http://android.wordpress.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.wordpress.android) 
 
 ------
 
