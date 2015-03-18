@@ -24,6 +24,13 @@ Project                    | Describe                  | Major Language         
 
 ------
 
+## Game  
+Project                    | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[2048-android](https://github.com/uberspot/2048-android) | The android port of the 2048 game (for offline playing) | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.uberspot.a2048)   
+
+------
+
 ## Multi-Media  
 Project                    | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
