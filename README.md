@@ -108,5 +108,6 @@ App Name                   | Describe                  | Major Language         
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) | A VT-100 terminal emulator for the Android OS | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=jackpal.androidterm)  
 [translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
 [zxing](https://github.com/zxing/zxing) | Official ZXing ("Zebra Crossing") project home  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)  
+[SuperCleanMaster](https://github.com/joyoyao/superCleanMaster.git) | CleanMaster open source clone | Java |
 
 ------
