@@ -36,6 +36,13 @@ App Name                   | Describe                  | Major Language         
 
 ------
 
+## Finance  
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[GnuCash](https://github.com/codinguser/gnucash-android) | Gnucash for Android mobile companion application. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.gnucash.android)   
+
+------
+
 ## Game  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
