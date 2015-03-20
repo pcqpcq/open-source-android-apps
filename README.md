@@ -108,6 +108,7 @@ App Name                   | Describe                  | Major Language         
 [Twidere-Android](https://github.com/TwidereProject/Twidere-Android/) | Twitter client for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)   
 [v2ex-daily-android](https://github.com/kyze8439690/v2ex-daily-android) | A v2ex client on android platform. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.yugy.v2ex.daily) 
 [WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android http://android.wordpress.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.wordpress.android) 
+[mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java |    
 
 ------
 
