@@ -1,14 +1,14 @@
 # Why?
-> This is a collection of Android Apps with Open Source.  
-> I believe we can find something interesting and helpful skills from a product.  
-> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But its [android-fork](https://github.com/dkhamsing/open-source-android-apps) is so lazy that I create this one.
+> This is a collection of Android Apps which are open source.  
+> I believe that we can find something interesting and gain helpful skills from an open source app.  
+> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But its [android-fork](https://github.com/dkhamsing/open-source-android-apps) is not maintained, so I created this one.
 
 
 # How?
 > I'll push awesome projects when I find any.  
-> It's WELCOM for you to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.   
-> If you know something that are not here, it'll be great to [Pull Requests](https://github.com/pcqpcq/open-source-android-apps/pulls).  
-> For now, all applications are tidied with category
+> It's WELCOMED for you to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.   
+> If you know something that is not here, it'll be great if you could make a [Pull Request](https://github.com/pcqpcq/open-source-android-apps/pulls).  
+> All applications are sorted in various categories
 
 
 # What?
@@ -62,6 +62,7 @@ App Name                   | Describe                  | Major Language         
 [Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.miz.mizuu)   
 [MPDroid](https://github.com/abarisain/dmix) | Fork of pmix that allows streaming (and now much more) | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.namelessdev.mpdroid)   
 [UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) | This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices | Java |      
+[Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)   
 
 ------
 
