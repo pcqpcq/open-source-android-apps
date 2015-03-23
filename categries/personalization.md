@@ -1,0 +1,6 @@
+## Personalization  
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Muzei Live Wallpaper](https://github.com/romannurik/muzei) | Muzei Live Wallpaper for Android http://muzei.co | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.muzei)  
+[wall-splash-android](https://github.com/mikepenz/wall-splash-android) | wall:splash is a free open source android client for the awesome unsplash.com service (Free (do whatever you want) high-resolution photos) http://mikepenz.github.io/wall-splash-android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.mikepenz.unsplash)  
+[Wally](https://github.com/Musenkishi/wally) | Wally is a fast and efficient open source wallpaper application for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.musenkishi.wally)  
