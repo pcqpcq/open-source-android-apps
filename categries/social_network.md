@@ -16,3 +16,4 @@ App Name                   | Describe                  | Major Language         
 [WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android http://android.wordpress.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.wordpress.android) 
 [mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java |    
 [Telegram Messenger](https://github.com/DrKLO/Telegram) | Telegram Messenger for Android https://telegram.org/ | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.telegram.messenger) 
+[InstaMaterial](https://github.com/frogermcs/InstaMaterial) | Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept) | Java |    
