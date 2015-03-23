@@ -22,7 +22,7 @@
 
 > * [Game](categries/game.md)  
 
-> * [Multi-Media](categries/multi-media.md)  
+> * [Multi-Media](categries/multi_media.md)  
 
 > * [News and Magazines](categries/news_and_magazines.md)  
 
