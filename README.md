@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/AndroidWeekly-%23145-blue.svg)](http://androidweekly.net/issues/issue-145)
+
 # Why?
 > This is a collection of Android Apps which are open source.  
 > I believe that we can find something interesting and gain helpful skills from an open source app.  
