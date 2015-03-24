@@ -12,27 +12,27 @@
 
 
 # What?
-> * [Android Wear](categries/android_wear.md)  
+> * [Android Wear](categories/android_wear.md)  
 
-> * [Books and Reference](categries/books_and_reference.md)  
+> * [Books and Reference](categories/books_and_reference.md)  
 
-> * [Education](categries/education.md)  
+> * [Education](categories/education.md)  
 
-> * [Finance](categries/finance.md)  
+> * [Finance](categories/finance.md)  
 
-> * [Game](categries/game.md)  
+> * [Game](categories/game.md)  
 
-> * [Multi-Media](categries/multi_media.md)  
+> * [Multi-Media](categories/multi_media.md)  
 
-> * [News and Magazines](categries/news_and_magazines.md)  
+> * [News and Magazines](categories/news_and_magazines.md)  
 
-> * [Personalization](categries/personalization.md)  
+> * [Personalization](categories/personalization.md)  
 
-> * [Productivity](categries/productivity.md)  
+> * [Productivity](categories/productivity.md)  
 
-> * [Social Network](categries/social_network.md)  
+> * [Social Network](categories/social_network.md)  
 
-> * [Tools](categries/tools.md)  
+> * [Tools](categories/tools.md)  
 
 
 # Share  
