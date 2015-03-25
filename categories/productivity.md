@@ -8,4 +8,4 @@ App Name                   | Describe                  | Major Language         
 [OctoDroid](https://github.com/slapperwan/gh4a) | Github client for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.gh4a) 
 [Omni Notes](https://github.com/federicoiosue/Omni-Notes) | Open source note-taking application for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)  
 [Tasks](https://github.com/dmfs/tasks) | A task app for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.dmfs.tasks)
-[Voice Activated Tip Calculator](https://github.com/mbcrump/FirstGoogleWearableApp) | This Google Wear app includes voice recognition that will calculate a tip. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.michaelcrump.voicetipcalculator)  
+
