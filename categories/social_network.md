@@ -1,6 +1,7 @@
 ## Social Network  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Beebo+](https://github.com/andforce/Beebo) | Sina Weibo Client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.zarroboogs.weibo.plus)   
 [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) | A light Sina Weibo Android client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=us.shandian.blacklight)   
 [Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.gunnner)   
 [K-9 Mail](https://github.com/k9mail/k-9) | K-9 Mail – Advanced Email for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fsck.k9) 
