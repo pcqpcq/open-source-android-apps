@@ -16,6 +16,8 @@
 
 > * [Books and Reference](categories/books_and_reference.md)  
 
+> * [Communication](categories/communication.md)  
+
 > * [Education](categories/education.md)  
 
 > * [Finance](categories/finance.md)  
