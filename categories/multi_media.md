@@ -15,3 +15,4 @@ App Name                   | Describe                  | Major Language         
 [Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)   
 [Material-Movies](https://github.com/saulmm/Material-Movies) | An application about movies with material design | Java |      
 [philm](https://github.com/chrisbanes/philm) | Movie collection and information app for Android. | Java |      
+[AnimeTaste](https://github.com/daimajia/AnimeTaste/) | Taste global original animation. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.zhan_dui.animetaste)
