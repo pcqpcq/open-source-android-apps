@@ -1,7 +1,7 @@
 # Why?
 > This is a collection of Android Apps which are open source.  
 > I believe that we can find something interesting and gain helpful skills from an open source app.  
-> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But its [android-fork](https://github.com/dkhamsing/open-source-android-apps) is not maintained, so I created this one.
+> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps)
 
 
 # How?
@@ -15,6 +15,8 @@
 > * [Android Wear](categories/android_wear.md)  
 
 > * [Books and Reference](categories/books_and_reference.md)  
+
+> * [Communication](categories/communication.md)  
 
 > * [Education](categories/education.md)  
 
