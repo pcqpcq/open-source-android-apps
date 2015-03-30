@@ -39,6 +39,11 @@
 > * [Tools](categories/tools.md)  
 
 
+# Contribute Rules
+> 1. Don't do evil.
+> 2. Don't repeat yourself.
+> 3. 10 tips for better Pull Requests ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
+
 # Share  
 > Like this project? Why not share to your friend :)  
 >   
