@@ -44,6 +44,11 @@
 > 2. Don't repeat yourself.
 > 3. 10 tips for better Pull Requests ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
 
+
+# FAQ
+> * [Redundant with F-Droid?](https://github.com/pcqpcq/open-source-android-apps/issues/16)
+
+
 # Share  
 > Like this project? Why not share to your friend :)  
 >   
