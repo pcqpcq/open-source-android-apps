@@ -1,6 +1,7 @@
 ## News and Magazines  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) | Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI". | Java |     
 [Materialistic](https://github.com/hidroh/materialistic) | A materialistic Hacker News Android reader | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)  
 [Yahnac](https://github.com/malmstein/yahnac) | Yet Another Hacker News Android Client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.malmstein.yahnac)  
 [scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
