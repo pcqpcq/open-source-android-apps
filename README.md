@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/AndroidWeekly-%23145-blue.svg)](http://androidweekly.net/issues/issue-145)
+[![](https://img.shields.io/badge/AndroidWeekly-%23145-blue.svg)](http://androidweekly.net/issues/issue-145) [![](https://img.shields.io/badge/habrahabr.ru-%2395%20-lightgrey.svg)](http://habrahabr.ru/post/253713/)
 
 # Why?
 > This is a collection of Android Apps which are open source.  
