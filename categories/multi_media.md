@@ -16,4 +16,4 @@ App Name                   | Describe                  | Major Language         
 [Material-Movies](https://github.com/saulmm/Material-Movies) | An application about movies with material design | Java |      
 [philm](https://github.com/chrisbanes/philm) | Movie collection and information app for Android. | Java |   
 [music](https://github.com/psaravan/Music) | Music Elegant music player for Lollipop. | Java | 
-[Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app for Android entirely written using Kotlin language. | Java | 
+[Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app for Android entirely written using Kotlin language. | Kotlin | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.limecreativelabs.bandhook) 
