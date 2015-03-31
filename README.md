@@ -42,7 +42,7 @@
 # Contribute Rules
 > 1. Don't do evil.
 > 2. Don't repeat yourself.
-> 3. 10 tips for better Pull Requests ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
+> 3. Only make one change per commit ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
 
 
 # FAQ
