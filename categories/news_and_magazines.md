@@ -8,3 +8,4 @@ App Name                   | Describe                  | Major Language         
 [scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
 [ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java |  
 [hexagonal-mvp-reactive-android](https://github.com/ffgiraldez/hexagonal-mvp-reactive-android) | Android project using RxJava, Hexagonal architecture and MVP | java | 
+[Qiitanium](https://github.com/ogaclejapan/Qiitanium) | Qiitanium is an unofficial Android application of Qiita | java | 
