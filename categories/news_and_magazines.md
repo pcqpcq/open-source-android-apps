@@ -6,4 +6,5 @@ App Name                   | Describe                  | Major Language         
 [Materialistic](https://github.com/hidroh/materialistic) | A materialistic Hacker News Android reader | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)  
 [Yahnac](https://github.com/malmstein/yahnac) | Yet Another Hacker News Android Client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.malmstein.yahnac)  
 [scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
-[ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java | 
+[ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java |  
+[Qiitanium](https://github.com/ogaclejapan/Qiitanium) | Qiitanium is an unofficial Android application of Qiita | java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.ogaclejapan.qiitanium)
