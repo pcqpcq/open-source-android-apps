@@ -1,7 +1,9 @@
+[![](https://img.shields.io/badge/AndroidWeekly-%23145-blue.svg)](http://androidweekly.net/issues/issue-145) [![](https://img.shields.io/badge/habrahabr.ru-%2395%20-lightgrey.svg)](http://habrahabr.ru/post/253713/)
+
 # Why?
 > This is a collection of Android Apps which are open source.  
 > I believe that we can find something interesting and gain helpful skills from an open source app.  
-> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps). But its [android-fork](https://github.com/dkhamsing/open-source-android-apps) is not maintained, so I created this one.
+> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps)
 
 
 # How?
@@ -12,27 +14,39 @@
 
 
 # What?
-> * [Android Wear](categries/android_wear.md)  
+> * [Android Wear](categories/android_wear.md)  
 
-> * [Books and Reference](categries/books_and_reference.md)  
+> * [Books and Reference](categories/books_and_reference.md)  
 
-> * [Education](categries/education.md)  
+> * [Communication](categories/communication.md)  
 
-> * [Finance](categries/finance.md)  
+> * [Education](categories/education.md)  
 
-> * [Game](categries/game.md)  
+> * [Finance](categories/finance.md)  
 
-> * [Multi-Media](categries/multi_media.md)  
+> * [Game](categories/game.md)  
 
-> * [News and Magazines](categries/news_and_magazines.md)  
+> * [Multi-Media](categories/multi_media.md)  
 
-> * [Personalization](categries/personalization.md)  
+> * [News and Magazines](categories/news_and_magazines.md)  
 
-> * [Productivity](categries/productivity.md)  
+> * [Personalization](categories/personalization.md)  
 
-> * [Social Network](categries/social_network.md)  
+> * [Productivity](categories/productivity.md)  
 
-> * [Tools](categries/tools.md)  
+> * [Social Network](categories/social_network.md)  
+
+> * [Tools](categories/tools.md)  
+
+
+# Contribute Rules
+> 1. Don't do evil.
+> 2. Don't repeat yourself.
+> 3. Only make one change per commit ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
+
+
+# FAQ
+> * [Redundant with F-Droid?](https://github.com/pcqpcq/open-source-android-apps/issues/16)
 
 
 # Share  
