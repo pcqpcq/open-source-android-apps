@@ -10,7 +10,7 @@
 > I'll push awesome projects when I find any.  
 > It's WELCOMED for you to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.   
 > If you know something that is not here, it'll be great if you could make a [Pull Request](https://github.com/pcqpcq/open-source-android-apps/pulls).  
-> All applications are sorted in various categories
+> All applications are sorted in various categories. Usually according to their categories in [Google Play](https://play.google.com).  
 
 
 # What?
