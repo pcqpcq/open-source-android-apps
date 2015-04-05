@@ -38,6 +38,8 @@
 
 > * [Tools](categories/tools.md)  
 
+> * [Travel & Local](categories/travel_and_local.md)  
+
 
 # Contribute Rules
 > 1. Don't do evil.
