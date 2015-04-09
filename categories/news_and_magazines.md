@@ -8,3 +8,4 @@ App Name                   | Describe                  | Major Language         
 [scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
 [ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java |  
 [Qiitanium](https://github.com/ogaclejapan/Qiitanium) | Qiitanium is an unofficial Android application of Qiita | java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.ogaclejapan.qiitanium)
+[Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | java |
