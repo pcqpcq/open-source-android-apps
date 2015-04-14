@@ -10,35 +10,24 @@
 > I'll push awesome projects when I find any.  
 > It's WELCOMED for you to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.   
 > If you know something that is not here, it'll be great if you could make a [Pull Request](https://github.com/pcqpcq/open-source-android-apps/pulls).  
-> All applications are sorted in various categories. Usually according to their categories in [Google Play](https://play.google.com).  
+> All applications are sorted in various categories.   
 
 
 # What?
-> * [Android Wear](categories/android_wear.md)  
-
-> * [Books and Reference](categories/books_and_reference.md)  
-
-> * [Communication](categories/communication.md)  
-
-> * [Education](categories/education.md)  
-
-> * [Finance](categories/finance.md)  
-
-> * [Game](categories/game.md)  
-
-> * [Multi-Media](categories/multi_media.md)  
-
-> * [News and Magazines](categories/news_and_magazines.md)  
-
-> * [Personalization](categories/personalization.md)  
-
-> * [Productivity](categories/productivity.md)  
-
-> * [Social Network](categories/social_network.md)  
-
-> * [Tools](categories/tools.md)  
-
-> * [Travel & Local](categories/travel_and_local.md)  
+| Name of category | What's inside |
+  ---------------- | ------------- 
+[Android Wear](categories/android_wear.md) | Apps for Android Wear. 
+[Communication](categories/communication.md) | Apps like Messager, Hangout, Gmail... 
+[Education](categories/education.md) | Apps about education. 
+[Finance](categories/finance.md) | Apps about finance. 
+[Game](categories/game.md) | All games for Android. 
+[Multi-Media](categories/multi_media.md) | Apps like Google Play Music, MX Player... 
+[News & Magazines](categories/news_and_magazines.md) | Apps about news and magazines. 
+[Personalization](categories/personalization.md) | Apps like live-wallpaper, launcher... 
+[Productivity](categories/productivity.md) | Apps like Any.Do, EverNote... 
+[Social Network](categories/social_network.md) | Apps like Twitter, Facebook, Github, Dribble... 
+[Tools](categories/tools.md) | Apps like Clean Master, Barcode Scanner, Keyboard...
+[Travel & Local](categories/travel_and_local.md) | Apps about travel or local things.   
 
 
 # Contribute Rules
