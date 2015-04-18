@@ -102,7 +102,6 @@ App Name                   | Describe                  | Major Language         
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 

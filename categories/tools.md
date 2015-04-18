@@ -80,6 +80,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [OS Monitor](https://github.com/eolwral/OSMonitor) | Android OS Monitor  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.eolwral.osmonitor)  
+[owncloud](https://github.com/owncloud/android) | The ownCloud Android App. | Java | 
 
 ###P
 App Name                   | Describe                  | Major Language             | Download 
@@ -108,6 +109,7 @@ App Name                   | Describe                  | Major Language         
 [Telecine](https://github.com/JakeWharton/Telecine) | Record full-resolution video on your Android devices. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.jakewharton.telecine)  
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) | A VT-100 terminal emulator for the Android OS | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=jackpal.androidterm)  
 [translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
+
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 
