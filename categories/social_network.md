@@ -18,7 +18,7 @@ App Name                   | Describe                  | Major Language         
 ###C
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[CNode-android](https://github.com/iwhys/CNode-android) | Android client for https://cnodejs.org/ (Chinese) | Java |    
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
