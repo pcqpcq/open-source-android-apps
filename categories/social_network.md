@@ -1,27 +1,146 @@
 ## Social Network  
+###\# 
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###A
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[AisenWeiBo](https://github.com/wangdan/AisenWeiBo) | Sina Weibo Client with Material Design | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.aisen.weibo.sina)   
+
+###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Beebo+](https://github.com/andforce/Beebo) | Sina Weibo Client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.zarroboogs.weibo.plus)   
 [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) | A light Sina Weibo Android client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=us.shandian.blacklight)   
+
+###C
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###D
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Dribbo](https://github.com/ikew0ng/Dribbo) | A BETTER Client for Dribbble. It lets you browse all categories of Dribbble, popular ,everyone and debuts. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.refactech.driibo)   
+
+###E
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###F
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###G
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[GitHub Android](https://github.com/github/android) | GitHub Android App | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.github.mobile)  
+[Gitskarios](https://github.com/alorma/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
+[Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)   
 [Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.gunnner)   
-[K-9 Mail](https://github.com/k9mail/k-9) | K-9 Mail – Advanced Email for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fsck.k9) 
-[Kontalk Messenger](https://github.com/kontalk/androidclient) | Kontalk official Android client http://www.kontalk.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.kontalk) 
-[weiciyuan](https://github.com/qii/weiciyuan) | Sina Weibo Android Client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.qii.weiciyuan)   
+
+###H
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###I
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[InstaMaterial](https://github.com/frogermcs/InstaMaterial) | Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept) | Java |    
+
+###J
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###K
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###L
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###M
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###N
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###O
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[OctoDroid](https://github.com/slapperwan/gh4a) | Github client for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.gh4a) 
+
+###P
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###Q
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Qiitanium](https://github.com/ogaclejapan/qiitanium) | An unofficial Android application of Japanese technical information sharing service [Qiita](https://qiita.com/) for programmers.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.ogaclejapan.qiitanium) 
+
+###R
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [RedPhone](https://github.com/WhisperSystems/RedPhone) | A secure calling app for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone) 
+
+###S
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) | A Shadowsocks client for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.github.shadowsocks)   
+
+###T
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) | 100% open source version of my popular Talon for Twitter app on Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.klinker.android.twitter_l) 
 [TextSecure](https://github.com/WhisperSystems/TextSecure/) | A secure calling app for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) 
 [Tweetin](https://github.com/mthli/Tweetin) | Yet another Twitter unofficial client for Lollipop. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.github.mthli.Tweetin)   
 [Tweet Lanes](https://github.com/chrislacy/TweetLanes) | Tweet Lanes for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.tweetlanes.android)   
 [Twidere-Android](https://github.com/TwidereProject/Twidere-Android/) | Twitter client for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)   
 [Twitter Lists](https://github.com/MPieter/TwitterLists) | An Android application to manage your Twitter lists. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id==com.tierep.twitterlists)   
-[v2ex-daily-android](https://github.com/kyze8439690/v2ex-daily-android) | A v2ex client on android platform. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.yugy.v2ex.daily) 
-[WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android http://android.wordpress.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.wordpress.android) 
-[mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java |    
 [Telegram Messenger](https://github.com/DrKLO/Telegram) | Telegram Messenger for Android https://telegram.org/ | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.telegram.messenger) 
-[InstaMaterial](https://github.com/frogermcs/InstaMaterial) | Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept) | Java |    
-[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS https://dev.guardianproject.info/projects/chatsecure/issues | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 
-[Qiitanium](https://github.com/ogaclejapan/qiitanium) | An unofficial Android application of Japanese technical information sharing service [Qiita](https://qiita.com/) for programmers.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.ogaclejapan.qiitanium) 
-[messaging](https://github.com/Odoo-mobile/messaging) | Odoo Mobile Messaging Client. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.odoo) 
 
+###U
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###V
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[v2ex-daily-android](https://github.com/kyze8439690/v2ex-daily-android) | A v2ex client on android platform. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.yugy.v2ex.daily) 
+
+###W
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[weiciyuan](https://github.com/qii/weiciyuan) | Sina Weibo Android Client | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.qii.weiciyuan)   
+[WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android http://android.wordpress.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.wordpress.android) 
+
+###X
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###Y
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
+
+###Z
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ | | | 
