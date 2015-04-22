@@ -24,6 +24,7 @@ App Name                   | Describe                  | Major Language         
 ###D
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[DashClock Widget](https://github.com/romannurik/dashclock) | Lock screen widget for Android 4.2+  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock)  
 [DesignOverlay](https://github.com/Manabu-GT/DesignOverlay-Android) | Android app which displays design image with grid lines to facilitate the tedious design implementation process  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.ms_square.android.design.overlay)  
 
 ###E
