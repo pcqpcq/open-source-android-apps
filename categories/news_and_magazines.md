@@ -53,7 +53,7 @@ App Name                   | Describe                  | Major Language         
 ###J
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ [JianDan](https://github.com/ZhaoKaiQiang/JianDan) | 高仿煎蛋客户端 | Java | 
 
 ###K
 App Name                   | Describe                  | Major Language             | Download 
