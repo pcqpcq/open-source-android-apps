@@ -92,7 +92,7 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Remindly](https://github.com/blanyal/Remindly) | Remindly is a simple and user friendly application to create reminders. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.blanyal.remindly)  
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
