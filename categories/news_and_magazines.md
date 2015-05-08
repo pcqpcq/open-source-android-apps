@@ -53,6 +53,7 @@ App Name                   | Describe                  | Major Language         
 ###J
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Jager](https://github.com/jaspervanriet/Jager) | Unofficial client for Product Hunt with material design. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.jaspervanriet.huntingthatproduct&hl=zh)  
  [JianDan](https://github.com/ZhaoKaiQiang/JianDan) | 高仿煎蛋客户端 | Java | 
 
 ###K
