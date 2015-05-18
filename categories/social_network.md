@@ -82,6 +82,8 @@ App Name                   | Describe                  | Major Language         
 ###O
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[OSChina Android](http://git.oschina.net/oschina/android-app) | Official OSChina client for Android http://www.oschina.net (Chinese) | Java |  
+[OSChina Android (tonlin)](http://git.oschina.net/tonlin/android-app) | Third-part OSChina client for Android http://www.oschina.net (Chinese) | Java |  
 [OctoDroid](https://github.com/slapperwan/gh4a) | Github client for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.gh4a) 
 
 ###P
