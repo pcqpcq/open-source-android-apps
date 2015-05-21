@@ -72,7 +72,8 @@ App Name                   | Describe                  | Major Language         
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Minetest](https://github.com/minetest/minetest) | Minetest, an open source infinite-world block sandbox game with survival and crafting. [also https://github.com/minetest/minetest_game] 
+http://minetest.net/  | C++ | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.minetest.minetest)
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
@@ -87,7 +88,7 @@ App Name                   | Describe                  | Major Language         
 ###P
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[PokerTH](https://github.com/pokerth/pokerth) | PokerTH is a poker game written in C++/Qt. http://www.pokerth.net/  | C++ | 
 
 ###Q
 App Name                   | Describe                  | Major Language             | Download 
@@ -102,12 +103,14 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) | Android port of Simon Tatham's Puzzles. *git replace in use* - you might want to {{ git fetch origin 'refs/replace/*:refs/replace/*' }} http://chris.boyle.name/projects/android-puzzles  | C | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
+[Stratagus](https://github.com/drodin/Stratagus) | A port of Stratagus real-time strategy gaming engine for Android. http://stratagus.drodin.com  | C++ | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.drodin.stratagus)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) | Indie Turn Based Strategy in Isometric Pixel Art 
+http://w84death.itch.io/tanks-of-freedom  | GDScript | 
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 
