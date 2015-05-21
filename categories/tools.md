@@ -80,6 +80,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Notification Analyser](https://github.com/MPieter/Notification-Analyser) | An Android application to analyse your notification history.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.tierep.notificationanalyser)  
+[Ninja](https://github.com/mthli/Ninja) | A web browser that open links in background without ever leaving your favorite apps.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.github.mthli.Ninja)  
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
