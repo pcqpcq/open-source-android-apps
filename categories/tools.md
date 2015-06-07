@@ -76,6 +76,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Material Design Color Palette](https://github.com/HozakaN/MaterialDesignColorPalette) | This is a dev tool to visualize the colours of Material design defined on http://www.google.com/design/spec/style/color.html#color-ui-color-palette  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=fr.hozakan.materialdesigncolorpalette)  
 [MultiROM Manager](https://github.com/Tasssadar/MultiROMMgr) | MultiROM Manager - android app for MultiROM mod  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.tassadar.multirommgr)  
+[MLManager](https://github.com/javiersantos/MLManager) | Modern, easy and customizable app manager for Android  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager)  
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
