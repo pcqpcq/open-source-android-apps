@@ -137,7 +137,7 @@ App Name                   | Describe                  | Major Language         
 ###X
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Xsocks](https://github.com/lparam/xsocks-android) | A secure and fast proxy for protect your network traffic  | Java | 
 
 ###Y
 App Name                   | Describe                  | Major Language             | Download 
