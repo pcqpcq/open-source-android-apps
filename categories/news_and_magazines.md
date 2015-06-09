@@ -33,6 +33,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Flym News Reader](https://github.com/FredJul/Flym) | Flym News Reader is a light and modern Android feed reader, based on Sparse rss. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.fred.feedex)  
+[frisbee](https://github.com/gdg-x/frisbee) | Android application for the GDG members. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.gdg.frisbee.android)  
 
 ###G
 App Name                   | Describe                  | Major Language             | Download 
