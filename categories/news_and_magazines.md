@@ -2,7 +2,8 @@
 ###\# 
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo)| 干货集中营 Android App| java| 
+ [Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo)| 干货集中营 Android App | Java | 
+ [AndroidRivers](https://github.com/dodyg/AndroidRivers)| Anxiety free news reader for Android - developed using Kotlin  http://rivers.silverkeytech.com | Kotlin | 
 
 ###A
 App Name                   | Describe                  | Major Language             | Download 
