@@ -92,7 +92,7 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[RoX for Android](https://github.com/dan-zx/rox-android) | Android app for Tourism Recommendations https://rox.herokuapp.com | Java | 
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
