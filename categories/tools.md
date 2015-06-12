@@ -9,7 +9,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Developer Toolbelt - Fill RAM](https://github.com/T-Spoon/Android-Developer-Toolbelt) | On-device low-memory testing for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt)  
 [AcDisplay](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.achep.acdisplay)  
-[AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector) | AIMSICD against IMSI-Catchers, StingRay and Silent SMS! | Java | 
+[AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector) | AIMSICD against IMSI-Catchers, StingRay and Silent SMS! | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases)  
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
@@ -82,7 +82,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Notification Analyser](https://github.com/MPieter/Notification-Analyser) | An Android application to analyse your notification history.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.tierep.notificationanalyser)  
-[Ninja](https://github.com/mthli/Ninja) | A web browser that open links in background without ever leaving your favorite apps.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.github.mthli.Ninja)  
+[Ninja](https://github.com/mthli/Ninja) | A web browser that open links in background without ever leaving your favorite apps.  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/io.github.mthli.Ninja)   
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
@@ -137,7 +137,7 @@ App Name                   | Describe                  | Major Language         
 ###X
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Xsocks](https://github.com/lparam/xsocks-android) | A secure and fast proxy for protect your network traffic  | Java | 
+[Xsocks](https://github.com/lparam/xsocks-android) | A secure and fast proxy for protect your network traffic  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/lparam/xsocks-android/releases)  
 
 ###Y
 App Name                   | Describe                  | Major Language             | Download 

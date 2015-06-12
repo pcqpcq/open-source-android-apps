@@ -69,7 +69,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [messaging](https://github.com/Odoo-mobile/messaging) | Odoo Mobile Messaging Client. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.odoo) 
-[mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java |    
+[mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://s21.mogucdn.com/download/TeamTalk/OpenSource/TeamTalk-Android.apk)  
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 

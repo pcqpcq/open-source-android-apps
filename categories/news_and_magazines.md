@@ -44,7 +44,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Hacker News](https://github.com/manmal/hn-android) | The Hacker News Android App | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.manuelmaly.hn)  
-[Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | java |  
+[Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/xiprox/Hummingbird-for-Android/releases)   
 
 ###I
 App Name                   | Describe                  | Major Language             | Download 
@@ -55,7 +55,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Jager](https://github.com/jaspervanriet/Jager) | Unofficial client for Product Hunt with material design. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.jaspervanriet.huntingthatproduct&hl=zh)  
- [JianDan](https://github.com/ZhaoKaiQiang/JianDan) | 高仿煎蛋客户端 | Java | 
+[JianDan](https://github.com/ZhaoKaiQiang/JianDan) | 高仿煎蛋客户端 | Java | 
 
 ###K
 App Name                   | Describe                  | Major Language             | Download 
@@ -136,6 +136,6 @@ App Name                   | Describe                  | Major Language         
 ###Z
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java |  
+[ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://vdisk.weibo.com/s/GGofvoXe__E)   
 
 

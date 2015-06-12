@@ -19,7 +19,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Cotable](https://github.com/Lemueler/Cotable) | Cnblogs Client for Android - Material Design http://www.cnblogs.com (Chinese) | Java |    
-[CNode-android](https://github.com/iwhys/CNode-android) | Android client for https://cnodejs.org/ (Chinese) | Java |    
+[CNode-android](https://github.com/iwhys/CNode-android) | Android client for https://cnodejs.org/ (Chinese) | Java |  [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/iwhys/CNode-android/releases)    
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
@@ -52,7 +52,7 @@ App Name                   | Describe                  | Major Language         
 ###I
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[InstaMaterial](https://github.com/frogermcs/InstaMaterial) | Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept) | Java |    
+[InstaMaterial](https://github.com/frogermcs/InstaMaterial) | Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/frogermcs/frogermcs.github.io/raw/master/files/10/InstaMaterial-release-1.0.1-2.apk)     
 
 ###J
 App Name                   | Describe                  | Major Language             | Download 
@@ -82,8 +82,8 @@ App Name                   | Describe                  | Major Language         
 ###O
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[OSChina Android](http://git.oschina.net/oschina/android-app) | Official OSChina client for Android http://www.oschina.net (Chinese) | Java |  
-[OSChina Android (tonlin)](http://git.oschina.net/tonlin/android-app) | Third-part OSChina client for Android http://www.oschina.net (Chinese) | Java |  
+[OSChina Android](http://git.oschina.net/oschina/android-app) | Official OSChina client for Android http://www.oschina.net (Chinese) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/net.oschina.app)   
+[OSChina Android (tonlin)](http://git.oschina.net/tonlin/android-app) | Third-part OSChina client for Android http://www.oschina.net (Chinese) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.wandoujia.com/apps/com.tonlin.osc.happy)   
 [OctoDroid](https://github.com/slapperwan/gh4a) | Github client for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.gh4a) 
 
 ###P

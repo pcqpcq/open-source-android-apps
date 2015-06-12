@@ -72,7 +72,7 @@ App Name                   | Describe                  | Major Language         
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Notes](https://github.com/lguipeng/Notes) | A simple note app with Material Design | Java | 
+[Notes](https://github.com/lguipeng/Notes) | A simple note app with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/com.lguipeng.notes)  
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
