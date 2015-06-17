@@ -46,7 +46,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Hacker News](https://github.com/manmal/hn-android) | The Hacker News Android App | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.manuelmaly.hn)  
 [Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/xiprox/Hummingbird-for-Android/releases)  
-[hacker-news-android](https://github.com/dinosaurwithakatana/hacker-news-android) | another hacknews client | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://play.google.com/store/apps/details?id=io.dwak.holohackernews.app)   
+[hacker-news-android](https://github.com/dinosaurwithakatana/hacker-news-android) | another hacknews client | java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.dwak.holohackernews.app)   
 
 ###I
 App Name                   | Describe                  | Major Language             | Download 
