@@ -110,6 +110,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster.git) | CleanMaster open source clone | Java |  
 [S Tools+](https://github.com/naman14/S-Tools) | Keep track of your CPU and Sensors alongwith useful features like Color Picker,Compass and device information | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.naman14.stools) 
+[SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) | Auto read CAPTCHA inside SMS (Chinese) | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=me.drakeet.inmessage) 
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
