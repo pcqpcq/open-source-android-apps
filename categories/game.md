@@ -78,7 +78,7 @@ http://minetest.net/  | C++ | [![Get it on Google Play](https://developer.androi
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[newplanegame](https://github.com/nuptboyzhb/newplanegame) | a simple plane game in android.  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.wandoujia.com/apps/edu.njupt.zhb.planegame)
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
