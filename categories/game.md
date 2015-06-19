@@ -72,8 +72,7 @@ App Name                   | Describe                  | Major Language         
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Minetest](https://github.com/minetest/minetest) | Minetest, an open source infinite-world block sandbox game with survival and crafting. [also https://github.com/minetest/minetest_game] 
-http://minetest.net/  | C++ | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.minetest.minetest)
+[Minetest](https://github.com/minetest/minetest) | Minetest, an open source infinite-world block sandbox game with survival and crafting. [also https://github.com/minetest/minetest_game] http://minetest.net/  | C++ | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.minetest.minetest)
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
