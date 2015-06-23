@@ -71,6 +71,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Material-Movies](https://github.com/saulmm/Material-Movies) | An application about movies with material design | Java |      
+[MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) | Third-part android client of http://bilibili.com with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Qixingchen/MD-BiliBili/releases)       
 [Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.miz.mizuu)   
 [MPDroid](https://github.com/abarisain/dmix) | Fork of pmix that allows streaming (and now much more) | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.namelessdev.mpdroid)   
 [music](https://github.com/psaravan/Music) | Music Elegant music player for Lollipop. | Java | 
