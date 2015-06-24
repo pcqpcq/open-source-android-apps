@@ -119,7 +119,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Wear for Swarm](https://github.com/sealskej/wear-for-swarm) | Swarm (aka Foursquare) for Android Wear! | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.seal.swarmwear)   
 [WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
-
+[WearTimer](https://github.com/brave-warrior/WearTimer) | Improved stopwatch & timer for Android Wear | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.cologne.hackaton.wearstopwatch)
 ###X
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
