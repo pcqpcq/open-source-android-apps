@@ -15,6 +15,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.github.mthli.Bitocle)  
+[BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)  
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
