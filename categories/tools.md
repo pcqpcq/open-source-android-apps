@@ -95,6 +95,7 @@ App Name                   | Describe                  | Major Language         
 ###P
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Permission Nanny](https://github.com/littledot/Permission-Nanny) | Permission Nanny is an application that can access resources which are protected by permissions on your behalf, so that your application does not need to declare permission usage in your AndroidManifest.xml. With Permission Nanny, it is possible for your application to not require any permissions at all, yet still be able to access permission-protected resources.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.permissionnanny)  
 [Prey Anti Theft](https://github.com/prey/prey-android-client) | Android client for the Prey anti-theft software. http://preyproject.com  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.prey)  
 
 ###Q
