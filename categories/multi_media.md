@@ -107,6 +107,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 http://linroid.com/2015/02/11/sky31radio/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/sky31radio)  
+[StickerCamera](https://github.com/Skykai521/StickerCamera) | A camera with sticker feature | Java |     
 [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices. http://seriesgui.de | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
 
 ###T
