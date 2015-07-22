@@ -139,6 +139,7 @@ App Name                   | Describe                  | Major Language         
 ###Z
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://vdisk.weibo.com/s/GGofvoXe__E)   
+[ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://vdisk.weibo.com/s/GGofvoXe__E)  
+[ZhihuDailyKotlin](https://github.com/lzyzsd/ZhihuDailyKotlin) | 山寨知乎日报Android，使用Kotlin写 | kotlin | 
 
 
