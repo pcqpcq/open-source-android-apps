@@ -97,6 +97,7 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[SmartisanNote](https://github.com/drakeet/SmartisanNote) | An unofficial Smartisan Notes.  | Kotlin |   
 [Swiftnotes](https://github.com/adrianchifor/Swiftnotes) | Swiftnotes for Android - Note taking, simplified. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.moonpi.swiftnotes)  
 
 ###T
