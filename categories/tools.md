@@ -143,7 +143,7 @@ App Name                   | Describe                  | Major Language         
 ###X
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Xsocks](https://github.com/lparam/xsocks-android) | A secure and fast proxy for protect your network traffic  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/lparam/xsocks-android/releases)  
+[Xsocks](https://github.com/lparam/xsocks-android) | A secure and fast proxy for protect your network traffic  | C | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/lparam/xsocks-android/releases)  
 
 ###Y
 App Name                   | Describe                  | Major Language             | Download 
