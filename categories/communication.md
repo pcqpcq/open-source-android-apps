@@ -58,6 +58,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [K-9 Mail](https://github.com/k9mail/k-9) | K-9 Mail – Advanced Email for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fsck.k9) 
+[KissProxy](https://github.com/coderkiss/KissProxy) | NIO based android http&https local proxy. | Java |   
 [Kontalk Messenger](https://github.com/kontalk/androidclient) | Kontalk official Android client http://www.kontalk.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.kontalk) 
 
 ###L
