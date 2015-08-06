@@ -7,7 +7,7 @@ App Name                   | Describe                  | Major Language         
 ###A
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Arcade Watchface](https://github.com/prempalsingh/arcade-watchface) | Arcade style watchface for Android Wear | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.prempal.arcadewatchface)   
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
