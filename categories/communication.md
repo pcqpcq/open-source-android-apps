@@ -92,7 +92,7 @@ App Name                   | Describe                  | Major Language         
 ###Q
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[qksms](https://github.com/qklabs/qksms) | QKSMS is an open source replacement to the stock messaging app on Android  | java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.moez.QKSMS)   
 
 ###R
 App Name                   | Describe                  | Major Language             | Download 

@@ -35,7 +35,7 @@ App Name                   | Describe                  | Major Language         
 ###F
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[friendspell](https://github.com/chiuki/friendspell) | Party icebreaker game based on the Google Nearby API | java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.sqisland.friendspell)   
 
 ###G
 App Name                   | Describe                  | Major Language             | Download 
