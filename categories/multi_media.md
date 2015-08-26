@@ -66,6 +66,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Last.fm](https://github.com/lastfm/lastfm-android) | The official Last.fm Android app. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=fm.last.android) 
+[L Camera](https://github.com/PkmX/lcamera) | A camera app using the new camera2 API in Android Lollipop | Scala | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/PkmX/lcamera/releases) 
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 
