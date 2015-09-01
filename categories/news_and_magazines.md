@@ -74,6 +74,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [Materialistic](https://github.com/hidroh/materialistic) | A materialistic Hacker News Android reader | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)  
 [MaterialUp](https://github.com/jariz/MaterialUp) | MaterialUp Android App | Java |   
+[MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News) | Android MVVM experiment project using the official Data Binding library | Java |  
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
