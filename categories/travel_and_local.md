@@ -78,6 +78,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Opaler](https://github.com/timgreen/opaler) | Public Transport card manager for Sydney | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=it.timgreen.opal) 
+[OpenBikeSharing](https://github.com/bparmentier/OpenBikeSharing) | Shared bikes availability in your city | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=be.brunoparmentier.openbikesharing.app) 
 
 ###P
 App Name                   | Describe                  | Major Language             | Download 
