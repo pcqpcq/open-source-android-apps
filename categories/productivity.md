@@ -67,7 +67,7 @@ App Name                   | Describe                  | Major Language         
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Minimal-Todo](https://github.com/avjinder/Minimal-Todo) | A fully Material ToDo app with minimal features, just enough to be useful. | Java |   
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
