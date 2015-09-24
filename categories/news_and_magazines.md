@@ -143,5 +143,6 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://vdisk.weibo.com/s/GGofvoXe__E)  
 [ZhihuDailyKotlin](https://github.com/lzyzsd/ZhihuDailyKotlin) | 山寨知乎日报Android，使用Kotlin写 | kotlin | 
+[ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) | A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native for Android. | JavaScript/React Native | 
 
 
