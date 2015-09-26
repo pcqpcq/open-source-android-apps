@@ -103,6 +103,7 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[SOPA](https://github.com/pongo710/sopa) |  SOPA is an Android puzzle game. The goal is to connect the green and the red gate with the blue tubes. Get better while solving the games level and enjoy playing. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=de.sopa)
 [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) | Android port of Simon Tatham's Puzzles. *git replace in use* - you might want to {{ git fetch origin 'refs/replace/*:refs/replace/*' }} http://chris.boyle.name/projects/android-puzzles  | C | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
 [Stratagus](https://github.com/drodin/Stratagus) | A port of Stratagus real-time strategy gaming engine for Android. http://stratagus.drodin.com  | C++ | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.drodin.stratagus)
 
