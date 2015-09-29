@@ -139,4 +139,4 @@ App Name                   | Describe                  | Major Language         
 ###Z
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Zulip Android](https://github.com/zulip/zulip-android) | Zulip Android app, Powerful open source group chat  https://www.zulip.org/ | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.zulip.android)  
