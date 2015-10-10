@@ -64,7 +64,7 @@ App Name                   | Describe                  | Major Language         
 ###J
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[JianShi](https://github.com/wingjay/jianshi) | A beautiful app 简诗 for recording anything in your life with traditional Chinese style.  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/wingjay/jianshi/releases)   
 
 ###K
 App Name                   | Describe                  | Major Language             | Download 
