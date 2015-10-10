@@ -39,7 +39,7 @@ App Name                   | Describe                  | Major Language         
 ###G
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[GitHot](https://github.com/andyiac/githot) | GitHot is an Android App that will help you find the world most popular project and person . http://githot.cn | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/githot)  
 
 ###H
 App Name                   | Describe                  | Major Language             | Download 
