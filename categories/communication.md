@@ -109,7 +109,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Tutanota](https://github.com/tutao/tutanota) | Tutanota is the end-to-end encrypted mail client that enables you to communicate securely with anyone.  | JavaScript | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=de.tutao.tutanota)  
 [TextSecure](https://github.com/WhisperSystems/TextSecure/) | A secure calling app for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
-[Tutanota](https://github.com/tutao/tutanota) | Tutanota is the end-to-end encrypted mail client that enables you to communicate securely with anyone.  | JavaScript | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=de.tutao.tutanota)   
+[TintBrowser](https://github.com/Anasthase/TintBrowser) | Is an open-source browser for Android 4 and above | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.tint)
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 
