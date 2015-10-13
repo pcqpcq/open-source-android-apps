@@ -26,6 +26,7 @@ App Name                   | Describe                  | Major Language         
 [Clean Status Bar](https://github.com/emmaguy/clean-status-bar) | Tidy up your Android status bar before taking screenshots for the Play Store  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar)  
 [Clip-Stack](https://github.com/heruoxin/Clip-Stack) | An Android clipboard history manager app with Material Design.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.catchingnow.tinyclipboardmanager)  
 [Croma - Palette Manager](https://github.com/numixproject/org.numixproject.croma) | Android packaging for Croma http://croma.numixproject.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.numixproject.croma) 
+[ConnectBot](https://github.com/connectbot/connectbot/) | The first SSH client for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.connectbot)
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
