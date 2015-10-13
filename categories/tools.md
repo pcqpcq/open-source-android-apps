@@ -45,6 +45,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [Firefox](https://wiki.mozilla.org/Mobile/Fennec/Android) | Firefox Browser for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 [Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.anhonesteffort.flock)  
+[FBReaderJ](https://github.com/geometer/FBReaderJ) | Is a free (and ad-free) multi-platform ebook reader.Supports popular ebook formats: ePub, fb2, mobi, rtf, html, plain text, and a lot of other formats | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 
 ###G
 App Name                   | Describe                  | Major Language             | Download 
