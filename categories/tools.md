@@ -26,6 +26,7 @@ App Name                   | Describe                  | Major Language         
 [Clean Status Bar](https://github.com/emmaguy/clean-status-bar) | Tidy up your Android status bar before taking screenshots for the Play Store  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar)  
 [Clip-Stack](https://github.com/heruoxin/Clip-Stack) | An Android clipboard history manager app with Material Design.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.catchingnow.tinyclipboardmanager)  
 [Croma - Palette Manager](https://github.com/numixproject/org.numixproject.croma) | Android packaging for Croma http://croma.numixproject.org | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.numixproject.croma) 
+[ConnectBot](https://github.com/connectbot/connectbot/) | The first SSH client for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.connectbot)
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
@@ -44,6 +45,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [Firefox](https://wiki.mozilla.org/Mobile/Fennec/Android) | Firefox Browser for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 [Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.anhonesteffort.flock)  
+[FBReaderJ](https://github.com/geometer/FBReaderJ) | Is a free (and ad-free) multi-platform ebook reader.Supports popular ebook formats: ePub, fb2, mobi, rtf, html, plain text, and a lot of other formats | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 
 ###G
 App Name                   | Describe                  | Major Language             | Download 
