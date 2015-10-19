@@ -2,6 +2,7 @@
 ###\# 
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ [36krReader](https://github.com/kinneyyan/36krReader)| Android client of 36kr.com with Material Design. | Java | 
  [Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo)| 干货集中营 Android App | Java | 
  [AndroidRivers](https://github.com/dodyg/AndroidRivers)| Anxiety free news reader for Android - developed using Kotlin  http://rivers.silverkeytech.com | Kotlin | 
 
