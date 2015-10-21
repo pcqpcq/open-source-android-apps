@@ -102,6 +102,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Permission Nanny](https://github.com/littledot/Permission-Nanny) | Permission Nanny is an application that can access resources which are protected by permissions on your behalf, so that your application does not need to declare permission usage in your AndroidManifest.xml. With Permission Nanny, it is possible for your application to not require any permissions at all, yet still be able to access permission-protected resources.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.permissionnanny)  
+[photo-affix](https://github.com/afollestad/photo-affix) | Stitch your photos together vertically or horizontally without even trying! http://aidanfollestad.com  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://github.com/afollestad/photo-affix/raw/master/apk/PhotoAffix.apk)  
 [Prey Anti Theft](https://github.com/prey/prey-android-client) | Android client for the Prey anti-theft software. http://preyproject.com  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.prey)  
 
 ###Q
