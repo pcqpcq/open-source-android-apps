@@ -130,6 +130,7 @@ App Name                   | Describe                  | Major Language         
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) | A VT-100 terminal emulator for the Android OS | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=jackpal.androidterm)  
 [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) | Smart App Lock for Android http://www.toolwiz.com/ | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.cleanwiz.applock)  
 [translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
+[Travis Client](https://github.com/brave-warrior/TravisClient-Android) | Android client for Travis CI  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.khmelenko.lab.travisclient)  
 
 
 ###U
