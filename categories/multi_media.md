@@ -40,7 +40,7 @@ App Name                   | Describe                  | Major Language         
 ###G
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[GEM](https://github.com/Substance-Project/GEM) | A music player for Android, in stunning Material Design. http://substanceproject.net/ | Java |      
 
 ###H
 App Name                   | Describe                  | Major Language             | Download 
