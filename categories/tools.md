@@ -116,7 +116,7 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[RxWeather](https://github.com/SmartDengg/RxWeather) | Weather app with architecting Android with RxJava | Java |  
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
