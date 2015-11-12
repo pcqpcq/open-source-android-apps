@@ -50,6 +50,7 @@ App Name                   | Describe                  | Major Language         
 ###G
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[GfyCat](https://github.com/dlew/android-gfycat) | Android application that loads gifs via gfycat for efficiency's sake  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/dlew/android-gfycat/releases)  
 [GitHub Status](https://github.com/cdeange/github-status) | Simple app to connect to Github's status API http://bit.ly/githubstatus  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.deange.githubstatus)  
 [GridWichterle](https://github.com/inmite/android-grid-wichterle) | This app will show grid overlay over whole system which helps you to verify your excellent app design.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=eu.inmite.android.gridwichterle)  
 
