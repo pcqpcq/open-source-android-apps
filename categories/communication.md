@@ -97,7 +97,7 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Have your own Slack like online chat, built with Meteor. https://rocket.chat/  | CoffeeScript | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.konecty.rocket.chat)   
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
