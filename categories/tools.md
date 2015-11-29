@@ -142,6 +142,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [UPnP Browser](https://github.com/dgmltn/Android-UPnP-Browser) | Simple UPnP Browser with Material style | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.dgmltn.upnpbrowser)  
+[UrlScheme Interceptor](https://github.com/SimonMarquis/Android-UrlSchemeInterceptor) | Intercept and debug url scheme on Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=fr.smarquis.usi.sample)
 
 ###V
 App Name                   | Describe                  | Major Language             | Download 
