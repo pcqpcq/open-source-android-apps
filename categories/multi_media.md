@@ -10,8 +10,8 @@ App Name                   | Describe                  | Major Language         
 [ACEMusicPlayer](https://github.com/C-Aniruddh/ACEMusicPlayer) | A material music player for the android platform | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.aniruddhc.acemusic.player)   
 [AnimeTaste](https://github.com/daimajia/AnimeTaste) | Taste global original animation | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.zhan_dui.animetaste)   
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) | A podcast manager for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)   
-[Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)   
-
+[Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
+[Apollo](https://github.com/CyanogenMod/android_packages_apps_Apollo) | Highly customizable Android music app. | Java |
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
@@ -40,7 +40,7 @@ App Name                   | Describe                  | Major Language         
 ###G
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[GEM](https://github.com/Substance-Project/GEM) | A music player for Android, in stunning Material Design. http://substanceproject.net/ | Java |      
 
 ###H
 App Name                   | Describe                  | Major Language             | Download 
@@ -55,7 +55,7 @@ App Name                   | Describe                  | Major Language         
 ###J
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful and elegant music player for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.jams.music.player.de.repat)   
+[heMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful and elegant music player for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.jams.music.player.de.repat)   
 
 ###K
 App Name                   | Describe                  | Major Language             | Download 
@@ -66,11 +66,13 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Last.fm](https://github.com/lastfm/lastfm-android) | The official Last.fm Android app. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=fm.last.android) 
+[L Camera](https://github.com/PkmX/lcamera) | A camera app using the new camera2 API in Android Lollipop | Scala | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/PkmX/lcamera/releases) 
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Material-Movies](https://github.com/saulmm/Material-Movies) | An application about movies with material design | Java |      
+[MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) | Third-part android client of http://bilibili.com with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Qixingchen/MD-BiliBili/releases)       
 [Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.miz.mizuu)   
 [MPDroid](https://github.com/abarisain/dmix) | Fork of pmix that allows streaming (and now much more) | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.namelessdev.mpdroid)   
 [music](https://github.com/psaravan/Music) | Music Elegant music player for Lollipop. | Java | 
@@ -105,12 +107,16 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://fir.im/simplifyreader)  
+[Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 http://linroid.com/2015/02/11/sky31radio/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/sky31radio)  
+[spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.majorkernelpanic.spydroid)  
+[StickerCamera](https://github.com/Skykai521/StickerCamera) | A camera with sticker feature | Java |     
+[SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices. http://seriesgui.de | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Timber](https://github.com/naman14/Timber) | Material Design Music Player | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=naman14.timber)
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 
@@ -120,7 +126,7 @@ App Name                   | Describe                  | Major Language         
 ###V
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Vanilla Music](https://github.com/vanilla-music/vanilla) | Vanilla Music is a clean, simple and free (opensource) music player. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=ch.blinkenlights.android.vanilla)
 
 ###W
 App Name                   | Describe                  | Major Language             | Download 

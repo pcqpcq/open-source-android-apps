@@ -17,7 +17,7 @@ App Name                   | Describe                  | Major Language         
 ###C
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Conquer](https://github.com/hanks-zyh/Conquer) | A todo list app base Material Design | Java |   
  
 ###D
 App Name                   | Describe                  | Major Language             | Download 
@@ -67,12 +67,12 @@ App Name                   | Describe                  | Major Language         
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Minimal-Todo](https://github.com/avjinder/Minimal-Todo) | A fully Material ToDo app with minimal features, just enough to be useful. | Java |   
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Notes](https://github.com/lguipeng/Notes) | A simple note app with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/com.lguipeng.notes)  
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
@@ -92,17 +92,19 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Remindly](https://github.com/blanyal/Remindly) | Remindly is a simple and user friendly application to create reminders. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.blanyal.remindly)  
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[SmartisanNote](https://github.com/drakeet/SmartisanNote) | An unofficial Smartisan Notes.  | Kotlin |   
+[Swiftnotes](https://github.com/adrianchifor/Swiftnotes) | Swiftnotes for Android - Note taking, simplified. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.moonpi.swiftnotes)  
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Tasks](https://github.com/dmfs/tasks) | A task app for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.dmfs.tasks)  
+[tudounotepad](https://github.com/geminiwen/tudounotepad) | A simple Notepad Application developed on Kotlin | Kotlin |  
 [Turbo Editor](https://github.com/vmihalachi/turbo-editor) | Simple, Powerful and Open Source Text Editor for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.maskyn.fileeditor)
 
 ###U

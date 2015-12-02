@@ -7,7 +7,7 @@ App Name                   | Describe                  | Major Language         
 ###A
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Arcade Watchface](https://github.com/prempalsingh/arcade-watchface) | Arcade style watchface for Android Wear | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.prempal.arcadewatchface)   
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
@@ -32,7 +32,7 @@ App Name                   | Describe                  | Major Language         
 ###F
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[FORM Watch Face](https://github.com/romannurik/FORMWatchFace) | A watch face for Android Wear based on the FORM event typeface. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.formwatchface)   
 
 ###G
 App Name                   | Describe                  | Major Language             | Download 
@@ -82,7 +82,7 @@ App Name                   | Describe                  | Major Language         
 ###P
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ [Pomodoro](https://github.com/vngrs/PomoPomoAndroid)| Yet Another Android Pomodoro Client|java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.vngrs.android.pomodoro) 
 
 ###Q
 App Name                   | Describe                  | Major Language             | Download 
@@ -118,7 +118,9 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Wear for Swarm](https://github.com/sealskej/wear-for-swarm) | Swarm (aka Foursquare) for Android Wear! | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=io.seal.swarmwear)   
-
+[Wearable Chess](https://github.com/mitchazj/Wearable-Chess) | Chess for Android Wear | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.orangutandevelopment.wearablechess)   
+[WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
+[WearTimer](https://github.com/brave-warrior/WearTimer) | Improved stopwatch & timer for Android Wear | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.cologne.hackaton.wearstopwatch)
 ###X
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
