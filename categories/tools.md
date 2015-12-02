@@ -64,6 +64,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Intent Intercept](https://github.com/intrications/intent-intercept) | This app attempts to intercept as many intents as possible in order to examine their contents. This helps when trying to develop an app that reacts to a particular intent.  | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=uk.co.ashtonbrsc.android.intentintercept)  
+[Install Referrer](https://github.com/SimonMarquis/Android-InstallReferrer) | Test the referrer attribute on the Google Play Store | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.installreferrer)
 
 ###J
 App Name                   | Describe                  | Major Language             | Download 
