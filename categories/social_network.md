@@ -92,7 +92,7 @@ App Name                   | Describe                  | Major Language         
 ###P
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[PHPHub Android](https://github.com/CycloneAxe/phphub-android) | Android client of PHPHub https://phphub.org/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/phphub) 
 
 ###Q
 App Name                   | Describe                  | Major Language             | Download 
