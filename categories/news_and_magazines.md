@@ -69,7 +69,7 @@ App Name                   | Describe                  | Major Language         
 ###L
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Leisure](https://github.com/MummyDing/Leisure) | Leisure is an Android App,it contains Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books http://blog.csdn.net/mummyding/article/details/50266203 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://coolapk.com/apk/com.mummyding.app.leisure)  
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 
