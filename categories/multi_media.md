@@ -12,6 +12,8 @@ App Name                   | Describe                  | Major Language         
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) | A podcast manager for Android | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)   
 [Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
 [Apollo](https://github.com/CyanogenMod/android_packages_apps_Apollo) | Highly customizable Android music app. | Java |
+[Auro](https://github.com/architjn/Auro) | 1st Most Fastest, Latest Designed and open source Music player | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
+
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
