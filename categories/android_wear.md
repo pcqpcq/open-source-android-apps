@@ -62,7 +62,7 @@ App Name                   | Describe                  | Major Language         
 ###L
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[LapseFace](https://github.com/OhMyLob/LapseFace) | LapseFace | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.lob.lapseface)   
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 
