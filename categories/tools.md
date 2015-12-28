@@ -12,6 +12,7 @@ App Name                   | Describe                  | Major Language         
 [AcDisplay](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.achep.acdisplay)  
 [AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector) | AIMSICD against IMSI-Catchers, StingRay and Silent SMS! | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases)  
 [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) | Amaze File Manager. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.amaze.filemanager)  
+[AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor) | Monitors and records the CPU and memory usage of Android devices | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.anothermonitor)  
  
 
 ###B
