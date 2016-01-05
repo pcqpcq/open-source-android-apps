@@ -125,7 +125,8 @@ App Name                   | Describe                  | Major Language         
 ###W
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[wechat](https://github.com/motianhuo/wechat) | 高仿微信 | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk)   
+[wechat](https://github.com/motianhuo/wechat) | 高仿微信 | | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk)   
+[WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie) | Simple application transmitting audio from mic to all devices running the same program on the same network segment. Use NSD for device discovery. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.jsl.wfwt)
 
 ###X
 App Name                   | Describe                  | Major Language             | Download 
