@@ -16,6 +16,7 @@
 # What?
 | Name of category | What's inside |
   ---------------- | ------------- 
+[Android TV](categories/android_tv.md) | Apps for Android TV. 
 [Android Wear](categories/android_wear.md) | Apps for Android Wear. 
 [Communication](categories/communication.md) | Apps like Messager, Hangout, Gmail... 
 [Education](categories/education.md) | Apps about education. 
