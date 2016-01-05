@@ -129,7 +129,8 @@ App Name                   | Describe                  | Major Language         
 ###V
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Vanilla Music](https://github.com/vanilla-music/vanilla) | Vanilla Music is a clean, simple and free (opensource) music player. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=ch.blinkenlights.android.vanilla)
+[Vanilla Music](https://github.com/vanilla-music/vanilla) | Vanilla Music is a clean, simple and free (opensource) music player. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=ch.blinkenlights.android.vanilla)  
+[Vineyard](https://github.com/hitherejoe/Vineyard) | Vine client for Android TV. | Java |
 
 ###W
 App Name                   | Describe                  | Major Language             | Download 
