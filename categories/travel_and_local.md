@@ -12,7 +12,7 @@ App Name                   | Describe                  | Major Language         
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Buddy Navigator](https://github.com/jemboy/android-buddy-navigator) | Buddy Navigator is a compass for your buddies. It is a cursor that points in your friend's direction. It makes use of the Google API and requires both GPS and Internet connection to work. | Java |   
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
