@@ -104,6 +104,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [RedPhone](https://github.com/WhisperSystems/RedPhone) | A secure calling app for Android. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone) 
+[ribot-app-android](https://github.com/ribot/ribot-app-android) | The ribot studio app for the Android Platform http://www.ribot.co.uk | Java |  
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
