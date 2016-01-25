@@ -156,7 +156,7 @@ App Name                   | Describe                  | Major Language         
 ###W
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[WiFiKeyShare](https://github.com/bparmentier/WiFiKeyShare) | Share Wi-Fi passwords with QR codes and NFC tags | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=be.brunoparmentier.wifikeyshare)
 
 ###X
 App Name                   | Describe                  | Major Language             | Download 
