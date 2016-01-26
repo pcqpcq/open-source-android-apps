@@ -112,7 +112,7 @@ App Name                   | Describe                  | Major Language         
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tiny Tiny RSS](https://github.com/gothfox/Tiny-Tiny-RSS-for-Honeycomb) | Tiny Tiny RSS client for Android devices https://tt-rss.org/gitlab/fox/tt-rss-android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id==org.fox.ttrss)  
+[Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss-android) | Tiny Tiny RSS client for Android devices | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id==org.fox.ttrss)  
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 
