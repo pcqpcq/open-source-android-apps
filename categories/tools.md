@@ -18,7 +18,7 @@ App Name                   | Describe                  | Major Language         
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub.  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=io.github.mthli.Bitocle)  
+[Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub.  | Java | 
 [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)  
 
 ###C
@@ -27,7 +27,7 @@ App Name                   | Describe                  | Major Language         
 [Camera Color Picker](https://github.com/tvbarthel/CameraColorPicker) | A simple tool that uses the device's camera to capture, in real time, colors around you. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=fr.tvbarthel.apps.cameracolorpicker)
 [Clean Status Bar](https://github.com/emmaguy/clean-status-bar) | Tidy up your Android status bar before taking screenshots for the Play Store  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.emmaguy.cleanstatusbar)  
 [Clip-Stack](https://github.com/heruoxin/Clip-Stack) | An Android clipboard history manager app with Material Design.  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.catchingnow.tinyclipboardmanager)  
-[Croma - Palette Manager](https://github.com/numixproject/org.numixproject.croma) | Android packaging for Croma http://croma.numixproject.org | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.numixproject.croma) 
+[Croma - Palette Manager](https://github.com/numixproject/org.numixproject.croma) | Android packaging for Croma http://croma.numixproject.org | Java |  
 [ConnectBot](https://github.com/connectbot/connectbot/) | The first SSH client for Android. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.connectbot)
 
 ###D
@@ -47,7 +47,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [Firefox](https://wiki.mozilla.org/Mobile/Fennec/Android) | Firefox Browser for Android. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-[Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock/  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.anhonesteffort.flock)  
+[Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock/  | Java | 
 [FBReaderJ](https://github.com/geometer/FBReaderJ) | Is a free (and ad-free) multi-platform ebook reader.Supports popular ebook formats: ePub, fb2, mobi, rtf, html, plain text, and a lot of other formats | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 
 ###G
@@ -97,7 +97,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Net Guard](https://github.com/M66B/NetGuard) | No root Android firewall  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/apps/testing/eu.faircode.netguard)  
-[Nevolution](https://github.com/oasisfeng/nevolution) | Evolve the Android notification experience of existing apps, with community-driven plug-ins.  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.oasisfeng.nevo)  
+[Nevolution](https://github.com/oasisfeng/nevolution) | Evolve the Android notification experience of existing apps, with community-driven plug-ins.  | Java |  
 [Notification Analyser](https://github.com/MPieter/Notification-Analyser) | An Android application to analyse your notification history.  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.tierep.notificationanalyser)  
 [Ninja](https://github.com/mthli/Ninja) | A web browser that open links in background without ever leaving your favorite apps.  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/io.github.mthli.Ninja)   
 
