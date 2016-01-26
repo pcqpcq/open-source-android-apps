@@ -12,13 +12,13 @@ App Name                   | Describe                  | Major Language         
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Beebo+](https://github.com/andforce/Beebo) | Sina Weibo Client | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.zarroboogs.weibo.plus)   
+[Beebo+](https://github.com/andforce/iBeebo) | Sina Weibo Client | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.zarroboogs.weibo.plus)   
 [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) | A light Sina Weibo Android client | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=us.shandian.blacklight)   
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Cotable](https://github.com/Lemueler/Cotable) | Cnblogs Client for Android - Material Design http://www.cnblogs.com (Chinese) | Java |    
+[Cotable](https://github.com/wlemuel/Cotable) | Cnblogs Client for Android - Material Design http://www.cnblogs.com (Chinese) | Java |    
 [CNode-android](https://github.com/iwhys/CNode-android) | Android client for https://cnodejs.org/ (Chinese) | Java |  [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/iwhys/CNode-android/releases)  
 [CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) | CNode for Material Design | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.cnodejs.android.md)   
 
@@ -41,7 +41,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Forkhub Android app for Github](https://github.com/jonan/ForkHub) | The Github android app was deprecated, but the "forkhub" fork is still being maintained and works fine | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=jp.forkhub)  
-[Gitskarios](https://github.com/alorma/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
+[Gitskarios](https://github.com/gitskarios/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
 [Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)   
 [Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.gunnner)   
 
@@ -104,7 +104,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [RedPhone](https://github.com/WhisperSystems/RedPhone) | A secure calling app for Android. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone) 
-[ribot-app-android](https://github.com/ribot/ribot-app-android) | The ribot studio app for the Android Platform http://www.ribot.co.uk | Java |  
+[ribot-app-android](https://github.com/ribot/ribot-app-android) | The ribot studio app for the Android Platform http://ribot.co.uk/ | Java |  
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
@@ -136,7 +136,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [WeGit](https://github.com/Leaking/WeGit) | An Android App for Github | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Leaking/WeGit/tree/master/screenshot)   
 [weiciyuan](https://github.com/qii/weiciyuan) | Sina Weibo Android Client | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.qii.weiciyuan)   
-[WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android http://android.wordpress.org | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.wordpress.android) 
+[WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android https://apps.wordpress.org/ | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.wordpress.android) 
 
 ###X
 App Name                   | Describe                  | Major Language             | Download 
