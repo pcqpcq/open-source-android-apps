@@ -42,7 +42,7 @@ App Name                   | Describe                  | Major Language         
 ###H
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Hubble Gallery](https://github.com/derekcsm/hubble_gallery) | View, Save, and Read about Hubble's best images. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.derek_s.hubble_gallery)
+[Hubble Gallery](https://github.com/derekcsm/hubble_gallery) | View, Save, and Read about Hubble's best images. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.derek_s.hubble_gallery)
 
 ###I
 App Name                   | Describe                  | Major Language             | Download 
@@ -143,7 +143,7 @@ App Name                   | Describe                  | Major Language         
 ###G
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[GivesMeHope](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Gives Me Hope Android client for educational purposes. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.jparkie.givesmehope)
+[GivesMeHope](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Gives Me Hope Android client for educational purposes. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.jparkie.givesmehope)
 
 ###H
 App Name                   | Describe                  | Major Language             | Download 
@@ -203,7 +203,7 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Seashell-app](https://github.com/drakeet/Seashell-app) | 贝壳单词 APP Android 客户端 | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=me.drakeet.seashell)   
+[Seashell-app](https://github.com/drakeet/Seashell-app) | 贝壳单词 APP Android 客户端 | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=me.drakeet.seashell)   
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
@@ -213,7 +213,7 @@ App Name                   | Describe                  | Major Language         
 ###U
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=solutions.alterego.android.unisannio)   
+[Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=solutions.alterego.android.unisannio)   
 
 ###V
 App Name                   | Describe                  | Major Language             | Download 
@@ -248,7 +248,7 @@ App Name                   | Describe                  | Major Language         
 ###W
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[WaniKani for Android](https://github.com/xiprox/WaniKani-for-Android) | An Android client application for the awesome kanji learning website wanikani.com | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=tr.xip.wanikani)
+[WaniKani for Android](https://github.com/xiprox/WaniKani-for-Android) | An Android client application for the awesome kanji learning website wanikani.com | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=tr.xip.wanikani)
 
 ###X
 App Name                   | Describe                  | Major Language             | Download 
