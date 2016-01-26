@@ -17,7 +17,7 @@ App Name                   | Describe                  | Major Language         
 ###C
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS https://dev.guardianproject.info/projects/chatsecure/issues | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 
+[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS https://dev.guardianproject.info/projects/gibberbot/issues | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
@@ -69,10 +69,9 @@ App Name                   | Describe                  | Major Language         
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[MaterialQQLite](https://github.com/wang4yu6peng13/MaterialQQLite) | A material style of QQ (base on https://github.com/zym2014/MingQQ) | Java |  
+[MaterialQQLite](https://github.com/wang4yu6peng13/MaterialQQLite) | A material style of QQ (based on MingQQ) | Java |  
 [messaging](https://github.com/Odoo-mobile/messaging) | Odoo Mobile Messaging Client. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.odoo) 
-[MingQQ](https://github.com/zym2014/MingQQ) | 使用WebQQ协议开发的山寨QQ客户端，目前实现了Windows版和Android版 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/zym2014/MingQQ/tree/master/Android/%E5%AE%89%E8%A3%85%E5%8C%85) 
-[mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://s21.mogucdn.com/download/TeamTalk/OpenSource/TeamTalk-Android.apk)  
+[mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java | 
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
@@ -109,7 +108,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Tutanota](https://github.com/tutao/tutanota) | Tutanota is the end-to-end encrypted mail client that enables you to communicate securely with anyone.  | JavaScript | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=de.tutao.tutanota)  
 [Telegram Messenger](https://github.com/DrKLO/Telegram) | Telegram Messenger for Android https://telegram.org/ | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.telegram.messenger) 
-[TextSecure](https://github.com/WhisperSystems/TextSecure/) | A secure calling app for Android. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+[Signal](https://github.com/WhisperSystems/Signal-Android) | A secure calling app for Android. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 [TintBrowser](https://github.com/Anasthase/TintBrowser) | Is an open-source browser for Android 4 and above | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.tint)
 
 ###U
