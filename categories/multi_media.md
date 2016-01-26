@@ -7,7 +7,7 @@ App Name                   | Describe                  | Major Language         
 ###A
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ACEMusicPlayer](https://github.com/C-Aniruddh/ACEMusicPlayer) | A material music player for the android platform | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.aniruddhc.acemusic.player)   
+[ACEMusicPlayer](https://github.com/C-Aniruddh/ACEMusicPlayer) | A material music player for the android platform | Java | 
 [AnimeTaste](https://github.com/daimajia/AnimeTaste) | Taste global original animation | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.zhan_dui.animetaste)   
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) | A podcast manager for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)   
 [Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
