@@ -6,7 +6,7 @@ notifications:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-lit bitdeli
+  - awesome_bot README.md --white-list bitdeli,facebook.com/sharer,travis-ci,google.com/share
   - awesome_bot categories/android_tv.md
   - awesome_bot categories/android_wear.md --white-list badge.png
   - awesome_bot categories/communication.md --white-list badge.png,ppYJYe5.png
