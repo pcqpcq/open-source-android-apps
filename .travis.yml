@@ -18,5 +18,5 @@ script:
   - awesome_bot categories/personalization.md
   - awesome_bot categories/productivity.md
   - awesome_bot categories/social_network.md
-  - awesome_bot categories/tools.md
+  - awesome_bot categories/tools.md --white-list badge.png,ppYJYe5.png
   - awesome_bot categories/travel_and_local.md --white-list badge.png
