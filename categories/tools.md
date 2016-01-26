@@ -128,7 +128,7 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[SuperCleanMaster](https://github.com/joyoyao/superCleanMaster.git) | CleanMaster open source clone | Java |  
+[SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) | CleanMaster open source clone | Java |  
 [S Tools+](https://github.com/naman14/S-Tools) | Keep track of your CPU and Sensors alongwith useful features like Color Picker,Compass and device information | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.naman14.stools) 
 [SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) | 验证码助手，是一款 Material Design 的验证码管理器轻应用~它可以在手机接收到验证码短信的时候，自动浮现验证码，并且自动复制验证码到用户的剪切板。当用户接收到短信验证码，用户只要长按验证码的输入框，粘贴验证码即可。 | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=me.drakeet.inmessage)  
 [StockTicker](https://github.com/premnirmal/StockTicker) | A resizable stock ticker widget for your android home screen | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget) 
