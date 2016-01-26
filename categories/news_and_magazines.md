@@ -107,12 +107,12 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
-[StartupNews](https://github.com/halzhang/Startupnews) | An Android Startup News Client! http://news.dbanotes.net/ | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id==com.halzhang.android.apps.startupnews)  
+[StartupNews](https://github.com/halzhang/Startupnews) | An Android Startup News Client! http://news.dbanotes.net/ | Java | 
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss-android) | Tiny Tiny RSS client for Android devices | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id==org.fox.ttrss)  
+[Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss-android) | Tiny Tiny RSS client for Android devices | Java | 
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 
