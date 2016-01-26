@@ -14,7 +14,7 @@ script:
   - awesome_bot categories/finance.md
   - awesome_bot categories/game.md
   - awesome_bot categories/multi_media.md
-  - awesome_bot categories/news_and_magazines.md --white-list badge.png,ppYJYe5.png
+  - awesome_bot categories/news_and_magazines.md --white-list badge.png,ppYJYe5.png,pan.baidu.com
   - awesome_bot categories/personalization.md --white-list badge.png
   - awesome_bot categories/productivity.md --white-list badge.png
   - awesome_bot categories/social_network.md --white-list badge.png,ppYJYe5.png,oschina
