@@ -1,3 +1,4 @@
+
 ## Tools  
 ###\# 
 App Name                   | Describe                  | Major Language             | Download 
@@ -35,7 +36,7 @@ App Name                   | Describe                  | Major Language         
 [DashClock Widget](https://github.com/romannurik/dashclock) | Lock screen widget for Android 4.2+  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock)  
 [DesignOverlay](https://github.com/Manabu-GT/DesignOverlay-Android) | Android app which displays design image with grid lines to facilitate the tedious design implementation process  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.ms_square.android.design.overlay) 
 [Developer Toolbelt - Fill RAM](https://github.com/T-Spoon/Android-Developer-Toolbelt) | On-device low-memory testing for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt)  
-[Device Control](https://github.com/Evisceration/android_packages_apps_DeviceControl) | Device Control is an app to control several features of your device as well as some nice extra features  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.namelessrom.devicecontrol)  
+[Device Control](https://github.com/Evisceration/DeviceControl) | Device Control is an app to control several features of your device as well as some nice extra features  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.namelessrom.devicecontrol)  
 
 ###E
 App Name                   | Describe                  | Major Language             | Download 
@@ -46,7 +47,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [Firefox](https://wiki.mozilla.org/Mobile/Fennec/Android) | Firefox Browser for Android. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
-[Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.anhonesteffort.flock)  
+[Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock/  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.anhonesteffort.flock)  
 [FBReaderJ](https://github.com/geometer/FBReaderJ) | Is a free (and ad-free) multi-platform ebook reader.Supports popular ebook formats: ePub, fb2, mobi, rtf, html, plain text, and a lot of other formats | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 
 ###G
@@ -111,7 +112,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Permission Nanny](https://github.com/littledot/Permission-Nanny) | Permission Nanny is an application that can access resources which are protected by permissions on your behalf, so that your application does not need to declare permission usage in your AndroidManifest.xml. With Permission Nanny, it is possible for your application to not require any permissions at all, yet still be able to access permission-protected resources.  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.permissionnanny)  
 [photo-affix](https://github.com/afollestad/photo-affix) | Stitch your photos together vertically or horizontally without even trying! http://aidanfollestad.com  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://github.com/afollestad/photo-affix/raw/master/apk/PhotoAffix.apk)  
-[Prey Anti Theft](https://github.com/prey/prey-android-client) | Android client for the Prey anti-theft software. http://preyproject.com  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.prey) 
+[Prey Anti Theft](https://github.com/prey/prey-android-client) | Android client for the Prey anti-theft software. https://preyproject.com/  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.prey) 
 [Preferences Manager](https://github.com/SimonMarquis/Android-PreferencesManager) | View and edit application's preferences | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.preferencesmanager)
 
 ###Q
