@@ -21,7 +21,7 @@ App Name                   | Describe                  | Major Language         
 [cantstoptherock](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game | Java |
 [Chase Whisply](https://github.com/tvbarthel/ChaseWhisplyProject) | an augmented reality attempt | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply)   
 [Cloud Cup](https://github.com/google/cloud-cup-android) | Firebase Android client of the a multi device game https://cloud-cup.firebaseapp.com/ | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=fr.steren.cloudcup)   
-[Pie Noon](https://github.com/google/pienoon) | Multiplayer party game where you can throw pies at your friends. http://google.github.io/pienoon | C++ | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.google.fpl.pie_noon)   
+[Pie Noon](https://github.com/google/pienoon) | Multiplayer party game where you can throw pies at your friends. http://google.github.io/pienoon/ | C++ | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.google.fpl.pie_noon)   
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
