@@ -2,7 +2,7 @@
 ###\# 
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[9elements One Watch Face](https://github.com/9elements/9elements-One-for-Android-Wear) | A custom watch face for square Android Wear devices. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.ninelements.nineelementsonewatch)   
+[9elements One Watch Face](https://github.com/9elements/9elements-One-for-Android-Wear) | A custom watch face for square Android Wear devices. | Java |  
 
 ###A
 App Name                   | Describe                  | Major Language             | Download 
@@ -12,7 +12,7 @@ App Name                   | Describe                  | Major Language         
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Binary Watch Face](https://github.com/dwa012/WearBinaryWatchFace) | A Binary watch face for you Android Wear device! | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.bytemesoftware.wear.faces.binary)   
+[Binary Watch Face](https://github.com/dwa012/WearBinaryWatchFace) | A Binary watch face for you Android Wear device! | Java |  
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
@@ -92,7 +92,7 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Reddit for Wear](https://github.com/emmaguy/redditwear) | Reddit for Android Wear | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.emmaguy.todayilearned)   
+[Reddit for Wear](https://github.com/emmaguy/wear-notify-for-reddit) | Reddit for Android Wear | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.emmaguy.todayilearned)   
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
