@@ -74,8 +74,8 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Material-Movies](https://github.com/saulmm/Material-Movies) | An application about movies with material design | Java |      
-[MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) | Third-part android client of http://bilibili.com with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Qixingchen/MD-BiliBili/releases)       
-[Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.miz.mizuu)   
+[MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) | Third-part android client of http://www.bilibili.com with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Qixingchen/MD-BiliBili/releases)       
+[Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://mizuu.tv/wp-content/plugins/download-monitor/download.php?id=20)   
 [MovieGuide](https://github.com/esoxjem/MovieGuide) | An Android app that showcases the MVP pattern and RxJava | Java |    
 [MPDroid](https://github.com/abarisain/dmix) | Fork of pmix that allows streaming (and now much more) | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.namelessdev.mpdroid)   
 [music](https://github.com/psaravan/Music) | Music Elegant music player for Lollipop. | Java | 
@@ -90,7 +90,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [OCiney](https://github.com/florent37/OCiney) | Allociné movie app | Java |
-[OpenImgur](https://github.com/Kennyc1012/OpenImgur) |Open source Imgur Android App | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.kennyc.open.imgur) 
+[OpenImgur](https://github.com/Kennyc1012/Opengur) |Open source Imgur Android App | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.kennyc.open.imgur) 
 
 ###P
 App Name                   | Describe                  | Major Language             | Download 
@@ -111,7 +111,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://getsa.ga/saga.apk)  
-[SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://fir.im/simplifyreader)  
+[SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/simplifyreader)  
 [Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 http://linroid.com/2015/02/11/sky31radio/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/sky31radio)  
 [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=net.majorkernelpanic.spydroid)  
 [StickerCamera](https://github.com/Skykai521/StickerCamera) | A camera with sticker feature | Java |     
