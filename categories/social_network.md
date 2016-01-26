@@ -85,7 +85,6 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [OSChina Android](http://git.oschina.net/oschina/android-app) | Official OSChina client for Android http://www.oschina.net (Chinese) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/net.oschina.app)   
-[OSChina Android (my-oscgit-android)](https://github.com/BinJing/my-oscgit-android) | Third-part OSChina client for Android http://www.oschina.net (Chinese) | Java |     
 [OSChina Android (tonlin)](http://git.oschina.net/tonlin/android-app) | Third-part OSChina client for Android http://www.oschina.net (Chinese) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.wandoujia.com/apps/com.tonlin.osc.happy)   
 [OctoDroid](https://github.com/slapperwan/gh4a) | Github client for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.gh4a) 
 
@@ -103,7 +102,6 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[RedPhone](https://github.com/WhisperSystems/RedPhone) | A secure calling app for Android. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone) 
 [ribot-app-android](https://github.com/ribot/ribot-app-android) | The ribot studio app for the Android Platform http://ribot.co.uk/ | Java |  
 
 ###S
