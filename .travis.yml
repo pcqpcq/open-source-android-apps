@@ -8,7 +8,6 @@ before_script:
 script:
   - awesome_bot README.md
   - awesome_bot categories/android_tv.md
-  - awesome_bot categories/android_tv.md
   - awesome_bot categories/android_wear.md
   - awesome_bot categories/communication.md
   - awesome_bot categories/education.md
