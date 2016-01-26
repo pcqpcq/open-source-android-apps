@@ -6,16 +6,16 @@ before_script:
 script:
   - awesome_bot README.md
   - awesome_bot categories/android_tv.md
-  - categories/android_tv.md
-  - categories/android_wear.md
-  - categories/communication.md
-  - categories/education.md
-  - categories/finance.md
-  - categories/game.md
-  - categories/multi_media.md
-  - categories/news_and_magazines.md
-  - categories/personalization.md
-  - categories/productivity.md
-  - categories/social_network.md
-  - categories/tools.md
-  - categories/travel_and_local.md
+  - awesome_bot categories/android_tv.md
+  - awesome_bot categories/android_wear.md
+  - awesome_bot categories/communication.md
+  - awesome_bot categories/education.md
+  - awesome_bot categories/finance.md
+  - awesome_bot categories/game.md
+  - awesome_bot categories/multi_media.md
+  - awesome_bot categories/news_and_magazines.md
+  - awesome_bot categories/personalization.md
+  - awesome_bot categories/productivity.md
+  - awesome_bot categories/social_network.md
+  - awesome_bot categories/tools.md
+  - awesome_bot categories/travel_and_local.md
