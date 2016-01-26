@@ -1,3 +1,4 @@
+
 ## Game  
 ###\# 
 App Name                   | Describe                  | Major Language             | Download 
@@ -19,7 +20,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [cantstoptherock](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game | Java |
 [Chase Whisply](https://github.com/tvbarthel/ChaseWhisplyProject) | an augmented reality attempt | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply)   
-[Cloud Cup](https://github.com/google/cloud-cup-android) | Firebase Android client of the a multi device game http://cloud-cup.firebaseapp.com | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=fr.steren.cloudcup)   
+[Cloud Cup](https://github.com/google/cloud-cup-android) | Firebase Android client of the a multi device game https://cloud-cup.firebaseapp.com/ | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=fr.steren.cloudcup)   
 [Pie Noon](https://github.com/google/pienoon) | Multiplayer party game where you can throw pies at your friends. http://google.github.io/pienoon | C++ | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.google.fpl.pie_noon)   
 
 ###D
@@ -74,7 +75,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Material Life](https://github.com/juankysoriano/MaterialLife) | A Material Design styled Game of Life for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.juankysoriano.materiallife)
 [Memory Game](https://github.com/sromku/memory-game) | Simple and beautiful memory game for kids  | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.snatik.matches)
-[Minetest](https://github.com/minetest/minetest) | Minetest, an open source infinite-world block sandbox game with survival and crafting. [also https://github.com/minetest/minetest_game] http://minetest.net/  | C++ | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=net.minetest.minetest)
+[Minetest](https://github.com/minetest/minetest) | Minetest, an open source infinite-world block sandbox game with survival and crafting. [also https://github.com/minetest/minetest_game] http://www.minetest.net/  | C++ | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=net.minetest.minetest)
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
@@ -105,7 +106,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SOPA](https://github.com/pongo710/sopa) |  SOPA is an Android puzzle game. The goal is to connect the green and the red gate with the blue tubes. Get better while solving the games level and enjoy playing. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=de.sopa)
-[Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) | Android port of Simon Tatham's Puzzles. *git replace in use* - you might want to {{ git fetch origin 'refs/replace/*:refs/replace/*' }} http://chris.boyle.name/projects/android-puzzles  | C | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
+[Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) | Android port of Simon Tatham's Puzzles. *git replace in use* - you might want to {{ git fetch origin 'refs/replace/*:refs/replace/*' }} https://chris.boyle.name/projects/android-puzzles/  | C | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
 [Stratagus](https://github.com/drodin/Stratagus) | A port of Stratagus real-time strategy gaming engine for Android. http://stratagus.drodin.com  | C++ | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.drodin.stratagus)
 
 ###T
