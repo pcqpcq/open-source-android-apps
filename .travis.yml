@@ -12,7 +12,7 @@ script:
   - awesome_bot categories/communication.md
   - awesome_bot categories/education.md
   - awesome_bot categories/finance.md
-  - awesome_bot categories/game.md
+  - awesome_bot categories/game.md --white-list badge.png,ppYJYe5.png
   - awesome_bot categories/multi_media.md --white-list badge.png,ppYJYe5.png,awkwardratings,mizuu
   - awesome_bot categories/news_and_magazines.md --white-list badge.png,ppYJYe5.png,pan.baidu.com,play.google.com/apps/testing
   - awesome_bot categories/personalization.md --white-list badge.png
