@@ -103,7 +103,7 @@ App Name                   | Describe                  | Major Language         
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tasks](https://github.com/dmfs/tasks) | A task app for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.dmfs.tasks)  
+[Tasks](https://github.com/dmfs/opentasks) | A task app for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.dmfs.tasks)  
 [tudounotepad](https://github.com/geminiwen/tudounotepad) | A simple Notepad Application developed on Kotlin | Kotlin |  
 [Turbo Editor](https://github.com/vmihalachi/turbo-editor) | Simple, Powerful and Open Source Text Editor for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.maskyn.fileeditor)
 
