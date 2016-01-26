@@ -16,7 +16,7 @@ script:
   - awesome_bot categories/multi_media.md
   - awesome_bot categories/news_and_magazines.md
   - awesome_bot categories/personalization.md
-  - awesome_bot categories/productivity.md
+  - awesome_bot categories/productivity.md --white-list badge.png
   - awesome_bot categories/social_network.md --white-list badge.png,ppYJYe5.png,oschina
   - awesome_bot categories/tools.md --white-list badge.png,ppYJYe5.png
   - awesome_bot categories/travel_and_local.md --white-list badge.png
