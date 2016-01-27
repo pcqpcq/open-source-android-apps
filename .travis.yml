@@ -7,16 +7,16 @@ before_script:
   - gem install awesome_bot
 script:
   - awesome_bot README.md --white-list bitdeli,facebook.com/sharer,travis-ci,google.com/share
-  - awesome_bot categories/android_tv.md
-  - awesome_bot categories/android_wear.md --white-list badge.png
-  - awesome_bot categories/communication.md --white-list badge.png,ppYJYe5.png
-  - awesome_bot categories/education.md --white-list badge.png
-  - awesome_bot categories/finance.md --white-list badge.png
-  - awesome_bot categories/game.md --white-list badge.png,ppYJYe5.png
-  - awesome_bot categories/multi_media.md --white-list badge.png,ppYJYe5.png,awkwardratings,mizuu
-  - awesome_bot categories/news_and_magazines.md --white-list badge.png,ppYJYe5.png,pan.baidu.com,play.google.com/apps/testing
-  - awesome_bot categories/personalization.md --white-list badge.png
-  - awesome_bot categories/productivity.md --white-list badge.png
-  - awesome_bot categories/social_network.md --white-list badge.png,ppYJYe5.png,oschina,frogermcs
-  - awesome_bot categories/tools.md --white-list badge.png,ppYJYe5.png,afollestad,bit.ly/githubstatus,google.com/apps/testing
-  - awesome_bot categories/travel_and_local.md --white-list badge.png
+  - awesome_bot categories/android_tv.md --white-list 7sq06lr.png,ppYJYe5.png
+  - awesome_bot categories/android_wear.md --white-list 7sq06lr.png,ppYJYe5.png
+  - awesome_bot categories/communication.md --white-list 7sq06lr.png,ppYJYe5.png
+  - awesome_bot categories/education.md --white-list 7sq06lr.png,ppYJYe5.png
+  - awesome_bot categories/finance.md --white-list 7sq06lr.png,ppYJYe5.png
+  - awesome_bot categories/game.md --white-list 7sq06lr.png,ppYJYe5.png
+  - awesome_bot categories/multi_media.md --white-list 7sq06lr.png,ppYJYe5.png,awkwardratings,mizuu
+  - awesome_bot categories/news_and_magazines.md --white-list 7sq06lr.png,ppYJYe5.png,pan.baidu.com,play.google.com/apps/testing
+  - awesome_bot categories/personalization.md --white-list 7sq06lr.png
+  - awesome_bot categories/productivity.md --white-list 7sq06lr.png
+  - awesome_bot categories/social_network.md --white-list 7sq06lr.png,ppYJYe5.png,oschina,frogermcs
+  - awesome_bot categories/tools.md --white-list 7sq06lr.png,ppYJYe5.png,afollestad,bit.ly/githubstatus,google.com/apps/testing
+  - awesome_bot categories/travel_and_local.md --white-list 7sq06lr.png,ppYJYe5.png
