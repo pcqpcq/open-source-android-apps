@@ -67,7 +67,7 @@ App Name                   | Describe                  | Major Language         
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex) | Android port of Money Manager Ex. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](http://play.google.com/store/apps/details?id=com.money.manager.ex)   
+[Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex) | Android port of Money Manager Ex. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.money.manager.ex)   
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 

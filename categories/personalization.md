@@ -67,7 +67,7 @@ App Name                   | Describe                  | Major Language         
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Muzei Live Wallpaper](https://github.com/romannurik/muzei) | Muzei Live Wallpaper for Android http://muzei.co | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.muzei)  
+[Muzei Live Wallpaper](https://github.com/romannurik/muzei) | Muzei Live Wallpaper for Android http://www.muzei.co/ | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.muzei)  
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
@@ -117,7 +117,7 @@ App Name                   | Describe                  | Major Language         
 ###W
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[wall-splash-android](https://github.com/mikepenz/wall-splash-android) | wall:splash is a free open source android client for the awesome unsplash.com service (Free (do whatever you want) high-resolution photos) http://mikepenz.github.io/wall-splash-android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.mikepenz.unsplash)  
+[wall-splash-android](https://github.com/mikepenz/wallsplash-android) | wall:splash is a free open source android client for the awesome unsplash.com service (Free (do whatever you want) high-resolution photos) | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.mikepenz.unsplash)  
 [Wally](https://github.com/Musenkishi/wally) | Wally is a fast and efficient open source wallpaper application for Android. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.musenkishi.wally)  
 
 ###X
