@@ -83,7 +83,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
-
+[Lazy](https://github.com/l123456789jy/Lazy) | The android tools  整合了常用的工具类 | Java |
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
