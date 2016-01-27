@@ -27,7 +27,7 @@ App Name                   | Describe                  | Major Language         
 ###E
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
-[EverMemo](https://github.com/daimajia/EverMemo) | Fast Record, Organize and Share. The android memo app you will deeply love. ❤ http://mudlab9.com/ | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.zhan_dui.evermemo)  
+[EverMemo](https://github.com/daimajia/EverMemo) | Fast Record, Organize and Share. The android memo app you will deeply love. ❤ http://mudlab9.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.zhan_dui.evermemo)  
 
 ###F
 App Name                   | Describe                  | Major Language             | Download 
@@ -77,7 +77,7 @@ App Name                   | Describe                  | Major Language         
 ###O
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Omni Notes](https://github.com/federicoiosue/Omni-Notes) | Open source note-taking application for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)  
+[Omni Notes](https://github.com/federicoiosue/Omni-Notes) | Open source note-taking application for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)  
 
 ###P
 App Name                   | Describe                  | Major Language             | Download 
@@ -92,20 +92,20 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Remindly](https://github.com/blanyal/Remindly) | Remindly is a simple and user friendly application to create reminders. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.blanyal.remindly)  
+[Remindly](https://github.com/blanyal/Remindly) | Remindly is a simple and user friendly application to create reminders. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.blanyal.remindly)  
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SmartisanNote](https://github.com/drakeet/SmartisanNote) | An unofficial Smartisan Notes.  | Kotlin |   
-[Swiftnotes](https://github.com/adrianchifor/Swiftnotes) | Swiftnotes for Android - Note taking, simplified. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.moonpi.swiftnotes)  
+[Swiftnotes](https://github.com/adrianchifor/Swiftnotes) | Swiftnotes for Android - Note taking, simplified. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.moonpi.swiftnotes)  
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tasks](https://github.com/dmfs/opentasks) | A task app for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=org.dmfs.tasks)  
+[Tasks](https://github.com/dmfs/opentasks) | A task app for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.dmfs.tasks)  
 [tudounotepad](https://github.com/geminiwen/tudounotepad) | A simple Notepad Application developed on Kotlin | Kotlin |  
-[Turbo Editor](https://github.com/vmihalachi/turbo-editor) | Simple, Powerful and Open Source Text Editor for Android | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=com.maskyn.fileeditor)
+[Turbo Editor](https://github.com/vmihalachi/turbo-editor) | Simple, Powerful and Open Source Text Editor for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.maskyn.fileeditor)
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 
