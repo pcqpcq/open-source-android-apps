@@ -53,7 +53,7 @@ App Name                   | Describe                  | Major Language         
 ###I
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://pan.baidu.com/s/1i3w62rF)  
+[ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://7lryy3.com1.z0.glb.clouddn.com/xiyuanfang1.1.apk)  
 
 ###J
 App Name                   | Describe                  | Major Language             | Download 
