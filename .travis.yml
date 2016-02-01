@@ -13,7 +13,7 @@ script:
   - awesome_bot categories/education.md --allow-dupe --allow-redirect
   - awesome_bot categories/finance.md --allow-dupe --allow-redirect
   - awesome_bot categories/game.md --allow-dupe --allow-redirect
-  - awesome_bot categories/multi_media.md --allow-dupe --allow-redirect
+  - awesome_bot categories/multi_media.md --allow-dupe --allow-redirect --white-list substanceproject 
   - awesome_bot categories/news_and_magazines.md --allow-dupe --allow-redirect --white-list pan.baidu.com
   - awesome_bot categories/personalization.md --allow-dupe --allow-redirect
   - awesome_bot categories/productivity.md --allow-dupe --allow-redirect
