@@ -17,7 +17,7 @@ App Name                   | Describe                  | Major Language         
 ###C
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS https://dev.guardianproject.info/projects/gibberbot/issues | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 
+[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
