@@ -12,7 +12,7 @@ App Name                   | Describe                  | Major Language         
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Budget Notes](https://github.com/tairrzayev/bnotes.git) | Simplest possible app for noting down your income and expenses. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tr.expenses)   
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
