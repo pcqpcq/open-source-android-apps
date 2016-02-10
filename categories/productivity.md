@@ -28,6 +28,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [EverMemo](https://github.com/daimajia/EverMemo) | Fast Record, Organize and Share. The android memo app you will deeply love. ❤ http://mudlab9.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.zhan_dui.evermemo)  
+[EarthViewer](https://github.com/PDDStudio/earthview-android) | Showcase for earthview-android library and a wallpaper application together in one. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.pddstudio.earthviewer)
 
 ###F
 App Name                   | Describe                  | Major Language             | Download 
