@@ -110,12 +110,12 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://getsa.ga/saga.apk)  
+[SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java |   
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/simplifyreader)  
 [Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 http://linroid.com/2015/02/11/sky31radio/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/sky31radio)  
 [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.majorkernelpanic.spydroid)  
 [StickerCamera](https://github.com/Skykai521/StickerCamera) | A camera with sticker feature | Java |     
-[SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices. http://seriesgui.de | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
+[SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
