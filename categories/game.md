@@ -26,7 +26,7 @@ App Name                   | Describe                  | Major Language         
 ###D
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | A game of dungeon exploration, combat and magic, involving characters of diverse skills, worshipping deities of great power and caprice. | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.newtzgames.dcssonline) 
 
 ###E
 App Name                   | Describe                  | Major Language             | Download 
