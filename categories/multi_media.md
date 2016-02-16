@@ -84,7 +84,7 @@ App Name                   | Describe                  | Major Language         
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[NewPipe](https://github.com/theScrabi/NewPipe) | A lightweight Youtube frontend for Android. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/repository/browse/?fdfilter=newpipe&fdid=org.schabi.newpipe)  
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
