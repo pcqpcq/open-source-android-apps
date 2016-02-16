@@ -17,7 +17,7 @@ App Name                   | Describe                  | Major Language         
 ###C
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[CoCoin](https://github.com/Nightonke/CoCoin) | Multi-view Accounting Application. | Java |[APK](https://github.com/Nightonke/CoCoin/blob/master/APK/CoCoin%20V1.2.0.apk?raw=true)
+[CoCoin](https://github.com/Nightonke/CoCoin) | Multi-view Accounting Application. | Java |[![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Nightonke/CoCoin/tree/master/APK)
 [Coins](https://github.com/nothingmagical/coins-android) | A simple app to see how much your Bitcoins are worth. | Java |
 
 ###D
