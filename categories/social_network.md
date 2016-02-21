@@ -26,7 +26,8 @@ App Name                   | Describe                  | Major Language         
 ###D
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Dribbo](https://github.com/ikew0ng/Dribbo) | A BETTER Client for Dribbble. It lets you browse all categories of Dribbble, popular ,everyone and debuts. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.refactech.driibo)   
+[Dribbo](https://github.com/ikew0ng/Dribbo) | A BETTER Client for Dribbble. It lets you browse all categories of Dribbble, popular ,everyone and debuts. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.refactech.driibo)
+[DroidKaigi](https://github.com/konifar/droidkaigi2016) | DroidKaigi 2016 official Android conference app in Tokyo. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.github.droidkaigi.confsched)
 
 ###E
 App Name                   | Describe                  | Major Language             | Download 
