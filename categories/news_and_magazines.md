@@ -64,6 +64,7 @@ App Name                   | Describe                  | Major Language         
 ###K
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[kickmaterial](https://github.com/byoutline/kickmaterial) | Crowdfunding app concept for Android. Created to showcase new trends in Android development with strong focus on Material Design. | Java |   
 [KuaiHu](https://github.com/iKrelve/KuaiHu) | A third-part clent of daily.zhihu.com | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://pan.baidu.com/s/1nt1RI7B)  
 
 ###L
