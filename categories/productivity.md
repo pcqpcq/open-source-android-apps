@@ -105,6 +105,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Tasks](https://github.com/dmfs/opentasks) | A task app for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.dmfs.tasks)  
+[Text Fairy](https://github.com/renard314/textfairy) | Android OCR App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.renard.ocr)  
 [tudounotepad](https://github.com/geminiwen/tudounotepad) | A simple Notepad Application developed on Kotlin | Kotlin |  
 [Turbo Editor](https://github.com/vmihalachi/turbo-editor) | Simple, Powerful and Open Source Text Editor for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.maskyn.fileeditor)
 
