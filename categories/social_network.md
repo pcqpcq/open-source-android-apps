@@ -22,6 +22,7 @@ App Name                   | Describe                  | Major Language         
 [Cotable](https://github.com/wlemuel/Cotable) | Cnblogs Client for Android - Material Design http://www.cnblogs.com (Chinese) | Java |    
 [CNode-android](https://github.com/iwhys/CNode-android) | Android client for https://cnodejs.org/ (Chinese) | Java |  [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/iwhys/CNode-android/releases)  
 [CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) | CNode for Material Design | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.cnodejs.android.md)   
+[Coding](https://coding.net/u/coding/p/Coding-Android/git) | Official android client for http://coding.net | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.coding.program)   
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
