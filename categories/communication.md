@@ -101,7 +101,7 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[surespot](https://github.com/surespot/android)| surespot is a mobile messaging application that secures all messages using end-to-end encryption. https://www.surespot.me | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.twofours.surespot) 
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
