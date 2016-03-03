@@ -108,7 +108,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [OS Monitor](https://github.com/eolwral/OSMonitor) | Android OS Monitor  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.eolwral.osmonitor)  
-[owncloud](https://github.com/owncloud/android) | The ownCloud Android App. | Java | 
+[owncloud](https://github.com/owncloud/android) | The ownCloud Android App. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.owncloud.android)
 
 ###P
 App Name                   | Describe                  | Major Language             | Download 
