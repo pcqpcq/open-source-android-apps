@@ -45,6 +45,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Forkhub Android app for Github](https://github.com/jonan/ForkHub) | The Github android app was deprecated, but the "forkhub" fork is still being maintained and works fine | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jp.forkhub)  
+[Git.NB](https://github.com/Jeffmen/Git.NB) | A app client for Github | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Jeffmen/Git.NB/tree/master/apk)  
 [Gitskarios](https://github.com/gitskarios/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
 [Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)   
 [Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gunnner)   
