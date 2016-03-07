@@ -13,7 +13,7 @@ App Name                   | Describe                  | Major Language         
 [AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector) | AIMSICD against IMSI-Catchers, StingRay and Silent SMS! | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases)  
 [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) | Amaze File Manager. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.amaze.filemanager)  
 [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor) | Monitors and records the CPU and memory usage of Android devices | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.anothermonitor)  
- 
+[Andlytics](https://github.com/AndlyticsProject/andlytics)| Google Play - Android Market statistics app | Java |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.andlyticsproject) 
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
