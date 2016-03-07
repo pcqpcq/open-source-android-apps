@@ -18,6 +18,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [c:geo](https://github.com/cgeo/cgeo) | c:geo is an open source, full-featured, always ready-to-go client for geocaching.com (unofficial) and offers basic support for other geocaching platforms (like Opencaching) | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=cgeo.geocaching)
+[cyclestreets](https://github.com/cyclestreets/android) | CycleStreets is a UK-wide cycle journey planner system, which lets you plan routes from A to B by bike. It is designed by cyclists, for cyclists, and caters for the needs of both confident and less confident cyclists | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.cyclestreets)
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
