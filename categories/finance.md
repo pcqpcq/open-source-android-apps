@@ -13,6 +13,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Bither](https://github.com/bither/bither-android) | Simple and secure Bitcoin wallet. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.bither)   
+[bitcoin-wallet](https://github.com/schildbach/bitcoin-wallet) | Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. http://wallet.schildbach.de | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.schildbach.wallet)
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
