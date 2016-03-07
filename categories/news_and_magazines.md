@@ -47,6 +47,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Hacker News](https://github.com/manmal/hn-android) | The Hacker News Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.manuelmaly.hn)  
 [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) | Hacker News iOS and Android App - Made with React Native. | JavaScript/React Native |   
+[Hex for Hacker News](https://github.com/longdivision/hex) | A snappy and fun Hacker News app | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.hexforhn.hex)   
 [Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/xiprox/Hummingbird-for-Android/releases)  
 [hacker-news-android](https://github.com/dinosaurwithakatana/hacker-news-android) | another hacknews client | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.dwak.holohackernews.app)   
 
