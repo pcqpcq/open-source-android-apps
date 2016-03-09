@@ -22,6 +22,7 @@
 [Education](categories/education.md) | Apps about education. 
 [Finance](categories/finance.md) | Apps about finance. 
 [Game](categories/game.md) | All games for Android. 
+[Health & Fitness](categories/health_fitness.md) | Apps about health and fitness. 
 [Multi-Media](categories/multi_media.md) | Apps like Google Play Music, MX Player... 
 [News & Magazines](categories/news_and_magazines.md) | Apps about news and magazines. 
 [Personalization](categories/personalization.md) | Apps about live-wallpaper, launcher... 
