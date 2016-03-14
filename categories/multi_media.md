@@ -117,6 +117,7 @@ App Name                   | Describe                  | Major Language         
 [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.majorkernelpanic.spydroid)  
 [StickerCamera](https://github.com/Skykai521/StickerCamera) | A camera with sticker feature | Java |     
 [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
+[Suprabhatham](https://github.com/v-adhithyan/suprabhatham-android-app) | Play Lord Venkateswara Suprabhatham or use schedule for playback later with option for recurring playback. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ceg.avtechlabs.sbm)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
