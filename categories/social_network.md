@@ -82,7 +82,7 @@ App Name                   | Describe                  | Major Language         
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ [minicat](https://github.com/mcxiaoke/minicat)| 蘑菇饭App http://fanfou.com/androidsupport | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.mcxiaoke.minicat2) 
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
