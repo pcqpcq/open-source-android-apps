@@ -112,7 +112,8 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) | A Shadowsocks client for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.shadowsocks)   
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) | A Shadowsocks client for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+[Skooter](https://github.com/aayushranaut/skooterapp) | An anonymous social network | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.skooterapp)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
