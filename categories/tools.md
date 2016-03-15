@@ -169,6 +169,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Xsocks](https://github.com/lparam/xsocks-android) | A secure and fast proxy for protect your network traffic  | C | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/lparam/xsocks-android/releases)  
+[WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) | A open source animation and view pager library for android with examples. | Java
 
 ###Y
 App Name                   | Describe                  | Major Language             | Download 
