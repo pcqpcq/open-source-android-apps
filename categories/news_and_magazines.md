@@ -54,6 +54,8 @@ App Name                   | Describe                  | Major Language         
 ###I
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Idaily](https://github.com/liuguangqiang/Idaily) | 使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。
+ | Java |   
 [ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://7lryy3.com1.z0.glb.clouddn.com/xiyuanfang1.1.apk)  
 
 ###J
