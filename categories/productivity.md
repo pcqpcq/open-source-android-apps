@@ -17,6 +17,7 @@ App Name                   | Describe                  | Major Language         
 ###C
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Carbon Contacts](https://github.com/abhijith0505/CarbonContacts)|An android app that lets users select duplicates from their contact list and delete them. | Java |
 [Conquer](https://github.com/hanks-zyh/Conquer) | A todo list app base Material Design | Java |   
  
 ###D
