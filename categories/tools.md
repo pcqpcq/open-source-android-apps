@@ -141,6 +141,7 @@ App Name                   | Describe                  | Major Language         
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Talalarmo Alarm Clock](https://github.com/trikita/talalarmo) | Android alarm clock  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=trikita.talalarmo)  
 [Telecine](https://github.com/JakeWharton/Telecine) | Record full-resolution video on your Android devices. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.jakewharton.telecine)  
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) | A VT-100 terminal emulator for the Android OS | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jackpal.androidterm)  
 [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) | Smart App Lock for Android http://www.toolwiz.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.cleanwiz.applock)  
