@@ -29,7 +29,8 @@
 [Productivity](categories/productivity.md) | Apps like Any.Do, EverNote... 
 [Social Network](categories/social_network.md) | Apps like Twitter, Facebook, Github, Dribble... 
 [Tools](categories/tools.md) | Apps like Clean Master, Barcode Scanner, Keyboard...
-[Travel & Local](categories/travel_and_local.md) | Apps about travel or local things.   
+[Travel & Local](categories/travel_and_local.md) | Apps about travel or local things.
+[Business](categories/business.md) | Apps for the improvement of your business.
 
 
 # Contribute Rules
