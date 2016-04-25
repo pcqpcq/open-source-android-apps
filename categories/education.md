@@ -98,6 +98,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Sahayak](https://github.com/Neophytes/microsoft-pragyan-hackathon) |An android app aimed to make a fun-filled educational tool for naives. Aimed at rural children and adults |Java | 
+[Stepic](https://github.com/StepicOrg/stepic-android) | Free online courses with certificates | Java+Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.stepic.droid)  
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
