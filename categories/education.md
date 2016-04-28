@@ -8,6 +8,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [AnkiDroid](https://github.com/ankidroid/Anki-Android) | A semi-official port of the open source [Anki](http://ankisrs.net) spaced repetition flashcard system to Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+[Awesome-Campus](https://github.com/MummyDing/Awesome-Campus) | Jiangxi Normal University Android App |Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/AwesomeCampus)
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
