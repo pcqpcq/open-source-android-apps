@@ -112,7 +112,7 @@ App Name                   | Describe                  | Major Language         
 ###V
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Vineyard](https://github.com/hitherejoe/Vineyard) | Vine client for Android TV https://medium.com/@hitherejoe/vineyard-creating-an-android-tv-vine-app-e1480708b0a3#.frgdtz4yg | Java |    
+[Vineyard](https://github.com/hitherejoe/Vineyard) | [Vine client for Android TV](https://medium.com/exploring-android/vineyard-creating-an-android-tv-vine-app-e1480708b0a3#.q4hrfrsnu) | Java |    
 
 ###W
 App Name                   | Describe                  | Major Language             | Download 
