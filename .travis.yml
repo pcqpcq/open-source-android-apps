@@ -6,18 +6,4 @@ notifications:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --white-list bitdeli,travis-ci
-  - awesome_bot categories/android_tv.md --allow-dupe --allow-redirect
-  - awesome_bot categories/android_wear.md --allow-dupe --allow-redirect
-  - awesome_bot categories/communication.md --allow-dupe --allow-redirect
-  - awesome_bot categories/education.md --allow-dupe --allow-redirect
-  - awesome_bot categories/finance.md --allow-dupe --allow-redirect
-  - awesome_bot categories/game.md --allow-dupe --allow-redirect
-  - awesome_bot categories/health_fitness.md --allow-dupe --allow-redirect
-  - awesome_bot categories/multi_media.md --allow-dupe --allow-redirect --white-list substanceproject 
-  - awesome_bot categories/news_and_magazines.md --allow-dupe --allow-redirect --white-list pan.baidu.com
-  - awesome_bot categories/personalization.md --allow-dupe --allow-redirect
-  - awesome_bot categories/productivity.md --allow-dupe --allow-redirect
-  - awesome_bot categories/social_network.md --allow-dupe --allow-redirect
-  - awesome_bot categories/tools.md --allow-dupe --allow-redirect
-  - awesome_bot categories/travel_and_local.md --allow-dupe --allow-redirect
+  - awesome_bot *.md--allow-dupe --allow-redirect --white-list bitdeli,travis-ci,substanceproject,pan.baidu.com
