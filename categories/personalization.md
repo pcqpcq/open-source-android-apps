@@ -62,7 +62,7 @@ App Name                   | Describe                  | Major Language         
 ###L
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Lens Launcher](https://github.com/nicholasrout/lens-launcher) | Source Code & Resources for Lens Launcher  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=nickrout.lenslauncher)
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 
