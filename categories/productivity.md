@@ -18,6 +18,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Carbon Contacts](https://github.com/abhijith0505/CarbonContacts)|An android app that lets users select duplicates from their contact list and delete them. | Java |
+[Card Case](https://github.com/blocoio/cardcase) | Exchange business cards with people nearby | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.bloco.cardcase)   
 [Conquer](https://github.com/hanks-zyh/Conquer) | A todo list app base Material Design | Java |   
  
 ###D
