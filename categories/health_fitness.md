@@ -8,6 +8,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Android heart rate monitor](https://github.com/phishman3579/android-heart-rate-monitor) | Android based heart rate monitor which uses the camera and its flash to determine the users heart rate in beats per minute. | Java | |
+[Android app to collect medical data](https://github.com/Ana06/medical-data-android) | Android app to collect data to be analyzed for medical purposes. | Java | |
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
