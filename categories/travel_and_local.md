@@ -69,11 +69,12 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Maps.me](https://github.com/mapsme/omim) | Offline OpenStreetMap maps for iOS/Android/Mac/Linux/Windows | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)
+[Mapbox Dev Preview](https://github.com/mapbox/mapbox-android-demo) | Use interactive Mapbox maps and see what's next with the Mapbox Android SDK with this developer preview of our SDK. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.mapbox.mapboxandroiddemo)
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[NextGIS Mobile](https://github.com/nextgis/android_gisapp) | GIS application for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.nextgis.mobile)
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
