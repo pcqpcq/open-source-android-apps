@@ -102,13 +102,13 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [surespot](https://github.com/surespot/android)| surespot is a mobile messaging application that secures all messages using end-to-end encryption. https://www.surespot.me | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.twofours.surespot) 
+[Signal](https://github.com/WhisperSystems/Signal-Android) | A secure calling and messaging app for Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Tutanota](https://github.com/tutao/tutanota) | Tutanota is the end-to-end encrypted mail client that enables you to communicate securely with anyone.  | JavaScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.tutao.tutanota)  
 [Telegram Messenger](https://github.com/DrKLO/Telegram) | Telegram Messenger for Android https://telegram.org/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.telegram.messenger) 
-[Signal](https://github.com/WhisperSystems/Signal-Android) | A secure calling app for Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 [TintBrowser](https://github.com/Anasthase/TintBrowser) | Is an open-source browser for Android 4 and above | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.tint)
 
 ###U
