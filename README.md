@@ -23,7 +23,7 @@
 [Finance](categories/finance.md) | Apps about finance. 
 [Game](categories/game.md) | All games for Android. 
 [Health & Fitness](categories/health_fitness.md) | Apps about health and fitness. 
-[LifeStyle](categories/life_style.md) | about our life. 
+[LifeStyle](categories/life_style.md) | Apps about our life. 
 [Multi-Media](categories/multi_media.md) | Apps like Google Play Music, MX Player... 
 [News & Magazines](categories/news_and_magazines.md) | Apps about news and magazines. 
 [Personalization](categories/personalization.md) | Apps about live-wallpaper, launcher... 
