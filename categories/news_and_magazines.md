@@ -85,7 +85,7 @@ App Name                   | Describe                  | Major Language         
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[NEWS](https://github.com/hemant3370/newsApp) | NEWS fetches latest news from the most popular news channels. | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.hemant.myfeed&hl=en) 
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
@@ -149,5 +149,4 @@ App Name                   | Describe                  | Major Language         
 [ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://vdisk.weibo.com/s/GGofvoXe__E)  
 [ZhihuDailyKotlin](https://github.com/lzyzsd/ZhihuDailyKotlin) | 山寨知乎日报Android，使用Kotlin写 | kotlin | 
 [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) | A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native for Android. | JavaScript/React Native | 
-
 
