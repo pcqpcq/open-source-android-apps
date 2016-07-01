@@ -137,6 +137,7 @@ App Name                   | Describe                  | Major Language         
 [SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) | 验证码助手，是一款 Material Design 的验证码管理器轻应用~它可以在手机接收到验证码短信的时候，自动浮现验证码，并且自动复制验证码到用户的剪切板。当用户接收到短信验证码，用户只要长按验证码的输入框，粘贴验证码即可。 | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.drakeet.inmessage)  
 [StockTicker](https://github.com/premnirmal/StockTicker) | A resizable stock ticker widget for your android home screen | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget) 
 [Secret Codes](https://github.com/SimonMarquis/Android-SecretCodes) | Explore and test your device secret codes | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.secretcodes)
+[Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) | A Calculator with the basic functions and a customizable widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.calculator)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
