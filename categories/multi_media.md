@@ -112,6 +112,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java |   
+[Simple Music Player](https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer) | A Simple Music Player without ads and unnecessary permissions. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer)
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/simplifyreader)  
 [Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/sky31radio)  
 [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.majorkernelpanic.spydroid)  
