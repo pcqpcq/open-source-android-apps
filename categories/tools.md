@@ -138,6 +138,11 @@ App Name                   | Describe                  | Major Language         
 [StockTicker](https://github.com/premnirmal/StockTicker) | A resizable stock ticker widget for your android home screen | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget) 
 [Secret Codes](https://github.com/SimonMarquis/Android-SecretCodes) | Explore and test your device secret codes | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.secretcodes)
 [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) | A Calculator with the basic functions and a customizable widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.calculator)
+[Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) | A Calendar with a customizable widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar)
+[Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) | A front/rear camera with a flash | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.camera)
+[Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) | A simple canvas you can draw on | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.draw)
+[Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) | Well, a simple flashlight | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
+[Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) | A simple textfield for simple notes with a widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.notes)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
