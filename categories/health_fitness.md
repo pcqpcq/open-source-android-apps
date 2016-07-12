@@ -73,7 +73,7 @@ App Name                   | Describe                  | Major Language         
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[NightSight](https://github.com/meghalagrawal/NightSight) | Decreases the System's brightness below system's lowest level | | [![Get it on Google Play](https://lh3.googleusercontent.com/nbur5Jb9swKI09a9hKrPm_AhiJk-pHUYjwvXI1fOA4zDj1ufVRcEwUqvk6SEiQRYrpI=w300-rw)](https://play.google.com/store/apps/details?id=meghal.developer.nightsight.project) 
+[NightSight](https://github.com/meghalagrawal/NightSight) | Decreases the System's brightness below system's lowest level | | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=meghal.developer.nightsight.project) 
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
