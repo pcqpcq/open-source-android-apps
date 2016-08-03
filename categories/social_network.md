@@ -122,7 +122,8 @@ App Name                   | Describe                  | Major Language         
 [Tweetin](https://github.com/mthli/Tweetin) | Yet another Twitter unofficial client for Lollipop. | Java | 
 [Tweet Lanes](https://github.com/chrislacy/TweetLanes) | Tweet Lanes for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tweetlanes.android)   
 [Twidere-Android](https://github.com/TwidereProject/Twidere-Android/) | Twitter client for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)   
-[Twitter Lists](https://github.com/MPieter/TwitterLists) | An Android application to manage your Twitter lists. | Java | 
+[Twitter Lists](https://github.com/MPieter/TwitterLists) | An Android application to manage your Twitter lists. | Java |
+[Twiader](https://github.com/jydimir/Twiader) | Twitter speech reader | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/jydimir/Twiader/blob/master/release/app-release.apk?raw=true)
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 
