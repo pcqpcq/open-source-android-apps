@@ -133,6 +133,7 @@ App Name                   | Describe                  | Major Language         
 ###V
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[v2ex-android](https://github.com/greatyao/v2ex-android) | Another v2ex client on android platform. | Java | 
 [v2ex-daily-android](https://github.com/kyze8439690/v2ex-daily-android) | A v2ex client on android platform. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.yugy.v2ex.daily) 
 
 ###W
