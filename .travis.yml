@@ -6,5 +6,5 @@ notifications:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --white-list bitdeli,travis-ci
-  - awesome_bot categories/*.md --allow-dupe --allow-redirect --white-list substanceproject,pan.baidu.com,50266203
+  - awesome_bot README.md --allow-dupe --allow-redirect --white-list bitdeli,travis-ci,cloudfront
+  - awesome_bot categories/*.md --allow-dupe --allow-redirect --white-list substanceproject,pan.baidu.com,50266203,pokerth
