@@ -93,7 +93,7 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+[RunnerUp](https://github.com/jonasoreland/runnerup) | An open source run tracker inspired by Garmin 410, RunKeeper and EveryWhere Run. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.runnerup)
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
