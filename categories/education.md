@@ -83,7 +83,7 @@ App Name                   | Describe                  | Major Language         
 ###P
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ | Pi | An app made by a student for students. Study, solve problems, formula library, calculators & more! | Java + Swift | https://itunes.apple.com/us/app/pi-a-students-dream/id1117743302?mt=8
 
 ###Q
 App Name                   | Describe                  | Major Language             | Download 
