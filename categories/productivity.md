@@ -121,7 +121,7 @@ App Name                   | Describe                  | Major Language         
 ###V
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[VertiKin](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what user might be interested in buying in near future  | Java, Python |   
 
 ###W
 App Name                   | Describe                  | Major Language             | Download 
