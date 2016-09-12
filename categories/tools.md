@@ -70,7 +70,6 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Intent Intercept](https://github.com/intrications/intent-intercept) | This app attempts to intercept as many intents as possible in order to examine their contents. This helps when trying to develop an app that reacts to a particular intent.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=uk.co.ashtonbrsc.android.intentintercept)  
 [Install Referrer](https://github.com/SimonMarquis/Android-InstallReferrer) | Test the referrer attribute on the Google Play Store | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.installreferrer)
-[Interval Timer](https://github.com/jemboy/android-interval-timer) | A simple interval timer app that can be used in sports and cooking. Allows creating, editing, saving and deleting lists. | Java |  
 
 ###J
 App Name                   | Describe                  | Major Language             | Download 
@@ -108,7 +107,7 @@ App Name                   | Describe                  | Major Language         
 ###O
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[OS Monitor](https://github.com/eolwral/OSMonitor) | Android OS Monitor  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.eolwral.osmonitor)  
+[OS Monitor](https://github.com/eolwral/OSMonitor) | Android OS Monitor  | Java |  
 [owncloud](https://github.com/owncloud/android) | The ownCloud Android App. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.owncloud.android)
 
 ###P
