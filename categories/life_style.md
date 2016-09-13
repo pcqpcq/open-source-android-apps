@@ -117,7 +117,7 @@ App Name                   | Describe                  | Major Language         
 ###W
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+[Wake You In Music](https://github.com/CedrickFlocon/wakeyouinmusic) | Alarm for Spotify or Deezer user. | Java |[![Get it on Google Play](http://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=org.neige.wakeyouinmusic.android)
 
 ###X
 App Name                   | Describe                  | Major Language             | Download 
