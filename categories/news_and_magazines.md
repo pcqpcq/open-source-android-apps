@@ -14,7 +14,7 @@ App Name                   | Describe                  | Major Language         
 ###B
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Book Dash](https://github.com/spongebobrf/BookdashAndroidApp) | Book Dash is an Android App for the NPO where you can download books in different languages for free. | Java |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/apps/testing/org.bookdash.android) 
+[Book Dash](https://github.com/spongebobrf/BookdashAndroidApp) | Book Dash is an Android App for the NPO where you can download books in different languages for free. | Java |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.bookdash.android) 
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
