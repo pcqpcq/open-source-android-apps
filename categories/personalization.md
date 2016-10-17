@@ -57,7 +57,7 @@ App Name                   | Describe                  | Major Language         
 ###K
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ [KISS Launcher](https://github.com/Neamar/KISS) |KISS is a blazingly fast launcher for android requiring nearly no memory to run.http://kisslauncher.com/  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.neamar.kiss) 
 
 ###L
 App Name                   | Describe                  | Major Language             | Download 
