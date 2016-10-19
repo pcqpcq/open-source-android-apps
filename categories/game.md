@@ -14,6 +14,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Blockinger](https://github.com/vocollapse/Blockinger) | Tetris clone for Android | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/game/org.blockinger.game)    
+[Brain Phaser](https://github.com/Kamshak/BrainPhaser) | Quiz App in Material Design with user management, categories and statistics. | Java |
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
