@@ -74,7 +74,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Material-Movies](https://github.com/saulmm/Material-Movies) | An application about movies with material design | Java |      
-[Material Audiobook Player](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) | Audiobook Player for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook)       
+[Material Audiobook Player](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer) | Audiobook Player for Android | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook)       
 [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) | Third-part android client of http://www.bilibili.com with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Qixingchen/MD-BiliBili/releases)       
 [Mizuu](https://github.com/MizzleDK/Mizuu) | Popular media indexer app for Android. http://mizuu.tv | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://mizuu.tv/wp-content/plugins/download-monitor/download.php?id=20)   
 [MovieGuide](https://github.com/esoxjem/MovieGuide) | An Android app that showcases the MVP pattern and RxJava | Java |    
