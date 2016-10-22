@@ -20,6 +20,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [CoCoin](https://github.com/Nightonke/CoCoin) | Multi-view Accounting Application. | Java |[![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Nightonke/CoCoin/tree/master/APK)
 [Coins](https://github.com/nothingmagical/coins-android) | A simple app to see how much your Bitcoins are worth. | Java |
+[Currency Converter](https://github.com/samanyougarg/Currency-Converter-Android) | Currency Converter | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.appisode.currencyconverter) 
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
