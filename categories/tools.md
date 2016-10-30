@@ -52,6 +52,7 @@ App Name                   | Describe                  | Major Language         
 [Firefox](https://wiki.mozilla.org/Mobile/Fennec/Android) | Firefox Browser for Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 [Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock/  | Java | 
 [FBReaderJ](https://github.com/geometer/FBReaderJ) | Is a free (and ad-free) multi-platform ebook reader.Supports popular ebook formats: ePub, fb2, mobi, rtf, html, plain text, and a lot of other formats | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
+[Forecastie](https://github.com/martykan/forecastie) | A simple weather app that gathers data from OpenWeatherMap, via their public API. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.casticalabs.forecastie)
 
 ###G
 App Name                   | Describe                  | Major Language             | Download 
