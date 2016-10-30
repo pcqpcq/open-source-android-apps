@@ -40,6 +40,7 @@ App Name                   | Describe                  | Major Language         
 [Developer Toolbelt - Fill RAM](https://github.com/T-Spoon/Android-Developer-Toolbelt) | On-device low-memory testing for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt)  
 [Device Control](https://github.com/Evisceration/DeviceControl) | Device Control is an app to control several features of your device as well as some nice extra features  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.namelessrom.devicecontrol)
 [Droid Watcher](https://github.com/Odrin/Droid-Watcher) | Android remote control application with rich functionality | Java |
+[DuckDuckGo](https://github.com/duckduckgo/android) | DuckDuckGo Search and Stories official application | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android)
 
 ###E
 App Name                   | Describe                  | Major Language             | Download 
