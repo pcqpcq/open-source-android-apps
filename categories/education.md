@@ -72,8 +72,8 @@ App Name                   | Describe                  | Major Language         
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+:------------------------: | :------------------------ | :------------------------: | :------------------------:  
+[NSIT Connect](https://github.com/Swati4star/NSIT-Connect) | The official NSITonline app that aims to act as a companion app for NSIT students  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=nsit.app.com.nsitapp) 
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
