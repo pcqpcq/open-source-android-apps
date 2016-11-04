@@ -7,6 +7,7 @@ App Name                   | Describe                  | Major Language         
 ###A
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+["A Photo Manager" with "A Photo Map"](https://github.com/k3b/APhotoManager/) | Geo Map to Manage local photos on Android: gallery, find, sort, view, copy, delete, set gps exif data, send, ... . | Java |  [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.androFotoFinder)
  | | | 
 
 ###B
