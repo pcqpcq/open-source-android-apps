@@ -11,6 +11,7 @@ App Name                   | Describe                  | Major Language         
 [AnimeTaste](https://github.com/daimajia/AnimeTaste) | Taste global original animation | Java | 
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) | A podcast manager for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)   
 [Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
+["A Photo Manager" with "A Photo Map"](https://github.com/k3b/APhotoManager/) | Manage local photos on Android: gallery, geo map, find, sort, view, copy, delete, set gps exif data, send, ... . | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.androFotoFinder)
 [Apollo](https://github.com/CyanogenMod/android_packages_apps_Apollo) | Highly customizable Android music app. | Java |
 [Auro](https://github.com/architjn/Auro) | 1st Most Fastest, Latest Designed and open source Music player | Java |  
 
