@@ -44,6 +44,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Hubble Gallery](https://github.com/derekcsm/hubble_gallery) | View, Save, and Read about Hubble's best images. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.derek_s.hubble_gallery)
+[Hillffair](https://github.com/appteam-nith/Hillffair) | Hillffair is an open source college app made for Cultural fest known as Hillffair of NIT Hamirpur, India by [App Team NITH](https://github.com/appteam-nith). This app contains some additional features like online quiz as well as newsfeed along with features like notifications. | Java | [Get it on Google Play](https://play.google.com/store/apps/details?id=appteam.nith.hillffair)
 
 ###I
 App Name                   | Describe                  | Major Language             | Download 
@@ -73,7 +74,8 @@ App Name                   | Describe                  | Major Language         
 ###N
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
-[NSIT Connect](https://github.com/Swati4star/NSIT-Connect) | The official NSITonline app that aims to act as a companion app for NSIT students  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=nsit.app.com.nsitapp) 
+[NSIT Connect](https://github.com/Swati4star/NSIT-Connect) | The official NSITonline app that aims to act as a companion app for NSIT students  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=nsit.app.com.nsitapp)  
+[festnimbus](https://github.com/appteam-nith/festnimbus) | Festnimbus is an open source college app made for Technical fest known as Nimbus of NIT Hamirpur, India by [App Team NITH](https://github.com/appteam-nith) | Java | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.appteam.nimbus)  
 
 ###O
 App Name                   | Describe                  | Major Language             | Download 
