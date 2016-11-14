@@ -71,7 +71,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [MaterialQQLite](https://github.com/wang4yu6peng13/MaterialQQLite) | A material style of QQ (based on MingQQ) | Java |  
-[messaging](https://github.com/Odoo-mobile/messaging) | Odoo Mobile Messaging Client. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.odoo) 
+[messaging](https://github.com/Odoo-mobile/messaging) | Odoo Mobile Messaging Client. | Java |
 [mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java | 
 
 ###N
