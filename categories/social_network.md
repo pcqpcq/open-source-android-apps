@@ -58,6 +58,7 @@ App Name                   | Describe                  | Major Language         
 ###I
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Insta Profile Downloader](https://github.com/hemant3370/Insta) | Instagram Profile Media Downloader and Viewer. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/hemant3370/Insta/blob/master/app-release.apk?raw=true) 
 [InstaMaterial](https://github.com/frogermcs/InstaMaterial) | Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/frogermcs/frogermcs.github.io/raw/master/files/10/InstaMaterial-release-1.0.1-2.apk)     
 [Impeller](https://github.com/oshepherd/Impeller) | Impeller is a rich, featureful client for the Pump.io open, federated social network, built to give you the best experience possible over both your phone and tablet. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=eu.e43.impeller) 
 
