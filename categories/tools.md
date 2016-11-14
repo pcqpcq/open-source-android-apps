@@ -84,7 +84,7 @@ App Name                   | Describe                  | Major Language         
 ###L
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[LibreTorrent](https://github.com/proninyaroslav/libretorrent) | LibreTorrent is an ad-free, open-source, Material Design torrent client with IP filtering, Tor support, proxy support, automatic file moving, sequential downloading, and the ability to select files for download.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)  
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 
