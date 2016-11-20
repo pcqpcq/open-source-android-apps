@@ -45,7 +45,8 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Gloomy Dungeons 3D](https://github.com/restorer/Gloomy-Dungeons-3D) | Old-school 3D shooter | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=zame.GloomyDungeons.freedemo.game)
 [Gloomy Dungeons 2: Blood Honor](https://github.com/restorer/gloomy-dungeons-2) | Continuation of old-school 3D shooter | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.zamedev.gloomydungeons2.fullnfree)
-[Google Santa Tracker](https://github.com/google/santa-tracker-android) | Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period.  | Java | 
+[Google Santa Tracker](https://github.com/google/santa-tracker-android) | Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period.  | Java | |
+[GameOfCards](https://github.com/rohitramkumar308/GameOfCards) | A simple cards game without any rules. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=srk.syracuse.gameofcards)|
 
 ###H
 App Name                   | Describe                  | Major Language             | Download 
