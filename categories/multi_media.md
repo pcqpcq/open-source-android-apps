@@ -81,6 +81,7 @@ App Name                   | Describe                  | Major Language         
 [MovieGuide](https://github.com/esoxjem/MovieGuide) | An Android app that showcases the MVP pattern and RxJava | Java |    
 [MPDroid](https://github.com/abarisain/dmix) | Fork of pmix that allows streaming (and now much more) | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.namelessdev.mpdroid)   
 [music](https://github.com/psaravan/Music) | Music Elegant music player for Lollipop. | Java | 
+[Music DNA](https://github.com/harjot-oberai/MusicStreamer) | A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.sdsmdg.harjot.MusicDNA)
 [Mute for Sonos](https://github.com/cw124/mute-for-sonos) | Mute all your Sonos systems with a single tap of a widget. They will unmute again automatically a while later. Multiple taps of the widget increase the mute time. Uses Cling UPnP library and Jetty | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=uk.co.chriswiggins.muteforsonos)
 
 ###N
