@@ -63,7 +63,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Lens Launcher](https://github.com/nicholasrout/lens-launcher) | Source Code & Resources for Lens Launcher  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=nickrout.lenslauncher)
-[LoneColor](https://github.com/appgramming/LoneColor-Android) | Set an instant beautiful color wallpaper with one tap, and a zero interface app http://www.appgramming.com/lonecolor/android/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.appgramming.lonecolor)  
+[LoneColor](https://github.com/appgramming/LoneColor-Android) | Set an instant beautiful color wallpaper with one tap, and a zero interface app  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.appgramming.lonecolor)  
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 
