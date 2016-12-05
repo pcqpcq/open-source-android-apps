@@ -92,7 +92,7 @@ App Name                   | Describe                  | Major Language         
 ###R
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Reddit for Wear](https://github.com/emmaguy/wear-notify-for-reddit) | Reddit for Android Wear | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.emmaguy.todayilearned)   
+ | | | 
 
 ###S
 App Name                   | Describe                  | Major Language             | Download 
@@ -121,6 +121,8 @@ App Name                   | Describe                  | Major Language         
 [Wearable Chess](https://github.com/mitchazj/Wearable-Chess) | Chess for Android Wear | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.orangutandevelopment.wearablechess)   
 [WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
 [WearTimer](https://github.com/brave-warrior/WearTimer) | Improved stopwatch & timer for Android Wear | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.cologne.hackaton.wearstopwatch)
+[Wear Notify for Reddit](https://github.com/emmaguy/wear-notify-for-reddit) | Reddit for Android Wear | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.emmaguy.todayilearned) 
+
 ###X
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
