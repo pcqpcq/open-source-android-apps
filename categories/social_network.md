@@ -80,7 +80,7 @@ App Name                   | Describe                  | Major Language         
 ###M
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ [Monotweety](https://github.com/yshrsmz/monotweety)| Simple Twitter Client just for tweeting from notification area | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.yslibrary.monotweety) 
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
