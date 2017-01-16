@@ -98,6 +98,7 @@ App Name                   | Describe                  | Major Language         
 [MLManager](https://github.com/javiersantos/MLManager) | Modern, easy and customizable app manager for Android  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager)  
 [Material Color Picker](https://github.com/4k3R/material-color-picker) | A simple, minimalistic and beautiful color picker for Android 4.1+ (Jellybean+) devices | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.anjithsasindran.materialcolorpicker&hl=en)
 [Moticons](https://github.com/javiersantos/Moticons) | A simple, easy and modern app to manage and use Japanese Emoticons with Material Design | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.javiersantos.moticons)
+[MDX - Material Design Explorer](https://github.com/erdemorman/mdx) | An app for developers and designers to explore material design color palette and icons easily | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.erdemorman.mdx)
 
 ###N
 App Name                   | Describe                  | Major Language             | Download 
