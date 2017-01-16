@@ -16,8 +16,8 @@ App Name                   | Describe                  | Major Language         
 
 ###C
 App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
+[CandyBar](https://goo.gl/tak6hn) | CandyBar is Android icon pack dashboard library developed by Dani Mahardhika. CandyBar is open source and free to use.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.material.dashboard.candybar.demo)
 
 ###D
 App Name                   | Describe                  | Major Language             | Download 
@@ -47,7 +47,7 @@ App Name                   | Describe                  | Major Language         
 ###I
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[IconShowcase](https://goo.gl/MiS4mX) | IconShowcase is a Material Design based dashboard, made specially for icon packs. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jahirfiquitiva.apps.iconshowcase.sampleip) 
 
 ###J
 App Name                   | Describe                  | Major Language             | Download 
@@ -84,7 +84,7 @@ App Name                   | Describe                  | Major Language         
 ###P
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Polar Dashboard](https://goo.gl/iOtePa) | Polar is a dashboard developed by me and designed by Tom Wellington. Tom came to me with the need for a new dashboard to be used in Gaufrer. Polar is designed to be different, beautiful, and professional. It also happens to be very easily configurable. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.afollestad.polar) 
 
 ###Q
 App Name                   | Describe                  | Major Language             | Download 
