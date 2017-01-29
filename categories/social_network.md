@@ -40,14 +40,15 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [FishChatAndroid](https://github.com/oikomi/FishChatAndroid) | FishChat | Java |
+[Forkhub Android app for Github](https://github.com/jonan/ForkHub) | The Github android app was deprecated, but the "forkhub" fork is still being maintained and works fine | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jp.forkhub)
 
 ###G
 App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Forkhub Android app for Github](https://github.com/jonan/ForkHub) | The Github android app was deprecated, but the "forkhub" fork is still being maintained and works fine | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jp.forkhub)  
+:------------------------: | :------------------------ | :------------------------: | :------------------------:   
 [Git.NB](https://github.com/Jeffmen/Git.NB) | A app client for Github | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Jeffmen/Git.NB/tree/master/apk)  
 [Gitskarios](https://github.com/gitskarios/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
-[Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)   
+[Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
+[GSD Mobile](https://github.com/rgocal/GSD_Mobile) | This is a mobile app I made for my website. I decided to open source it as a learning project for fellow followers. It teaches basic RSS usage, JSON usage and general practice of material design and bottom tab navigation. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/intl/en_us/badges/)
 [Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gunnner)   
 
 ###H
