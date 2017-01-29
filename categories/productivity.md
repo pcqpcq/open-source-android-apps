@@ -45,7 +45,7 @@ App Name                   | Describe                  | Major Language         
 ###H
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Habitica](https://github.com/HabitRPG/habitica-android) | A habit tracker app which treats your goals like a Role Playing Game. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica) 
 
 ###I
 App Name                   | Describe                  | Major Language             | Download 
