@@ -96,6 +96,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Plaid](https://github.com/nickbutcher/plaid) | Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs. | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/apps/testing/io.plaidapp) 
+[Predator for ProductHunt](https://github.com/crazyhitty/Capstone-Project) | Predator is a minimalistic client for ProductHunt. It shows latest products and collections fetched via ProductHunt api. It also offers other information like media and comments associated with that product. | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.crazyhitty.chdev.ks.predator) 
 
 ###Q
 App Name                   | Describe                  | Major Language             | Download 
