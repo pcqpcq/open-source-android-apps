@@ -91,7 +91,7 @@ App Name                   | Describe                  | Major Language         
 ###Q
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [Quill](https://github.com/vickychijwani/quill/) | The beautiful Android app for your [Ghost](https://ghost.org) blog | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.vickychijwani.spectre&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+ [Quill](https://github.com/vickychijwani/quill/) | The beautiful Android app for your [Ghost](https://ghost.org) blog | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.vickychijwani.spectre)
 
 ###R
 App Name                   | Describe                  | Major Language             | Download 
