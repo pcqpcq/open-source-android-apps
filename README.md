@@ -1,6 +1,8 @@
 [![Join the chat at https://gitter.im/pcqpcq/open-source-android-apps](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pcqpcq/open-source-android-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![](https://img.shields.io/badge/AndroidWeekly-%23145-blue.svg)](http://androidweekly.net/issues/issue-145) [![](https://img.shields.io/badge/habrahabr.ru-%2395%20-lightgrey.svg)](http://habrahabr.ru/post/253713/)
 
 # Why?
+
+[![Join the chat at https://gitter.im/pcqpcq/open-source-android-apps](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pcqpcq/open-source-android-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > This is a collection of Android Apps which are open source.  
 > I believe that we can find something interesting and gain helpful skills from an open source app.  
 > This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps)
