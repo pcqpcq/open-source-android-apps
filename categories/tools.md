@@ -150,6 +150,7 @@ App Name                   | Describe                  | Major Language         
 [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) | A simple file manager for browsing the storage | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager)
 [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) | Well, a simple flashlight | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
 [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) | A simple textfield for simple notes with a widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.notes)
+[Status](https://github.com/TheAndroidMaster/Status) | A no-root status bar replacement for Android. | Java [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.james.status)
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
