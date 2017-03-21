@@ -1,10 +1,10 @@
 ## Multi-Media  
-###\# 
+### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###A
+### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [ACEMusicPlayer](https://github.com/C-Aniruddh/ACEMusicPlayer) | A material music player for the android platform | Java | 
@@ -15,63 +15,63 @@ App Name                   | Describe                  | Major Language         
 [Apollo](https://github.com/CyanogenMod/android_packages_apps_Apollo) | Highly customizable Android music app. | Java |
 [Auro](https://github.com/architjn/Auro) | 1st Most Fastest, Latest Designed and open source Music player | Java |  
 
-###B
+### B  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app for Android entirely written using Kotlin language. | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.limecreativelabs.bandhook) 
 
-###C
+### C  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###D
+### D  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Droided Media Tank](https://github.com/vikingbrain/droidedmediatank) | Remote control and management of Networked Media Tank media streamers. Designed for Popcorn Hour A100, A110, A200, A210, A300, A400, B110, C200, C300, PopBox 3D, PopBox V8, eGreat, Digitek HDX, Kaiboer and others based in NMT system | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.vikingbrain.dmt) 
 
-###E
+### E  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Easy Sound Recorder](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app implementing Material Design | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)     
 
-###F
+### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###G
+### G  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [GEM](https://github.com/Substance-Project/GEM) | A music player for Android, in stunning Material Design. https://substanceproject.net/ | Java |      
 
-###H
+### H  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###I
+### I  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###J
+### J  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [heMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful and elegant music player for Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.jams.music.player.de.repat)   
 
-###K
+### K  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###L
+### L  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Last.fm](https://github.com/lastfm/lastfm-android) | The official Last.fm Android app. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fm.last.android) 
 [L Camera](https://github.com/PkmX/lcamera) | A camera app using the new camera2 API in Android Lollipop | Scala | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/PkmX/lcamera/releases) 
 
-###M
+### M  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Material-Movies](https://github.com/saulmm/Material-Movies) | An application about movies with material design | Java |      
@@ -84,34 +84,34 @@ App Name                   | Describe                  | Major Language         
 [Music DNA](https://github.com/harjot-oberai/MusicStreamer) | A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.sdsmdg.harjot.MusicDNA)
 [Mute for Sonos](https://github.com/cw124/mute-for-sonos) | Mute all your Sonos systems with a single tap of a widget. They will unmute again automatically a while later. Multiple taps of the widget increase the mute time. Uses Cling UPnP library and Jetty | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=uk.co.chriswiggins.muteforsonos)
 
-###N
+### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [NewPipe](https://github.com/theScrabi/NewPipe) | A lightweight Youtube frontend for Android. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/repository/browse/?fdfilter=newpipe&fdid=org.schabi.newpipe)  
 
-###O
+### O  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [OCiney](https://github.com/florent37/OCiney) | Allociné movie app | Java |
 [OpenImgur](https://github.com/Kennyc1012/Opengur) |Open source Imgur Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.kennyc.open.imgur) 
 
-###P
+### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [PDF Creator](https://github.com/Swati4star/Images-to-PDF) | An app to convert images to PDF file  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/app/swati4star.createpdf)       
 [philm](https://github.com/chrisbanes/philm) | Movie collection and information app for Android. | Java |   
 
-###Q
+### Q  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###R
+### R  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###S
+### S  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java |   
@@ -124,38 +124,38 @@ App Name                   | Describe                  | Major Language         
 [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
 [Suprabhatham](https://github.com/v-adhithyan/suprabhatham-android-app) | Play Lord Venkateswara Suprabhatham or use schedule for playback later with option for recurring playback. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ceg.avtechlabs.sbm)
 
-###T
+### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Timber](https://github.com/naman14/Timber) | Material Design Music Player | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=naman14.timber)
 
-###U
+### U  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [UniversalMusicPlayer](https://github.com/googlesamples/android-UniversalMusicPlayer) | This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices | Java |      
 
-###V
+### V  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Vanilla Music](https://github.com/vanilla-music/vanilla) | Vanilla Music is a clean, simple and free (opensource) music player. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ch.blinkenlights.android.vanilla)
 [VLC for Android](https://github.com/videolan/vlc) | VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. | C | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en)
 
-###W
+### W  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [WhatAndroid](https://github.com/Gwindow/WhatAndroid) | The What.CD Android App http://gwindow.github.com/WhatAndroid/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://gwindow.github.io/WhatAndroid/) 
 
-###X
+### X  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###Y
+### Y  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
 
-###Z
+### Z  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  | | | 
