@@ -116,8 +116,7 @@ App Name                   | Describe                  | Major Language         
 ###T
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) | Indie Turn Based Strategy in Isometric Pixel Art 
-http://w84death.itch.io/tanks-of-freedom  | GDScript | 
+[Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) | Indie Turn Based Strategy in Isometric Pixel Art | GDScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=in.p1x.tof.beta)
 
 ###U
 App Name                   | Describe                  | Major Language             | Download 
