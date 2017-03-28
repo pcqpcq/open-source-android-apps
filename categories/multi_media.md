@@ -71,6 +71,7 @@ App Name                   | Describe                  | Major Language         
 [Last.fm](https://github.com/lastfm/lastfm-android) | The official Last.fm Android app. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fm.last.android)
 [L Camera](https://github.com/PkmX/lcamera) | A camera app using the new camera2 API in Android Lollipop | Scala | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/PkmX/lcamera/releases)
 [Landscape Video Camera](https://github.com/JeroenMols/LandscapeVideoCamera) | Feature rich open source camera library that restricts recording to landscape only | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.jmolsmobile.landscapevideocapture_sample)
+[Legofy](https://github.com/JeroenMols/Legofy) | Android library to Legofy any image | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.jeroenmols.brickeffect) 
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download
