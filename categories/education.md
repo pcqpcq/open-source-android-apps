@@ -85,7 +85,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Pi](https://github.com/thepiproject/Pi-Android) | An app made by a student for students. Study, solve problems, formula library, calculators & more! | Java | [![Get it on Google Play](http://imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.rigodevelops.pi) 
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
