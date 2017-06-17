@@ -2,7 +2,7 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ [10-bit Clock Widget](https://github.com/ashutoshgngwr/10-bitClockWidget) | 10-bit Clock Widget uses 10 binary dots and their color, to represent current time in 12-hour format. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/ashutoshgngwr/10-bitClockWidget/releases/latest)   
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
