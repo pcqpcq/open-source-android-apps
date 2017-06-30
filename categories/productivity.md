@@ -103,6 +103,7 @@ App Name                   | Describe                  | Major Language         
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[ShutUp!](https://github.com/RitwickVerma/ShutUp) | ShutUp! - Stay Lazy | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.laughingstock.ritwick.shutup) 
 [SmartisanNote](https://github.com/drakeet/SmartisanNote) | An unofficial Smartisan Notes.  | Kotlin |   
 [Swiftnotes](https://github.com/adrianchifor/Swiftnotes) | Swiftnotes for Android - Note taking, simplified. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.moonpi.swiftnotes)  
 
