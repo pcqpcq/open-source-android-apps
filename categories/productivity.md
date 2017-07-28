@@ -71,7 +71,8 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Memento](https://github.com/yaa110/Memento) | A simple note taking app | Java | 
-[Minimal-Todo](https://github.com/avjinder/Minimal-Todo) | A fully Material ToDo app with minimal features, just enough to be useful. | Java |   
+[Minimal-Todo](https://github.com/avjinder/Minimal-Todo) | A fully Material ToDo app with minimal features, just enough to be useful. | Java |
+[Minitask](https://github.com/LewisVo/Minitask) | A simple and lightweight todo list/task list for Android. | Java |
 
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
