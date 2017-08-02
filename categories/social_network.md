@@ -49,7 +49,8 @@ App Name                   | Describe                  | Major Language         
 [Gitskarios](https://github.com/gitskarios/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
 [Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
 [GSD Mobile](https://github.com/rgocal/GSD_Mobile) | This is a mobile app I made for my website. I decided to open source it as a learning project for fellow followers. It teaches basic RSS usage, JSON usage and general practice of material design and bottom tab navigation. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/intl/en_us/badges/)
-[Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gunnner)   
+[Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gunnner)
+[GitPoint](https://github.com/gitpoint/git-point/) | GitHub app with a minimal & beautiful UI | JavaScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gitpoint) 
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
