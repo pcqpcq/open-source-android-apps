@@ -27,7 +27,7 @@ App Name                   | Describe                  | Major Language         
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
