@@ -89,6 +89,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [LibreTorrent](https://github.com/proninyaroslav/libretorrent) | LibreTorrent is an ad-free, open-source, Material Design torrent client with IP filtering, Tor support, proxy support, automatic file moving, sequential downloading, and the ability to select files for download.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)  
+[LittleFreshWeather](https://github.com/ZeusChan/LittleFreshWeather) | 这是一款简洁的天气预报app--清新小天气，它能够支持国内绝大多数城市，提供包含实时天气、七天预报、实时气象信息及生活指数等预报信息，动画展示天气状况。 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/ZeusChan/LittleFreshWeather/master/LittleFreshWeather-release.apk)
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
