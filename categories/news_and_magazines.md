@@ -48,15 +48,14 @@ App Name                   | Describe                  | Major Language         
 [Hacker News](https://github.com/manmal/hn-android) | The Hacker News Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.manuelmaly.hn)  
 [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) | Hacker News iOS and Android App - Made with React Native. | JavaScript/React Native |   
 [Hex for Hacker News](https://github.com/longdivision/hex) | A snappy and fun Hacker News app | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.hexforhn.hex)   
-[Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/xiprox/Hummingbird-for-Android/releases)  
-[hacker-news-android](https://github.com/dinosaurwithakatana/hacker-news-android) | another hacknews client | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.dwak.holohackernews.app)   
+[Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/xiprox/Hummingbird-for-Android/releases)  
+[hacker-news-android](https://github.com/dinosaurwithakatana/hacker-news-android) | another hacknews client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.dwak.holohackernews.app)   
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Idaily](https://github.com/liuguangqiang/Idaily) | 使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。
- | Java |   
-[ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://7lryy3.com1.z0.glb.clouddn.com/xiyuanfang1.1.apk)  
+[Idaily](https://github.com/liuguangqiang/Idaily) | 使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。| Java |
+ [ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://7lryy3.com1.z0.glb.clouddn.com/xiyuanfang1.1.apk)  
 
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
@@ -85,7 +84,7 @@ App Name                   | Describe                  | Major Language         
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[NEWS](https://github.com/hemant3370/newsApp) | NEWS fetches latest news from the most popular news channels. | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.hemant.myfeed&hl=en) 
+[NEWS](https://github.com/hemant3370/newsApp) | NEWS fetches latest news from the most popular news channels. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.hemant.myfeed&hl=en) 
 
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
@@ -95,18 +94,18 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Plaid](https://github.com/nickbutcher/plaid) | Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs. | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/apps/testing/io.plaidapp) 
-[Predator for ProductHunt](https://github.com/crazyhitty/Capstone-Project) | Predator is a minimalistic client for ProductHunt. It shows latest products and collections fetched via ProductHunt api. It also offers other information like media and comments associated with that product. | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.crazyhitty.chdev.ks.predator) 
+[Plaid](https://github.com/nickbutcher/plaid) | Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/apps/testing/io.plaidapp) 
+[Predator for ProductHunt](https://github.com/crazyhitty/Capstone-Project) | Predator is a minimalistic client for ProductHunt. It shows latest products and collections fetched via ProductHunt api. It also offers other information like media and comments associated with that product. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.crazyhitty.chdev.ks.predator) 
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Qiitanium](https://github.com/ogaclejapan/Qiitanium) | Qiitanium is an unofficial Android application of Qiita | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ogaclejapan.qiitanium) 
+[Qiitanium](https://github.com/ogaclejapan/Qiitanium) | Qiitanium is an unofficial Android application of Qiita | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ogaclejapan.qiitanium) 
 
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[RedReader](https://github.com/QuantumBadger/RedReader) | An unofficial open source Reddit client for Android. | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) 
+[RedReader](https://github.com/QuantumBadger/RedReader) | An unofficial open source Reddit client for Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) 
 
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
@@ -147,7 +146,7 @@ App Name                   | Describe                  | Major Language         
 ### Z  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://vdisk.weibo.com/s/GGofvoXe__E)  
+[ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://vdisk.weibo.com/s/GGofvoXe__E)  
 [ZhihuDailyKotlin](https://github.com/lzyzsd/ZhihuDailyKotlin) | 山寨知乎日报Android，使用Kotlin写 | kotlin | 
 [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) | A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native for Android. | JavaScript/React Native | 
 
