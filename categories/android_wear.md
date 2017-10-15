@@ -2,7 +2,6 @@
 ### \#  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[9elements One Watch Face](https://github.com/9elements/9elements-One-for-Android-Wear) | A custom watch face for square Android Wear devices. | Java |  
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download

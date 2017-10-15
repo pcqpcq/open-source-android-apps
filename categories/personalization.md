@@ -47,7 +47,7 @@ App Name                   | Describe                  | Major Language         
 ### I  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[IconShowcase](https://goo.gl/MiS4mX) | IconShowcase is a Material Design based dashboard, made specially for icon packs. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jahirfiquitiva.apps.iconshowcase.sampleip)
+[IconShowcase](https://goo.gl/MiS4mX) | IconShowcase is a Material Design based dashboard, made specially for icon packs. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jahirfiquitiva.apps.iconshowcase.demo)
 
 ### J  
 App Name                   | Describe                  | Major Language             | Download
@@ -57,7 +57,7 @@ App Name                   | Describe                  | Major Language         
 ### K  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- [KISS Launcher](https://github.com/Neamar/KISS) |KISS is a blazingly fast launcher for android requiring nearly no memory to run. http://kisslauncher.com/  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.neamar.kiss) 
+ [KISS Launcher](https://github.com/Neamar/KISS) |KISS is a blazingly fast launcher for android requiring nearly no memory to run. http://kisslauncher.com/  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.neamar.kiss)
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download
