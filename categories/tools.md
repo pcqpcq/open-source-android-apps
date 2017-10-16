@@ -23,6 +23,7 @@ App Name                   | Describe                  | Major Language         
 [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)  
 [Beta Updater for WhatsApp](https://github.com/javiersantos/WhatsAppBetaUpdater) | An app to update WhatsApp to the latest beta version available on Android  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/javiersantos/WhatsAppBetaUpdater/releases)
 [Brevent](https://github.com/liudongmiao/Brevent) | Black Prevent, Prevent without ROOT. (An nice app like Greenify by Oasisfeng) | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
+[Barcode Scanner](https://github.com/zxing/zxing) | Barcode and QR Code reader | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
