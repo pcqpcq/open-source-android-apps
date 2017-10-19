@@ -19,6 +19,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app for Android entirely written using Kotlin language. | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.limecreativelabs.bandhook) 
+[bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) | An unofficial [bilibili](https://www.bilibili.com/) client for android | Java |
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
