@@ -33,7 +33,6 @@
 [Travel & Local](categories/travel_and_local.md) | Apps about travel or local things.
 [Business](categories/business.md) | Apps for the improvement of your business.
 [CNSoftBei](https://github.com/kensoon/awesome-cnsoftbei) | Apps of the cnsoftbei.
-[test](https://github.com/landtanin/StudentAttendanceCheck) | test test test.
 
 # Contribute Rules
 > 1. Don't do evil.
