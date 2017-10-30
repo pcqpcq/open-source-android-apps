@@ -154,7 +154,7 @@ App Name                   | Describe                  | Major Language         
 [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) | Well, a simple flashlight | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
 [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) | A simple textfield for simple notes with a widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.notes)
 [Status](https://github.com/TheAndroidMaster/Status) | A no-root status bar replacement for Android. | Java [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.james.status)
-[StudentAttendanceCheck](https://github.com/landtanin/StudentAttendanceCheck) | Student attendance monitoring system. | Java |
+[StudentAttendanceCheck](https://github.com/landtanin/StudentAttendanceCheck) | Student attendance monitoring system (app for students). | Java |
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download
@@ -167,7 +167,7 @@ App Name                   | Describe                  | Major Language         
 [TranslateApp](https://github.com/maoruibin/TranslateApp) | A translations app without interruptions  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=name.gudong.translate)  
 [translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
 [Travis Client](https://github.com/brave-warrior/TravisClient-Android) | Android client for Travis CI  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.khmelenko.lab.travisclient)  
-[TeacherAttendanceMonitoring](https://github.com/landtanin/TeacherAttendanceMonitoring) | Student attendance monitoring system (app for teacher). | Java |
+[TeacherAttendanceMonitoring](https://github.com/landtanin/TeacherAttendanceMonitoring) | Student attendance monitoring system (app for teachers). | Java |
 
 
 ### U  
