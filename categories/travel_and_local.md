@@ -107,7 +107,7 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [Transportr](https://github.com/grote/Transportr) | Aims to make public transport as esay as possible wherever you are. | Java  | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.grobox.liberario)
+ [Transportr](https://github.com/grote/Transportr) | Aims to make public transport as easy as possible wherever you are. | Java  | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.grobox.liberario)
  [Travel Mate](https://github.com/Swati4star/Travel-Mate) | A complete travel guide | Java  |
 
 ### U  
