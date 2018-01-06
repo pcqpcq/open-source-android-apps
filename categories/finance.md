@@ -99,7 +99,7 @@ App Name                   | Describe                  | Major Language         
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[StocksWidget](https://github.com/premnirmal/StockTicker) | A resizable widget that shows your financial portfolio on your android home screen. | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget) 
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
