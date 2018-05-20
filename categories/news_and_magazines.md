@@ -20,6 +20,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [CrimeTalk Reader](https://github.com/JohnPersano/CrimeTalk-Reader) | The CrimeTalk Reader app is a free and open source application designed for devices running Android Ice Cream Sandwich (4.0) and above. Lightweight and minimalistic, the CrimeTalk Reader is the perfect application to browse CrimeTalk articles on your Android device. | Java |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=uk.org.crimetalk)    
+[CatchUp ](https://github.com/hzsweers/CatchUp) | CatchUp is open source, multi-service “front page” app, displaying the front page of a number of different services in a per-service-themed, consistent, at-a-glance UI. It would be explicitly un-comprehensive by design, and just deeplink into one of those dedicated apps accordingly if the user wants to deep dive. | Kotlin |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.sweers.catchup)    
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
