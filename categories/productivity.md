@@ -12,7 +12,8 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | |   
+[Bugzy](https://github.com/cpunq/bugzy)|A production android app (Fogbugz Android Client) built with Android Jetpack | Java |
+
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
