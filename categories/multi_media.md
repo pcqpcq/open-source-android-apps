@@ -99,7 +99,8 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [PDF Creator](https://github.com/Swati4star/Images-to-PDF) | An app to convert images to PDF file  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/app/swati4star.createpdf)       
-[philm](https://github.com/chrisbanes/philm) | Movie collection and information app for Android. | Java |   
+[philm](https://github.com/chrisbanes/philm) | Movie collection and information app for Android. | Java |
+[Phonograph](https://github.com/kabouzeid/Phonograph)| A beautiful Material Design music player. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone)
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
