@@ -113,6 +113,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
 [StartupNews](https://github.com/halzhang/Startupnews) | An Android Startup News Client! http://news.dbanotes.net/ | Java | 
+[somosOCO](https://github.com/pekebyte/somosoco) | A blogger blog reader android app http://somosoco.blogspot.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.pekebyte.somosoco)  
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
