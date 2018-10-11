@@ -21,14 +21,14 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [cantstoptherock](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game | Java |
 [Chase Whisply](https://github.com/tvbarthel/ChaseWhisplyProject) | an augmented reality attempt | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply)
-[Clones Online](https://github.com/lukedd3/ClonesOnline) | Online multiplayer Android board game | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.luke.Clones)   
-[Cloud Cup](https://github.com/google/cloud-cup-android) | Firebase Android client of the a multi device game https://cloud-cup.firebaseapp.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.steren.cloudcup)   
+[Clones Online](https://github.com/lukedd3/ClonesOnline) | Online multiplayer Android board game | Java | 
+[Cloud Cup](https://github.com/google/cloud-cup-android) | Firebase Android client of the a multi device game https://cloud-cup.firebaseapp.com/ | Java |    
 [Pie Noon](https://github.com/google/pienoon) | Multiplayer party game where you can throw pies at your friends. http://google.github.io/pienoon/ | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.fpl.pie_noon)   
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | A game of dungeon exploration, combat and magic, involving characters of diverse skills, worshipping deities of great power and caprice. | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.newtzgames.dcssonline) 
+[Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | A game of dungeon exploration, combat and magic, involving characters of diverse skills, worshipping deities of great power and caprice. | C++ |  
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
@@ -38,7 +38,7 @@ App Name                   | Describe                  | Major Language         
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[friendspell](https://github.com/chiuki/friendspell) | Party icebreaker game based on the Google Nearby API | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.sqisland.friendspell)   
+[friendspell](https://github.com/chiuki/friendspell) | Party icebreaker game based on the Google Nearby API | java |    
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
@@ -46,7 +46,7 @@ App Name                   | Describe                  | Major Language         
 [Gloomy Dungeons 3D](https://github.com/restorer/Gloomy-Dungeons-3D) | Old-school 3D shooter | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=zame.GloomyDungeons.freedemo.game)
 [Gloomy Dungeons 2: Blood Honor](https://github.com/restorer/gloomy-dungeons-2) | Continuation of old-school 3D shooter | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.zamedev.gloomydungeons2.fullnfree)
 [Google Santa Tracker](https://github.com/google/santa-tracker-android) | Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period.  | Java | |
-[GameOfCards](https://github.com/rohitramkumar308/GameOfCards) | A simple cards game without any rules. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=srk.syracuse.gameofcards)|
+[GameOfCards](https://github.com/rohitramkumar308/GameOfCards) | A simple cards game without any rules. | Java | 
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
@@ -76,7 +76,7 @@ App Name                   | Describe                  | Major Language         
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Material Life](https://github.com/juankysoriano/MaterialLife) | A Material Design styled Game of Life for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.juankysoriano.materiallife)
+[Material Life](https://github.com/juankysoriano/MaterialLife) | A Material Design styled Game of Life for Android | Java | 
 [Memory Game](https://github.com/sromku/memory-game) | Simple and beautiful memory game for kids  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.snatik.matches)
 [Minetest](https://github.com/minetest/minetest) | Minetest, an open source infinite-world block sandbox game with survival and crafting. [also https://github.com/minetest/minetest_game] http://www.minetest.net/  | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.minetest.minetest)
 
@@ -116,7 +116,7 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) | Indie Turn Based Strategy in Isometric Pixel Art | GDScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=in.p1x.tof.beta)
+[Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) | Indie Turn Based Strategy in Isometric Pixel Art | GDScript | 
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
