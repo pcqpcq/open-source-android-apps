@@ -20,7 +20,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [CoCoin](https://github.com/Nightonke/CoCoin) | Multi-view Accounting Application. | Java |[![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Nightonke/CoCoin/tree/master/APK)
 [Coins](https://github.com/nothingmagical/coins-android) | A simple app to see how much your Bitcoins are worth. | Java |
-[Currency Converter](https://github.com/samanyougarg/Currency-Converter-Android) | A simple and easy-to-use material design currency converter for android. | Java |[![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.appisode.currencyconverter) 
+
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
@@ -34,7 +34,7 @@ App Name                   | Describe                  | Major Language         
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Financius](https://github.com/mvarnagiris/financius-public) | Financius is a simple application that helps you log and track your expenses and keep an eye on your balance. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.code44.finance)
+[Financius](https://github.com/mvarnagiris/financius-public) | Financius is a simple application that helps you log and track your expenses and keep an eye on your balance. | Java | 
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
