@@ -2,12 +2,12 @@
 ### \#  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[9elements One Watch Face](https://github.com/9elements/9elements-One-for-Android-Wear) | A custom watch face for square Android Wear devices. | Java |  
+| | |
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Arcade Watchface](https://github.com/prempalsingh/arcade-watchface) | Arcade style watchface for Android Wear | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.prempal.arcadewatchface)   
+[Arcade Watchface](https://github.com/prempalsingh/arcade-watchface) | Arcade style watchface for Android Wear | Java |   
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
@@ -82,7 +82,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [Pomodoro](https://github.com/vngrs/PomoPomoAndroid)| Yet Another Android Pomodoro Client|java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.vngrs.android.pomodoro) 
+ [Pomodoro](https://github.com/vngrs/PomoPomoAndroid)| Yet Another Android Pomodoro Client|java | 
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
@@ -112,13 +112,13 @@ App Name                   | Describe                  | Major Language         
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Voice Activated Tip Calculator](https://github.com/mbcrump/FirstGoogleWearableApp) | This Google Wear app includes voice recognition that will calculate a tip. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.michaelcrump.voicetipcalculator)  
+[Voice Activated Tip Calculator](https://github.com/mbcrump/FirstGoogleWearableApp) | This Google Wear app includes voice recognition that will calculate a tip. | Java | 
 
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Wear for Swarm](https://github.com/sealskej/wear-for-swarm) | Swarm (aka Foursquare) for Android Wear! | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.seal.swarmwear)   
-[Wearable Chess](https://github.com/mitchazj/Wearable-Chess) | Chess for Android Wear | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.orangutandevelopment.wearablechess)   
+[Wear for Swarm](https://github.com/sealskej/wear-for-swarm) | Swarm (aka Foursquare) for Android Wear! | Java | 
+[Wearable Chess](https://github.com/mitchazj/Wearable-Chess) | Chess for Android Wear | Java |   
 [WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
 [WearTimer](https://github.com/brave-warrior/WearTimer) | Improved stopwatch & timer for Android Wear | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.cologne.hackaton.wearstopwatch)
 [Wear Notify for Reddit](https://github.com/emmaguy/wear-notify-for-reddit) | Reddit for Android Wear | Java |
