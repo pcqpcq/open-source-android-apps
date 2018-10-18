@@ -128,6 +128,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Timber](https://github.com/naman14/Timber) | Material Design Music Player | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=naman14.timber)
+[Telecine](https://github.com/JakeWharton/Telecine) | Record full resolution video | Java
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
