@@ -33,7 +33,8 @@ App Name                   | Describe                  | Major Language         
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+[fitPlant](https://github.com/KrisKodira/fitPlant) | A fitness app for iOS, Android and the Web where you are able to grow artificial plants and track your exercise progress in a simple and fun way. | none yet | |
+
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
