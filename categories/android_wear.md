@@ -82,7 +82,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [Pomodoro](https://github.com/vngrs/PomoPomoAndroid)| Yet Another Android Pomodoro Client|java | 
+ [Pomodoro](https://github.com/vngrs/PomoPomoAndroid)| Yet Another Android Pomodoro Client|Java | 
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
