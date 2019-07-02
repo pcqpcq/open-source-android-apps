@@ -77,7 +77,7 @@ App Name                   | Describe                  | Major Language         
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[OpenShop.io](https://github.com/openshopio/openshop.io-android) | First mobile E-commerce solution connected to Facebook Ads and Google. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=bf.io.openshop)
+[OpenShop.io](https://github.com/openshopio/openshop.io-android) | First mobile E-commerce solution connected to Facebook Ads and Google. | Java | 
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
