@@ -82,7 +82,7 @@ App Name                   | Describe                  | Major Language         
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[KDEConnect](https://github.com/KDE/kdeconnect-android) |KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer). |Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) 
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
