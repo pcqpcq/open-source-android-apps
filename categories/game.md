@@ -33,7 +33,8 @@ App Name                   | Describe                  | Major Language         
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Etheroll](https://github.com/AndreMiras/EtherollApp) | Dice game running on the Ethereum blockchain | Python | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/com.github.andremiras.etheroll)
+
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
