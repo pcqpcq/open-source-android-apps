@@ -38,7 +38,7 @@ App Name                   | Describe                  | Major Language         
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[GivesMeHope](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Gives Me Hope Android client for educational purposes. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.jparkie.givesmehope)
+[GivesMeHope](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Gives Me Hope Android client for educational purposes. | Java | 
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
@@ -49,7 +49,7 @@ App Name                   | Describe                  | Major Language         
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[IELTS Vocabulary Flashcards](https://github.com/bychkovdmitrii/words) | Flashcards for IELTS exam. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.dbychkov.words) 
+ | | |  
 
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
@@ -100,8 +100,7 @@ App Name                   | Describe                  | Major Language         
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
-[Sahayak](https://github.com/Neophytes/microsoft-pragyan-hackathon) |An android app aimed to make a fun-filled educational tool for naives. Aimed at rural children and adults |Java |
-[Seashell-app](https://github.com/drakeet/Seashell-app) | 贝壳单词 APP Android 客户端 | Java |   
+[Sahayak](https://github.com/Neophytes/microsoft-pragyan-hackathon) |An android app aimed to make a fun-filled educational tool for naives. Aimed at rural children and adults |Java |   
 [Stepic](https://github.com/StepicOrg/stepic-android) | Free online courses with certificates | Java+Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.stepic.droid)  
 
 ### T  
@@ -112,7 +111,7 @@ App Name                   | Describe                  | Major Language         
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=solutions.alterego.android.unisannio)   
+[Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | 
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 

@@ -33,7 +33,8 @@ App Name                   | Describe                  | Major Language         
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+[fitPlant](https://github.com/KrisKodira/fitPlant) | A fitness app for iOS, Android and the Web where you are able to grow artificial plants and track your exercise progress in a simple and fun way. | none yet | |
+
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
@@ -73,7 +74,7 @@ App Name                   | Describe                  | Major Language         
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[NightSight](https://github.com/meghalagrawal/NightSight) |An App that Decreases your Phone's brightness below system's lowest level.| | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=meghal.developer.nightsight.project) 
+[NightSight](https://github.com/meghalagrawal/NightSight) |An App that Decreases your Phone's brightness below system's lowest level.| |  
 
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
