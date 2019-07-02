@@ -125,7 +125,7 @@ App Name                   | Describe                  | Major Language         
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[wechat](https://github.com/motianhuo/wechat) | 高仿微信 | | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk)   
+[WeChat](https://github.com/motianhuo/wechat) | It is a copy of WeChat developed by Tencent. | | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk)   
 [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie) | Simple application transmitting audio from mic to all devices running the same program on the same network segment. Use NSD for device discovery. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.jsl.wfwt)
 [Wire](https://github.com/wireapp/wire) | Messenger application that encrypts end to end communication. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.wire&hl=en)
 
