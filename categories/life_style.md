@@ -82,7 +82,8 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+| | |
+
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
@@ -92,7 +93,7 @@ App Name                   | Describe                  | Major Language         
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+[Reminder Pro](https://github.com/FarshidRoohi/ReminderPro) | features now available: Ability to record and share sound, pad, ability to add geographic location and notification, two language app, ability to change how you view the map with your taste. | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ir.farshid.roohi.reminderpro)
 
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
