@@ -98,7 +98,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[PDF Converter](https://github.com/Swati4star/Images-to-PDF) | An app to convert images to PDF file  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=swati4star.createpdf)
+[PDF Converter](https://github.com/Swati4star/Images-to-PDF) | An app to modify & create PDF files  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=swati4star.createpdf)
 [philm](https://github.com/chrisbanes/philm) | Movie collection and information app for Android. | Java |   
 
 ### Q  
