@@ -65,6 +65,8 @@ App Name                   | Describe                  | Major Language         
 [Launcher3](https://github.com/amirzaidi/Launcher3) | Launcher3 with Pixel Launcher features  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/amirzaidi/Launcher3/releases/latest)   
 [Lens Launcher](https://github.com/nicholasrout/lens-launcher) | Source Code & Resources for Lens Launcher  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=nickrout.lenslauncher)
 [LoneColor](https://github.com/appgramming/LoneColor-Android) | Set an instant beautiful color wallpaper with one tap, and a zero interface app  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.appgramming.lonecolor)  
+[Lawnchair V1](https://github.com/LawnchairLauncher/Lawnchair-V1) | Lawnchair is a free, open source launcher aiming at bringing Pixel Launcher features to many devices. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah&hl=en_US)
+[Lawnchair V2](https://github.com/LawnchairLauncher/Lawnchair) | Lawnchair is the customizable Pixel Launcher alternative. | Java |![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)|(https://www.apkmirror.com/apk/deletescape/lawnchair/)
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
