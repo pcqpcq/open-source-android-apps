@@ -16,7 +16,7 @@ App Name                   | Describe                  | Major Language         
 [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) | Amaze File Manager. | Java |   
 [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor) | Monitors and records the CPU and memory usage of Android devices | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.anothermonitor)  
 [Andlytics](https://github.com/AndlyticsProject/andlytics)| Google Play - Android Market statistics app | Java |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.andlyticsproject)
-
+[AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) | Any Soft Keyboard is an open-source, on-screen keyboard with multiple languages support with emphasis on privacy. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.menny.android.anysoftkeyboard&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1)
 ### B  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
