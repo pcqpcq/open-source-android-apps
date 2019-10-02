@@ -116,7 +116,7 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss-android) | Tiny Tiny RSS client for Android devices | Java | 
+ | | | 
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
