@@ -10,7 +10,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [AcDisplay](https://github.com/AChep/AcDisplay) | AcDisplay is a new way of handling notifications in Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.achep.acdisplay)  
 [AFWall+ (Android Firewall +)](https://github.com/ukanth/afwall) | AFWall+ (Android Firewall +) - IPTables based firewall for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)  
-[AppOpsX](https://github.com/8enet/AppOpsX) | AppOpsX is a front-end application for the Android AppOpsService. It allows you to restrict app permissions.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.zzzmode.appopsx)  
+[AppOpsX](https://github.com/8enet/AppOpsX) | AppOpsX is a front-end application for the Android AppOpsService. It allows you to restrict app permissions.  | Java |   
 [AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector) | AIMSICD against IMSI-Catchers, StingRay and Silent SMS! | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases)  
 [AnExplorer](https://github.com/1hakr/AnExplorer) | AnExplorer File Manager. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)  
 [AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) | Amaze File Manager. | Java |   
@@ -36,8 +36,8 @@ App Name                   | Describe                  | Major Language         
 ### D  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[DashClock Widget](https://github.com/romannurik/dashclock) | Lock screen widget for Android 4.2+  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock)  
-[DesignOverlay](https://github.com/Manabu-GT/DesignOverlay-Android) | Android app which displays design image with grid lines to facilitate the tedious design implementation process  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ms_square.android.design.overlay)
+[DashClock Widget](https://github.com/romannurik/dashclock) | Lock screen widget for Android 4.2+  | Java |  
+[DesignOverlay](https://github.com/Manabu-GT/DesignOverlay-Android) | Android app which displays design image with grid lines to facilitate the tedious design implementation process  | Java | 
 [Developer Toolbelt - Fill RAM](https://github.com/T-Spoon/Android-Developer-Toolbelt) | On-device low-memory testing for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tspoon.androidtoolbelt)  
 [Device Control](https://github.com/Evisceration/DeviceControl) | Device Control is an app to control several features of your device as well as some nice extra features  | Java | 
 [Droid Watcher](https://github.com/Odrin/Droid-Watcher) | Android remote control application with rich functionality | Java |
@@ -71,7 +71,7 @@ App Name                   | Describe                  | Major Language         
 ### I  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[Intent Intercept](https://github.com/intrications/intent-intercept) | This app attempts to intercept as many intents as possible in order to examine their contents. This helps when trying to develop an app that reacts to a particular intent.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=uk.co.ashtonbrsc.android.intentintercept) [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/uk.co.ashtonbrsc.android.intentintercept)
+[Intent Intercept](https://github.com/intrications/intent-intercept) | This app attempts to intercept as many intents as possible in order to examine their contents. This helps when trying to develop an app that reacts to a particular intent.  | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/uk.co.ashtonbrsc.android.intentintercept)
 [Install Referrer](https://github.com/SimonMarquis/Android-InstallReferrer) | Test the referrer attribute on the Google Play Store | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.installreferrer)
 
 ### J  
@@ -122,7 +122,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[Permission Nanny](https://github.com/littledot/Permission-Nanny) | Permission Nanny is an application that can access resources which are protected by permissions on your behalf, so that your application does not need to declare permission usage in your AndroidManifest.xml. With Permission Nanny, it is possible for your application to not require any permissions at all, yet still be able to access permission-protected resources.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.permissionnanny)  
+[Permission Nanny](https://github.com/littledot/Permission-Nanny) | Permission Nanny is an application that can access resources which are protected by permissions on your behalf, so that your application does not need to declare permission usage in your AndroidManifest.xml. With Permission Nanny, it is possible for your application to not require any permissions at all, yet still be able to access permission-protected resources.  | Java |  
 [photo-affix](https://github.com/afollestad/photo-affix) | Stitch your photos together vertically or horizontally without even trying! http://aidanfollestad.com  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://github.com/afollestad/photo-affix/raw/master/apk/PhotoAffix.apk)  
 [Prey Anti Theft](https://github.com/prey/prey-android-client) | Android client for the Prey anti-theft software. https://preyproject.com/  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.prey)
 [Preferences Manager](https://github.com/SimonMarquis/Android-PreferencesManager) | View and edit application's preferences | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.preferencesmanager)
@@ -145,7 +145,6 @@ App Name                   | Describe                  | Major Language         
 [SeeWeather](https://github.com/xcc3641/SeeWeather) | RxAndroid+Retrofit+Glide+Matrial Design Weather App  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.wandoujia.com/apps/com.xiecc.seeWeather)  
 [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) | CleanMaster open source clone | Java |  
 [S Tools+](https://github.com/naman14/S-Tools) | Keep track of your CPU and Sensors alongwith useful features like Color Picker,Compass and device information | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.naman14.stools)
-[SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) | 验证码助手，是一款 Material Design 的验证码管理器轻应用~它可以在手机接收到验证码短信的时候，自动浮现验证码，并且自动复制验证码到用户的剪切板。当用户接收到短信验证码，用户只要长按验证码的输入框，粘贴验证码即可。 | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.drakeet.inmessage)  
 [StockTicker](https://github.com/premnirmal/StockTicker) | A resizable stock ticker widget for your android home screen | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget)
 [Secret Codes](https://github.com/SimonMarquis/Android-SecretCodes) | Explore and test your device secret codes | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.secretcodes)
 [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) | A Calculator with the basic functions and a customizable widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.calculator)
@@ -161,8 +160,8 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[Talalarmo Alarm Clock](https://github.com/trikita/talalarmo) | Android alarm clock  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=trikita.talalarmo)  
-[Telecine](https://github.com/JakeWharton/Telecine) | Record full-resolution video on your Android devices. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.jakewharton.telecine)  
+[Talalarmo Alarm Clock](https://github.com/trikita/talalarmo) | Android alarm clock  | Java | 
+[Telecine](https://github.com/JakeWharton/Telecine) | Record full-resolution video on your Android devices. | Java |   
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) | A VT-100 terminal emulator for the Android OS | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jackpal.androidterm)  
 [ToGoZip](https://github.com/k3b/ToGoZip/) | "Add To Zip" for android's share/send menu. | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.toGoZip)
 [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) | Smart App Lock for Android http://www.toolwiz.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.cleanwiz.applock)  
@@ -174,7 +173,7 @@ App Name                   | Describe                  | Major Language         
 ### U  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[UPnP Browser](https://github.com/dgmltn/Android-UPnP-Browser) | Simple UPnP Browser with Material style | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.dgmltn.upnpbrowser)  
+[UPnP Browser](https://github.com/dgmltn/Android-UPnP-Browser) | Simple UPnP Browser with Material style | Java |  
 [UrlScheme Interceptor](https://github.com/SimonMarquis/Android-UrlSchemeInterceptor) | Intercept and debug url scheme on Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.smarquis.usi.sample)
 
 ### V  
