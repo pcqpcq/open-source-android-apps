@@ -21,8 +21,8 @@ App Name                   | Describe                  | Major Language         
 [Cannonball](https://github.com/twitterdev/cannonball-android) | Cannonball is the fun way to create and share stories and poems on your phone. | Java |   
 [Cotable](https://github.com/wlemuel/Cotable) | Cnblogs Client for Android - Material Design http://www.cnblogs.com (Chinese) | Java |    
 [CNode-android](https://github.com/iwhys/CNode-android) | Android client for https://cnodejs.org/ (Chinese) | Java |  [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/iwhys/CNode-android/releases)  
-[CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) | CNode for Material Design | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.cnodejs.android.md)   
-[Coding](https://coding.net/u/coding/p/Coding-Android/git) | Official android client for http://coding.net | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.coding.program)   
+[CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) | CNode for Material Design | Java |   
+[Coding](https://coding.net/u/coding/p/Coding-Android/git) | Official android client for http://coding.net | Java | 
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
@@ -46,7 +46,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:   
 [Git.NB](https://github.com/Jeffmen/Git.NB) | A app client for Github | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Jeffmen/Git.NB/tree/master/apk)  
-[Gitskarios](https://github.com/gitskarios/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
+[Gitskarios](https://github.com/gitskarios/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | 
 [Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)
 [GSD Mobile](https://github.com/rgocal/GSD_Mobile) | This is a mobile app I made for my website. I decided to open source it as a learning project for fellow followers. It teaches basic RSS usage, JSON usage and general practice of material design and bottom tab navigation. | Java | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/intl/en_us/badges/)
 [Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | 
@@ -127,7 +127,6 @@ App Name                   | Describe                  | Major Language         
 [Tweet Lanes](https://github.com/chrislacy/TweetLanes) | Tweet Lanes for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tweetlanes.android)   
 [Twidere-Android](https://github.com/TwidereProject/Twidere-Android/) | Twitter client for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)   
 [Twitter Lists](https://github.com/MPieter/TwitterLists) | An Android application to manage your Twitter lists. | Java |
-[Twiader](https://github.com/jydimir/Twiader) | Twitter speech reader | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/jydimir/Twiader/blob/master/release/app-release.apk?raw=true)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
