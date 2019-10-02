@@ -137,7 +137,7 @@ App Name                   | Describe                  | Major Language         
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Yaaic](https://github.com/pocmo/Yaaic) | Yaaic (Yet Another Android IRC Client) is as the name already says an Internet Relay Chat (IRC) client for Android devices. http://www.yaaic.org | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.yaaic)  
+[Yaaic](https://github.com/pocmo/Yaaic) | Yaaic (Yet Another Android IRC Client) is as the name already says an Internet Relay Chat (IRC) client for Android devices. http://www.yaaic.org | Java |   
 
 ### Z  
 App Name                   | Describe                  | Major Language             | Download 
