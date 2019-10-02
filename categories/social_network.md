@@ -99,7 +99,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[PHPHub Android](https://github.com/CycloneAxe/phphub-android) | Android client of PHPHub https://phphub.org/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/phphub) 
+[PHPHub Android](https://github.com/CycloneAxe/phphub-android) | Android client of PHPHub | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/phphub) 
 [PocketHub](https://github.com/pockethub/PocketHub) | PocketHub Android App. This is the same repository as the now-defunct official GitHub Android app. | Java |  
 
 ### Q  
