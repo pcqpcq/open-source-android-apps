@@ -111,7 +111,7 @@ App Name                   | Describe                  | Major Language         
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | 
+ | | | 
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
@@ -121,7 +121,7 @@ App Name                   | Describe                  | Major Language         
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[WaniKani for Android](https://github.com/xiprox/WaniKani-for-Android) | An Android client application for the awesome kanji learning website wanikani.com | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=tr.xip.wanikani)
+[WaniKani for Android](https://github.com/xiprox/WaniKani-for-Android) | An Android client application for the awesome kanji learning website wanikani.com | Java | 
 
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
