@@ -24,7 +24,7 @@ App Name                   | Describe                  | Major Language         
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[DevJournal](https://github.com/alistairholmes/devjournal) |  Jott down your dev life, ideas, notes, to-dos, bugs. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.alistairholmes.devjournal)
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
