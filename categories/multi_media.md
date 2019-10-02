@@ -94,7 +94,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [OCiney](https://github.com/florent37/OCiney) | Allociné movie app | Java |
-[OpenImgur](https://github.com/Kennyc1012/Opengur) |Open source Imgur Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.kennyc.open.imgur) 
+[OpenImgur](https://github.com/Kennyc1012/Opengur) |Open source Imgur Android App | Java | 
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
