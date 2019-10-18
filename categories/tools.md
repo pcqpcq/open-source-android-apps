@@ -3,7 +3,7 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+ |  |  |
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download
@@ -46,7 +46,7 @@ App Name                   | Describe                  | Major Language         
 ### E  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+ |  |  |
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download
@@ -66,7 +66,7 @@ App Name                   | Describe                  | Major Language         
 ### H  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+ |  |  |
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download
@@ -91,6 +91,7 @@ App Name                   | Describe                  | Major Language         
 [LibreTorrent](https://github.com/proninyaroslav/libretorrent) | LibreTorrent is an ad-free, open-source, Material Design torrent client with IP filtering, Tor support, proxy support, automatic file moving, sequential downloading, and the ability to select files for download.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)  
 [LittleFreshWeather](https://github.com/ZeusChan/LittleFreshWeather) | 这是一款简洁的天气预报app--清新小天气，它能够支持国内绝大多数城市，提供包含实时天气、七天预报、实时气象信息及生活指数等预报信息，动画展示天气状况。 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/ZeusChan/LittleFreshWeather/master/LittleFreshWeather-release.apk)
 [lmgtfyGen](https://github.com/WilderPereira/lmgtfyGen) | lmgtfyGen is an app that allows the creation of lmgtfy urls with an embedded url shortener to hide the LMGTFY url.
+[LeafPic](https://github.com/HoraApps/LeafPic) | An ad-free, open-source and material-designed android gallery alternative | Kotlin | 
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download
@@ -131,7 +132,7 @@ App Name                   | Describe                  | Major Language         
 ### Q  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+ |  |  |
 
 ### R  
 App Name                   | Describe                  | Major Language             | Download
@@ -148,6 +149,7 @@ App Name                   | Describe                  | Major Language         
 [SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) | 验证码助手，是一款 Material Design 的验证码管理器轻应用~它可以在手机接收到验证码短信的时候，自动浮现验证码，并且自动复制验证码到用户的剪切板。当用户接收到短信验证码，用户只要长按验证码的输入框，粘贴验证码即可。 | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.drakeet.inmessage)  
 [StockTicker](https://github.com/premnirmal/StockTicker) | A resizable stock ticker widget for your android home screen | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget)
 [Secret Codes](https://github.com/SimonMarquis/Android-SecretCodes) | Explore and test your device secret codes | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.secretcodes)
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy. Surf the internet privately and securely. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) | A Calculator with the basic functions and a customizable widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.calculator)
 [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) | A Calendar with a customizable widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar)
 [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) | A front/rear camera with a flash | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.camera)
@@ -155,6 +157,7 @@ App Name                   | Describe                  | Major Language         
 [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) | A simple file manager for browsing the storage | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager)
 [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) | Well, a simple flashlight | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
 [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) | A simple textfield for simple notes with a widget | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.notes)
+[SoundRecorder](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app implementing Material Design | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)
 [Status](https://github.com/TheAndroidMaster/Status) | A no-root status bar replacement for Android. | Java [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.james.status)
 [StudentAttendanceCheck](https://github.com/landtanin/StudentAttendanceCheck) | Student attendance monitoring system. | Java |
 
@@ -180,7 +183,7 @@ App Name                   | Describe                  | Major Language         
 ### V  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+ |  |  |
 
 ### W  
 App Name                   | Describe                  | Major Language             | Download
@@ -195,7 +198,7 @@ App Name                   | Describe                  | Major Language         
 ### Y  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+ |  |  |
 
 ### Z  
 App Name                   | Describe                  | Major Language             | Download

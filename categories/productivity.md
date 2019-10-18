@@ -2,17 +2,17 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | Material design file manager for Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | |   
+ |  |  |
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
@@ -24,7 +24,7 @@ App Name                   | Describe                  | Major Language         
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
@@ -35,12 +35,12 @@ App Name                   | Describe                  | Major Language         
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
@@ -55,12 +55,12 @@ App Name                   | Describe                  | Major Language         
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[K-9 Mail](https://github.com/k9mail/k-9) | Advanced Email for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.fsck.k9)
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
@@ -86,6 +86,7 @@ App Name                   | Describe                  | Major Language         
 [Omni Notes](https://github.com/federicoiosue/Omni-Notes) | Open source note-taking application for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)  
 [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) | Android application for scanning and manipulating handwritten notes and documents. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.todobom.opennotescanner) 
 [Outlay](https://github.com/bmelnychuk/outlay) | Application to track expenses. | Java |  
+[ownCloud](https://github.com/owncloud/android) | Organize and Store everything . | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.owncloud.android)  
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
@@ -121,7 +122,7 @@ App Name                   | Describe                  | Major Language         
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
@@ -131,19 +132,19 @@ App Name                   | Describe                  | Major Language         
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### Z  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |

@@ -9,7 +9,7 @@ App Name                   | Describe                  | Major Language         
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
@@ -24,7 +24,7 @@ App Name                   | Describe                  | Major Language         
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
@@ -36,6 +36,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Flym News Reader](https://github.com/FredJul/Flym) | Flym News Reader is a light and modern Android feed reader, based on Sparse rss. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.fred.feedex)  
 [frisbee](https://github.com/gdg-x/frisbee) | Android application for the GDG members. | Java |   
+[FastHub](https://github.com/android/plaid) | The ultimate GitHub client for Android | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.fastaccess.github) 
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
@@ -89,13 +90,14 @@ App Name                   | Describe                  | Major Language         
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Plaid](https://github.com/nickbutcher/plaid) | Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/apps/testing/io.plaidapp) 
 [Predator for ProductHunt](https://github.com/crazyhitty/Capstone-Project) | Predator is a minimalistic client for ProductHunt. It shows latest products and collections fetched via ProductHunt api. It also offers other information like media and comments associated with that product. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.crazyhitty.chdev.ks.predator) 
+[Plaid](https://github.com/android/plaid) | An Android app which provides design news & inspiration | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/apps/testing/io.plaidapp) 
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
@@ -126,7 +128,7 @@ App Name                   | Describe                  | Major Language         
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
@@ -136,7 +138,7 @@ App Name                   | Describe                  | Major Language         
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 
