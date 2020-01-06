@@ -61,7 +61,8 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [GfyCat](https://github.com/dlew/android-gfycat) | Android application that loads gifs via gfycat for efficiency's sake  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/dlew/android-gfycat/releases)  
 [GitHub Status](https://github.com/cdeange/github-status) | Simple app to connect to Github's status API  | Java |   
-[GridWichterle](https://github.com/inmite/android-grid-wichterle) | This app will show grid overlay over whole system which helps you to verify your excellent app design.  | Java |   
+[GridWichterle](https://github.com/inmite/android-grid-wichterle) | This app will show grid overlay over whole system which helps you to verify your excellent app design.  | Java | 
+[Good Weather](https://github.com/qqq3/good-weather) | Open source weather app for Andorid | Java |
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download
