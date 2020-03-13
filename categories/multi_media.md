@@ -140,7 +140,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Vanilla Music](https://github.com/vanilla-music/vanilla) | Vanilla Music is a clean, simple and free (opensource) music player. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ch.blinkenlights.android.vanilla)
-[VLC for Android](https://github.com/videolan/vlc) | VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. | C | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en)
+[VLC for Android](https://github.com/videolan/vlc-android) | VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. | C | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en)
 
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
