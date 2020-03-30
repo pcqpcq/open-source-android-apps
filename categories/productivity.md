@@ -52,10 +52,11 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Instalist](https://github.com/InstaList/instalist-android) | An app that helps you to manage shoppinglists. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.noorganization.instalist)
+
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Joplin](https://github.com/laurent22/joplin)| A markdown-based note taking app with sync and E2EE | React Native, NodeJS | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.cozic.joplin)
 
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
