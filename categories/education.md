@@ -112,6 +112,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | 
+[Ulangi](https://github.com/ulangi/ulangi/) | Learn languages using popular methods such as spaced repetition system | TypeScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ulangi) 
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
