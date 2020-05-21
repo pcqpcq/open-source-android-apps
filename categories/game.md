@@ -8,7 +8,7 @@ App Name                   | Describe                  | Major Language         
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Anti-mine](https://github.com/lucasnlm/antimine-android) | A puzzle game minesweeper-like | Kotlin | [![Get it on Google Play](https://play.google.com/store/apps/details?id=com.logical.minato)   
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
