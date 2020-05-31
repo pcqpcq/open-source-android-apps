@@ -23,7 +23,7 @@ App Name                   | Describe                  | Major Language         
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ [Doctor Online](https://github.com/Piashsarker/ionic-doctor-online)| This application is purely a kitchen-sink demo of the Ionic Framework and Angular. This project is just to show off Ionic components in a real-world application. | TypeScript | 
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
