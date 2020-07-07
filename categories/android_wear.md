@@ -8,6 +8,8 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Arcade Watchface](https://github.com/prempalsingh/arcade-watchface) | Arcade style watchface for Android Wear | Java |   
+[AsteroidOS](https://github.com/AsteroidOS/asteroid) | AsteroidOS is a free and open-source smartwatch platform based on OpenEmbedded, libhybris and Qt5. | Shell | N/A
+[AsteroidOS Sync](https://github.com/AsteroidOS/AsteroidOSSync) | Synchronize the time, notifications and more with your AsteroidOS smartwatch. | Java | [![Get it on Third-party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/packages/org.asteroidos.sync/)
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
@@ -63,6 +65,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [LapseFace](https://github.com/OhMyLob/LapseFace) | LapseFace | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.lob.lapseface)   
+[LCARS Watchface for AsteroidOS](https://github.com/llelectronics/lcars-v1-watchface-asteroidos) | LCARS Watchface for AsteroidOS | QML | N/A
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
