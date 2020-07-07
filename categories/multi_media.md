@@ -60,7 +60,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [heMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful and elegant music player for Android. | Java |   
-[Jellyfin](https://github.com/jellyfin/jellyfin-android) | Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. [![Get it on Google Play](https://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
+[Jellyfin](https://github.com/jellyfin/jellyfin-android) | Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. | Java | [![Get it on Google Play](https://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
