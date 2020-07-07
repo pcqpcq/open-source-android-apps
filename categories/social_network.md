@@ -60,6 +60,7 @@ App Name                   | Describe                  | Major Language         
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) | This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 [Insta Profile Downloader](https://github.com/hemant3370/Insta) | Instagram Profile Media Downloader and Viewer. | Java | 
 [InstaMaterial](https://github.com/frogermcs/InstaMaterial) | Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/frogermcs/frogermcs.github.io/raw/master/files/10/InstaMaterial-release-1.0.1-2.apk)     
 [Impeller](https://github.com/oshepherd/Impeller) | Impeller is a rich, featureful client for the Pump.io open, federated social network, built to give you the best experience possible over both your phone and tablet. | Java | 
@@ -122,6 +123,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) | 100% open source version of my popular Talon for Twitter app on Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.klinker.android.twitter_l) 
+[TikTok App Clone](https://github.com/mcofie/Tik-Tok-App-Clone-Flutter) | This is a basic mobile application that uses the flutter framework to create a clone of the Tik Tok App. | Dart | N/A
 [Tusky](https://github.com/Vavassor/Tusky) | A client for Mastodon, a decentralized social network server. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
 [Tweetin](https://github.com/mthli/Tweetin) | Yet another Twitter unofficial client for Lollipop. | Java | 
 [Tweet Lanes](https://github.com/chrislacy/TweetLanes) | Tweet Lanes for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tweetlanes.android)   
