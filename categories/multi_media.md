@@ -8,6 +8,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [ACEMusicPlayer](https://github.com/C-Aniruddh/ACEMusicPlayer) | A material music player for the android platform | Java | 
+[ad-free](https://github.com/abertschi/ad-free) | ad-free is a proof-of-concept of a modularized audio ad blocker written in Kotlin with a modern and simplistic user interface. | Kotlin | [![Get it on Third-party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/packages/ch.abertschi.adfree/)
 [AnimeTaste](https://github.com/daimajia/AnimeTaste) | Taste global original animation | Java | 
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) | A podcast manager for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)   
 [Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
@@ -133,6 +134,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Timber](https://github.com/naman14/Timber) | Material Design Music Player | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=naman14.timber)
 [Telecine](https://github.com/JakeWharton/Telecine) | Record full resolution video | Java
+[Twire](https://github.com/Perflyst/Twire) | Twire is an open source, ad free Twitch browser and stream player for Android. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/packages/com.perflyst.twire/)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
