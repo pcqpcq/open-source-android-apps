@@ -97,7 +97,7 @@ App Name                   | Describe                  | Major Language         
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Have your own Slack like online chat, built with Meteor. https://rocket.chat/  | CoffeeScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.konecty.rocket.chat)   
+[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Have your own Slack like online chat, built with Meteor. https://rocket.chat/  | CoffeeScript |    
 
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
@@ -137,9 +137,9 @@ App Name                   | Describe                  | Major Language         
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Yaaic](https://github.com/pocmo/Yaaic) | Yaaic (Yet Another Android IRC Client) is as the name already says an Internet Relay Chat (IRC) client for Android devices. http://www.yaaic.org | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.yaaic)  
+[Yaaic](https://github.com/pocmo/Yaaic) | Yaaic (Yet Another Android IRC Client) is as the name already says an Internet Relay Chat (IRC) client for Android devices. http://www.yaaic.org | Java |   
 
 ### Z  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Zulip Android](https://github.com/zulip/zulip-android) | Zulip Android app, Powerful open source group chat  https://www.zulip.org/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.zulip.android)  
+[Zulip Android](https://github.com/zulip/zulip-android) | Zulip Android app, Powerful open source group chat  https://www.zulip.org/ | Java | 
