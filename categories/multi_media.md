@@ -18,7 +18,7 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app for Android entirely written using Kotlin language. | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.limecreativelabs.bandhook) 
+[Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app for Android entirely written using Kotlin language. | Kotlin | 
 [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) | An unofficial [bilibili](https://www.bilibili.com/) client for android | Java |
 
 ### C  
@@ -82,7 +82,7 @@ App Name                   | Describe                  | Major Language         
 [MovieGuide](https://github.com/esoxjem/MovieGuide) | An Android app that showcases the MVP pattern and RxJava | Java |    
 [MPDroid](https://github.com/abarisain/dmix) | Fork of pmix that allows streaming (and now much more) | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.namelessdev.mpdroid)   
 [music](https://github.com/psaravan/Music) | Music Elegant music player for Lollipop. | Java | 
-[Music DNA](https://github.com/harjot-oberai/MusicStreamer) | A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.sdsmdg.harjot.MusicDNA)
+[Music DNA](https://github.com/harjot-oberai/MusicStreamer) | A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music. | Java | 
 [Mute for Sonos](https://github.com/cw124/mute-for-sonos) | Mute all your Sonos systems with a single tap of a widget. They will unmute again automatically a while later. Multiple taps of the widget increase the mute time. Uses Cling UPnP library and Jetty | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=uk.co.chriswiggins.muteforsonos)
 
 ### N  
@@ -94,7 +94,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [OCiney](https://github.com/florent37/OCiney) | Allociné movie app | Java |
-[OpenImgur](https://github.com/Kennyc1012/Opengur) |Open source Imgur Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.kennyc.open.imgur) 
+[OpenImgur](https://github.com/Kennyc1012/Opengur) |Open source Imgur Android App | Java | 
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
@@ -111,7 +111,7 @@ App Name                   | Describe                  | Major Language         
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Recorder](https://github.com/zeleven/recorder) | A simple sound recorder app | Java | 
+ | | |
 
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
@@ -119,8 +119,8 @@ App Name                   | Describe                  | Major Language         
 [SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java |   
 [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) | A Simple Photo and Video gallery | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery)
 [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) | A Simple Music Player without ads and unnecessary permissions. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer)
-[SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/simplifyreader)  
-[Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/sky31radio)  
+[SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | 
+[Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 | Java | 
 [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC | Java |   
 [StickerCamera](https://github.com/Skykai521/StickerCamera) | A camera with sticker feature | Java |     
 [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
