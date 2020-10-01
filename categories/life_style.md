@@ -28,7 +28,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
-[Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easyphotomap)
+[Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | Java | 
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
@@ -73,7 +73,7 @@ App Name                   | Describe                  | Major Language         
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Narrate](https://github.com/timothymiko/narrate-android) | A small and simple journal. | Java |[![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.datonicgroup.narrate.app) 
+[Narrate](https://github.com/timothymiko/narrate-android) | A small and simple journal. | Java | 
 
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
