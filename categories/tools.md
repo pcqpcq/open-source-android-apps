@@ -13,7 +13,7 @@ App Name                   | Describe                  | Major Language         
 [AppOpsX](https://github.com/8enet/AppOpsX) | AppOpsX is a front-end application for the Android AppOpsService. It allows you to restrict app permissions.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.zzzmode.appopsx)  
 [AIMSICD](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector) | AIMSICD against IMSI-Catchers, StingRay and Silent SMS! | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/SecUpwN/Android-IMSI-Catcher-Detector/releases)  
 [AnExplorer](https://github.com/1hakr/AnExplorer) | AnExplorer File Manager. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)  
-[AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) | Amaze File Manager. | Java |   
+[AmazeFileManager](https://github.com/arpitkh96/AmazeFileManager) | Amaze File Manager. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.amaze.filemanager)  
 [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor) | Monitors and records the CPU and memory usage of Android devices | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.anothermonitor)  
 [Andlytics](https://github.com/AndlyticsProject/andlytics)| Google Play - Android Market statistics app | Java |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.andlyticsproject)
 
