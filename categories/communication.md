@@ -98,6 +98,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Have your own Slack like online chat, built with Meteor. https://rocket.chat/  | CoffeeScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.konecty.rocket.chat)   
+[RTranslator](https://github.com/niedev/RTranslator) | World's first open-source simultaneous translation app.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=nie.translator.rtranslatordevedition)   
 
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
