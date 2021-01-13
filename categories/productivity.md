@@ -18,7 +18,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Carbon Contacts](https://github.com/abhijith0505/CarbonContacts)|An android app that lets users select duplicates from their contact list and delete them. | Java |
-[Card Case](https://github.com/blocoio/cardcase) | Exchange business cards with people nearby | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.bloco.cardcase)   
+[Card Case](https://github.com/blocoio/cardcase) | Exchange business cards with people nearby | Java |   
 [Conquer](https://github.com/hanks-zyh/Conquer) | A todo list app base Material Design | Java |   
  
 ### D  
@@ -29,8 +29,8 @@ App Name                   | Describe                  | Major Language         
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
-[EverMemo](https://github.com/daimajia/EverMemo) | Fast Record, Organize and Share. The android memo app you will deeply love. ❤  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.zhan_dui.evermemo)  
-[EarthViewer](https://github.com/PDDStudio/earthview-android) | Showcase for earthview-android library and a wallpaper application together in one. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.pddstudio.earthviewer)
+[EverMemo](https://github.com/daimajia/EverMemo) | Fast Record, Organize and Share. The android memo app you will deeply love. ❤  | Java | 
+[EarthViewer](https://github.com/PDDStudio/earthview-android) | Showcase for earthview-android library and a wallpaper application together in one. | Java | 
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
@@ -52,10 +52,11 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Instalist](https://github.com/InstaList/instalist-android) | An app that helps you to manage shoppinglists. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.noorganization.instalist)
+
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Joplin](https://github.com/laurent22/joplin)| A markdown-based note taking app with sync and E2EE | React Native, NodeJS | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.cozic.joplin)
 
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
@@ -77,6 +78,7 @@ App Name                   | Describe                  | Major Language         
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Noice](https://github.com/ashutoshgngwr/noice) | Relax and boost productivity with minimal background noises from realistic sources | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice)  
 [Notes](https://github.com/lguipeng/Notes) | A simple note app with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/com.lguipeng.notes)  
 
 ### O  
@@ -84,7 +86,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Omni Notes](https://github.com/federicoiosue/Omni-Notes) | Open source note-taking application for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)  
 [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) | Android application for scanning and manipulating handwritten notes and documents. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.todobom.opennotescanner) 
-[Outlay](https://github.com/bmelnychuk/outlay) | Application to track expenses. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=app.outlay) 
+[Outlay](https://github.com/bmelnychuk/outlay) | Application to track expenses. | Java |  
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
@@ -105,7 +107,6 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [ShutUp!](https://github.com/RitwickVerma/ShutUp) | ShutUp! - Stay Lazy | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.laughingstock.ritwick.shutup) 
-[SmartisanNote](https://github.com/drakeet/SmartisanNote) | An unofficial Smartisan Notes.  | Kotlin |   
 [Swiftnotes](https://github.com/adrianchifor/Swiftnotes) | Swiftnotes for Android - Note taking, simplified. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.moonpi.swiftnotes)  
 
 ### T  
@@ -116,7 +117,7 @@ App Name                   | Describe                  | Major Language         
 [ToGoZip](https://github.com/k3b/ToGoZip/) | "Add To Zip" for android's share/send menu. | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.toGoZip)
 [tudounotepad](https://github.com/geminiwen/tudounotepad) | A simple Notepad Application developed on Kotlin | Kotlin |  
 [Turbo Editor](https://github.com/vmihalachi/turbo-editor) | Simple, Powerful and Open Source Text Editor for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.maskyn.fileeditor)
-[todotxt](https://github.com/ginatrapani/todo.txt-android) | Official Todo.txt Android app for managing your todo.txt file stored in Dropbox. http://todotxt.com | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch)
+[todotxt](https://github.com/ginatrapani/todo.txt-android) | Official Todo.txt Android app for managing your todo.txt file stored in Dropbox. http://todotxt.com | Java | 
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 

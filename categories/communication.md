@@ -17,7 +17,7 @@ App Name                   | Describe                  | Major Language         
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 
+[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS | Java | 
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
@@ -72,7 +72,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [MaterialQQLite](https://github.com/wang4yu6peng13/MaterialQQLite) | A material style of QQ (based on MingQQ) | Java |  
 [messaging](https://github.com/Odoo-mobile/messaging) | Odoo Mobile Messaging Client. | Java |  
-[mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java | 
+[mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt | Java | 
 
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
@@ -87,7 +87,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ProxyDroid](https://github.com/madeye/proxydroid) | Global Proxy for Android  | C | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.proxydroid)   
+[ProxyDroid](https://github.com/madeye/proxydroid) | Global Proxy for Android  | C |   
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
@@ -110,7 +110,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Tutanota](https://github.com/tutao/tutanota) | Tutanota is the end-to-end encrypted mail client that enables you to communicate securely with anyone.  | JavaScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.tutao.tutanota)  
 [Telegram Messenger](https://github.com/DrKLO/Telegram) | Telegram Messenger for Android https://telegram.org/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.telegram.messenger) 
-[TintBrowser](https://github.com/Anasthase/TintBrowser) | Is an open-source browser for Android 4 and above | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.tint)
+[TintBrowser](https://github.com/Anasthase/TintBrowser) | Is an open-source browser for Android 4 and above | Java | 
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
@@ -120,14 +120,14 @@ App Name                   | Describe                  | Major Language         
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [VideoFly](https://github.com/VideoFly/VideoFly)| VideoFly is a video calling application which enables you to stay in a video call while using other applications.| Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=example.com.videofly)  
+ [VideoFly](https://github.com/VideoFly/VideoFly)| VideoFly is a video calling application which enables you to stay in a video call while using other applications.| Java |   
 
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[wechat](https://github.com/motianhuo/wechat) | 高仿微信 | | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk)   
+[WeChat](https://github.com/motianhuo/wechat) | It is a copy of WeChat developed by Tencent. | | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk)   
 [WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie) | Simple application transmitting audio from mic to all devices running the same program on the same network segment. Use NSD for device discovery. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.jsl.wfwt)
-[Wire](https://github.com/wireapp/wire) | Messenger application that encrypts end to end communication. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.wire&hl=en)
+[Wire](https://github.com/wireapp/wire-android) | Messenger application that encrypts end to end communication. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.wire&hl=en)
 
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
