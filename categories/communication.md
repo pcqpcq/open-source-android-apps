@@ -17,7 +17,7 @@ App Name                   | Describe                  | Major Language         
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS | Java | 
+[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | The most private messaging for Android and iOS | Java | 
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
@@ -102,7 +102,7 @@ App Name                   | Describe                  | Major Language         
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[surespot](https://github.com/surespot/android)| surespot is a mobile messaging application that secures all messages using end-to-end encryption. https://www.surespot.me | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.twofours.surespot) 
+[surespot](https://github.com/surespot/android)| Surespot is a mobile messaging application that secures all messages using end-to-end encryption. https://www.surespot.me | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.twofours.surespot) 
 [Signal](https://github.com/WhisperSystems/Signal-Android) | A secure calling and messaging app for Android. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
 ### T  
