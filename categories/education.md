@@ -113,6 +113,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | 
 [Ulangi](https://github.com/ulangi/ulangi/) | Learn languages using popular methods such as spaced repetition system | TypeScript | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.ulangi) 
+[Umbrella](https://github.com/securityfirst/Umbrella_android) | Learn about digital and physical security on the go. From communications to dealing with a kidnap. Available in multiple languages. | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.secfirst.umbrella)
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
