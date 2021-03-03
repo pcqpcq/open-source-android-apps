@@ -84,7 +84,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Pedometer](https://github.com/j4velin/Pedometer) | Lightweight pedometer app for Android using the hardware step sensor | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.j4velin.pedometer)   
+[Pedometer](https://github.com/j4velin/Pedometer) | Lightweight pedometer app for Android using the hardware step sensor | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=de.j4velin.pedometer)   
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
@@ -94,7 +94,7 @@ App Name                   | Describe                  | Major Language         
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[RunnerUp](https://github.com/jonasoreland/runnerup) | An open source run tracker inspired by Garmin 410, RunKeeper and EveryWhere Run. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.runnerup)
+[RunnerUp](https://github.com/jonasoreland/runnerup) | An open source run tracker inspired by Garmin 410, RunKeeper and EveryWhere Run. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.runnerup)
 
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
