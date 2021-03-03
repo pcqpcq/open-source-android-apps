@@ -32,6 +32,7 @@ App Name                   | Describe                  | Major Language         
 [Clip-Stack](https://github.com/heruoxin/Clip-Stack) | An Android clipboard history manager app with Material Design.  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.catchingnow.tinyclipboardmanager)  
 [Content Provider Helper](https://github.com/k3b/ContentProviderHelper/) | Android app that helps developers to discover and query content providers.  | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.contentproviderhelper)
 [ConnectBot](https://github.com/connectbot/connectbot/) | The first SSH client for Android. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.connectbot)
+[Cryptomator](https://github.com/cryptomator/android/) | Multi-platform transparent client-side encryption of your files in the cloud. | Kotlin/Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.cryptomator)
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download
