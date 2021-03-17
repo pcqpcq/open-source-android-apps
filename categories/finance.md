@@ -12,8 +12,8 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Bither](https://github.com/bither/bither-android) | Simple and secure Bitcoin wallet. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.bither)   
-[bitcoin-wallet](https://github.com/schildbach/bitcoin-wallet) | Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. http://wallet.schildbach.de | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.schildbach.wallet)
+[Bither](https://github.com/bither/bither-android) | Simple and secure Bitcoin wallet. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=net.bither)   
+[bitcoin-wallet](https://github.com/schildbach/bitcoin-wallet) | Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. http://wallet.schildbach.de | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=de.schildbach.wallet)
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
@@ -39,7 +39,7 @@ App Name                   | Describe                  | Major Language         
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[GnuCash](https://github.com/codinguser/gnucash-android) | Gnucash for Android mobile companion application. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.gnucash.android)   
+[GnuCash](https://github.com/codinguser/gnucash-android) | Gnucash for Android mobile companion application. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.gnucash.android)   
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
@@ -69,7 +69,7 @@ App Name                   | Describe                  | Major Language         
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex) | Android port of Money Manager Ex. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.money.manager.ex)   
+[Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex) | Android port of Money Manager Ex. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.money.manager.ex)   
 
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
