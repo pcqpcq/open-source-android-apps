@@ -2,17 +2,17 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
@@ -22,27 +22,27 @@ App Name                   | Describe                  | Major Language         
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
@@ -52,7 +52,7 @@ App Name                   | Describe                  | Major Language         
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
@@ -65,7 +65,7 @@ App Name                   | Describe                  | Major Language         
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
@@ -77,12 +77,12 @@ App Name                   | Describe                  | Major Language         
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
@@ -116,7 +116,7 @@ App Name                   | Describe                  | Major Language         
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
@@ -133,7 +133,7 @@ App Name                   | Describe                  | Major Language         
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 

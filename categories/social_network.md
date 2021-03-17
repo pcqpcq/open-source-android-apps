@@ -2,12 +2,13 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) | Sina Weibo Client with Material Design | Java |    
+[Kickstarter]https://github.com/kickstarter/android-oss) | Official Kickstarter open source app for Android. | Kotlin |   
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
@@ -35,7 +36,7 @@ App Name                   | Describe                  | Major Language         
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
@@ -57,7 +58,7 @@ App Name                   | Describe                  | Major Language         
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
@@ -70,17 +71,17 @@ App Name                   | Describe                  | Major Language         
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
@@ -91,6 +92,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  [minicat](https://github.com/mcxiaoke/minicat)| 蘑菇饭App http://fanfou.com/androidsupport | Java |  
+ [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A lightweight Youtube frontend for Android | Java |  
 
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
@@ -137,7 +139,7 @@ App Name                   | Describe                  | Major Language         
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
@@ -155,7 +157,7 @@ App Name                   | Describe                  | Major Language         
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 
@@ -165,4 +167,4 @@ App Name                   | Describe                  | Major Language         
 ### Z  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |

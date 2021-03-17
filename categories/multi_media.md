@@ -2,7 +2,7 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
@@ -25,7 +25,7 @@ App Name                   | Describe                  | Major Language         
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
@@ -36,11 +36,12 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Easy Sound Recorder](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app implementing Material Design | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)     
+[ExoPlayer](https://github.com/google/ExoPlayer) | A simple sound recording app implementing Material Design | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)    
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
@@ -50,12 +51,12 @@ App Name                   | Describe                  | Major Language         
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
@@ -66,7 +67,7 @@ App Name                   | Describe                  | Major Language         
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
@@ -103,12 +104,13 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [PDF Creator](https://github.com/Swati4star/Images-to-PDF) | An app to convert images to PDF file  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/app/swati4star.createpdf)       
 [philm](https://github.com/chrisbanes/philm) | Movie collection and information app for Android. | Java |   
+[Phonograph](https://github.com/kabouzeid/Phonograph) | A material designed music player for Android | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone) 
 [Podverse](https://github.com/podverse/podverse-rn) | A feature-rich, cross-platform podcast app with a focus on clip sharing and discovery | JavaScript/React Native | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.podverse&hl=en_US) 
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
@@ -119,6 +121,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java |   
+[Shuttle](https://github.com/timusus/Shuttle) | Music Player | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=another.music.player)
 [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) | A Simple Photo and Video gallery | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery)
 [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) | A Simple Music Player without ads and unnecessary permissions. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer)
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/simplifyreader)  
@@ -155,14 +158,14 @@ App Name                   | Describe                  | Major Language         
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
 
 ### Z  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ |  |  |
