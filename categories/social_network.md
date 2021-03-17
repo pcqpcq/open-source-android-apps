@@ -62,7 +62,7 @@ App Name                   | Describe                  | Major Language         
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) | This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
+[Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) | This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 [Insta Profile Downloader](https://github.com/hemant3370/Insta) | Instagram Profile Media Downloader and Viewer. | Java | 
 [InstaMaterial](https://github.com/frogermcs/InstaMaterial) | Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/frogermcs/frogermcs.github.io/raw/master/files/10/InstaMaterial-release-1.0.1-2.apk)     
 [Impeller](https://github.com/oshepherd/Impeller) | Impeller is a rich, featureful client for the Pump.io open, federated social network, built to give you the best experience possible over both your phone and tablet. | Java | 
@@ -132,7 +132,7 @@ App Name                   | Describe                  | Major Language         
 [Twidere-Android](https://github.com/TwidereProject/Twidere-Android/) | Twitter client for Android | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)   
 [Twitter Lists](https://github.com/MPieter/TwitterLists) | An Android application to manage your Twitter lists. | Java |
 [Twiader](https://github.com/jydimir/Twiader) | Twitter speech reader | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/jydimir/Twiader/blob/master/release/app-release.apk?raw=true)
-[TEDxTehran](https://github.com/TEDxTehran-Team/event-app-android) | Official application TEDxTehran | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=co.eventbox.tedxtehran&hl=en_US&gl=US)
+[TEDxTehran](https://github.com/TEDxTehran-Team/event-app-android) | Official application TEDxTehran | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=co.eventbox.tedxtehran&hl=en_US&gl=US)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 

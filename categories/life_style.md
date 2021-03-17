@@ -17,7 +17,7 @@ App Name                   | Describe                  | Major Language         
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[COVID Diary](https://github.com/apozas/contactdiary) | Keep track of the people you have recently been with. | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.apozas.contactdiary)
+[COVID Diary](https://github.com/apozas/contactdiary) | Keep track of the people you have recently been with. | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.apozas.contactdiary)
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 

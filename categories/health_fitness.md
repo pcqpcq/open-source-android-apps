@@ -7,7 +7,7 @@ App Name                   | Describe                  | Major Language         
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Aarogya Setu](https://github.com/nic-delhi/AarogyaSetu_Android) | Aarogya setu is "contact tracing, syndromic mapping and self-assessment" mobile app developed NIC , Government of India | Kotlin/Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_US) |
+[Aarogya Setu](https://github.com/nic-delhi/AarogyaSetu_Android) | Aarogya setu is "contact tracing, syndromic mapping and self-assessment" mobile app developed NIC , Government of India | Kotlin/Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_US) |
 [Android heart rate monitor](https://github.com/phishman3579/android-heart-rate-monitor) | Android based heart rate monitor which uses the camera and its flash to determine the users heart rate in beats per minute. | Java | |
 [Android app to collect medical data](https://github.com/Ana06/medical-data-android) | Android app to collect data to be analyzed for medical purposes. | Java | |
 
