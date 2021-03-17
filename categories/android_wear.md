@@ -125,6 +125,7 @@ App Name                   | Describe                  | Major Language         
 [WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
 [WearTimer](https://github.com/brave-warrior/WearTimer) | Improved stopwatch & timer for Android Wear | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.cologne.hackaton.wearstopwatch)
 [Wear Notify for Reddit](https://github.com/emmaguy/wear-notify-for-reddit) | Reddit for Android Wear | Java |
+[Wear Offline Notes](https://github.com/GabrielMorenoIbarra/Wear-Offline-Notes) | Wear Offline Notes | Kotlin |
 
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
