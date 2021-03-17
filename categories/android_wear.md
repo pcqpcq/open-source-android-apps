@@ -32,7 +32,7 @@ App Name                   | Describe                  | Major Language         
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[FORM Watch Face](https://github.com/romannurik/FORMWatchFace) | A watch face for Android Wear based on the FORM event typeface. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.formwatchface)   
+[FORM Watch Face](https://github.com/romannurik/FORMWatchFace) | A watch face for Android Wear based on the FORM event typeface. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.formwatchface)   
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
@@ -62,7 +62,7 @@ App Name                   | Describe                  | Major Language         
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[LapseFace](https://github.com/OhMyLob/LapseFace) | LapseFace | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.lob.lapseface)   
+[LapseFace](https://github.com/OhMyLob/LapseFace) | LapseFace | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.lob.lapseface)   
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
@@ -119,8 +119,8 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Wear for Swarm](https://github.com/sealskej/wear-for-swarm) | Swarm (aka Foursquare) for Android Wear! | Java | 
 [Wearable Chess](https://github.com/mitchazj/Wearable-Chess) | Chess for Android Wear | Java |   
-[WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
-[WearTimer](https://github.com/brave-warrior/WearTimer) | Improved stopwatch & timer for Android Wear | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.cologne.hackaton.wearstopwatch)
+[WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
+[WearTimer](https://github.com/brave-warrior/WearTimer) | Improved stopwatch & timer for Android Wear | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.cologne.hackaton.wearstopwatch)
 [Wear Notify for Reddit](https://github.com/emmaguy/wear-notify-for-reddit) | Reddit for Android Wear | Java |
 
 ### X  
