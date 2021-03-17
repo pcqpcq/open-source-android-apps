@@ -70,6 +70,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex) | Android port of Money Manager Ex. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.money.manager.ex)   
+[Money Manager](https://github.com/hulkdx/MoneyManager/) | Money Manager Kotlin + CLEAN. | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.hulkdx.moneymanagerv2)
 
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
