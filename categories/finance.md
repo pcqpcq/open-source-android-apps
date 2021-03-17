@@ -99,7 +99,7 @@ App Name                   | Describe                  | Major Language         
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Simple Random Stock](https://github.com/WillWcchan/Simple-Random-Stock) | Randomly select a stock from the 3 U.S Indexes | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.willchan.simple_random_stock)
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
