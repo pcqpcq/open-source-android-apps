@@ -24,6 +24,7 @@ App Name                   | Describe                  | Major Language         
 [Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub.  | Java |
 [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)  
 [Beta Updater for WhatsApp](https://github.com/javiersantos/WhatsAppBetaUpdater) | An app to update WhatsApp to the latest beta version available on Android  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/javiersantos/WhatsAppBetaUpdater/releases)
+[Android Full Battery Alarm](https://github.com/er-abhishek-luthra/chargingAlarm.git) | An app to ring an alarm when battery gets fully charged  | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.chargingwatts.batteryalarm.free)
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download
