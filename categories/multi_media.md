@@ -158,7 +158,7 @@ App Name                   | Describe                  | Major Language         
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+[XimalayaKotlin](https://github.com/gs666/XimalayaKotlin) | An unofficial [Ximalaya FM](https://www.ximalaya.com/) client for Android entirely written using Kotlin language. | Kotlin |
 
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 
