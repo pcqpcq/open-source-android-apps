@@ -8,6 +8,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [ACEMusicPlayer](https://github.com/C-Aniruddh/ACEMusicPlayer) | A material music player for the android platform | Java | 
+[ad-free](https://github.com/abertschi/ad-free) | ad-free is a proof-of-concept of a modularized audio ad blocker written in Kotlin with a modern and simplistic user interface. | Kotlin | [![Get it on Third-party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/packages/ch.abertschi.adfree/)
 [AnimeTaste](https://github.com/daimajia/AnimeTaste) | Taste global original animation | Java | 
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) | A podcast manager for Android | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)   
 [Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
@@ -60,6 +61,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [heMusicPlayer](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful and elegant music player for Android. | Java |   
+[Jellyfin](https://github.com/jellyfin/jellyfin-android) | Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. | Java | [![Get it on Google Play](https://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
@@ -121,6 +123,7 @@ App Name                   | Describe                  | Major Language         
 [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) | A Simple Music Player without ads and unnecessary permissions. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer)
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/simplifyreader)  
 [Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/sky31radio)  
+[SoundSpice](https://github.com/farshed/SoundSpice-mobile) | SoundSpice is a light-weight and minimalist music player for Android. | JavaScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.vynilla)
 [spydroid-ipcamera](https://github.com/fyhertz/spydroid-ipcamera) | A powerful and funny android app. that streams the camera and microphone of your phone to your browser or to VLC | Java |   
 [StickerCamera](https://github.com/Skykai521/StickerCamera) | A camera with sticker feature | Java |     
 [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices.  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
@@ -131,6 +134,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Timber](https://github.com/naman14/Timber) | Material Design Music Player | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=naman14.timber)
 [Telecine](https://github.com/JakeWharton/Telecine) | Record full resolution video | Java
+[Twire](https://github.com/Perflyst/Twire) | Twire is an open source, ad free Twitch browser and stream player for Android. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/packages/com.perflyst.twire/)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 

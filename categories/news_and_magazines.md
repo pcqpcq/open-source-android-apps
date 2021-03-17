@@ -80,6 +80,7 @@ App Name                   | Describe                  | Major Language         
 [Materialistic](https://github.com/hidroh/materialistic) | A materialistic Hacker News Android reader | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)  
 [MaterialUp](https://github.com/jariz/MaterialUp) | MaterialUp Android App | Java |   
 [MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News) | Android MVVM experiment project using the official Data Binding library | Java |  
+[Munch](https://github.com/crazyhitty/Munch) | A minimalistic, easy to use Rss reader application. [Deprecated] | Java | [![Get it on Third-party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/en/packages/com.crazyhitty.chdev.ks.munch/)
 
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
