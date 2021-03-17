@@ -158,7 +158,7 @@ App Name                   | Describe                  | Major Language         
 [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) | A simple file manager for browsing the storage | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager)
 [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) | Well, a simple flashlight | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
 [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) | A simple textfield for simple notes with a widget | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.notes)
-[Status](https://github.com/TheAndroidMaster/Status) | A no-root status bar replacement for Android. | Java [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.james.status)
+[Status](https://github.com/TheAndroidMaster/Status) | A no-root status bar replacement for Android. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.james.status)
 [StudentAttendanceCheck](https://github.com/landtanin/StudentAttendanceCheck) | Student attendance monitoring system. | Java |
 
 ### T  
