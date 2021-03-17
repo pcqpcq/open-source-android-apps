@@ -20,11 +20,10 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[BinaryEye](https://github.com/markusfisch/BinaryEye) | BinaryEye is a barcode scanner for Android. It is well polished, ad free, with no IAP.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye) 
+[BinaryEye](https://github.com/markusfisch/BinaryEye) | BinaryEye is a barcode scanner for Android. It is well polished, ad free, with no IAP.  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye) 
 [Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub.  | Java |
 [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)  
 [Beta Updater for WhatsApp](https://github.com/javiersantos/WhatsAppBetaUpdater) | An app to update WhatsApp to the latest beta version available on Android  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/javiersantos/WhatsAppBetaUpdater/releases)
-[Android Full Battery Alarm](https://github.com/er-abhishek-luthra/chargingAlarm.git) | An app to ring an alarm when battery gets fully charged  | Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.chargingwatts.batteryalarm.free)
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download
@@ -58,6 +57,7 @@ App Name                   | Describe                  | Major Language         
 [Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock/  | Java |
 [FBReaderJ](https://github.com/geometer/FBReaderJ) | Is a free (and ad-free) multi-platform ebook reader.Supports popular ebook formats: ePub, fb2, mobi, rtf, html, plain text, and a lot of other formats | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 [Forecastie](https://github.com/martykan/forecastie) | A simple weather app that gathers data from OpenWeatherMap, via their public API. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.casticalabs.forecastie)
+[Full Battery Alarm](https://github.com/er-abhishek-luthra/chargingAlarm) | An app to ring an alarm when battery gets fully charged  | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.chargingwatts.batteryalarm.free)
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download
