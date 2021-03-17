@@ -7,7 +7,7 @@ App Name                   | Describe                  | Major Language         
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | Material design file manager for Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
+[AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | Material design file manager for Android. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
@@ -24,7 +24,7 @@ App Name                   | Describe                  | Major Language         
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+[DevJournal](https://github.com/alistairholmes/devjournal) |  Jott down your dev life, ideas, notes, to-dos, bugs. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.alistairholmes.devjournal)
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
