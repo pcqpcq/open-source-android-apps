@@ -20,6 +20,7 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
+[BinaryEye](https://github.com/markusfisch/BinaryEye) | BinaryEye is a barcode scanner for Android. It is well polished, ad free, with no IAP.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye) 
 [Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub.  | Java |
 [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)  
 [Beta Updater for WhatsApp](https://github.com/javiersantos/WhatsAppBetaUpdater) | An app to update WhatsApp to the latest beta version available on Android  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/javiersantos/WhatsAppBetaUpdater/releases)
