@@ -87,7 +87,7 @@ App Name                   | Describe                  | Major Language         
 [Omni Notes](https://github.com/federicoiosue/Omni-Notes) | Open source note-taking application for Android | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)  
 [OpenNoteScanner](https://github.com/ctodobom/OpenNoteScanner) | Android application for scanning and manipulating handwritten notes and documents. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.todobom.opennotescanner) 
 [Outlay](https://github.com/bmelnychuk/outlay) | Application to track expenses. | Java |  
-[ownCloud](https://github.com/owncloud/android) | Organize and Store everything . | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.owncloud.android)  
+[ownCloud](https://github.com/owncloud/android) | Organize and Store everything . | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.owncloud.android)  
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
