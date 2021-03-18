@@ -74,6 +74,7 @@ App Name                   | Describe                  | Major Language         
 [Memento](https://github.com/yaa110/Memento) | A simple note taking app | Java | 
 [Minimal-Todo](https://github.com/avjinder/Minimal-Todo) | A fully Material ToDo app with minimal features, just enough to be useful. | Java |
 [Minitask](https://github.com/LewisVo/Minitask) | A simple and lightweight todo list/task list for Android. | Java |
+[MarkNote](https://github.com/Shouheng88/MarkNote) | A material designed Markdown note-taking application for Android. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://www.coolapk.com/apk/178276)  
 
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
