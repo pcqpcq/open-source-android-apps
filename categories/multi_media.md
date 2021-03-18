@@ -135,8 +135,9 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Timber](https://github.com/naman14/Timber) | Material Design Music Player | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=naman14.timber)
 [Telecine](https://github.com/JakeWharton/Telecine) | Record full resolution video | Java
+[Timber](https://github.com/naman14/Timber) | Material Design Music Player | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=naman14.timber)
+[Track My Shows](https://github.com/chashmeetsingh/TrackIt-Android) | Track My Shows | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=ss.delta.com.trackmyshows)
 [Twire](https://github.com/Perflyst/Twire) | Twire is an open source, ad free Twitch browser and stream player for Android. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/packages/com.perflyst.twire/)
 
 ### U  
