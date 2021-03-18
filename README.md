@@ -34,7 +34,6 @@
 [Business](categories/business.md) | Apps for the improvement of your business.
 [CNSoftBei](https://github.com/kensoon/awesome-cnsoftbei) | Apps of the cnsoftbei.
 
-
 # Contribute Rules
 > 1. Don't do evil.
 > 2. Don't repeat yourself.
