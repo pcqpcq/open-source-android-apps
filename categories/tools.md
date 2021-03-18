@@ -3,7 +3,7 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- |  |  |
+ | | |
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download
@@ -20,10 +20,10 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[BinaryEye](https://github.com/markusfisch/BinaryEye) | BinaryEye is a barcode scanner for Android. It is well polished, ad free, with no IAP.  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye) 
-[Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub.  | Java |
-[BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)  
 [Beta Updater for WhatsApp](https://github.com/javiersantos/WhatsAppBetaUpdater) | An app to update WhatsApp to the latest beta version available on Android  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/javiersantos/WhatsAppBetaUpdater/releases)
+[BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)
+[BinaryEye](https://github.com/markusfisch/BinaryEye) | BinaryEye is a barcode scanner for Android. It is well polished, ad free, with no IAP. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
+[Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub. | Java |
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download
@@ -31,8 +31,8 @@ App Name                   | Describe                  | Major Language         
 [Camera Color Picker](https://github.com/tvbarthel/CameraColorPicker) | A simple tool that uses the device's camera to capture, in real time, colors around you. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=fr.tvbarthel.apps.cameracolorpicker)
 [Clean Status Bar](https://github.com/emmaguy/clean-status-bar) | Tidy up your Android status bar before taking screenshots for the Play Store  | Java | 
 [Clip-Stack](https://github.com/heruoxin/Clip-Stack) | An Android clipboard history manager app with Material Design.  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.catchingnow.tinyclipboardmanager)  
-[Content Provider Helper](https://github.com/k3b/ContentProviderHelper/) | Android app that helps developers to discover and query content providers.  | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.contentproviderhelper)
 [ConnectBot](https://github.com/connectbot/connectbot/) | The first SSH client for Android. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.connectbot)
+[Content Provider Helper](https://github.com/k3b/ContentProviderHelper/) | Android app that helps developers to discover and query content providers.  | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.contentproviderhelper)
 [Cryptomator](https://github.com/cryptomator/android/) | Multi-platform transparent client-side encryption of your files in the cloud. | Kotlin/Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.cryptomator)
 
 ### D  
@@ -48,16 +48,16 @@ App Name                   | Describe                  | Major Language         
 ### E  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- |  |  |
+ | | |
 
 ### F  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [Firefox](https://wiki.mozilla.org/Mobile/Fennec/Android) | Firefox Browser for Android. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+[Firefox Focus (Android)](https://github.com/mozilla-mobile/focus-android) | Lightweight app for private browsing, includes ad-blocker. 4MB install. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.mozilla.focus)
 [Flock](https://github.com/WhisperSystems/Flock) | Private contact and calendar sync for Android. https://whispersystems.org/blog/flock/  | Java |
 [FBReaderJ](https://github.com/geometer/FBReaderJ) | Is a free (and ad-free) multi-platform ebook reader.Supports popular ebook formats: ePub, fb2, mobi, rtf, html, plain text, and a lot of other formats | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.geometerplus.zlibrary.ui.android)
 [Forecastie](https://github.com/martykan/forecastie) | A simple weather app that gathers data from OpenWeatherMap, via their public API. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.casticalabs.forecastie)
-[Full Battery Alarm](https://github.com/er-abhishek-luthra/chargingAlarm) | An app to ring an alarm when battery gets fully charged  | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.chargingwatts.batteryalarm.free)
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download
@@ -71,7 +71,7 @@ App Name                   | Describe                  | Major Language         
 ### H  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[Hash Checker](https://github.com/fartem/hash-checker) | Fast and simple application for generating and comparison hashes from files or text | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.smlnskgmail.jaman.hashchecker)
+[Hash Checker](https://github.com/hash-checker/hash-checker) | Fast and simple application for generating and comparison hashes from files or text | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.smlnskgmail.jaman.hashchecker)
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download
@@ -88,7 +88,6 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [KDEConnect](https://github.com/KDE/kdeconnect-android) |KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer). |Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) 
-
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download
@@ -137,7 +136,7 @@ App Name                   | Describe                  | Major Language         
 ### Q  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- |  |  |
+ | | |
 
 ### R  
 App Name                   | Describe                  | Major Language             | Download
@@ -188,7 +187,7 @@ App Name                   | Describe                  | Major Language         
 ### V  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- |  |  |
+ | | |
 
 ### W  
 App Name                   | Describe                  | Major Language             | Download
@@ -203,7 +202,7 @@ App Name                   | Describe                  | Major Language         
 ### Y  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- |  |  |
+ | | |
 
 ### Z  
 App Name                   | Describe                  | Major Language             | Download
