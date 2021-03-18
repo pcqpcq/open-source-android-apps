@@ -102,7 +102,9 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [Sahayak](https://github.com/Neophytes/microsoft-pragyan-hackathon) |An android app aimed to make a fun-filled educational tool for naives. Aimed at rural children and adults |Java |   
+[Seashell-app](https://github.com/drakeet/Seashell-app) | 贝壳单词 APP Android 客户端 | Java |   
 [Stepic](https://github.com/StepicOrg/stepic-android) | Free online courses with certificates | Java+Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.stepic.droid)  
+[Say-Hi](https://github.com/SuperHaker/Say-Hi) |An Android app built to better understand different English accents around the world. Also provides translations for the text in the selected langauge. |Java |
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
