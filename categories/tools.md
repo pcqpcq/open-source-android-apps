@@ -94,6 +94,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [LibreTorrent](https://github.com/proninyaroslav/libretorrent) | LibreTorrent is an ad-free, open-source, Material Design torrent client with IP filtering, Tor support, proxy support, automatic file moving, sequential downloading, and the ability to select files for download.  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)  
 [LittleFreshWeather](https://github.com/ZeusChan/LittleFreshWeather) | 这是一款简洁的天气预报app--清新小天气，它能够支持国内绝大多数城市，提供包含实时天气、七天预报、实时气象信息及生活指数等预报信息，动画展示天气状况。 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/ZeusChan/LittleFreshWeather/master/LittleFreshWeather-release.apk)
+[LockIt](https://github.com/shivamsingh/lockit) | LockIt is simple applock application with clean & elegant UI and easy-to-use. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.lockit)  
 [lmgtfyGen](https://github.com/WilderPereira/lmgtfyGen) | lmgtfyGen is an app that allows the creation of lmgtfy urls with an embedded url shortener to hide the LMGTFY url.
 [LeafPic](https://github.com/HoraApps/LeafPic) | An ad-free, open-source and material-designed android gallery alternative | Kotlin | 
 
