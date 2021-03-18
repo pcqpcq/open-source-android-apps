@@ -102,7 +102,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[PDF Creator](https://github.com/Swati4star/Images-to-PDF) | An app to convert images to PDF file  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/app/swati4star.createpdf)       
+[PDF Converter](https://github.com/Swati4star/Images-to-PDF) | An app to modify & create PDF files  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=swati4star.createpdf)
 [philm](https://github.com/chrisbanes/philm) | Movie collection and information app for Android. | Java |   
 [Phonograph](https://github.com/kabouzeid/Phonograph) | A material designed music player for Android | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone) 
 [Podverse](https://github.com/podverse/podverse-rn) | A feature-rich, cross-platform podcast app with a focus on clip sharing and discovery | JavaScript/React Native | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.podverse&hl=en_US) 
