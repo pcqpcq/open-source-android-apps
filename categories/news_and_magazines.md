@@ -1,34 +1,34 @@
 ## News and Magazines  
 ### \#   
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [36krReader](https://github.com/kinneyyan/36krReader)| Android client of 36kr.com with Material Design. | Java | 
- [Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo)| 干货集中营 Android App | Java | 
- [AndroidRivers](https://github.com/dodyg/AndroidRivers)| Anxiety free news reader for Android - developed using Kotlin | Kotlin | 
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
+ [36krReader](https://github.com/kinneyyan/36krReader)| Android client of 36kr.com with Material Design. | Java |
+ [Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo)| 干货集中营 Android App | Java |
+ [AndroidRivers](https://github.com/dodyg/AndroidRivers)| Anxiety free news reader for Android - developed using Kotlin | Kotlin |
 
 ### A  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
+ | | |
 
 ### B  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Book Dash](https://github.com/spongebobrf/BookdashAndroidApp) | Book Dash is an Android App for the NPO where you can download books in different languages for free. | Java |  [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.bookdash.android) 
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
+[Book Dash](https://github.com/spongebobrf/BookdashAndroidApp) | Book Dash is an Android App for the NPO where you can download books in different languages for free. | Java |  [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.bookdash.android)
 
 ### C  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[CrimeTalk Reader](https://github.com/JohnPersano/CrimeTalk-Reader) | The CrimeTalk Reader app is a free and open source application designed for devices running Android Ice Cream Sandwich (4.0) and above. Lightweight and minimalistic, the CrimeTalk Reader is the perfect application to browse CrimeTalk articles on your Android device. | Java |  
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
+[CrimeTalk Reader](https://github.com/JohnPersano/CrimeTalk-Reader) | The CrimeTalk Reader app is a free and open source application designed for devices running Android Ice Cream Sandwich (4.0) and above. Lightweight and minimalistic, the CrimeTalk Reader is the perfect application to browse CrimeTalk articles on your Android device. | Java |  [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=uk.org.crimetalk)    
 
 ### D  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
+ | | |
 
 ### E  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
 [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) | Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI". | Java |     
 
 ### F  
@@ -36,11 +36,11 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Flym News Reader](https://github.com/FredJul/Flym) | Flym News Reader is a light and modern Android feed reader, based on Sparse rss. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=net.fred.feedex)  
 [frisbee](https://github.com/gdg-x/frisbee) | Android application for the GDG members. | Java |   
-[FastHub](https://github.com/android/plaid) | The ultimate GitHub client for Android | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.fastaccess.github) 
+[FastHub](https://github.com/nickbutcher/plaid) | The ultimate GitHub client for Android | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.fastaccess.github) 
 
 ### G  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
 [GitHot](https://github.com/andyiac/githot) | GitHot is an Android App that will help you find the world most popular project and person .  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/githot)  
 
 ### H  
@@ -65,18 +65,18 @@ App Name                   | Describe                  | Major Language         
 [JianDan](https://github.com/ZhaoKaiQiang/JianDan) | 高仿煎蛋客户端 | Java | 
 
 ### K  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
 [kickmaterial](https://github.com/byoutline/kickmaterial) | Crowdfunding app concept for Android. Created to showcase new trends in Android development with strong focus on Material Design. | Java |   
 [KuaiHu](https://github.com/iKrelve/KuaiHu) | A third-part clent of daily.zhihu.com | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://pan.baidu.com/s/1nt1RI7B)  
 
 ### L  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Leisure](https://github.com/MummyDing/Leisure) | Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books. http://blog.csdn.net/mummyding/article/details/50266203 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://coolapk.com/apk/com.mummyding.app.leisure)  
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
+[Leisure](https://github.com/MummyDing/Leisure) | Leisure is an Android App containing Zhihu Daily, Guokr Scientific, XinhuaNet News and Douban Books. http://blog.csdn.net/mummyding/article/details/50266203 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://coolapk.com/apk/com.mummyding.app.leisure)  
 
 ### M  
-App Name                   | Describe                  | Major Language             | Download 
+App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [Materialistic](https://github.com/hidroh/materialistic) | A materialistic Hacker News Android reader | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)  
 [MaterialUp](https://github.com/jariz/MaterialUp) | MaterialUp Android App | Java |   
@@ -114,12 +114,12 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
 [StartupNews](https://github.com/halzhang/Startupnews) | An Android Startup News Client! http://news.dbanotes.net/ | Java | 
-[somosOCO](https://github.com/pekebyte/somosoco) | A blogger blog reader android app http://somosoco.blogspot.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.pekebyte.somosoco)  
+[somosOCO](https://github.com/pekebyte/somosoco) | A blogger blog reader android app http://somosoco.blogspot.com/ | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.pekebyte.somosoco)  
 
 ### T  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss-android) | Tiny Tiny RSS client for Android devices | Java | 
+App Name                   | Describe                  | Major Language             | Download
+:------------------------: | :------------------------ | :------------------------: | :------------------------:
+[Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss-android) | Tiny Tiny RSS client for Android devices | Java |
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
@@ -150,6 +150,5 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://vdisk.weibo.com/s/GGofvoXe__E)  
-[ZhihuDailyKotlin](https://github.com/lzyzsd/ZhihuDailyKotlin) | 山寨知乎日报Android，使用Kotlin写 | kotlin | 
+[ZhihuDailyKotlin](https://github.com/lzyzsd/ZhihuDailyKotlin) | 山寨知乎日报Android，使用Kotlin写 | Kotlin | 
 [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) | A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native for Android. | JavaScript/React Native | 
-
