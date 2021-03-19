@@ -156,8 +156,6 @@ App Name                   | Describe                  | Major Language         
 [SeeWeather](https://github.com/xcc3641/SeeWeather) | RxAndroid+Retrofit+Glide+Matrial Design Weather App  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.wandoujia.com/apps/com.xiecc.seeWeather)  
 [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) | CleanMaster open source clone | Java |  
 [S Tools+](https://github.com/naman14/S-Tools) | Keep track of your CPU and Sensors alongwith useful features like Color Picker,Compass and device information | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.naman14.stools)
-[SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) | 验证码助手，是一款 Material Design 的验证码管理器轻应用~它可以在手机接收到验证码短信的时候，自动浮现验证码，并且自动复制验证码到用户的剪切板。当用户接收到短信验证码，用户只要长按验证码的输入框，粘贴验证码即可。 | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=me.drakeet.inmessage)  
-[StockTicker](https://github.com/premnirmal/StockTicker) | A resizable stock ticker widget for your android home screen | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget)
 [Secret Codes](https://github.com/SimonMarquis/Android-SecretCodes) | Explore and test your device secret codes | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.secretcodes)
 [Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy. Surf the internet privately and securely. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) | A Calculator with the basic functions and a customizable widget | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.calculator)
@@ -167,22 +165,25 @@ App Name                   | Describe                  | Major Language         
 [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) | A simple file manager for browsing the storage | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager)
 [Simple Flashlight](https://github.com/SimpleMobileTools/Simple-Flashlight) | Well, a simple flashlight | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
 [Simple Notes](https://github.com/SimpleMobileTools/Simple-Notes) | A simple textfield for simple notes with a widget | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.notes)
+[SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) | 验证码助手，是一款 Material Design 的验证码管理器轻应用~它可以在手机接收到验证码短信的时候，自动浮现验证码，并且自动复制验证码到用户的剪切板。当用户接收到短信验证码，用户只要长按验证码的输入框，粘贴验证码即可。 | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=me.drakeet.inmessage)  
 [SoundRecorder](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app implementing Material Design | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)
 [Status](https://github.com/TheAndroidMaster/Status) | A no-root status bar replacement for Android. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.james.status)
+[StockTicker](https://github.com/premnirmal/StockTicker) | A resizable stock ticker widget for your android home screen | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget)
 [StudentAttendanceCheck](https://github.com/landtanin/StudentAttendanceCheck) | Student attendance monitoring system. | Java |
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [Talalarmo Alarm Clock](https://github.com/trikita/talalarmo) | Android alarm clock  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=trikita.talalarmo)  
+[TeacherAttendanceMonitoring](https://github.com/landtanin/TeacherAttendanceMonitoring) | Student attendance monitoring system (app for teachers). | Java |
 [Telecine](https://github.com/JakeWharton/Telecine) | Record full-resolution video on your Android devices. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.jakewharton.telecine)  
 [Terminal Emulator for Android](https://github.com/jackpal/Android-Terminal-Emulator) | A VT-100 terminal emulator for the Android OS | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=jackpal.androidterm)  
 [Termux](https://github.com/termux/termux-app) | Termux is an Android terminal application and Linux environment. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.termux)
 [ToGoZip](https://github.com/k3b/ToGoZip/) | "Add To Zip" for android's share/send menu. | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.toGoZip)
 [ToolWizAppLock](https://github.com/Toolwiz/ToolWizAppLock) | Smart App Lock for Android http://www.toolwiz.com/ | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.cleanwiz.applock)  
-[TranslateApp](https://github.com/maoruibin/TranslateApp) | A translations app without interruptions  | Java |   
-[translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | 
-[Travis Client](https://github.com/brave-warrior/TravisClient-Android) | Android client for Travis CI  | Java |   
+[translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
+[TranslateApp](https://github.com/maoruibin/TranslateApp) | A translations app without interruptions  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=name.gudong.translate)  
+[Travis Client](https://github.com/brave-warrior/TravisClient-Android) | Android client for Travis CI  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.khmelenko.lab.travisclient)  
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download
