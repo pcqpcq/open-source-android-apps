@@ -24,6 +24,8 @@ App Name                   | Describe                  | Major Language         
 [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)
 [BinaryEye](https://github.com/markusfisch/BinaryEye) | BinaryEye is a barcode scanner for Android. It is well polished, ad free, with no IAP. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 [Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub. | Java |
+[Bluetooth Simple](https://github.com/akexorcist/Android-BluetoothSimple) | Experiment app about communication by Bluetooth in chat style. | Kotlin/Java
+[Brevent](https://github.com/liudongmiao/Brevent) | Black Prevent, Prevent without ROOT. (An nice app like Greenify by Oasisfeng) | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download
