@@ -19,7 +19,7 @@ App Name                   | Describe                  | Major Language         
 ### C  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[CrimeTalk Reader](https://github.com/JohnPersano/CrimeTalk-Reader) | The CrimeTalk Reader app is a free and open source application designed for devices running Android Ice Cream Sandwich (4.0) and above. Lightweight and minimalistic, the CrimeTalk Reader is the perfect application to browse CrimeTalk articles on your Android device. | Java |  [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=uk.org.crimetalk)    
+[CrimeTalk Reader](https://github.com/JohnPersano/CrimeTalk-Reader) | The CrimeTalk Reader app is a free and open source application designed for devices running Android Ice Cream Sandwich (4.0) and above. Lightweight and minimalistic, the CrimeTalk Reader is the perfect application to browse CrimeTalk articles on your Android device. | Java |
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download
