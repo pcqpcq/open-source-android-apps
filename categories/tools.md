@@ -75,6 +75,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [Hash Checker](https://github.com/hash-checker/hash-checker) | Fast and simple application for generating and comparison hashes from files or text | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.smlnskgmail.jaman.hashchecker)
+[Hash Checker Lite](https://github.com/hash-checker/hash-checker-lite) | Fast and simple application for generating and comparison hashes from files or text. Lite version of [Hash Checker](https://github.com/hash-checker/hash-checker) | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.smlnskgmail.jaman.hashcheckerlite)
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download
