@@ -93,7 +93,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[InstaChat- Chat from anywhere](https://github.com/mohak1712/Insta-Chat) | InstaChat offers a revolutionary way to read messages of your favourite messengers. It overlays every other app and you can reply from anywhere you want. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=social.chat.whatsapp.fb.messenger.messaging)
+[InstaChat- Chat from anywhere](https://github.com/mohak1712/Insta-Chat) | InstaChat offers a revolutionary way to read messages of your favourite messengers. It overlays every other app and you can reply from anywhere you want. | Java | 
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
@@ -109,7 +109,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [ShutUp!](https://github.com/RitwickVerma/ShutUp) | ShutUp! - Stay Lazy | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.laughingstock.ritwick.shutup) 
-[Swiftnotes](https://github.com/adrianchifor/Swiftnotes) | Swiftnotes for Android - Note taking, simplified. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.moonpi.swiftnotes)  
+[Swiftnotes](https://github.com/adrianchifor/Swiftnotes) | Swiftnotes for Android - Note taking, simplified. | Java | 
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 

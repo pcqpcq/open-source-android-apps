@@ -22,7 +22,7 @@ App Name                   | Describe                  | Major Language         
 [cantstoptherock](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game | Java |
 [Chase Whisply](https://github.com/tvbarthel/ChaseWhisplyProject) | an augmented reality attempt | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply)
 [Clones Online](https://github.com/lukedd3/ClonesOnline) | Online multiplayer Android board game | Java | 
-[Cloud Cup](https://github.com/google/cloud-cup-android) | Firebase Android client of the a multi device game https://cloud-cup.firebaseapp.com/ | Java |    
+[Cloud Cup](https://github.com/google/cloud-cup-android) | Firebase Android client of the a multi device game | Java |    
 [Pie Noon](https://github.com/google/pienoon) | Multiplayer party game where you can throw pies at your friends. http://google.github.io/pienoon/ | C++ | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.google.fpl.pie_noon)   
 
 ### D  
@@ -44,8 +44,8 @@ App Name                   | Describe                  | Major Language         
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Gloomy Dungeons 3D](https://github.com/restorer/Gloomy-Dungeons-3D) | Old-school 3D shooter | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=zame.GloomyDungeons.freedemo.game)
-[Gloomy Dungeons 2: Blood Honor](https://github.com/restorer/gloomy-dungeons-2) | Continuation of old-school 3D shooter | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.zamedev.gloomydungeons2.fullnfree)
+[Gloomy Dungeons 3D](https://github.com/restorer/Gloomy-Dungeons-3D) | Old-school 3D shooter | Java | 
+[Gloomy Dungeons 2: Blood Honor](https://github.com/restorer/gloomy-dungeons-2) | Continuation of old-school 3D shooter | Java | 
 [Google Santa Tracker](https://github.com/google/santa-tracker-android) | Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period.  | Java | |
 [GameOfCards](https://github.com/rohitramkumar308/GameOfCards) | A simple cards game without any rules. | Java | 
 
@@ -78,7 +78,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Material Life](https://github.com/juankysoriano/MaterialLife) | A Material Design styled Game of Life for Android | Java | 
-[Memory Game](https://github.com/sromku/memory-game) | Simple and beautiful memory game for kids  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.snatik.matches)
+[Memory Game](https://github.com/sromku/memory-game) | Simple and beautiful memory game for kids  | Java | 
 [Mindustry](https://github.com/Anuken/Mindustry) | A sandbox tower defense game | Java | 
 [Minetest](https://github.com/minetest/minetest) | Minetest, an open source infinite-world block sandbox game with survival and crafting. http://www.minetest.net/  | C++ | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=net.minetest.minetest)
 

@@ -69,7 +69,7 @@ App Name                   | Describe                  | Major Language         
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Micopi](https://github.com/easytargetmixel/micopi_android) | Android app: Missing Contact Pictures  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.easytarget.micopi)
+[Micopi](https://github.com/easytargetmixel/micopi_android) | Android app: Missing Contact Pictures  | Java | 
 [Muzei Live Wallpaper](https://github.com/romannurik/muzei) | Muzei Live Wallpaper for Android http://www.muzei.co/ | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.muzei)  
 
 ### N  
@@ -120,7 +120,7 @@ App Name                   | Describe                  | Major Language         
 ### W  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[WallpaperStore](https://github.com/zzhoujay/WallpaperStore) | Wallpaper developed with Kotlin | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://www.pgyer.com/wallpaper-store)  
+[WallpaperStore](https://github.com/zzhoujay/WallpaperStore) | Wallpaper developed with Kotlin | Java | 
 [wall-splash-android](https://github.com/mikepenz/wallsplash-android) | wall:splash is a free open source android client for the awesome unsplash.com service (Free (do whatever you want) high-resolution photos) | Java |  
 [Wally](https://github.com/Musenkishi/wally) | Wally is a fast and efficient open source wallpaper application for Android. | Java |  
 

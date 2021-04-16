@@ -39,9 +39,9 @@ App Name                   | Describe                  | Major Language         
 [FastHub](https://github.com/nickbutcher/plaid) | The ultimate GitHub client for Android | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.fastaccess.github) 
 
 ### G  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
-[GitHot](https://github.com/andyiac/githot) | GitHot is an Android App that will help you find the world most popular project and person .  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/githot)  
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[GitHot](https://github.com/andyiac/githot) | GitHot is an Android App that will help you find the world most popular project and person .  | Java | 
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
@@ -50,13 +50,13 @@ App Name                   | Describe                  | Major Language         
 [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) | Hacker News iOS and Android App - Made with React Native. | JavaScript/React Native |   
 [Hex for Hacker News](https://github.com/longdivision/hex) | A snappy and fun Hacker News app | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.hexforhn.hex)   
 [Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/xiprox/Hummingbird-for-Android/releases)  
-[hacker-news-android](https://github.com/dinosaurwithakatana/hacker-news-android) | another hacknews client | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=io.dwak.holohackernews.app)   
+[hacker-news-android](https://github.com/dinosaurwithakatana/hacker-news-android) | another hacknews client | Java | 
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Idaily](https://github.com/liuguangqiang/Idaily) | 使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。| Java |
-[ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://7lryy3.com1.z0.glb.clouddn.com/xiyuanfang1.1.apk)  
+[ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | 
 
 ### J  
 App Name                   | Describe                  | Major Language             | Download 
@@ -97,7 +97,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Plaid](https://github.com/nickbutcher/plaid) | Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/apps/testing/io.plaidapp) 
-[Predator for ProductHunt](https://github.com/crazyhitty/Capstone-Project) | Predator is a minimalistic client for ProductHunt. It shows latest products and collections fetched via ProductHunt api. It also offers other information like media and comments associated with that product. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.crazyhitty.chdev.ks.predator) 
+[Predator for ProductHunt](https://github.com/crazyhitty/Capstone-Project) | Predator is a minimalistic client for ProductHunt. It shows latest products and collections fetched via ProductHunt api. It also offers other information like media and comments associated with that product. | Java | 
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
@@ -113,7 +113,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
-[StartupNews](https://github.com/halzhang/Startupnews) | An Android Startup News Client! http://news.dbanotes.net/ | Java | 
+[StartupNews](https://github.com/halzhang/Startupnews) | An Android Startup News Client! | Java | 
 [somosOCO](https://github.com/pekebyte/somosoco) | A blogger blog reader android app http://somosoco.blogspot.com/ | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.pekebyte.somosoco)  
 
 ### T  

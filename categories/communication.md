@@ -97,7 +97,7 @@ App Name                   | Describe                  | Major Language         
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Have your own Slack like online chat, built with Meteor. https://rocket.chat/  | CoffeeScript | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.konecty.rocket.chat)   
+[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Have your own Slack like online chat, built with Meteor. https://rocket.chat/  | CoffeeScript |    
 [RTranslator](https://github.com/niedev/RTranslator) | World's first open-source simultaneous translation app.  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=nie.translator.rtranslatordevedition)   
 
 ### S  
@@ -116,7 +116,7 @@ App Name                   | Describe                  | Major Language         
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+[Ulangi](https://github.com/ulangi/ulangi/) | Learn languages using popular methods such as spaced repetition system | TypeScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ulangi)
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
@@ -138,9 +138,9 @@ App Name                   | Describe                  | Major Language         
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Yaaic](https://github.com/pocmo/Yaaic) | Yaaic (Yet Another Android IRC Client) is as the name already says an Internet Relay Chat (IRC) client for Android devices. http://www.yaaic.org | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.yaaic)  
+[Yaaic](https://github.com/pocmo/Yaaic) | Yaaic (Yet Another Android IRC Client) is as the name already says an Internet Relay Chat (IRC) client for Android devices. http://www.yaaic.org | Java |   
 
 ### Z  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Zulip Android](https://github.com/zulip/zulip-android) | Zulip Android app, Powerful open source group chat  https://www.zulip.org/ | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.zulip.android)  
+[Zulip Android](https://github.com/zulip/zulip-android) | Zulip Android app, Powerful open source group chat  https://www.zulip.org/ | Java | 
