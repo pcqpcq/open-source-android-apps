@@ -8,6 +8,8 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Arcade Watchface](https://github.com/prempalsingh/arcade-watchface) | Arcade style watchface for Android Wear | Java |   
+[AsteroidOS](https://github.com/AsteroidOS/asteroid) | AsteroidOS is a free and open-source smartwatch platform based on OpenEmbedded, libhybris and Qt5. | Shell | N/A
+[AsteroidOS Sync](https://github.com/AsteroidOS/AsteroidOSSync) | Synchronize the time, notifications and more with your AsteroidOS smartwatch. | Java | [![Get it on Third-party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/packages/org.asteroidos.sync/)
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
@@ -32,7 +34,7 @@ App Name                   | Describe                  | Major Language         
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[FORM Watch Face](https://github.com/romannurik/FORMWatchFace) | A watch face for Android Wear based on the FORM event typeface. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.formwatchface)   
+[FORM Watch Face](https://github.com/romannurik/FORMWatchFace) | A watch face for Android Wear based on the FORM event typeface. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.formwatchface)   
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
@@ -62,7 +64,8 @@ App Name                   | Describe                  | Major Language         
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[LapseFace](https://github.com/OhMyLob/LapseFace) | LapseFace | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.lob.lapseface)   
+[LapseFace](https://github.com/OhMyLob/LapseFace) | LapseFace | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.lob.lapseface)   
+[LCARS Watchface for AsteroidOS](https://github.com/llelectronics/lcars-v1-watchface-asteroidos) | LCARS Watchface for AsteroidOS | QML | N/A
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
@@ -119,9 +122,10 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Wear for Swarm](https://github.com/sealskej/wear-for-swarm) | Swarm (aka Foursquare) for Android Wear! | Java | 
 [Wearable Chess](https://github.com/mitchazj/Wearable-Chess) | Chess for Android Wear | Java |   
-[WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
+[WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
 [WearTimer](https://github.com/brave-warrior/WearTimer) | Improved stopwatch & timer for Android Wear | Java | 
 [Wear Notify for Reddit](https://github.com/emmaguy/wear-notify-for-reddit) | Reddit for Android Wear | Java |
+[Wear Offline Notes](https://github.com/GabrielMorenoIbarra/Wear-Offline-Notes) | Wear Offline Notes | Kotlin |
 
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
