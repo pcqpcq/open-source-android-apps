@@ -79,6 +79,7 @@ App Name                   | Describe                  | Major Language         
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[neutriNote](https://github.com/appml/neutrinote) | An ultra compact extensible rich markdown note app with math formulas support | Java | [![Get it on Third-Party](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.appmindlab.nano) 
 [Noice](https://github.com/ashutoshgngwr/noice) | Relax and boost productivity with minimal background noises from realistic sources | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice)  
 [Notes](https://github.com/lguipeng/Notes) | A simple note app with Material Design | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/com.lguipeng.notes)  
 
