@@ -81,7 +81,9 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Opaler](https://github.com/timgreen/opaler) | Public Transport card manager for Sydney | Scala | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=it.timgreen.opal) 
-[OpenBikeSharing](https://github.com/bparmentier/OpenBikeSharing) | Shared bikes availability in your city | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=be.brunoparmentier.openbikesharing.app) 
+[OpenBikeSharing](https://github.com/bparmentier/OpenBikeSharing) | Shared bikes availability in your city | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=be.brunoparmentier.openbikesharing.app)
+[Organic maps](https://github.com/organicmaps/organicmaps.git) | Offline OpenStreetMap maps for iOS/Android/Mac/Linux | C++ | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=app.organicmaps) [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/en/packages/app.organicmaps/)
+
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
