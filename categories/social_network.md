@@ -13,7 +13,7 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Barinsta](https://github.com/austinhuang0131/barinsta) | Instagram client with less tracking | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/me.austinhuang.instagrabber)
+[Barinsta](https://github.com/masuvern/barinsta) | Instagram client with less tracking | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/me.austinhuang.instagrabber)
 [Beebo+](https://github.com/andforce/iBeebo) | Sina Weibo Client | Java |    
 [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) | A light Sina Weibo Android client | Java |   
 
