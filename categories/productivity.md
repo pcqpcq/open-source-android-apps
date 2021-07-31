@@ -67,6 +67,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Loop Habit Tracker](https://github.com/iSoron/uhabits) | Android app that helps you create and maintain good habits | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.isoron.uhabits) 
+[LinkHub](https://github.com/amrdeveloper/linkhub) | Simple and effective link management application | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.amrdeveloper.linkhub) 
 
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
