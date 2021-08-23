@@ -59,7 +59,8 @@ App Name                   | Describe                  | Major Language         
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Kickmaterial](https://github.com/byoutline/kickmaterial) | Crowdfunding app concept for Android built on Material Design. | Kotlin |   
+[Kickmaterial](https://github.com/byoutline/kickmaterial) | Crowdfunding app concept for Android built on Material Design. | Kotlin |
+[Kripto](https://github.com/sauravrao637/Kripto) | Cryptocurrency app using Coingecko's API | Kotlin | [Releases](https://github.com/sauravrao637/Kripto/releases)
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
