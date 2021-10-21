@@ -109,6 +109,7 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[TICE](https://github.com/TICESoftware/tice-android) | The secure location sharing app for meeting up and locating friends and family in real-time. | Kotlin  | [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=app.tice.TICE.production)
 [Transportr](https://github.com/grote/Transportr) | Aims to make public transport as easy as possible wherever you are. | Java  | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=de.grobox.liberario)
 [Travel Mate](https://github.com/Swati4star/Travel-Mate) | A complete travel guide | Java  |
 [Tracker](https://github.com/shivamsingh/Tracker) | A simple location tracker application to track user movements in background and updates the UI(map, lists) in reactive way. | Java, RxJava  |
