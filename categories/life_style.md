@@ -17,7 +17,7 @@ App Name                   | Describe                  | Major Language         
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[COVID Diary](https://github.com/apozas/contactdiary) | Keep track of the people you have recently been with. | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.apozas.contactdiary)
+[COVID Diary](https://github.com/apozas/contactdiary) | Keep track of the people you have recently been with. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.apozas.contactdiary)
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
@@ -27,7 +27,7 @@ App Name                   | Describe                  | Major Language         
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
+[Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
 [Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | Java | 
 
 ### F  
@@ -94,7 +94,7 @@ App Name                   | Describe                  | Major Language         
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Reminder Pro](https://github.com/FarshidRoohi/ReminderPro) | features now available: Ability to record and share sound, pad, ability to add geographic location and notification, two language app, ability to change how you view the map with your taste. | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=ir.farshid.roohi.reminderpro)
+[Reminder Pro](https://github.com/FarshidRoohi/ReminderPro) | features now available: Ability to record and share sound, pad, ability to add geographic location and notification, two language app, ability to change how you view the map with your taste. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=ir.farshid.roohi.reminderpro)
 
 ### S  
 App Name                   | Describe                  | Major Language             | Download 

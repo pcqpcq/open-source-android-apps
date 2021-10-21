@@ -12,8 +12,8 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Bither](https://github.com/bither/bither-android) | Simple and secure Bitcoin wallet. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=net.bither)   
-[bitcoin-wallet](https://github.com/schildbach/bitcoin-wallet) | Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. http://wallet.schildbach.de | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=de.schildbach.wallet)
+[Bither](https://github.com/bither/bither-android) | Simple and secure Bitcoin wallet. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=net.bither)   
+[bitcoin-wallet](https://github.com/schildbach/bitcoin-wallet) | Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. http://wallet.schildbach.de | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=de.schildbach.wallet)
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
@@ -39,7 +39,7 @@ App Name                   | Describe                  | Major Language         
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[GnuCash](https://github.com/codinguser/gnucash-android) | Gnucash for Android mobile companion application. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.gnucash.android)   
+[GnuCash](https://github.com/codinguser/gnucash-android) | Gnucash for Android mobile companion application. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.gnucash.android)   
 
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
@@ -70,7 +70,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Money Manager Ex](https://github.com/moneymanagerex/android-money-manager-ex) | Android port of Money Manager Ex. | Java | 
-[Money Manager](https://github.com/hulkdx/MoneyManager/) | Money Manager Kotlin + CLEAN. | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.hulkdx.moneymanagerv2)
+[Money Manager](https://github.com/hulkdx/MoneyManager/) | Money Manager Kotlin + CLEAN. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.hulkdx.moneymanagerv2)
 
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
@@ -100,7 +100,7 @@ App Name                   | Describe                  | Major Language         
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Simple Random Stock](https://github.com/WillWcchan/Simple-Random-Stock) | Randomly select a stock from the 3 U.S Indexes | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.willchan.simple_random_stock)
+[Simple Random Stock](https://github.com/WillWcchan/Simple-Random-Stock) | Randomly select a stock from the 3 U.S Indexes | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.willchan.simple_random_stock)
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 

@@ -7,7 +7,7 @@ App Name                   | Describe                  | Major Language         
 ### A  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[AnkiDroid](https://github.com/ankidroid/Anki-Android) | A semi-official port of the open source [Anki](http://ankisrs.net) spaced repetition flashcard system to Android. | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+[AnkiDroid](https://github.com/ankidroid/Anki-Android) | A semi-official port of the open source [Anki](http://ankisrs.net) spaced repetition flashcard system to Android. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 [Awesome-Campus](https://github.com/MummyDing/Awesome-Campus) | Jiangxi Normal University Android App |Java | 
 
 ### B  
@@ -33,7 +33,7 @@ App Name                   | Describe                  | Major Language         
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ForgetMeNot](https://github.com/tema6120/ForgetMeNot) | A flashcard app for Android. | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.odnovolov.forgetmenot)
+[ForgetMeNot](https://github.com/tema6120/ForgetMeNot) | A flashcard app for Android. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.odnovolov.forgetmenot)
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
@@ -64,7 +64,7 @@ App Name                   | Describe                  | Major Language         
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Learn Braille](https://github.com/braille-systems/learn-braille) | Study Russian Braille alphabet! Compatible with screen readers. | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.github.braillesystems.learnbraille&utm_source=GitHub&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+[Learn Braille](https://github.com/braille-systems/learn-braille) | Study Russian Braille alphabet! Compatible with screen readers. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.github.braillesystems.learnbraille&utm_source=GitHub&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 [LeeCo](https://github.com/Nightonke/LeeCo) | LeeCo is an awesome app for algorithem problems(including unlock), solutions, discuss(from leetcode) and comments. | Java | [Get it on Github](https://github.com/Nightonke/LeeCo/blob/master/APK/LeeCo%20V1.0.0.apk)
 
 ### M  
@@ -75,7 +75,7 @@ App Name                   | Describe                  | Major Language         
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
-[NSIT Connect](https://github.com/Swati4star/NSIT-Connect) | The official NSITonline app that aims to act as a companion app for NSIT students  | Java | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=nsit.app.com.nsitapp)  
+[NSIT Connect](https://github.com/Swati4star/NSIT-Connect) | The official NSITonline app that aims to act as a companion app for NSIT students  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=nsit.app.com.nsitapp)  
 [festnimbus](https://github.com/appteam-nith/festnimbus) | Festnimbus is an open source college app made for Technical fest known as Nimbus of NIT Hamirpur, India by [App Team NITH](https://github.com/appteam-nith) | Java | 
 
 ### O  
@@ -103,7 +103,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [Sahayak](https://github.com/Neophytes/microsoft-pragyan-hackathon) |An android app aimed to make a fun-filled educational tool for naives. Aimed at rural children and adults |Java |   
 [Seashell-app](https://github.com/drakeet/Seashell-app) | 贝壳单词 APP Android 客户端 | Java |   
-[Stepic](https://github.com/StepicOrg/stepic-android) | Free online courses with certificates | Java+Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.stepic.droid)  
+[Stepic](https://github.com/StepicOrg/stepic-android) | Free online courses with certificates | Java+Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.stepic.droid)  
 [Say-Hi](https://github.com/SuperHaker/Say-Hi) |An Android app built to better understand different English accents around the world. Also provides translations for the text in the selected langauge. |Java |
 
 ### T  
@@ -115,8 +115,8 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | 
-[Ulangi](https://github.com/ulangi/ulangi/) | Learn languages using popular methods such as spaced repetition system | TypeScript | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=com.ulangi) 
-[Umbrella](https://github.com/securityfirst/Umbrella_android) | Learn about digital and physical security on the go. From communications to dealing with a kidnap. Available in multiple languages. | Kotlin | [![Get it on Google Play](https://i.imgur.com/67WPUPF.png)](https://play.google.com/store/apps/details?id=org.secfirst.umbrella)
+[Ulangi](https://github.com/ulangi/ulangi/) | Learn languages using popular methods such as spaced repetition system | TypeScript | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.ulangi) 
+[Umbrella](https://github.com/securityfirst/Umbrella_android) | Learn about digital and physical security on the go. From communications to dealing with a kidnap. Available in multiple languages. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.secfirst.umbrella)
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
