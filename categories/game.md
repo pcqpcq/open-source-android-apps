@@ -15,6 +15,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Blockinger](https://github.com/vocollapse/Blockinger) | Tetris clone for Android | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/game/org.blockinger.game)    
 [Brain Phaser](https://github.com/Kamshak/BrainPhaser) | Quiz App in Material Design with user management, categories and statistics. | Java |
+[Bintris](https://github.com/lallassu/bintris) | A game combining tetris with binary. | Golang | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=go.lang.bintris)
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
