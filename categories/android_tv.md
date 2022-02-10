@@ -97,7 +97,7 @@ App Name                   | Describe                  | Major Language         
 ### S  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) | Ad free app for watching tube videos on Android TV boxes. It also has a **built-in updater**. | Java | [![Download it from Github Releases](https://i.ibb.co/jfdStgz/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec-resized.png)](https://github.com/yuliskov/SmartTubeNext/releases/latest)
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
