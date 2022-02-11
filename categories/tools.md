@@ -16,6 +16,7 @@ App Name                   | Describe                  | Major Language         
 [AFWall+ (Android Firewall +)](https://github.com/ukanth/afwall) | AFWall+ (Android Firewall +) - IPTables based firewall for Android | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)  
 [AnExplorer](https://github.com/1hakr/AnExplorer) | AnExplorer File Manager. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)  
 [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor) | Monitors and records the CPU and memory usage of Android devices | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.anothermonitor)  
+[AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) | FOSS client to Google's Play Store with an elegant design. Not only does Aurora Store download, update, and search for apps like the Play Store, it also empowers the user with new features. | Java | [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="80" width="271" alt="Get it on F-Droid">](https://f-droid.org/en/packages/com.aurora.store/)  
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download
