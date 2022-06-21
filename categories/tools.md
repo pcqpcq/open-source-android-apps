@@ -204,6 +204,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [Wassword](https://github.com/polilluminato/wassword-flutter) | With Wassword you can easily generate complex passwords, choose length and chars to be used and generate your passwords safely | Dart/Flutter | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.albertobonacina.wassword)
+[WhatsDeleted](https://github.com/jimale/WhatsDeteled) | WhatsDeleted recovers deleted WhatsApp messages by scanning your device notifications | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.tiriig.whatsdeleted)
 [WiFiKeyShare](https://github.com/bparmentier/WiFiKeyShare) | Share Wi-Fi passwords with QR codes and NFC tags | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=be.brunoparmentier.wifikeyshare)
 
 ### X  
