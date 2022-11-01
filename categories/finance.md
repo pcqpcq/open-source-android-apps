@@ -86,7 +86,7 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+[Paisa](https://github.com/RetroMusicPlayer/Paisa) | A expense manager app. | Dart | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=dev.hemanths.paisa&hl=en)
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 

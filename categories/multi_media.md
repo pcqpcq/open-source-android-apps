@@ -91,7 +91,7 @@ App Name                   | Describe                  | Major Language         
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[NewPipe](https://github.com/theScrabi/NewPipe) | A lightweight Youtube frontend for Android. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/repository/browse/?fdfilter=newpipe&fdid=org.schabi.newpipe)  
+[NewPipe](https://github.com/TeamNewPipe/NewPipe) | A lightweight Youtube frontend for Android. | Java | [![Get it on F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/en/packages/org.schabi.newpipe/)  
 [NOVA](https://github.com/nova-video-player/aos-AVP) | NOVA is an Android open source video player for local/network content with subtitle/metadata download support. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.courville.nova)
 
 ### O  
