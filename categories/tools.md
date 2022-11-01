@@ -155,8 +155,7 @@ App Name                   | Describe                  | Major Language         
 
 ### S  
 App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
-[SeeWeather](https://github.com/xcc3641/SeeWeather) | RxAndroid+Retrofit+Glide+Matrial Design Weather App  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.wandoujia.com/apps/com.xiecc.seeWeather)  
+:------------------------: | :------------------------ | :------------------------: | :------------------------:  
 [SuperCleanMaster](https://github.com/joyoyao/superCleanMaster) | CleanMaster open source clone | Java |  
 [S Tools+](https://github.com/naman14/S-Tools) | Keep track of your CPU and Sensors alongwith useful features like Color Picker,Compass and device information | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.naman14.stools) 
 [Secret Codes](https://github.com/SimonMarquis/Android-SecretCodes) | Explore and test your device secret codes | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.secretcodes)
