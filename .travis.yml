@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+  - 2.2
+notifications:
+  email: false
+before_script:
+  - gem install awesome_bot
+script:
+  - awesome_bot README.md --allow-dupe --allow-redirect --white-list bitdeli,travis-ci,cloudfront
+  - awesome_bot categories/*.md --allow-dupe --allow-redirect --white-list substanceproject,pan.baidu.com,50266203,pokerth

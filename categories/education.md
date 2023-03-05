@@ -7,7 +7,8 @@ App Name                   | Describe                  | Major Language         
 ###A
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[AnkiDroid](https://github.com/ankidroid/Anki-Android) | A semi-official port of the open source [Anki](http://ankisrs.net) spaced repetition flashcard system to Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+[Awesome-Campus](https://github.com/MummyDing/Awesome-Campus) | Jiangxi Normal University Android App |Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/AwesomeCampus)
 
 ###B
 App Name                   | Describe                  | Major Language             | Download 
@@ -42,12 +43,12 @@ App Name                   | Describe                  | Major Language         
 ###H
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Hubble Gallery](https://github.com/derekcsm/hubble_gallery) | View, Save, and Read about Hubble's best images. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.derek_s.hubble_gallery)
 
 ###I
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[IELTS Vocabulary Flashcards](https://github.com/bychkovdmitrii/words) | Flashcards for IELTS exam. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.dbychkov.words) 
 
 ###J
 App Name                   | Describe                  | Major Language             | Download 
@@ -62,7 +63,7 @@ App Name                   | Describe                  | Major Language         
 ###L
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[LeeCo](https://github.com/Nightonke/LeeCo) | LeeCo is an awesome app for algorithem problems(including unlock), solutions, discuss(from leetcode) and comments. | Java | [Get it on Github](https://github.com/Nightonke/LeeCo/blob/master/APK/LeeCo%20V1.0.0.apk) 
 
 ###M
 App Name                   | Describe                  | Major Language             | Download 
@@ -97,7 +98,8 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Sahayak](https://github.com/Neophytes/microsoft-pragyan-hackathon) |An android app aimed to make a fun-filled educational tool for naives. Aimed at rural children and adults |Java | 
+[Stepic](https://github.com/StepicOrg/stepic-android) | Free online courses with certificates | Java+Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.stepic.droid)  
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
@@ -143,7 +145,7 @@ App Name                   | Describe                  | Major Language         
 ###G
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[GivesMeHope](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Gives Me Hope Android client for educational purposes. | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.jparkie.givesmehope)
+[GivesMeHope](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Gives Me Hope Android client for educational purposes. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.jparkie.givesmehope)
 
 ###H
 App Name                   | Describe                  | Major Language             | Download 
@@ -203,7 +205,7 @@ App Name                   | Describe                  | Major Language         
 ###S
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Seashell-app](https://github.com/drakeet/Seashell-app) | 贝壳单词 APP Android 客户端 | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=me.drakeet.seashell)   
+[Seashell-app](https://github.com/drakeet/Seashell-app) | 贝壳单词 APP Android 客户端 | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.drakeet.seashell)   
 
 ###T
 App Name                   | Describe                  | Major Language             | Download 
@@ -213,7 +215,7 @@ App Name                   | Describe                  | Major Language         
 ###U
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=solutions.alterego.android.unisannio)   
+[Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=solutions.alterego.android.unisannio)   
 
 ###V
 App Name                   | Describe                  | Major Language             | Download 
@@ -248,7 +250,7 @@ App Name                   | Describe                  | Major Language         
 ###W
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[WaniKani for Android](https://github.com/xiprox/WaniKani-for-Android) | An Android client application for the awesome kanji learning website wanikani.com | Java | [![Get it on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=tr.xip.wanikani)
+[WaniKani for Android](https://github.com/xiprox/WaniKani-for-Android) | An Android client application for the awesome kanji learning website wanikani.com | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=tr.xip.wanikani)
 
 ###X
 App Name                   | Describe                  | Major Language             | Download 
