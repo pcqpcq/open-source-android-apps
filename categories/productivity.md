@@ -113,6 +113,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [ShutUp!](https://github.com/RitwickVerma/ShutUp) | ShutUp! - Stay Lazy | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.laughingstock.ritwick.shutup) 
 [Swiftnotes](https://github.com/adrianchifor/Swiftnotes) | Swiftnotes for Android - Note taking, simplified. | Java | 
+[Skiff](https://github.com/skiff-org/skiff-apps) | End-to-end encrypted, private email, calendar, docs, and drive. | TypeScript | [![Get it on Google Play](https://play.google.com/store/apps/details?id=com.skemailmobileapp)
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
