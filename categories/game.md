@@ -116,6 +116,7 @@ App Name                   | Describe                  | Major Language         
 [Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) | Android port of Simon Tatham's Puzzles.  https://chris.boyle.name/projects/android-puzzles/  | C | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
 [Stratagus](https://github.com/drodin/Stratagus) | A port of Stratagus real-time strategy gaming engine for Android. | C++ | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.drodin.stratagus)
 [Splinter Sweets](https://github.com/reime005/splintersweets) | A libGDX mobile game where you have to smash as most sweets as possible within 50 seconds. For Android and iOS. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=de.reimerm.splintersweets)
+[Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) | A traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
