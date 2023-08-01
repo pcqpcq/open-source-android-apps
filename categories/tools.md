@@ -17,6 +17,7 @@ App Name                   | Describe                  | Major Language         
 [AnExplorer](https://github.com/1hakr/AnExplorer) | AnExplorer File Manager. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)  
 [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor) | Monitors and records the CPU and memory usage of Android devices | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.anothermonitor)  
 [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) | FOSS client to Google's Play Store with an elegant design. Not only does Aurora Store download, update, and search for apps like the Play Store, it also empowers the user with new features. | Java | [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="80" width="271" alt="Get it on F-Droid">](https://f-droid.org/en/packages/com.aurora.store/)  
+[Aegis Authenticator](https://github.com/beemdevelopment/Aegis) | A free, secure and open source app for Android to manage your 2-step verification tokens. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download
