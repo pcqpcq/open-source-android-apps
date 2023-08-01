@@ -87,7 +87,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [Intent Intercept](https://github.com/intrications/intent-intercept) | This app attempts to intercept as many intents as possible in order to examine their contents. This helps when trying to develop an app that reacts to a particular intent.  | Java | 
 [Install Referrer](https://github.com/SimonMarquis/Android-InstallReferrer) | Test the referrer attribute on the Google Play Store | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.installreferrer)
-[IYPS](https://github.com/the-weird-aquarian/IYPS) |  | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.iyps)
+[IYPS](https://github.com/the-weird-aquarian/IYPS) | A password strength test app with strength, estimated crack times, warnings and suggestions to help make better passwords. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.iyps)
 
 ### J  
 App Name                   | Describe                  | Major Language             | Download
