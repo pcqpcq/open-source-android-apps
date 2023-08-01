@@ -126,7 +126,8 @@ App Name                   | Describe                  | Major Language         
 [Net Guard](https://github.com/M66B/NetGuard) | No root Android firewall  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/apps/testing/eu.faircode.netguard)  
 [Nevolution](https://github.com/oasisfeng/nevolution) | Evolve the Android notification experience of existing apps, with community-driven plug-ins.  | Java |  
 [Notification Analyser](https://github.com/MPieter/Notification-Analyser) | An Android application to analyse your notification history.  | Java |   
-[Ninja](https://github.com/mthli/Ninja) | A web browser that open links in background without ever leaving your favorite apps.  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/io.github.mthli.Ninja)   
+[Ninja](https://github.com/mthli/Ninja) | A web browser that open links in background without ever leaving your favorite apps. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/io.github.mthli.Ninja)   
+[Notally](https://github.com/OmGodse/Notally) | A beautiful notes app | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.omgodse.notally)
 
 ### O  
 App Name                   | Describe                  | Major Language             | Download
