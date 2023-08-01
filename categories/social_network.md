@@ -157,7 +157,7 @@ App Name                   | Describe                  | Major Language         
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+[Xtra](https://github.com/crackededed/Xtra) | Xtra is a Twitch player and browser for Android. | Kotlin | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/packages/com.github.andreyasadchy.xtra)
 
 ### Y  
 App Name                   | Describe                  | Major Language             | Download 

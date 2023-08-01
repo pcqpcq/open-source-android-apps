@@ -3,7 +3,7 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+[2FAS Authenticator](https://github.com/twofas/2fas-android) | Simple, safe and open source 2FA Authenticator app! | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.twofasapp)
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download
@@ -17,6 +17,7 @@ App Name                   | Describe                  | Major Language         
 [AnExplorer](https://github.com/1hakr/AnExplorer) | AnExplorer File Manager. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer)  
 [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor) | Monitors and records the CPU and memory usage of Android devices | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.anothermonitor)  
 [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) | FOSS client to Google's Play Store with an elegant design. Not only does Aurora Store download, update, and search for apps like the Play Store, it also empowers the user with new features. | Java | [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="80" width="271" alt="Get it on F-Droid">](https://f-droid.org/en/packages/com.aurora.store/)  
+[Aegis Authenticator](https://github.com/beemdevelopment/Aegis) | A free, secure and open source app for Android to manage your 2-step verification tokens. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download
@@ -48,6 +49,8 @@ App Name                   | Describe                  | Major Language         
 [Device Control](https://github.com/Evisceration/DeviceControl) | Device Control is an app to control several features of your device as well as some nice extra features  | Java | 
 [Droid Watcher](https://github.com/Odrin/Droid-Watcher) | Android remote control application with rich functionality | Java |
 [DuckDuckGo](https://github.com/duckduckgo/android) | DuckDuckGo Search and Stories official application | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android)
+[DAVx⁵](https://github.com/bitfireAT/davx5-ose) | DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)
+
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download
@@ -84,6 +87,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [Intent Intercept](https://github.com/intrications/intent-intercept) | This app attempts to intercept as many intents as possible in order to examine their contents. This helps when trying to develop an app that reacts to a particular intent.  | Java | 
 [Install Referrer](https://github.com/SimonMarquis/Android-InstallReferrer) | Test the referrer attribute on the Google Play Store | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.installreferrer)
+[IYPS](https://github.com/the-weird-aquarian/IYPS) | A password strength test app with strength, estimated crack times, warnings and suggestions to help make better passwords. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.iyps)
 
 ### J  
 App Name                   | Describe                  | Major Language             | Download
@@ -94,7 +98,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [KDEConnect](https://github.com/KDE/kdeconnect-android) |KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer). |Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) 
-
+[KeePassDX](https://github.com/Kunzisoft/KeePassDX) | Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
 ### L  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
@@ -122,7 +126,8 @@ App Name                   | Describe                  | Major Language         
 [Net Guard](https://github.com/M66B/NetGuard) | No root Android firewall  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/apps/testing/eu.faircode.netguard)  
 [Nevolution](https://github.com/oasisfeng/nevolution) | Evolve the Android notification experience of existing apps, with community-driven plug-ins.  | Java |  
 [Notification Analyser](https://github.com/MPieter/Notification-Analyser) | An Android application to analyse your notification history.  | Java |   
-[Ninja](https://github.com/mthli/Ninja) | A web browser that open links in background without ever leaving your favorite apps.  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/io.github.mthli.Ninja)   
+[Ninja](https://github.com/mthli/Ninja) | A web browser that open links in background without ever leaving your favorite apps. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/io.github.mthli.Ninja)   
+[Notally](https://github.com/OmGodse/Notally) | A beautiful notes app | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.omgodse.notally)
 
 ### O  
 App Name                   | Describe                  | Major Language             | Download
@@ -174,6 +179,7 @@ App Name                   | Describe                  | Major Language         
 [Status](https://github.com/TheAndroidMaster/Status) | A no-root status bar replacement for Android. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.james.status)
 [StockTicker](https://github.com/premnirmal/StockTicker) | A resizable stock ticker widget for your android home screen | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget) 
 [StudentAttendanceCheck](https://github.com/landtanin/StudentAttendanceCheck) | Student attendance monitoring system. | Java |
+[SnapDrop & PairDrop for Android](https://github.com/fm-sys/snapdrop-android) | Snapdrop & PairDrop for Android is an android client for the free and open source local file sharing solution.  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop)
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download
@@ -188,6 +194,7 @@ App Name                   | Describe                  | Major Language         
 [translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
 [TranslateApp](https://github.com/maoruibin/TranslateApp) | A translations app without interruptions  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=name.gudong.translate)  
 [Travis Client](https://github.com/brave-warrior/TravisClient-Android) | Android client for Travis CI  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.khmelenko.lab.travisclient)  
+[TrackerControl](https://github.com/TrackerControl/tracker-control-android#support-trackercontrol) | TrackerControl is an Android app that allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ('tracking'). | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download

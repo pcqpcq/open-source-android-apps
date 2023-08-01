@@ -14,7 +14,8 @@ App Name                   | Describe                  | Major Language         
 [Awkward Ratings](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies which would be awkward to watch with parents. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.nasahapps.awkwardratings)  
 ["A Photo Manager" with "A Photo Map"](https://github.com/k3b/APhotoManager/) | Manage local photos on Android: gallery, geo map, find, sort, view, copy, delete, set gps exif data, send, ... . | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.androFotoFinder)
 [Apollo](https://github.com/CyanogenMod/android_packages_apps_Apollo) | Highly customizable Android music app. | Java |
-[Auro](https://github.com/architjn/Auro) | 1st Most Fastest, Latest Designed and open source Music player | Java |  
+[Auro](https://github.com/architjn/Auro) | 1st Most Fastest, Latest Designed and open source Music player | Java |
+[Aves](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. | Dart | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
