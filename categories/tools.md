@@ -130,6 +130,7 @@ App Name                   | Describe                  | Major Language         
 [OS Monitor](https://github.com/eolwral/OSMonitor) | Android OS Monitor  | Java |  
 [owncloud](https://github.com/owncloud/android) | The ownCloud Android App. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.owncloud.android)
 [Omni-notes](https://github.com/federicoiosue/Omni-Notes) | Open source note-taking application for Android. | Java
+[Obtainium](https://github.com/ImranR98/Obtainium) | Get Android App Updates Directly From the Source. | Dart | 
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download
