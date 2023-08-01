@@ -32,7 +32,7 @@ App Name                   | Describe                  | Major Language         
 ### F  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+[FairEmail](https://github.com/M66B/FairEmail) | Fully featured, open source, privacy friendly email app for Android | Java | [![Get it On Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=eu.faircode.email)
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 
