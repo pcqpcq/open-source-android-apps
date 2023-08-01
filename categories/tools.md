@@ -179,6 +179,7 @@ App Name                   | Describe                  | Major Language         
 [Status](https://github.com/TheAndroidMaster/Status) | A no-root status bar replacement for Android. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.james.status)
 [StockTicker](https://github.com/premnirmal/StockTicker) | A resizable stock ticker widget for your android home screen | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.github.premnirmal.tickerwidget) 
 [StudentAttendanceCheck](https://github.com/landtanin/StudentAttendanceCheck) | Student attendance monitoring system. | Java |
+[SnapDrop & PairDrop for Android](https://github.com/fm-sys/snapdrop-android) | Snapdrop & PairDrop for Android is an android client for the free and open source local file sharing solution.  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop)
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download
