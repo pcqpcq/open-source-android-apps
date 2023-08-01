@@ -3,7 +3,7 @@
 ### \#   
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+[2FAS Authenticator](https://github.com/twofas/2fas-android) | Simple, safe and open source 2FA Authenticator app! | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.twofasapp)
 
 ### A  
 App Name                   | Describe                  | Major Language             | Download
