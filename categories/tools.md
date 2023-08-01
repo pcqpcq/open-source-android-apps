@@ -193,6 +193,7 @@ App Name                   | Describe                  | Major Language         
 [translate-bubble-android](https://github.com/47deg/translate-bubble-android) | Translations without interruptions  | Scala | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.translatebubble)  
 [TranslateApp](https://github.com/maoruibin/TranslateApp) | A translations app without interruptions  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=name.gudong.translate)  
 [Travis Client](https://github.com/brave-warrior/TravisClient-Android) | Android client for Travis CI  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.khmelenko.lab.travisclient)  
+[TrackerControl](https://github.com/TrackerControl/tracker-control-android#support-trackercontrol) | TrackerControl is an Android app that allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ('tracking'). | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download
