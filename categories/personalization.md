@@ -58,6 +58,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
  [KISS Launcher](https://github.com/Neamar/KISS) |KISS is a blazingly fast launcher for android requiring nearly no memory to run.http://kisslauncher.com/  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=fr.neamar.kiss) 
+ [kvaesitso](https://github.com/MM2-0/Kvaesitso) | Kvaesitso is a search focused, free and open source launcher for Android. | Kotlin | 
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download 

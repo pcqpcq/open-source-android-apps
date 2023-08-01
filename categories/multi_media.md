@@ -132,6 +132,7 @@ App Name                   | Describe                  | Major Language         
 [StickerCamera](https://github.com/Skykai521/StickerCamera) | A camera with sticker feature | Java |     
 [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) | Manage (re)watching your favorite TV shows on your Android devices.  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide)
 [Suprabhatham](https://github.com/v-adhithyan/suprabhatham-android-app) | Play Lord Venkateswara Suprabhatham or use schedule for playback later with option for recurring playback. | Java | 
+[Showly](https://github.com/michaldrabik/showly-2.0) | Showly 2.0 is modern, slick, open-sourced Android TV Shows Tracker. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
