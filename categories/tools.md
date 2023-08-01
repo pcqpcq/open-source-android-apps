@@ -49,6 +49,8 @@ App Name                   | Describe                  | Major Language         
 [Device Control](https://github.com/Evisceration/DeviceControl) | Device Control is an app to control several features of your device as well as some nice extra features  | Java | 
 [Droid Watcher](https://github.com/Odrin/Droid-Watcher) | Android remote control application with rich functionality | Java |
 [DuckDuckGo](https://github.com/duckduckgo/android) | DuckDuckGo Search and Stories official application | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android)
+[DAVx⁵](https://github.com/bitfireAT/davx5-ose) | DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)
+
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download
