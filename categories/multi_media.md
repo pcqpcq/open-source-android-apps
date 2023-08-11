@@ -112,7 +112,7 @@ App Name                   | Describe                  | Major Language         
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+[QuickNovel](https://github.com/LagradOst/QuickNovel) | Adfree FOSS Android app for downloading novels. It also functions as an Epub reader. | Kotlin | 
 
 ### R  
 App Name                   | Describe                  | Major Language             | Download 
