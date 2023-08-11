@@ -26,7 +26,7 @@ App Name                   | Describe                  | Major Language         
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[CloudStream] | Android app for streaming and downloading media. | Kotlin |
+[CloudStream](https://github.com/recloudstream/cloudstream) | Android app for streaming and downloading media. | Kotlin |
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
