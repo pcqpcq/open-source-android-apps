@@ -39,6 +39,7 @@ App Name                   | Describe                  | Major Language         
 [ConnectBot](https://github.com/connectbot/connectbot/) | The first SSH client for Android. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.connectbot)
 [Content Provider Helper](https://github.com/k3b/ContentProviderHelper/) | Android app that helps developers to discover and query content providers.  | Java | [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="45">](https://f-droid.org/app/de.k3b.android.contentproviderhelper)
 [Cryptomator](https://github.com/cryptomator/android/) | Multi-platform transparent client-side encryption of your files in the cloud. | Kotlin/Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.cryptomator)
+[Calculator](https://github.com/Omanshu209/CalculatorGUI_kivy) | A powerful, resizable calculator! | Python | [![Get it on Github(APK version)](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/Omanshu209/CalculatorGUI_kivy/CalculatorKivy.1-arm64-v8a_armeabi-v7a-debug.apk)
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download
