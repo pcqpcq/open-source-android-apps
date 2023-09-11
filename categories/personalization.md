@@ -107,7 +107,7 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ | [thumb-key](https://github.com/dessalines/thumb-key) | A privacy-conscious keyboard made for your thumbs  | Kotlin | [![Get it on F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/de/packages/com.dessalines.thumbkey/)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
