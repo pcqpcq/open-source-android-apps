@@ -218,6 +218,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [Xsocks](https://github.com/lparam/xsocks-android) | A secure and fast proxy for protect your network traffic  | C | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/lparam/xsocks-android/releases)  
+[XWriter](https://github.com/Abir-Tx/XWriter) | An Android app for printing a text/sentence as many times as needed & copy them into the clipboard with just one click | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Abir-Tx/XWriter/releases)
 
 ### Y  
 App Name                   | Describe                  | Major Language             | Download
