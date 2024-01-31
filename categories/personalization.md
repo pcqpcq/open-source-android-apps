@@ -18,6 +18,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
 [CandyBar](https://goo.gl/tak6hn) | CandyBar is Android icon pack dashboard library developed by Dani Mahardhika. CandyBar is open source and free to use.  | Java | 
+[CandyBar (fork)](https://github.com/zixpo/candybar)) | Improved version of the original CandyBar Dashboard developed by sarsamurmu. | Java | 
 
 ### D  
 App Name                   | Describe                  | Major Language             | Download 
