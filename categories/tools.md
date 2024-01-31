@@ -29,7 +29,7 @@ App Name                   | Describe                  | Major Language         
 [Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub. | Java |
 [Bluetooth Simple](https://github.com/akexorcist/Android-BluetoothSimple) | Experiment app about communication by Bluetooth in chat style. | Kotlin/Java
 [Brevent](https://github.com/liudongmiao/Brevent) | Black Prevent, Prevent without ROOT. (An nice app like Greenify by Oasisfeng) | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
-
+[BookStack](https://github.com/BookStackApp/BookStack?tab=readme-ov-file) | A platform for storing and organising information and documentation. | PHP | 
 ### C  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
@@ -128,6 +128,7 @@ App Name                   | Describe                  | Major Language         
 [Notification Analyser](https://github.com/MPieter/Notification-Analyser) | An Android application to analyse your notification history.  | Java |   
 [Ninja](https://github.com/mthli/Ninja) | A web browser that open links in background without ever leaving your favorite apps. | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/io.github.mthli.Ninja)   
 [Notally](https://github.com/OmGodse/Notally) | A beautiful notes app | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.omgodse.notally)
+[OpenShop.io](https://github.com/nextcloud/server) | An Android application for file-sharing platform, providing tools for productivity, document editing, and communication. | PHP |  
 
 ### O  
 App Name                   | Describe                  | Major Language             | Download

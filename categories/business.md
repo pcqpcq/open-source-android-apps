@@ -78,6 +78,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [OpenShop.io](https://github.com/openshopio/openshop.io-android) | First mobile E-commerce solution connected to Facebook Ads and Google. | Java | 
+[OpenPetra](https://github.com/openpetra/openpetra) | Open-source Android app for charitable organizations, serving as administration software combining CRM and ERP functionalities.  | C# |
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 

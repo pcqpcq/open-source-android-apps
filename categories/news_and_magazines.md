@@ -114,7 +114,8 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
 [StartupNews](https://github.com/halzhang/Startupnews) | An Android Startup News Client! | Java | 
-[somosOCO](https://github.com/pekebyte/somosoco) | A blogger blog reader android app http://somosoco.blogspot.com/ | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.pekebyte.somosoco)  
+[somosOCO](https://github.com/pekebyte/somosoco) | A blogger blog reader android app http://somosoco.blogspot.com/ | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.pekebyte.somosoco)
+[Slide](https://github.com/Haptic-Apps/Slide) | Slide is an open-source, ad-free Reddit browser for Android. | Java |  
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download

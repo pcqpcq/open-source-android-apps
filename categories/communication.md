@@ -105,6 +105,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [surespot](https://github.com/surespot/android)| Surespot is a mobile messaging application that secures all messages using end-to-end encryption. https://www.surespot.me | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.twofours.surespot) 
 [Signal](https://github.com/WhisperSystems/Signal-Android) | A secure calling and messaging app for Android. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
+[Silence](https://github.com/SilenceIM/Silence) | Silence (formerly SMSSecure) is an SMS/MMS application that allows you to protect your privacy while communicating with friends. | Java |
 
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
