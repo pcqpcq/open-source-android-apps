@@ -152,7 +152,8 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [WeGit](https://github.com/Leaking/WeGit) | An Android App for Github | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Leaking/WeGit/tree/master/screenshot)   
 [weiciyuan](https://github.com/qii/weiciyuan) | Sina Weibo Android Client | Java |    
-[WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android https://apps.wordpress.org/ | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.wordpress.android) 
+[WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android https://apps.wordpress.org/ | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.wordpress.android)
+[wasteof for Android](https://github.com/micahlt/wasteof.mobile) | An Android app for the wasteof.money social media. | JavaScript | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile)
 
 ### X  
 App Name                   | Describe                  | Major Language             | Download 
