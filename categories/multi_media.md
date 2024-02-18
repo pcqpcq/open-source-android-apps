@@ -68,7 +68,7 @@ App Name                   | Describe                  | Major Language         
 ### K  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+[Kafka for Internet Archive](https://github.com/vipulyaara/Kafka) | Android client for Internet Archive serving millions of text and audio in a modern interface with built-in reader and audio player. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.kafka.user)
 
 ### L  
 App Name                   | Describe                  | Major Language             | Download 
