@@ -83,8 +83,7 @@ App Name                   | Describe                  | Major Language         
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
+[Olauncher](https://github.com/tanujnotes/Olauncher) | Olauncher is a minimal AF, privacy focused, free forever, open-source launcher with daily fresh new wallpapers.|Kotlin|[![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=app.olauncher) |
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
