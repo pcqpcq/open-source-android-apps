@@ -123,8 +123,6 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SagaMusic](https://github.com/SagaMusic/saga-android) | Free and legal music downloader for Android | Java |   
-[Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) | A Simple Photo and Video gallery | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery)
-[Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) | A Simple Music Player without ads and unnecessary permissions. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer)
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | An Android client with Material Design, in chinese. | Java | 
 [Sky31Radio](https://github.com/linroid/Sky31Radio) | 湘潭大学三翼校园"四季电台" Android客户端 | Java | 
 [Shuttle](https://github.com/timusus/Shuttle) | Music Player | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=another.music.player)
