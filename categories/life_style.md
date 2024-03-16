@@ -104,7 +104,7 @@ App Name                   | Describe                  | Major Language         
 ### T  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+|[Teapp](https://github.com/marianpekar/teapp) | A lightweight personal database for tea enthusiasts with a timer, infusion counter, and ratio calculator. | Kotlin | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/marianpekar/teapp/releases)
 
 ### U  
 App Name                   | Describe                  | Major Language             | Download 
