@@ -25,6 +25,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [DevJournal](https://github.com/alistairholmes/devjournal) |  Jott down your dev life, ideas, notes, to-dos, bugs. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.alistairholmes.devjournal)
+[DeviceAnalyzer](https://github.com/MrMonsterX/DeviceAnalyzer) |  Device Analyzer is a powerful Android app that provides detailed insights into hardware specifications. | Java | 
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
