@@ -22,8 +22,9 @@ App Name                   | Describe                  | Major Language         
 ### B  
 App Name                   | Describe                  | Major Language             | Download
 :------------------------: | :------------------------ | :------------------------: | :------------------------:
-[Beta Updater for WhatsApp](https://github.com/javiersantos/WhatsAppBetaUpdater) | An app to update WhatsApp to the latest beta version available on Android  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/javiersantos/WhatsAppBetaUpdater/releases)
 [Barcode Scanner](https://github.com/zxing/zxing) | Barcode and QR Code reader | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)
+[Battarang Notifier](https://github.com/ni554n/battarang-notifier-android) | Get notified when your android's battery is low or full | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.anissan.battarang)
+[Beta Updater for WhatsApp](https://github.com/javiersantos/WhatsAppBetaUpdater) | An app to update WhatsApp to the latest beta version available on Android | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/javiersantos/WhatsAppBetaUpdater/releases)
 [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) | An attempt to provide advanced battery stats for Android  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.asksven.betterbatterystats)
 [BinaryEye](https://github.com/markusfisch/BinaryEye) | BinaryEye is a barcode scanner for Android. It is well polished, ad free, with no IAP. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 [Bitocle for GitHub](https://github.com/mthli/Bitocle) | Bitocle is a simple android app which allows you to view your source code in GitHub. | Java |
