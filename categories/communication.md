@@ -42,7 +42,7 @@ App Name                   | Describe                  | Major Language         
 ### H  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
+[httpSMS](https://github.com/NdoleStudio/httpsms) |  httpSMS converts your Android phone into an SMS gateway so you can send and receive SMS messages via a simple programmable API with end-to-end encryption. | Kotlin | [<img src="https://raw.githubusercontent.com/NdoleStudio/httpsms/main/.github/ghbadge.png" alt="Get it on GitHub" height="70">](https://github.com/NdoleStudio/httpsms/releases/latest/download/HttpSms.apk)
 
 ### I  
 App Name                   | Describe                  | Major Language             | Download 
