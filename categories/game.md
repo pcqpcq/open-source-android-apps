@@ -16,6 +16,8 @@ App Name                   | Describe                  | Major Language         
 [Blockinger](https://github.com/vocollapse/Blockinger) | Tetris clone for Android | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/game/org.blockinger.game)    
 [Brain Phaser](https://github.com/Kamshak/BrainPhaser) | Quiz App in Material Design with user management, categories and statistics. | Java |
 [Bintris](https://github.com/lallassu/bintris) | A game combining tetris with binary. | Golang | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=go.lang.bintris)
+[BGMI](https://www.battlegroundsmobileindia.com/) | Popular battle royale game played in India | C++ | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.pubg.imobile)
+
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
@@ -38,9 +40,12 @@ App Name                   | Describe                  | Major Language         
 
 
 ### F  
+### F
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[friendspell](https://github.com/chiuki/friendspell) | Party icebreaker game based on the Google Nearby API | java |    
+[friendspell](https://github.com/chiuki/friendspell) | Party icebreaker game based on the Google Nearby API | Java |
+[Free Fire](https://www.ff.garena.com/) | Popular battle royale game with fast-paced action | C++ | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.dts.freefireth)
+
 
 ### G  
 App Name                   | Describe                  | Major Language             | Download 

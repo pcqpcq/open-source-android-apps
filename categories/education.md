@@ -86,7 +86,8 @@ App Name                   | Describe                  | Major Language         
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+[Physics Wallah](https://www.pw.live/) | An educational app for students to learn physics, chemistry, and more | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=live.pw.app)
+
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
@@ -117,6 +118,8 @@ App Name                   | Describe                  | Major Language         
 [Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | 
 [Ulangi](https://github.com/ulangi/ulangi/) | Learn languages using popular methods such as spaced repetition system | TypeScript | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.ulangi) 
 [Umbrella](https://github.com/securityfirst/Umbrella_android) | Learn about digital and physical security on the go. From communications to dealing with a kidnap. Available in multiple languages. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.secfirst.umbrella)
+[Unacademy](https://unacademy.com/) | Online learning platform offering courses and materials for various competitive exams and subjects | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.unacademyapp)
+
 
 ### V  
 App Name                   | Describe                  | Major Language             | Download 
