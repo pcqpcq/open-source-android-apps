@@ -32,6 +32,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | A game of dungeon exploration, combat and magic, involving characters of diverse skills, worshipping deities of great power and caprice. | C++ |  
+[destiny_game](https://github.com/VedantAdka/destiny_game) | Destiny Game App is a choice-based adventure game with a dark-themed UI, where player decisions shape multiple possible story endings. | C++ |  
 
 ### E  
 App Name                   | Describe                  | Major Language             | Download 
