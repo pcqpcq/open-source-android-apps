@@ -81,7 +81,7 @@ App Name                   | Describe                  | Major Language         
 ### O  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+ **Oppia**|An interactive learning app that enables users to create and share lessons. | Kotlin| [GitHub Repository](https://github.com/oppia/oppia-android)
 
 ### P  
 App Name                   | Describe                  | Major Language             | Download 
