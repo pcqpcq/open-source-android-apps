@@ -13,6 +13,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [Banya](https://github.com/forezp/banya) | An openresource  for Douban API with NetEase Music UI. | Java |
+[Birday](https://github.com/m-i-n-a-r/birday) | Wonderful and helpful birthday calendar and reminder. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.minar.birday)  [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="120">](https://f-droid.org/de/packages/com.minar.birday/)
 
 ### C  
 App Name                   | Describe                  | Major Language             | Download 
