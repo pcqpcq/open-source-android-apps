@@ -8,7 +8,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [AisenWeiBo](https://github.com/wangdan/AisenWeiBo) | Sina Weibo Client with Material Design | Java |    
-[Kickstarter]https://github.com/kickstarter/android-oss) | Official Kickstarter open source app for Android. | Kotlin |   
+[Kickstarter](https://github.com/kickstarter/android-oss) | Official Kickstarter open source app for Android. | Kotlin |   
 
 ### B  
 App Name                   | Describe                  | Major Language             | Download 
@@ -86,12 +86,13 @@ App Name                   | Describe                  | Major Language         
 ### M  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
+ [Mastodon](https://github.com/mastodon/mastodon-android) | Mastodon is an open-source alternative to X (fka Twitter) and Threads. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.joinmastodon.android)  [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="120">](https://f-droid.org/de/packages/org.joinmastodon.android/)
+ [minicat](https://github.com/mcxiaoke/minicat)| 蘑菇饭App http://fanfou.com/androidsupport | Java |  
  [Monotweety](https://github.com/yshrsmz/monotweety)| Simple Twitter Client just for tweeting from notification area | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=net.yslibrary.monotweety) 
 
 ### N  
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [minicat](https://github.com/mcxiaoke/minicat)| 蘑菇饭App http://fanfou.com/androidsupport | Java |  
  [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A lightweight Youtube frontend for Android | Java |  
 
 ### O  
