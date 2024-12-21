@@ -147,6 +147,7 @@ App Name                   | Describe                  | Major Language         
 [Prey Anti Theft](https://github.com/prey/prey-android-client) | Android client for the Prey anti-theft software. https://preyproject.com/  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.prey)
 [Preferences Manager](https://github.com/SimonMarquis/Android-PreferencesManager) | View and edit application's preferences | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=fr.simon.marquis.preferencesmanager)
 [PokePortal](https://github.com/yuzumone/PokePortal)  | Map application of PokeStops and Gyms of "Pokémon GO" | Kotlin |
+[PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) | PocketPal AI is a pocket-sized AI assistant powered by small language models (SLMs) that run directly on your phone. Designed for both iOS and Android, PocketPal AI lets you interact with various SLMs without the need for an internet connection.  | TypeScript | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://github.com/a-ghorbani/pocketpal-ai/releases/download/v1.6.1/app-release.apk)
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download

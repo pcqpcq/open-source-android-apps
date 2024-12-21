@@ -98,6 +98,7 @@ App Name                   | Describe                  | Major Language         
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [InstaChat- Chat from anywhere](https://github.com/mohak1712/Insta-Chat) | InstaChat offers a revolutionary way to read messages of your favourite messengers. It overlays every other app and you can reply from anywhere you want. | Java | 
+[PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) | PocketPal AI is a pocket-sized AI assistant powered by small language models (SLMs) that run directly on your phone. Designed for both iOS and Android, PocketPal AI lets you interact with various SLMs without the need for an internet connection.  | TypeScript | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://github.com/a-ghorbani/pocketpal-ai/releases/download/v1.6.1/app-release.apk)
 
 ### Q  
 App Name                   | Describe                  | Major Language             | Download 
