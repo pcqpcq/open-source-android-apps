@@ -1,136 +1,17 @@
-## Android TV  
-### \#   
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+# Android TV Apps
 
-### A  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+A curated list of open-source applications designed specifically for the Android TV platform. The list is sorted alphabetically.
 
-### B  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+---
 
-### C  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**Jellyfin**](https://github.com/jellyfin/jellyfin-androidtv) | A client for the Jellyfin media server, designed for Android TV and Fire TV devices. | `Java` | `GPL-3.0` | 8.3k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv) |
+| [**SmartTubeNext**](https://github.com/yuliskov/SmartTubeNext) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | `Java` | `GPL-3.0` | 18.8k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/yuliskov/SmartTubeNext/releases/latest) |
+| [**Vineyard**](https://github.com/hitherejoe/Vineyard) | An open-source client for the Vine video service on Android TV. (Archived) | `Java` | `Apache-2.0` | 255 | — |
+| [**XiaomiTV**](https://github.com/XiaoMi/android_tv_metro) | A metro-style framework and server API for Android TV. (Archived) | `Java` | `Apache-2.0` | 1.2k | — |
 
-### D  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+---
 
-### E  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### F  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### G  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### H  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### I  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### J  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Jellyfin](https://github.com/jellyfin/jellyfin-androidtv) | Jellyfin Android TV is a [Jellyfin](https://jellyfin.org/) client for Android TV, nVidia Shield, and Amazon Fire TV devices. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv)
-
-### K  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### L  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### M  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### N  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### O  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### P  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### Q  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### R  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### S  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) | Ad free app for watching tube videos on Android TV boxes. It also has a **built-in updater**. | Java | [![Download it from Github Releases](https://i.ibb.co/jfdStgz/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec-resized.png)](https://github.com/yuliskov/SmartTubeNext/releases/latest)
-
-### T  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### U  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### V  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Vineyard](https://github.com/hitherejoe/Vineyard) | [Vine client for Android TV](https://medium.com/exploring-android/vineyard-creating-an-android-tv-vine-app-e1480708b0a3#.q4hrfrsnu) | Java |    
-
-### W  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### X  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [XiaomiTV](https://github.com/XiaoMi/android_tv_metro)|android tv metro framework and server API |Java  | 
-
-### Y  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### Z  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
- 
+### How to Contribute
+Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!

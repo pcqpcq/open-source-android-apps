@@ -1,155 +1,53 @@
-## News and Magazines  
-### \#   
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
- [36krReader](https://github.com/kinneyyan/36krReader)| Android client of 36kr.com with Material Design. | Java |
- [Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo)| 干货集中营 Android App | Java |
- [AndroidRivers](https://github.com/dodyg/AndroidRivers)| Anxiety free news reader for Android - developed using Kotlin | Kotlin |
+# News & Magazines Apps
 
-### A  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+A curated list of open-source news readers, content aggregators, and clients for various online platforms on Android. The list is sorted alphabetically.
 
-### B  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
-[Book Dash](https://github.com/spongebobrf/BookdashAndroidApp) | Book Dash is an Android App for the NPO where you can download books in different languages for free. | Java |  [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.bookdash.android)
+---
 
-### C  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
-[CrimeTalk Reader](https://github.com/JohnPersano/CrimeTalk-Reader) | The CrimeTalk Reader app is a free and open source application designed for devices running Android Ice Cream Sandwich (4.0) and above. Lightweight and minimalistic, the CrimeTalk Reader is the perfect application to browse CrimeTalk articles on your Android device. | Java |
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**36krReader**](https://github.com/kinneyyan/36krReader) | A Material Design client for the Chinese tech news site 36kr.com. | `Java` | `Apache-2.0` | 272 | — |
+| [**Android-Ganhuo**](https://github.com/ganhuo/Android-Ganhuo) | The official Android client for the Chinese tech content aggregator ganhuo.io. | `Java` | Not specified | 1.9k | — |
+| [**AndroidRivers**](https://github.com/dodyg/AndroidRivers) | An "anxiety-free" news reader for Android, written in Kotlin. | `Kotlin` | `GPL-3.0` | 134 | — |
+| [**Book Dash**](https://github.com/spongebobrf/BookdashAndroidApp) | An app to download free children's books in different languages from the NPO. | `Java` | `Apache-2.0` | 133 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.bookdash.android) |
+| [**CrimeTalk Reader**](https://github.com/JohnPersano/CrimeTalk-Reader) | A lightweight and minimalistic reader for CrimeTalk articles. (Archived) | `Java` | `Apache-2.0` | 64 | — |
+| [**EffectiveAndroidUI**](https://github.com/pedrovgs/EffectiveAndroidUI) | A sample project demonstrating best practices for the Android UI Layer (MVP/MVVM). | `Java` | `Apache-2.0` | 4.8k | — |
+| [**FastHub**](https://github.com/fastaccess/FastHub) | A feature-rich, open-source GitHub client for Android. | `Kotlin` | `Apache-2.0` | 5.7k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.fastaccess.github) |
+| [**Flym News Reader**](https://github.com/FredJul/Flym) | A light, modern, and open-source RSS feed reader for Android. | `Java` | `GPL-3.0` | 1.2k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=net.fred.feedex) |
+| [**frisbee**](https://github.com/gdg-x/frisbee) | An Android application for members of Google Developer Groups (GDG). | `Java` | `Apache-2.0` | 569 | — |
+| [**GitHot**](https://github.com/andyiac/githot) | An app to help you find the world's most popular projects and developers on GitHub. | `Java` | `Apache-2.0` | 1.1k | — |
+| [**Hacker News (by manmal)**](https://github.com/manmal/hn-android) | A simple and clean Hacker News client for Android. | `Java` | `Apache-2.0` | 827 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.manuelmaly.hn) |
+| [**HackerNews-React-Native**](https://github.com/iSimar/HackerNews-React-Native) | A Hacker News client for iOS and Android, built with React Native. | `JavaScript` | `MIT` | 3.5k | — |
+| [**Hex for Hacker News**](https://github.com/longdivision/hex) | A snappy and fun Hacker News app with a focus on design. (Archived) | `Java` | `MIT` | 398 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.hexforhn.hex) |
+| [**Hummingbird**](https://github.com/xiprox/Hummingbird-for-Android) | A modern client for the anime tracking website Hummingbird.me (now Kitsu). | `Java` | `GPL-3.0` | 412 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/xiprox/Hummingbird-for-Android/releases) |
+| [**Idaily**](https://github.com/liuguangqiang/Idaily) | A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava. | `Java` | `Apache-2.0` | 664 | — |
+| [**ImportNew**](https://github.com/lzjun567/XiYuanFangApp) | The official Android app for the Chinese tech blog ImportNew.com. | `Java` | Not specified | 652 | — |
+| [**Jager**](https://github.com/jaspervanriet/Jager) | An unofficial client for Product Hunt with a Material Design interface. (Archived) | `Java` | Not specified | 200 | — |
+| [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 2k | — |
+| [**kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept showcasing new trends in Android development. | `Java` | `Apache-2.0` | 1.3k | — |
+| [**KuaiHu**](https://github.com/iKrelve/KuaiHu) | A third-party client for the popular Chinese news aggregator zhihu.com. | `Java` | `Apache-2.0` | 1.5k | — |
+| [**Leisure**](https://github.com/MummyDing/Leisure) | An app that aggregates content from Zhihu Daily, Guokr, and Douban Books. | `Java` | `Apache-2.0` | 2.6k | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://coolapk.com/apk/com.mummyding.app.leisure) |
+| [**Materialistic**](https://github.com/hidroh/materialistic) | A feature-rich, Material Design Hacker News reader. | `Java` | `Apache-2.0` | 2.5k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) |
+| [**Munch**](https://github.com/crazyhitty/Munch) | A minimalistic and easy-to-use RSS reader application. (Archived) | `Java` | `Apache-2.0` | 148 | [![F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/packages/com.crazyhitty.chdev.ks.munch/) |
+| [**MVVM Hacker News**](https://github.com/hitherejoe/MVVM_Hacker_News) | An experimental Hacker News app using the MVVM pattern and Data Binding library. | `Java` | `Apache-2.0` | 1.4k | — |
+| [**NEWS**](https://github.com/hemant3370/newsApp) | An app that fetches the latest news from popular channels. | `Java` | Not specified | 114 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.hemant.myfeed) |
+| [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | `Java`/`Kotlin` | `Apache-2.0` | 16.5k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/apps/testing/io.plaidapp) |
+| [**Predator for ProductHunt**](https://github.com/crazyhitty/Capstone-Project) | A minimalistic client for Product Hunt to browse the latest products and collections. | `Java` | `Apache-2.0` | 129 | — |
+| [**Qiitanium**](https://github.com/ogaclejapan/Qiitanium) | An unofficial Android application for the Japanese tech community Qiita. | `Java` | `Apache-2.0` | 239 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.ogaclejapan.qiitanium) |
+| [**RedReader**](https://github.com/QuantumBadger/RedReader) | A fast, feature-rich, and accessibility-focused Reddit client. | `Java` | `GPL-3.0` | 1.5k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) |
+| [**scala-days-android**](https://github.com/47deg/scala-days-android) | The official Android application for the Scala Days conferences. | `Scala` | `Apache-2.0` | 385 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays) |
+| [**Slide**](https://github.com/Haptic-Apps/Slide) | A feature-packed, ad-free, and open-source Reddit browser for Android. | `Java` | `GPL-2.0` | 2.2k | — |
+| [**somosOCO**](https://github.com/pekebyte/somosoco) | A simple reader app for the "somos oco" Blogger blog. | `Java` | Not specified | 17 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.pekebyte.somosoco) |
+| [**StartupNews**](https://github.com/halzhang/Startupnews) | A client for Startup News, a social news site for startup founders. | `Java` | `Apache-2.0` | 344 | — |
+| [**Tiny Tiny RSS**](https://git.tt-rss.org/fox/tt-rss-android) | The official Android client for the self-hosted RSS reader, Tiny Tiny RSS. | `Java` | `GPL-3.0` | 741 | — |
+| [**Upload to Commons**](https://github.com/commons-app/apps-android-commons) | Allows users to upload photos from their Android device to Wikimedia Commons. | `Java` | `GPL-2.0` | 664 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=fr.free.nrw.commons) |
+| [**Wikipedia**](https://github.com/wikimedia/apps-android-wikipedia) | The official open-source Wikipedia application for Android. | `Java`/`Kotlin` | `GPL-2.0` | 3.5k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.wikipedia) |
+| [**Yahnac**](https://github.com/malmstein/yahnac) | "Yet Another Hacker News Android Client." | `Java` | `Apache-2.0` | 557 | — |
+| [**ZhiHuDaily-React-Native**](https://github.com/race604/ZhiHuDaily-React-Native) | A Zhihu Daily client implemented using React Native for Android. | `JavaScript` | `MIT` | 3.6k | — |
+| [**ZhihuDailyKotlin**](https://github.com/lzyzsd/ZhihuDailyKotlin) | A clone of the Zhihu Daily app, written entirely in Kotlin. | `Kotlin` | `MIT` | 569 | — |
+| [**ZhuanLan**](https://github.com/bxbxbai/ZhuanLan) | A client for the "Zhuanlan" (Columns) section of the Zhihu platform. | `Java` | `Apache-2.0` | 913 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://vdisk.weibo.com/s/GGofvoXe__E) |
 
-### D  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
- | | |
+---
 
-### E  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
-[EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) | Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI". | Java |     
-
-### F  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Flym News Reader](https://github.com/FredJul/Flym) | Flym News Reader is a light and modern Android feed reader, based on Sparse rss. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=net.fred.feedex)  
-[frisbee](https://github.com/gdg-x/frisbee) | Android application for the GDG members. | Java |   
-[FastHub](https://github.com/nickbutcher/plaid) | The ultimate GitHub client for Android | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.fastaccess.github) 
-
-### G  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[GitHot](https://github.com/andyiac/githot) | GitHot is an Android App that will help you find the world most popular project and person .  | Java | 
-
-### H  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Hacker News](https://github.com/manmal/hn-android) | The Hacker News Android App | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.manuelmaly.hn)  
-[HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) | Hacker News iOS and Android App - Made with React Native. | JavaScript/React Native |   
-[Hex for Hacker News](https://github.com/longdivision/hex) | A snappy and fun Hacker News app | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.hexforhn.hex)   
-[Hummingbird](https://github.com/xiprox/Hummingbird-for-Android) | A cool, modern client app for the anime tracking website Hummingbird.me | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/xiprox/Hummingbird-for-Android/releases)  
-[hacker-news-android](https://github.com/dinosaurwithakatana/hacker-news-android) | another hacknews client | Java | 
-
-### I  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Idaily](https://github.com/liuguangqiang/Idaily) | 使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。| Java |
-[ImportNew](https://github.com/lzjun567/XiYuanFangApp) | ImportNew Android App | Java | 
-
-### J  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Jager](https://github.com/jaspervanriet/Jager) | Unofficial client for Product Hunt with material design. | Java | 
-[JianDan](https://github.com/ZhaoKaiQiang/JianDan) | 高仿煎蛋客户端 | Java | 
-
-### K  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
-[kickmaterial](https://github.com/byoutline/kickmaterial) | Crowdfunding app concept for Android. Created to showcase new trends in Android development with strong focus on Material Design. | Java |   
-[KuaiHu](https://github.com/iKrelve/KuaiHu) | A third-part clent of daily.zhihu.com | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://pan.baidu.com/s/1nt1RI7B)  
-
-### L  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
-[Leisure](https://github.com/MummyDing/Leisure) | Leisure is an Android App containing Zhihu Daily, Guokr Scientific, XinhuaNet News and Douban Books. http://blog.csdn.net/mummyding/article/details/50266203 | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://coolapk.com/apk/com.mummyding.app.leisure)  
-
-### M  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:  
-[Materialistic](https://github.com/hidroh/materialistic) | A materialistic Hacker News Android reader | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic)  
-[MaterialUp](https://github.com/jariz/MaterialUp) | MaterialUp Android App | Java |   
-[MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News) | Android MVVM experiment project using the official Data Binding library | Java |  
-[Munch](https://github.com/crazyhitty/Munch) | A minimalistic, easy to use Rss reader application. [Deprecated] | Java | [![Get it on Third-party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/en/packages/com.crazyhitty.chdev.ks.munch/)
-
-### N  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[NEWS](https://github.com/hemant3370/newsApp) | NEWS fetches latest news from the most popular news channels. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.hemant.myfeed&hl=en) 
-
-### O  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
-
-### P  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Plaid](https://github.com/nickbutcher/plaid) | Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/apps/testing/io.plaidapp) 
-[Predator for ProductHunt](https://github.com/crazyhitty/Capstone-Project) | Predator is a minimalistic client for ProductHunt. It shows latest products and collections fetched via ProductHunt api. It also offers other information like media and comments associated with that product. | Java | 
-
-### Q  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Qiitanium](https://github.com/ogaclejapan/Qiitanium) | Qiitanium is an unofficial Android application of Qiita | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.ogaclejapan.qiitanium) 
-
-### R  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[RedReader](https://github.com/QuantumBadger/RedReader) | An unofficial open source Reddit client for Android. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) 
-
-### S  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[scala-days-android](https://github.com/47deg/scala-days-android) | Official Android app for Scala Days | Scala | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.fortysevendeg.android.scaladays)  
-[StartupNews](https://github.com/halzhang/Startupnews) | An Android Startup News Client! | Java | 
-[somosOCO](https://github.com/pekebyte/somosoco) | A blogger blog reader android app http://somosoco.blogspot.com/ | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.pekebyte.somosoco)
-[Slide](https://github.com/Haptic-Apps/Slide) | Slide is an open-source, ad-free Reddit browser for Android. | Java |  
-
-### T  
-App Name                   | Describe                  | Major Language             | Download
-:------------------------: | :------------------------ | :------------------------: | :------------------------:
-[Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss-android) | Tiny Tiny RSS client for Android devices | Java |
-
-### U  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Upload to Commons](https://github.com/nicolas-raoul/apps-android-commons) | Now maintained by volunteers, this app allows users to upload photos to Wikimedia Commons from their Android device. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=fr.free.nrw.commons)   
-
-### V  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
-
-### W  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Wikipedia Android](https://github.com/wikimedia/apps-android-wikipedia) | Github mirror of "apps/android/wikipedia" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=org.wikipedia)   
-
-### X  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- |  |  |
-
-### Y  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Yahnac](https://github.com/malmstein/yahnac) | Yet Another Hacker News Android Client | Java |  
-
-### Z  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ZhuanLan](https://github.com/bxbxbai/ZhuanLan) | a column of zhihu app | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://vdisk.weibo.com/s/GGofvoXe__E)  
-[ZhihuDailyKotlin](https://github.com/lzyzsd/ZhihuDailyKotlin) | 山寨知乎日报Android，使用Kotlin写 | Kotlin | 
-[ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) | A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native for Android. | JavaScript/React Native | 
+### How to Contribute
+Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!

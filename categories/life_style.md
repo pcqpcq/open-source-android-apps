@@ -1,139 +1,24 @@
-## LifeStyle  
-### \#   
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+# Lifestyle Apps
 
-### A  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+A curated list of open-source lifestyle, hobby, and utility apps for Android. The list is sorted alphabetically.
 
-### B  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Banya](https://github.com/forezp/banya) | An openresource  for Douban API with NetEase Music UI. | Java |
-[Birday](https://github.com/m-i-n-a-r/birday) | Wonderful and helpful birthday calendar and reminder. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.minar.birday)  [<img src="https://f-droid.org/badge/get-it-on.png" alt="available on F-Droid app store" height="120">](https://f-droid.org/de/packages/com.minar.birday/)
+---
 
-### C  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[COVID Diary](https://github.com/apozas/contactdiary) | Keep track of the people you have recently been with. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.apozas.contactdiary)
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**Banya**](https://github.com/forezp/banya) | A client for the Douban API with a UI inspired by NetEase Music. | `Java` | `Apache-2.0` | 1.5k | — |
+| [**Birday**](https://github.com/m-i-n-a-r/birday) | A beautiful and helpful birthday calendar and reminder app. | `Kotlin` | `GPL-3.0` | 562 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.minar.birday) [![F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/packages/com.minar.birday/) |
+| [**COVID Diary**](https://github.com/apozas/contactdiary) | Helps you keep a private log of people you have recently been with. | `Kotlin` | `GPL-3.0` | 147 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.apozas.contactdiary) |
+| [**Easy Diary**](https://github.com/hanjoongcho/aaf-easydiary) | A simple diary application optimized for a great user experience. | `Java` | `Apache-2.0` | 2.1k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary) |
+| [**Easy Photo Map**](https://github.com/hanjoongcho/aaf-easyphotomap) | Displays the location of photos on a map using their EXIF data. | `Java` | `Apache-2.0` | 62 | — |
+| [**Groceries Store**](https://github.com/hieuwu/android-groceries-store) | An app that demonstrates an online grocery ordering system. | `Kotlin` | Not specified | 3.8k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.hieuwu.groceriesstore) |
+| [**Memento Namedays**](https://github.com/alexstyl/Memento-Namedays) | A beautifully designed calendar for tracking namedays. | `Java` | `Apache-2.0` | 334 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.alexstyl.specialdates) |
+| [**Narrate**](https://github.com/timothymiko/narrate-android) | A small, simple, and elegant journaling application. (Archived) | `Java` | `Apache-2.0` | 818 | — |
+| [**Reminder Pro**](https://github.com/FarshidRoohi/ReminderPro) | A reminder app with location, sound recording, and map features. | `Kotlin` | `MIT` | 326 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=ir.farshid.roohi.reminderpro) |
+| [**Teapp**](https://github.com/marianpekar/teapp) | A personal database for tea enthusiasts with a timer and calculator. | `Kotlin` | `GPL-3.0` | 231 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/marianpekar/teapp/releases) |
+| [**Wake You In Music**](https://github.com/CedrickFlocon/wakeyouinmusic) | An alarm clock app for Spotify or Deezer users. (Archived) | `Java` | Not specified | 122 | — |
 
-### D  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+---
 
-### E  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Easy Diary](https://github.com/hanjoongcho/aaf-easydiary) | This is a diary application optimized to user experience. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
-[Easy Photo Map](https://github.com/hanjoongcho/aaf-easyphotomap) | Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo. | Java | 
-
-### F  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### G  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-|[Groceries Store](https://github.com/hieuwu/android-groceries-store)| An open source project help people order grocery online. |Kotlin| [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.hieuwu.groceriesstore)
-
-### H  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### I  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### J  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### K  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### L  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### M  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Memento Namedays](https://github.com/alexstyl/Memento-Namedays) | The sweetest Namedays calendar for Android. | Java |[![Get it on Google Play](http://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.alexstyl.specialdates) 
-
-### N  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Narrate](https://github.com/timothymiko/narrate-android) | A small and simple journal. | Java | 
-
-### O  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | |  
-
-### P  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | |
-
-
-### Q  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### R  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Reminder Pro](https://github.com/FarshidRoohi/ReminderPro) | features now available: Ability to record and share sound, pad, ability to add geographic location and notification, two language app, ability to change how you view the map with your taste. | Kotlin | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=ir.farshid.roohi.reminderpro)
-
-### S  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### T  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-|[Teapp](https://github.com/marianpekar/teapp) | A lightweight personal database for tea enthusiasts with a timer, infusion counter, and ratio calculator. | Kotlin | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/marianpekar/teapp/releases)
-
-### U  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### V  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
- 
-### W  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Wake You In Music](https://github.com/CedrickFlocon/wakeyouinmusic) | Alarm for Spotify or Deezer user. | Java |
-
-### X  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### Y  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-### Z  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
- 
+### How to Contribute
+Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!

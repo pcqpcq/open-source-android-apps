@@ -1,144 +1,27 @@
-## Android Wear  
-### \#  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | |
+# Wearable Apps
 
-### A  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Arcade Watchface](https://github.com/prempalsingh/arcade-watchface) | Arcade style watchface for Android Wear | Java |   
-[AsteroidOS](https://github.com/AsteroidOS/asteroid) | AsteroidOS is a free and open-source smartwatch platform based on OpenEmbedded, libhybris and Qt5. | Shell | N/A
-[AsteroidOS Sync](https://github.com/AsteroidOS/AsteroidOSSync) | Synchronize the time, notifications and more with your AsteroidOS smartwatch. | Java | [![Get it on Third-party](http://i.imgur.com/ppYJYe5.png)](https://f-droid.org/packages/org.asteroidos.sync/)
+A curated list of open-source applications, watch faces, and operating systems for Wear OS and other wearable platforms. The list is sorted alphabetically.
 
-### B  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Binary Watch Face](https://github.com/dwa012/WearBinaryWatchFace) | A Binary watch face for you Android Wear device! | Java |  
+---
 
-### C  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**Arcade Watchface**](https://github.com/prempalsingh/arcade-watchface) | A retro, arcade-style watch face for Wear OS. (Archived) | `Java` | Not specified | 152 | — |
+| [**AsteroidOS**](https://github.com/AsteroidOS/asteroid) | A free and open-source alternative operating system for smartwatches. | `Shell` | `LGPL-2.1` | 4.4k | — |
+| [**AsteroidOS Sync**](https://github.com/AsteroidOS/AsteroidOSSync) | The official sync client to connect your phone to an AsteroidOS watch. | `Java` | `GPL-3.0` | 172 | [![F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/packages/org.asteroidos.sync/) |
+| [**Binary Watch Face**](https://github.com/dwa012/WearBinaryWatchFace) | A watch face that displays the time in binary format. | `Java` | `MIT` | 138 | — |
+| [**FORM Watch Face**](https://github.com/romannurik/FORMWatchFace) | A unique watch face based on the FORM event typeface. | `Java` | `Apache-2.0` | 1.4k | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.formwatchface) |
+| [**LapseFace**](https://github.com/OhMyLob/LapseFace) | A watch face that allows you to create time-lapses. (Archived) | `Java` | `Apache-2.0` | 219 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.lob.lapseface) |
+| [**LCARS Watchface**](https://github.com/llelectronics/lcars-v1-watchface-asteroidos) | A Star Trek LCARS-themed watch face specifically for AsteroidOS. | `QML` | `GPL-3.0` | 27 | — |
+| [**Tip Calculator**](https://github.com/mbcrump/FirstGoogleWearableApp) | A simple, voice-activated tip calculator for Wear OS. | `Java` | Not specified | 77 | — |
+| [**Wear for Swarm**](https://github.com/sealskej/wear-for-swarm) | A client for Swarm (Foursquare) on Wear OS. (Archived) | `Java` | `Apache-2.0` | 141 | — |
+| [**Wear Notify for Reddit**](https://github.com/emmaguy/wear-notify-for-reddit) | Get Reddit notifications directly on your Wear OS device. | `Java` | `MIT` | 259 | — |
+| [**Wear Offline Notes**](https://github.com/GabrielMorenoIbarra/Wear-Offline-Notes) | A simple offline note-taking application for Wear OS. | `Kotlin` | `Apache-2.0` | 47 | — |
+| [**Wearable Chess**](https://github.com/mitchazj/Wearable-Chess) | A functional chess game designed for Wear OS. (Archived) | `Java` | `MIT` | 167 | — |
+| [**WearSquare**](https://github.com/destil/WearSquare) | Another client for Foursquare on Wear OS. (Archived) | `Java` | `Apache-2.0` | 108 | [![Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare) |
+| [**WearTimer**](https://github.com/brave-warrior/WearTimer) | An improved stopwatch and timer app for Wear OS. | `Java` | `Apache-2.0` | 92 | — |
 
-### D  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+---
 
-### E  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### F  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[FORM Watch Face](https://github.com/romannurik/FORMWatchFace) | A watch face for Android Wear based on the FORM event typeface. | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=net.nurik.roman.formwatchface)   
-
-### G  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### H  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### I  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### J  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### K  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### L  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[LapseFace](https://github.com/OhMyLob/LapseFace) | LapseFace | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=com.lob.lapseface)   
-[LCARS Watchface for AsteroidOS](https://github.com/llelectronics/lcars-v1-watchface-asteroidos) | LCARS Watchface for AsteroidOS | QML | N/A
-
-### M  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### N  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### O  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### P  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | |
-
-### Q  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### R  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### S  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### T  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### U  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### V  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Voice Activated Tip Calculator](https://github.com/mbcrump/FirstGoogleWearableApp) | This Google Wear app includes voice recognition that will calculate a tip. | Java | 
-
-### W  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Wear for Swarm](https://github.com/sealskej/wear-for-swarm) | Swarm (aka Foursquare) for Android Wear! | Java | 
-[Wearable Chess](https://github.com/mitchazj/Wearable-Chess) | Chess for Android Wear | Java |   
-[WearSquare](https://github.com/destil/WearSquare) | Foursquare for Android Wear  | Java | [![Get it on Google Play](https://i.imgur.com/T9HnFlW.png)](https://play.google.com/store/apps/details?id=cz.destil.wearsquare)   
-[WearTimer](https://github.com/brave-warrior/WearTimer) | Improved stopwatch & timer for Android Wear | Java | 
-[Wear Notify for Reddit](https://github.com/emmaguy/wear-notify-for-reddit) | Reddit for Android Wear | Java |
-[Wear Offline Notes](https://github.com/GabrielMorenoIbarra/Wear-Offline-Notes) | Wear Offline Notes | Kotlin |
-
-### X  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### Y  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-### Z  
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
- 
+### How to Contribute
+Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!
