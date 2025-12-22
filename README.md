@@ -20,7 +20,6 @@
 # What's Inside?
 
 ## 🚀 Hot Apps (Stars > 10k)
-
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
 | [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 52.6k |
@@ -45,7 +44,6 @@
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 12.2k |
 | [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 11.6k |
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 10.4k |
-
 ## 🗂️ Categories
 
 | Category | Description | Count |
