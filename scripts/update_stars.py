@@ -9,15 +9,15 @@ HEADERS = {'Authorization': f'token {GITHUB_TOKEN}'} if GITHUB_TOKEN else {}
 URL_CACHE = {}
 
 def get_final_url(url):
-    """Follow redirects and return the final canonical URL."""
+    """Follow redirects and return the final canonical URL. Returns (url, is_dead)."""
     if not url or not url.startswith('http'):
-        return url
+        return url, False
     if url in URL_CACHE:
         return URL_CACHE[url]
     
     # Skip badges and static assets
     if any(x in url for x in ['img.shields.io', 'badge', 'wikimedia.org', 'githubassets.com']):
-        return url
+        return url, False
 
     try:
         # Use a browser-like User-Agent to avoid being blocked by stores
@@ -26,6 +26,10 @@ def get_final_url(url):
         }
         # Use GET with stream=True to follow redirects without downloading large files
         response = requests.get(url, headers=headers, allow_redirects=True, timeout=10, stream=True)
+        
+        if response.status_code == 404:
+            return url, True
+            
         final_url = response.url.rstrip('/')
         
         # Special handling for GitHub: ensure it's the clean repo URL
@@ -34,11 +38,11 @@ def get_final_url(url):
             if match:
                 final_url = match.group(1)
         
-        URL_CACHE[url] = final_url
-        return final_url
+        URL_CACHE[url] = (final_url, False)
+        return final_url, False
     except Exception as e:
         print(f"Warning: Could not check redirect for {url}: {e}")
-        return url
+        return url, False
 
 def get_github_repo_info(url):
     match = re.search(r'github\.com/([^/]+)/([^/]+)', url)
@@ -66,6 +70,8 @@ def get_github_repo_info(url):
                 'license': license_name,
                 'url': data.get('html_url') # Canonical GitHub URL
             }
+        elif response.status_code == 404:
+            return {'is_dead': True}
         else:
             print(f"Error fetching {url}: {response.status_code}")
     except Exception as e:
@@ -73,14 +79,20 @@ def get_github_repo_info(url):
     return None
 
 def update_links_in_text(text):
-    """Find all markdown links and update them if they redirect."""
-    def link_replacer(match):
-        label = match.group(1)
-        url = match.group(2)
-        final_url = get_final_url(url)
-        return f"[{label}]({final_url})"
+    """Find all markdown links and update them if they redirect. Remove dead links."""
+    links = re.findall(r'\[(.*?)\]\((https?://.*?)\)', text)
+    if not links:
+        return text
+        
+    new_links = []
+    for label, url in links:
+        final_url, is_dead = get_final_url(url)
+        if not is_dead:
+            new_links.append(f"[{label}]({final_url})")
     
-    return re.sub(r'\[(.*?)\]\((https?://.*?)\)', link_replacer, text)
+    if not new_links:
+        return "—"
+    return " ".join(new_links)
 
 def update_category_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -99,6 +111,10 @@ def update_category_file(file_path):
         
         info = get_github_repo_info(url)
         if info:
+            if info.get('is_dead'):
+                print(f"!!! Dead Repository found: {url}")
+                return match.group(0) # Keep it but don't update
+
             new_stars = info['stars']
             new_lang = f"`{info['language']}`" if info['language'] else match.group(3)
             
@@ -138,7 +154,7 @@ def update_category_file(file_path):
         description = match.group(2)
         
         info = get_github_repo_info(url)
-        if info:
+        if info and not info.get('is_dead'):
             new_stars = info['stars']
             new_lang = f"`{info['language']}`" if info['language'] else match.group(3)
             new_app_link_part = app_link_part.replace(url, info['url'])

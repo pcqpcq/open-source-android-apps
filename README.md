@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/pcqpcq/open-source-android-apps/stargazers"><img src="https://img.shields.io/github/stars/pcqpcq/open-source-android-apps?style=for-the-badge&color=gold" alt="GitHub stars"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/network/members"><img src="https://img.shields.io/github/forks/pcqpcq/open-source-android-apps?style=for-the-badge&color=blue" alt="GitHub forks"></a>
-  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-692-brightgreen?style=for-the-badge" alt="Total Apps"></a>
+  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-500-brightgreen?style=for-the-badge" alt="Total Apps"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/commits/master"><img src="https://img.shields.io/github/last-commit/pcqpcq/open-source-android-apps?style=for-the-badge" alt="GitHub last commit"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pcqpcq/open-source-android-apps?style=for-the-badge" alt="License"></a>
 </p>
@@ -49,22 +49,22 @@
 ## 🗂️ Categories
 | Category | Description | Count |
 | :--- | :--- | :---: |
-| [📺 Android TV](categories/android_tv.md) | Apps for Android TV. | 17 |
-| [⌚ Android Wear](categories/android_wear.md) | Apps for Android Wear. | 27 |
-| [💼 Business](categories/business.md) | Apps for the improvement of your business. | 15 |
-| [💬 Communication](categories/communication.md) | Apps like Messenger, Hangouts, Gmail... | 41 |
-| [🎓 Education](categories/education.md) | Apps about education. | 43 |
-| [💰 Finance](categories/finance.md) | Apps about finance. | 25 |
-| [🎮 Game](categories/game.md) | All games for Android. | 57 |
-| [🏥 Health & Fitness](categories/health_fitness.md) | Apps about health and fitness. | 21 |
-| [🏠 LifeStyle](categories/life_style.md) | Apps about our life. | 24 |
-| [🎬 Multi-Media](categories/multi_media.md) | Apps like Google Play Music, MX Player... | 63 |
-| [📰 News & Magazines](categories/news_and_magazines.md) | Apps about news and magazines. | 53 |
-| [🎨 Personalization](categories/personalization.md) | Apps about live-wallpaper, launcher... | 31 |
-| [📈 Productivity](categories/productivity.md) | Apps like Any.Do, Evernote... | 57 |
-| [🌐 Social Network](categories/social_network.md) | Apps like Twitter, Facebook, GitHub, Dribbble... | 64 |
-| [🛠️ Tools](categories/tools.md) | Apps like Clean Master, Barcode Scanner, Keyboard... | 124 |
-| [🗺️ Travel & Local](categories/travel_and_local.md) | Apps about travel or local things. | 30 |
+| [📺 Android TV](categories/android_tv.md) | Apps for Android TV. | 4 |
+| [⌚ Android Wear](categories/android_wear.md) | Apps for Android Wear. | 14 |
+| [💼 Business](categories/business.md) | Apps for the improvement of your business. | 2 |
+| [💬 Communication](categories/communication.md) | Apps like Messenger, Hangouts, Gmail... | 31 |
+| [🎓 Education](categories/education.md) | Apps about education. | 21 |
+| [💰 Finance](categories/finance.md) | Apps about finance. | 11 |
+| [🎮 Game](categories/game.md) | All games for Android. | 37 |
+| [🏥 Health & Fitness](categories/health_fitness.md) | Apps about health and fitness. | 8 |
+| [🏠 LifeStyle](categories/life_style.md) | Apps about our life. | 11 |
+| [🎬 Multi-Media](categories/multi_media.md) | Apps like Google Play Music, MX Player... | 59 |
+| [📰 News & Magazines](categories/news_and_magazines.md) | Apps about news and magazines. | 37 |
+| [🎨 Personalization](categories/personalization.md) | Apps about live-wallpaper, launcher... | 18 |
+| [📈 Productivity](categories/productivity.md) | Apps like Any.Do, Evernote... | 47 |
+| [🌐 Social Network](categories/social_network.md) | Apps like Twitter, Facebook, GitHub, Dribbble... | 58 |
+| [🛠️ Tools](categories/tools.md) | Apps like Clean Master, Barcode Scanner, Keyboard... | 125 |
+| [🗺️ Travel & Local](categories/travel_and_local.md) | Apps about travel or local things. | 17 |
 
 # Contribute Rules
 > 1. Don't do evil.

@@ -1,12 +1,18 @@
-name: Update Star Counts
+name: Repository Maintenance
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 0 * * *' # 每天午夜运行
+  workflow_dispatch: # 允许手动触发
+  push:
+    branches: [ master ]
+    paths:
+      - 'categories/*.md'
+      - 'README.md'
+      - 'scripts/*.py'
 
 jobs:
-  update-stars:
+  maintain:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run update script
+      - name: Run Maintenance Script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_stars.py
@@ -31,4 +37,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update star counts [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: automated repository maintenance (stars, links, metadata)" && git push)
