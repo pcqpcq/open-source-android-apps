@@ -30,7 +30,7 @@ jobs:
       - name: Run Maintenance Script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/update_stars.py
+        run: python scripts/maintain_repo.py
 
       - name: Commit and push changes
         run: |

@@ -80,7 +80,10 @@ def get_github_repo_info(url):
 
 def update_links_in_text(text):
     """Find all markdown links and update them if they redirect. Remove dead links."""
-    links = re.findall(r'\[(.*?)\]\((https?://.*?)\)', text)
+    # Improved regex to handle nested brackets (like image badges inside links)
+    # Matches: [label](url) where label can contain [nested]
+    link_pattern = r'\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\((https?://[^\s\)]+)\)'
+    links = re.findall(link_pattern, text)
     if not links:
         return text
         
@@ -163,12 +166,14 @@ def update_category_file(file_path):
         return match.group(0)
 
     # Main table regex (6 columns)
-    main_table_pattern = r'\| (\[\*\*.*?\].*?) \| (.*?) \| (.*?) \| (.*?) \| (.*?) \| (.*?) \|'
-    content = re.sub(main_table_pattern, replace_main_table, content)
+    # Matches: | App | Desc | Lang | License | Stars | Download |
+    main_table_pattern = r'^\| (\[\*\*.*?\].*?) \| (.*?) \| (.*?) \| (.*?) \| (.*?) \| (.*?) \|$'
+    content = re.sub(main_table_pattern, replace_main_table, content, flags=re.MULTILINE)
     
     # Featured table regex (4 columns)
-    featured_table_pattern = r'\| (\[\*\*.*?\].*?) \| (.*?) \| (.*?) \| (.*?) \|(?!\s*\|)'
-    content = re.sub(featured_table_pattern, replace_featured_table, content)
+    # Matches: | App | Desc | Lang | Stars |
+    featured_table_pattern = r'^\| (\[\*\*.*?\].*?) \| (.*?) \| (.*?) \| (.*?) \|$'
+    content = re.sub(featured_table_pattern, replace_featured_table, content, flags=re.MULTILINE)
     
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(content)
@@ -191,7 +196,19 @@ def update_readme(hot_apps):
             new_lines.append("| App Name | Description | ⭐ Stars |\n")
             new_lines.append("| :--- | :--- | :---: |\n")
             # Sort hot apps by stars
-            sorted_hot = sorted(hot_apps, key=lambda x: float(x['stars'].replace('k', '')) if 'k' in x['stars'] else float(x['stars']), reverse=True)
+            def get_stars_val(app):
+                s = app['stars'].lower()
+                if 'k' in s:
+                    try:
+                        return float(s.replace('k', '')) * 1000
+                    except:
+                        return 0
+                try:
+                    return float(s)
+                except:
+                    return 0
+            
+            sorted_hot = sorted(hot_apps, key=get_stars_val, reverse=True)
             # Remove duplicates
             seen = set()
             for app in sorted_hot:
