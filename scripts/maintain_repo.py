@@ -85,7 +85,7 @@ def update_links_in_text(text):
     link_pattern = r'\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\((https?://[^\s\)]+)\)'
     links = re.findall(link_pattern, text)
     if not links:
-        return text
+        return "—"
         
     new_links = []
     for label, url in links:
@@ -116,21 +116,23 @@ def update_category_file(file_path):
         if info:
             if info.get('is_dead'):
                 print(f"!!! Dead Repository found: {url}")
-                return match.group(0) # Keep it but don't update
+                return match.group(0)
 
             new_stars = info['stars']
             new_lang = f"`{info['language']}`" if info['language'] else match.group(3).strip()
             
-            # Update GitHub link if it changed (e.g. renamed user/repo)
+            # Update GitHub link if it changed
             new_app_link_part = app_link_part.replace(url, info['url'])
             
-            # Update license if available and not generic
+            # Update license
             new_license = match.group(4).strip()
             if info['license'] and info['license'] != 'NOASSERTION':
                 new_license = f"`{info['license']}`"
             
             # Update store links in the Download column
-            new_download_col = update_links_in_text(match.group(6).strip())
+            # If the current column 6 is just a number (corrupted stars), ignore it
+            current_download = match.group(6).strip()
+            new_download_col = update_links_in_text(current_download)
             
             # Check if it's a hot app (>10k)
             if info['stars_val'] >= 10000:
@@ -165,15 +167,33 @@ def update_category_file(file_path):
             return f"| {new_app_link_part} | {description} | {new_lang} | {new_stars} |"
         return match.group(0)
 
-    # Main table regex (6 columns)
-    # Matches: | App | Desc | Lang | License | Stars | Download |
-    main_table_pattern = r'^\| (\[\*\*[^|]*?\].*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \|$'
-    content = re.sub(main_table_pattern, replace_main_table, content, flags=re.MULTILINE)
+    # Split content into sections to apply different table logic
+    sections = re.split(r'(## .*?\n)', content)
+    new_sections = []
+    current_header = ""
     
-    # Featured table regex (4 columns)
-    # Matches: | App | Desc | Lang | Stars |
-    featured_table_pattern = r'^\| (\[\*\*[^|]*?\].*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \|$'
-    content = re.sub(featured_table_pattern, replace_featured_table, content, flags=re.MULTILINE)
+    for section in sections:
+        if section.startswith('## '):
+            current_header = section
+            new_sections.append(section)
+            continue
+            
+        if "Featured Apps" in current_header:
+            # 4-column table
+            pattern = r'^\| (\[\*\*[^|]*?\].*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \|$'
+            section = re.sub(pattern, replace_featured_table, section, flags=re.MULTILINE)
+        else:
+            # 6-column table
+            pattern = r'^\| (\[\*\*[^|]*?\].*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \|$'
+            section = re.sub(pattern, replace_main_table, section, flags=re.MULTILINE)
+        new_sections.append(section)
+        
+    content = "".join(new_sections)
+    
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+        
+    return hot_apps
     
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(content)
