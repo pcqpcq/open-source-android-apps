@@ -6,8 +6,41 @@ from datetime import datetime
 
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
 HEADERS = {'Authorization': f'token {GITHUB_TOKEN}'} if GITHUB_TOKEN else {}
+URL_CACHE = {}
 
-def get_github_stars(url):
+def get_final_url(url):
+    """Follow redirects and return the final canonical URL."""
+    if not url or not url.startswith('http'):
+        return url
+    if url in URL_CACHE:
+        return URL_CACHE[url]
+    
+    # Skip badges and static assets
+    if any(x in url for x in ['img.shields.io', 'badge', 'wikimedia.org', 'githubassets.com']):
+        return url
+
+    try:
+        # Use a browser-like User-Agent to avoid being blocked by stores
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
+        # Use GET with stream=True to follow redirects without downloading large files
+        response = requests.get(url, headers=headers, allow_redirects=True, timeout=10, stream=True)
+        final_url = response.url.rstrip('/')
+        
+        # Special handling for GitHub: ensure it's the clean repo URL
+        if 'github.com' in final_url:
+            match = re.search(r'(https://github\.com/[^/]+/[^/]+)', final_url)
+            if match:
+                final_url = match.group(1)
+        
+        URL_CACHE[url] = final_url
+        return final_url
+    except Exception as e:
+        print(f"Warning: Could not check redirect for {url}: {e}")
+        return url
+
+def get_github_repo_info(url):
     match = re.search(r'github\.com/([^/]+)/([^/]+)', url)
     if not match:
         return None
@@ -18,15 +51,36 @@ def get_github_stars(url):
     try:
         response = requests.get(api_url, headers=HEADERS)
         if response.status_code == 200:
-            stars = response.json().get('stargazers_count', 0)
-            if stars >= 1000:
-                return f"{stars/1000:.1f}k"
-            return str(stars)
+            data = response.json()
+            stars_count = data.get('stargazers_count', 0)
+            stars = f"{stars_count/1000:.1f}k" if stars_count >= 1000 else str(stars_count)
+            
+            language = data.get('language')
+            license_info = data.get('license')
+            license_name = license_info.get('spdx_id') if license_info else None
+            
+            return {
+                'stars': stars,
+                'stars_val': stars_count,
+                'language': language,
+                'license': license_name,
+                'url': data.get('html_url') # Canonical GitHub URL
+            }
         else:
             print(f"Error fetching {url}: {response.status_code}")
     except Exception as e:
         print(f"Exception for {url}: {e}")
     return None
+
+def update_links_in_text(text):
+    """Find all markdown links and update them if they redirect."""
+    def link_replacer(match):
+        label = match.group(1)
+        url = match.group(2)
+        final_url = get_final_url(url)
+        return f"[{label}]({final_url})"
+    
+    return re.sub(r'\[(.*?)\]\((https?://.*?)\)', link_replacer, text)
 
 def update_category_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -34,44 +88,71 @@ def update_category_file(file_path):
 
     hot_apps = []
     
-    # Regex to match table rows with GitHub links
-    # | [**Name**](URL) | Description | Language | License | ⭐ Stars | Download |
-    # OR for featured: | [**Name**](URL) | Description | Language | ⭐ Stars |
-    
-    def replace_stars(match):
+    def replace_main_table(match):
         app_link_part = match.group(1)
-        url = re.search(r'\((https://github\.com/[^\)]+)\)', app_link_part).group(1)
-        description = match.group(2)
-        language = match.group(3)
-        
-        new_stars = get_github_stars(url)
-        if new_stars:
-            # Check if it's a hot app (>10k)
-            star_val = float(new_stars.replace('k', '')) * 1000 if 'k' in new_stars else float(new_stars)
-            if star_val >= 10000:
-                app_name = re.search(r'\[\*\*([^*]+)\*\*\]', app_link_part).group(1)
-                hot_apps.append({
-                    'name': app_name,
-                    'url': url,
-                    'description': description.strip(),
-                    'stars': new_stars
-                })
+        url_match = re.search(r'\((https://github\.com/[^\)]+)\)', app_link_part)
+        if not url_match:
+            return match.group(0)
             
-            # Return updated row
-            if match.group(5): # Main table (6 columns)
-                return f"| {app_link_part} | {description} | {language} | {match.group(4)} | {new_stars} | {match.group(5)} |"
-            else: # Featured table (4 columns)
-                return f"| {app_link_part} | {description} | {language} | {new_stars} |"
+        url = url_match.group(1)
+        description = match.group(2)
+        
+        info = get_github_repo_info(url)
+        if info:
+            new_stars = info['stars']
+            new_lang = f"`{info['language']}`" if info['language'] else match.group(3)
+            
+            # Update GitHub link if it changed (e.g. renamed user/repo)
+            new_app_link_part = app_link_part.replace(url, info['url'])
+            
+            # Update license if available and not generic
+            new_license = match.group(4)
+            if info['license'] and info['license'] != 'NOASSERTION':
+                new_license = f"`{info['license']}`"
+            
+            # Update store links in the Download column
+            new_download_col = update_links_in_text(match.group(6))
+            
+            # Check if it's a hot app (>10k)
+            if info['stars_val'] >= 10000:
+                app_name_match = re.search(r'\[\*\*([^*]+)\*\*\]', app_link_part)
+                if app_name_match:
+                    app_name = app_name_match.group(1)
+                    hot_apps.append({
+                        'name': app_name,
+                        'url': info['url'],
+                        'description': description.strip(),
+                        'stars': new_stars
+                    })
+            
+            return f"| {new_app_link_part} | {description} | {new_lang} | {new_license} | {new_stars} | {new_download_col} |"
+        return match.group(0)
+
+    def replace_featured_table(match):
+        app_link_part = match.group(1)
+        url_match = re.search(r'\((https://github\.com/[^\)]+)\)', app_link_part)
+        if not url_match:
+            return match.group(0)
+            
+        url = url_match.group(1)
+        description = match.group(2)
+        
+        info = get_github_repo_info(url)
+        if info:
+            new_stars = info['stars']
+            new_lang = f"`{info['language']}`" if info['language'] else match.group(3)
+            new_app_link_part = app_link_part.replace(url, info['url'])
+            
+            return f"| {new_app_link_part} | {description} | {new_lang} | {new_stars} |"
         return match.group(0)
 
     # Main table regex (6 columns)
     main_table_pattern = r'\| (\[\*\*.*?\].*?) \| (.*?) \| (.*?) \| (.*?) \| (.*?) \| (.*?) \|'
-    content = re.sub(main_table_pattern, replace_stars, content)
+    content = re.sub(main_table_pattern, replace_main_table, content)
     
     # Featured table regex (4 columns)
     featured_table_pattern = r'\| (\[\*\*.*?\].*?) \| (.*?) \| (.*?) \| (.*?) \|(?!\s*\|)'
-    # Note: This might need refinement to avoid matching the main table. 
-    # But since we already processed the main table, we can be careful.
+    content = re.sub(featured_table_pattern, replace_featured_table, content)
     
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write(content)
