@@ -6,10 +6,10 @@ A curated list of open-source applications designed specifically for the Android
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**Jellyfin**](https://github.com/jellyfin/jellyfin-androidtv) | A client for the Jellyfin media server, designed for Android TV and Fire TV devices. | `Kotlin` | 3.9k | 3.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg) |
-| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | `Java` | 27.1k | 27.1k | [![Download](https://img.shields.io/badge/Download-APK-blue) |
-| [**Vineyard**](https://github.com/hitherejoe/Vineyard) | An open-source client for the Vine video service on Android TV. (Archived) | `Java` | 722 | 722 | — |
-| [**XiaomiTV**](https://github.com/XiaoMi/android_tv_metro) | A metro-style framework and server API for Android TV. (Archived) | `Java` | 667 | 667 | — |
+| [**Jellyfin**](https://github.com/jellyfin/jellyfin-androidtv) | A client for the Jellyfin media server, designed for Android TV and Fire TV devices. | `Java` | `GPL-3.0` | 8.3k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.jellyfin.androidtv) |
+| [**SmartTubeNext**](https://github.com/yuliskov/SmartTubeNext) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | `Java` | `GPL-3.0` | 18.8k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/yuliskov/SmartTubeNext/releases/latest) |
+| [**Vineyard**](https://github.com/hitherejoe/Vineyard) | An open-source client for the Vine video service on Android TV. (Archived) | `Java` | `Apache-2.0` | 255 | — |
+| [**XiaomiTV**](https://github.com/XiaoMi/android_tv_metro) | A metro-style framework and server API for Android TV. (Archived) | `Java` | `Apache-2.0` | 1.2k | — |
 
 ---
 
