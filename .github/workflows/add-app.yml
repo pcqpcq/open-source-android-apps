@@ -1,0 +1,74 @@
+name: Add New App
+
+on:
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Category (e.g., tools.md, communication.md)'
+        required: True
+        type: choice
+        options:
+          - android_auto.md
+          - android_tv.md
+          - android_wear.md
+          - business.md
+          - communication.md
+          - education.md
+          - finance.md
+          - game.md
+          - health_fitness.md
+          - life_style.md
+          - multi_media.md
+          - news_and_magazines.md
+          - personalization.md
+          - productivity.md
+          - social_network.md
+          - tools.md
+          - travel_and_local.md
+      app_name:
+        description: 'App Name'
+        required: True
+      repo_url:
+        description: 'GitHub Repository URL'
+        required: True
+      store_url:
+        description: 'Store/Download URL (Optional)'
+        required: False
+      custom_desc:
+        description: 'Custom Description (Optional, uses GitHub desc if empty)'
+        required: False
+
+jobs:
+  add-app:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Add App Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/add_app.py \
+            --category "${{ github.event.inputs.category }}" \
+            --name "${{ github.event.inputs.app_name }}" \
+            --repo "${{ github.event.inputs.repo_url }}" \
+            --store "${{ github.event.inputs.store_url }}" \
+            --desc "${{ github.event.inputs.custom_desc }}"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "feat: add ${{ github.event.inputs.app_name }} to ${{ github.event.inputs.category }}"
+          git push

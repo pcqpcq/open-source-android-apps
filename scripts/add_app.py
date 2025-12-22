@@ -39,32 +39,41 @@ def get_categories():
     files = [f for f in os.listdir(categories_dir) if f.endswith('.md')]
     return sorted(files)
 
-def add_app():
+def add_app(name=None, repo=None, store=None, desc=None, category=None):
     print("--- Add New Open Source Android App ---")
     
     # 1. Select Category
     categories = get_categories()
-    print("\nAvailable Categories:")
-    for i, cat in enumerate(categories):
-        print(f"{i+1}. {cat.replace('.md', '')}")
-    
-    try:
-        cat_idx = int(input("\nSelect category number: ")) - 1
-        if cat_idx < 0 or cat_idx >= len(categories):
-            print("Invalid selection.")
+    if not category:
+        print("\nAvailable Categories:")
+        for i, cat in enumerate(categories):
+            print(f"{i+1}. {cat.replace('.md', '')}")
+        
+        try:
+            cat_idx = int(input("\nSelect category number: ")) - 1
+            if cat_idx < 0 or cat_idx >= len(categories):
+                print("Invalid selection.")
+                return
+            category_file = os.path.join('categories', categories[cat_idx])
+        except ValueError:
+            print("Please enter a number.")
             return
-        category_file = os.path.join('categories', categories[cat_idx])
-    except ValueError:
-        print("Please enter a number.")
-        return
+    else:
+        # Support both "tools" and "tools.md"
+        if not category.endswith('.md'):
+            category += '.md'
+        if category not in categories:
+            print(f"Category {category} not found.")
+            return
+        category_file = os.path.join('categories', category)
 
     # 2. Input App Details
-    app_name = input("App Name: ").strip()
-    repo_url = input("GitHub Repository URL: ").strip()
-    store_url = input("Store/Download URL (optional, press Enter for none): ").strip()
-    custom_desc = input("Description (optional, press Enter to use GitHub description): ").strip()
+    app_name = name if name else input("App Name: ").strip()
+    repo_url = repo if repo else input("GitHub Repository URL: ").strip()
+    store_url = store if store else input("Store/Download URL (optional, press Enter for none): ").strip()
+    custom_desc = desc if desc else input("Description (optional, press Enter to use GitHub description): ").strip()
 
-    print("\nFetching repository info...")
+    print(f"\nFetching repository info for {repo_url}...")
     info = get_github_repo_info(repo_url)
     if not info:
         print("Could not fetch GitHub info. Please check the URL.")
@@ -93,16 +102,9 @@ def add_app():
         lines = f.readlines()
 
     # Find the "All Apps" section or the main table
-    new_lines = []
-    inserted = False
-    
-    # We'll insert alphabetically into the main table
-    # Tables usually start after the header or under "## All Apps"
-    
     table_start_idx = -1
     for i, line in enumerate(lines):
         if line.startswith('| App Name |'):
-            # If there are multiple tables (Featured and All), we want the last one (All Apps)
             table_start_idx = i
             
     if table_start_idx == -1:
@@ -133,10 +135,23 @@ def add_app():
     with open(category_file, 'w', encoding='utf-8') as f:
         f.writelines(lines)
 
-    print(f"\nSuccessfully added {app_name} to {categories[cat_idx]}!")
+    print(f"\nSuccessfully added {app_name} to {os.path.basename(category_file)}!")
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description='Add a new app to the collection.')
+    parser.add_argument('--name', help='App Name')
+    parser.add_argument('--repo', help='GitHub Repository URL')
+    parser.add_argument('--store', help='Store/Download URL')
+    parser.add_argument('--desc', help='Custom Description')
+    parser.add_argument('--category', help='Category filename (e.g. tools.md)')
+    
+    args = parser.parse_args()
+    
     try:
-        add_app()
+        if args.name or args.repo or args.category:
+            add_app(name=args.name, repo=args.repo, store=args.store, desc=args.desc, category=args.category)
+        else:
+            add_app()
     except KeyboardInterrupt:
         print("\nCancelled.")
