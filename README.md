@@ -11,17 +11,16 @@
 > I believe that we can find something interesting and gain helpful skills from an open source app.  
 > This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps)
 
-
 # How?
 > I'll push awesome projects when I find any.  
 > You're WELCOME to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.   
 > If you know something that is not here, it'll be great if you create a [Pull Request](https://github.com/pcqpcq/open-source-android-apps/pulls).  
 > All applications are sorted in various categories.   
 
-
 # What?
 
 ## 🚀 Hot Apps (Star > 10k)
+
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
 | [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 52.6k |
@@ -46,7 +45,9 @@
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 12.2k |
 | [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 11.6k |
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 10.4k |
+
 ## 🗂️ Categories
+
 | Category | Description | Count |
 | :--- | :--- | :---: |
 | [📺 Android TV](categories/android_tv.md) | Apps for Android TV. | 4 |
@@ -67,16 +68,17 @@
 | [🗺️ Travel & Local](categories/travel_and_local.md) | Apps about travel or local things. | 17 |
 
 # Contribute Rules
+
 > 1. Don't do evil.
 > 2. Don't repeat yourself.
 > 3. Make only one change per commit ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
 
-
 # FAQ
+
 > * [Redundant with F-Droid?](https://github.com/pcqpcq/open-source-android-apps/issues/16)
 
+# Share
 
-# Share  
 > Do you like this project? Share it with your friends :)  
 >   
 > [![Share on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/tweet?text=Look%20at%20this%20nice%20project,%20a%20collection%20of%20Android%20open%20source%20apps.%20Made%20by%20@pcq019.%20https://github.com/pcqpcq/open-source-android-apps) &nbsp; [![Share on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/pcqpcq/open-source-android-apps) &nbsp; [![Share on Weibo](https://img.shields.io/badge/Weibo-E6162D?style=for-the-badge&logo=sinaweibo&logoColor=white)](http://service.weibo.com/share/share.php?searchPic=false&title=Android%25E5%25BC%2580%25E6%25BA%2590%25E5%25BA%2594%25E7%2594%25A8%25E9%259B%2586%25E5%2590%2588%2520by%2520@pcqpcq%2520&url=https://github.com/pcqpcq/open-source-android-apps)
