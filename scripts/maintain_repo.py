@@ -194,11 +194,6 @@ def update_category_file(file_path):
         f.write(content)
         
     return hot_apps
-    
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(content)
-        
-    return hot_apps
 
 def update_readme(hot_apps):
     readme_path = 'README.md'
