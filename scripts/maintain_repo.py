@@ -104,13 +104,13 @@ def update_category_file(file_path):
     hot_apps = []
     
     def replace_main_table(match):
-        app_link_part = match.group(1)
+        app_link_part = match.group(1).strip()
         url_match = re.search(r'\((https://github\.com/[^\)]+)\)', app_link_part)
         if not url_match:
             return match.group(0)
             
         url = url_match.group(1)
-        description = match.group(2)
+        description = match.group(2).strip()
         
         info = get_github_repo_info(url)
         if info:
@@ -119,18 +119,18 @@ def update_category_file(file_path):
                 return match.group(0) # Keep it but don't update
 
             new_stars = info['stars']
-            new_lang = f"`{info['language']}`" if info['language'] else match.group(3)
+            new_lang = f"`{info['language']}`" if info['language'] else match.group(3).strip()
             
             # Update GitHub link if it changed (e.g. renamed user/repo)
             new_app_link_part = app_link_part.replace(url, info['url'])
             
             # Update license if available and not generic
-            new_license = match.group(4)
+            new_license = match.group(4).strip()
             if info['license'] and info['license'] != 'NOASSERTION':
                 new_license = f"`{info['license']}`"
             
             # Update store links in the Download column
-            new_download_col = update_links_in_text(match.group(6))
+            new_download_col = update_links_in_text(match.group(6).strip())
             
             # Check if it's a hot app (>10k)
             if info['stars_val'] >= 10000:
@@ -140,7 +140,7 @@ def update_category_file(file_path):
                     hot_apps.append({
                         'name': app_name,
                         'url': info['url'],
-                        'description': description.strip(),
+                        'description': description,
                         'stars': new_stars
                     })
             
@@ -148,18 +148,18 @@ def update_category_file(file_path):
         return match.group(0)
 
     def replace_featured_table(match):
-        app_link_part = match.group(1)
+        app_link_part = match.group(1).strip()
         url_match = re.search(r'\((https://github\.com/[^\)]+)\)', app_link_part)
         if not url_match:
             return match.group(0)
             
         url = url_match.group(1)
-        description = match.group(2)
+        description = match.group(2).strip()
         
         info = get_github_repo_info(url)
         if info and not info.get('is_dead'):
             new_stars = info['stars']
-            new_lang = f"`{info['language']}`" if info['language'] else match.group(3)
+            new_lang = f"`{info['language']}`" if info['language'] else match.group(3).strip()
             new_app_link_part = app_link_part.replace(url, info['url'])
             
             return f"| {new_app_link_part} | {description} | {new_lang} | {new_stars} |"
@@ -167,12 +167,12 @@ def update_category_file(file_path):
 
     # Main table regex (6 columns)
     # Matches: | App | Desc | Lang | License | Stars | Download |
-    main_table_pattern = r'^\| (\[\*\*.*?\].*?) \| (.*?) \| (.*?) \| (.*?) \| (.*?) \| (.*?) \|$'
+    main_table_pattern = r'^\| (\[\*\*[^|]*?\].*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \|$'
     content = re.sub(main_table_pattern, replace_main_table, content, flags=re.MULTILINE)
     
     # Featured table regex (4 columns)
     # Matches: | App | Desc | Lang | Stars |
-    featured_table_pattern = r'^\| (\[\*\*.*?\].*?) \| (.*?) \| (.*?) \| (.*?) \|$'
+    featured_table_pattern = r'^\| (\[\*\*[^|]*?\].*?) \| ([^|]*?) \| ([^|]*?) \| ([^|]*?) \|$'
     content = re.sub(featured_table_pattern, replace_featured_table, content, flags=re.MULTILINE)
     
     with open(file_path, 'w', encoding='utf-8') as f:
