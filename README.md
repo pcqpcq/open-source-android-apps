@@ -24,28 +24,28 @@
 ## 🚀 Hot Apps (Star > 10k)
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
-| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray core and v2fly core. | 64.2k |
-| [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 42.6k |
-| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 39.3k |
-| [**Barcode Scanner**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | 35.6k |
-| [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A high-performance secure socks5 proxy for Android. | 34.4k |
-| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 32.3k |
-| [**Termux**](https://github.com/termux/termux-app) | An Android terminal emulator and Linux environment app. | 29.5k |
-| [**Nextcloud**](https://github.com/nextcloud/android) | The Android client for the open-source self-hosted content collaboration platform. | 25.9k |
-| [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 25.1k |
-| [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 24.3k |
-| [**Google I/O**](https://github.com/google/iosched) | The official Android app for the Google I/O conference. | 22.8k |
-| [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | 22k |
-| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 21.6k |
-| [**SmartTubeNext**](https://github.com/yuliskov/SmartTubeNext) | An advanced YouTube client for Android TV and TV boxes. | 18.8k |
-| [**Plaid**](https://github.com/nickbutcher/plaid) | A showcase app for Material Design and Android development best practices. | 16.5k |
-| [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information. | 13.9k |
-| [**UniversalMusicPlayer**](https://github.com/googlesamples/android-UniversalMusicPlayer) | A Google sample demonstrating a cross-platform audio media app. | 13.1k |
-| [**VLC for Android**](https://github.com/videolan/vlc-android) | The official port of the versatile, open-source VLC media player. | 12.8k |
-| [**Maps.me**](https://github.com/mapsme/omim) | An offline map application based on OpenStreetMap data. | 12k |
-| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies and TV shows. | 11.8k |
-| [**Minetest**](https://github.com/minetest/minetest) | An open-source infinite-world block sandbox game. | 10.4k |
-
+| [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 52.6k |
+| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 48.5k |
+| [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 48.0k |
+| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 44.1k |
+| [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | 36.5k |
+| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 36.0k |
+| [**Barcode Scanner (ZXing)**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | 33.8k |
+| [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 28.2k |
+| [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 28.0k |
+| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 27.1k |
+| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 26.0k |
+| [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | 21.9k |
+| [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.7k |
+| [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information and documentation. | 17.9k |
+| [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | 16.2k |
+| [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 14.0k |
+| [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | 13.2k |
+| [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android) | An advanced, open-source email client for Android. | 12.9k |
+| [**Organic Maps**](https://github.com/organicmaps/organicmaps) | A privacy-focused, offline maps app for travelers, tourists, hikers, and cyclists. | 12.4k |
+| [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 12.2k |
+| [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 11.6k |
+| [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 10.4k |
 ## 🗂️ Categories
 | Category | Description | Count |
 | :--- | :--- | :---: |
