@@ -68,10 +68,18 @@ def add_app(name=None, repo=None, store=None, desc=None, category=None):
         category_file = os.path.join('categories', category)
 
     # 2. Input App Details
+    # In non-interactive mode (like GitHub Actions), we must not call input()
+    is_interactive = not (name and repo)
+    
     app_name = name if name else input("App Name: ").strip()
     repo_url = repo if repo else input("GitHub Repository URL: ").strip()
-    store_url = store if store else input("Store/Download URL (optional, press Enter for none): ").strip()
-    custom_desc = desc if desc else input("Description (optional, press Enter to use GitHub description): ").strip()
+    
+    if is_interactive:
+        store_url = store if store else input("Store/Download URL (optional, press Enter for none): ").strip()
+        custom_desc = desc if desc else input("Description (optional, press Enter to use GitHub description): ").strip()
+    else:
+        store_url = store if store else ""
+        custom_desc = desc if desc else ""
 
     print(f"\nFetching repository info for {repo_url}...")
     info = get_github_repo_info(repo_url)
