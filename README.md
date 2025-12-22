@@ -7,19 +7,19 @@
 </p>
 
 # Why?
-> This is a collection of Android apps which are open source.  
-> I believe that we can find something interesting and gain helpful skills from an open source app.  
-> This idea comes from [this project](https://github.com/dkhamsing/open-source-ios-apps)
+> This is a curated collection of open-source Android applications.
+> Exploring open-source projects is a great way to discover high-quality apps and enhance your development skills.
+> This project was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps).
 
-# How?
-> I'll push awesome projects when I find any.  
-> You're WELCOME to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this project.   
-> If you know something that is not here, it'll be great if you create a [Pull Request](https://github.com/pcqpcq/open-source-android-apps/pulls).  
-> All applications are sorted in various categories.   
+# How to Contribute?
+> We are always looking for new and awesome projects!
+> You are welcome to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this repository.
+> If you know of an app that isn't listed here, please feel free to submit a [Pull Request](https://github.com/pcqpcq/open-source-android-apps/pulls) or use our [**Add App Workflow**](https://github.com/pcqpcq/open-source-android-apps/actions/workflows/add-app.yml).
+> All applications are organized into specific categories for easy navigation.
 
-# What?
+# What's Inside?
 
-## 🚀 Hot Apps (Star > 10k)
+## 🚀 Hot Apps (Stars > 10k)
 
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
@@ -50,36 +50,36 @@
 
 | Category | Description | Count |
 | :--- | :--- | :---: |
-| [📺 Android TV](categories/android_tv.md) | Apps for Android TV. | 4 |
-| [⌚ Android Wear](categories/android_wear.md) | Apps for Android Wear. | 14 |
-| [💼 Business](categories/business.md) | Apps for the improvement of your business. | 2 |
-| [💬 Communication](categories/communication.md) | Apps like Messenger, Hangouts, Gmail... | 31 |
-| [🎓 Education](categories/education.md) | Apps about education. | 21 |
-| [💰 Finance](categories/finance.md) | Apps about finance. | 11 |
-| [🎮 Game](categories/game.md) | All games for Android. | 37 |
-| [🏥 Health & Fitness](categories/health_fitness.md) | Apps about health and fitness. | 8 |
-| [🏠 LifeStyle](categories/life_style.md) | Apps about our life. | 11 |
-| [🎬 Multi-Media](categories/multi_media.md) | Apps like Google Play Music, MX Player... | 59 |
-| [📰 News & Magazines](categories/news_and_magazines.md) | Apps about news and magazines. | 37 |
-| [🎨 Personalization](categories/personalization.md) | Apps about live-wallpaper, launcher... | 18 |
-| [📈 Productivity](categories/productivity.md) | Apps like Any.Do, Evernote... | 47 |
-| [🌐 Social Network](categories/social_network.md) | Apps like Twitter, Facebook, GitHub, Dribbble... | 58 |
-| [🛠️ Tools](categories/tools.md) | Apps like Clean Master, Barcode Scanner, Keyboard... | 125 |
-| [🗺️ Travel & Local](categories/travel_and_local.md) | Apps about travel or local things. | 17 |
+| [📺 Android TV](categories/android_tv.md) | Applications optimized for Android TV. | 4 |
+| [⌚ Android Wear](categories/android_wear.md) | Applications for Android Wear/Wear OS. | 14 |
+| [💼 Business](categories/business.md) | Tools for business management and productivity. | 2 |
+| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 31 |
+| [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 21 |
+| [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 11 |
+| [🎮 Game](categories/game.md) | Open-source games for Android. | 37 |
+| [🏥 Health & Fitness](categories/health_fitness.md) | Wellness, tracking, and fitness apps. | 8 |
+| [🏠 LifeStyle](categories/life_style.md) | Apps for daily life and personal habits. | 11 |
+| [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 59 |
+| [📰 News & Magazines](categories/news_and_magazines.md) | RSS readers and news aggregators. | 37 |
+| [🎨 Personalization](categories/personalization.md) | Launchers, wallpapers, and UI tweaks. | 18 |
+| [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 47 |
+| [🌐 Social Network](categories/social_network.md) | Clients for popular social platforms. | 58 |
+| [🛠️ Tools](categories/tools.md) | Utilities, system tools, and keyboards. | 125 |
+| [🗺️ Travel & Local](categories/travel_and_local.md) | Maps, navigation, and travel guides. | 17 |
 
-# Contribute Rules
+# Contribution Rules
 
-> 1. Don't do evil.
-> 2. Don't repeat yourself.
+> 1. Don't be evil.
+> 2. Don't repeat yourself (DRY).
 > 3. Make only one change per commit ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
 
 # FAQ
 
-> * [Redundant with F-Droid?](https://github.com/pcqpcq/open-source-android-apps/issues/16)
+> * [Is this redundant with F-Droid?](https://github.com/pcqpcq/open-source-android-apps/issues/16)
 
 # Share
 
-> Do you like this project? Share it with your friends :)  
+> Enjoying this project? Share it with your friends!  
 >   
 > [![Share on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/tweet?text=Look%20at%20this%20nice%20project,%20a%20collection%20of%20Android%20open%20source%20apps.%20Made%20by%20@pcq019.%20https://github.com/pcqpcq/open-source-android-apps) &nbsp; [![Share on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/pcqpcq/open-source-android-apps) &nbsp; [![Share on Weibo](https://img.shields.io/badge/Weibo-E6162D?style=for-the-badge&logo=sinaweibo&logoColor=white)](http://service.weibo.com/share/share.php?searchPic=false&title=Android%25E5%25BC%2580%25E6%25BA%2590%25E5%25BA%2594%25E7%2594%25A8%25E9%259B%2586%25E5%2590%2588%2520by%2520@pcqpcq%2520&url=https://github.com/pcqpcq/open-source-android-apps)
 
