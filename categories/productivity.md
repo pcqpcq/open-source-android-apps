@@ -1,8 +1,27 @@
 # Productivity Apps
 
-A curated list of open-source tools for note-taking, file management, task tracking, and enhancing productivity on Android. The list is sorted alphabetically.
+A curated list of open-source tools for note-taking, file management, task tracking, and enhancing productivity on Android.
 
 ---
+
+## 📌 Table of Contents
+- [🔥 Featured Apps (>5k ⭐)](#-featured-apps-5k-)
+- [📈 All Apps](#-all-apps)
+- [🤝 How to Contribute](#-how-to-contribute)
+
+---
+
+## 🔥 Featured Apps (>5k ⭐)
+| App Name | Description | Language | ⭐ Stars |
+| :--- | :--- | :---: | :---: |
+| [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | `TypeScript` | 42.6k |
+| [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | `Java` | 7.3k |
+| [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) | A beautiful and feature-rich Material Design file manager. | `Java` | 5.4k |
+
+---
+
+## 📈 All Apps
+The list is sorted alphabetically.
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |

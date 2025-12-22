@@ -1,8 +1,26 @@
 # Games
 
-A curated list of open-source games for Android, perfect for developers and enthusiasts to explore. The list is sorted alphabetically.
+A curated list of open-source games for Android, perfect for developers and enthusiasts to explore.
 
 ---
+
+## 📌 Table of Contents
+- [🔥 Featured Apps (>5k ⭐)](#-featured-apps-5k-)
+- [🎮 All Apps](#-all-apps)
+- [🤝 How to Contribute](#-how-to-contribute)
+
+---
+
+## 🔥 Featured Apps (>5k ⭐)
+| App Name | Description | Language | ⭐ Stars |
+| :--- | :--- | :---: | :---: |
+| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | `Java` | 21.6k |
+| [**Minetest**](https://github.com/minetest/minetest) | An open-source infinite-world block sandbox game. | `C++` | 10.4k |
+
+---
+
+## 🎮 All Apps
+The list is sorted alphabetically.
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |

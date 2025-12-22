@@ -1,0 +1,28 @@
+name: Link Checker
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Install awesome_bot
+        run: gem install awesome_bot
+
+      - name: Check README links
+        run: awesome_bot README.md --allow-dupe --allow-redirect --white-list bitdeli,travis-ci,cloudfront
+
+      - name: Check categories links
+        run: awesome_bot categories/*.md --allow-dupe --allow-redirect --white-list substanceproject,pan.baidu.com,50266203,pokerth

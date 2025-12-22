@@ -1,8 +1,25 @@
 # Education Apps
 
-A curated list of open-source applications for learning, studying, and self-improvement on Android. The list is sorted alphabetically.
+A curated list of open-source applications for learning, studying, and self-improvement on Android.
 
 ---
+
+## 📌 Table of Contents
+- [🔥 Featured Apps (>5k ⭐)](#-featured-apps-5k-)
+- [🎓 All Apps](#-all-apps)
+- [🤝 How to Contribute](#-how-to-contribute)
+
+---
+
+## 🔥 Featured Apps (>5k ⭐)
+| App Name | Description | Language | ⭐ Stars |
+| :--- | :--- | :---: | :---: |
+| [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | `Java`/`Kotlin` | 8.3k |
+
+---
+
+## 🎓 All Apps
+The list is sorted alphabetically.
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |

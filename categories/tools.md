@@ -1,8 +1,38 @@
 # Tool Apps
 
-A curated list of open-source utilities, file managers, system tools, and other helpful apps for Android. The list is sorted alphabetically.
+A curated list of open-source utilities, file managers, system tools, and other helpful apps for Android.
 
 ---
+
+## 📌 Table of Contents
+- [🔥 Featured Apps (>5k ⭐)](#-featured-apps-5k-)
+- [📱 All Apps](#-all-apps)
+- [🤝 How to Contribute](#-how-to-contribute)
+
+---
+
+## 🔥 Featured Apps (>5k ⭐)
+| App Name | Description | Language | ⭐ Stars |
+| :--- | :--- | :---: | :---: |
+| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | `Kotlin` | 64.2k |
+| [**Barcode Scanner**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | `Java` | 35.6k |
+| [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client for bypassing network censorship. | `Java` | 34.4k |
+| [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | `Java` | 29.5k |
+| [**Nextcloud**](https://github.com/nextcloud/android) | The official client for the self-hosted Nextcloud platform. | `PHP` | 25.9k |
+| [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information. | `PHP` | 13.9k |
+| [**Firefox**](https://github.com/mozilla-mobile/fenix) | The official repository for the Firefox browser on Android. | `Java`/`Kotlin` | 9.2k |
+| [**Aurora Store**](https://gitlab.com/AuroraOSS/AuroraStore) | An open-source, alternative client to Google's Play Store. | `Java` | 8.7k |
+| [**Brevent**](https://github.com/brevent/brevent) | An app to prevent other apps from running for long periods. | `Java` | 6.5k |
+| [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage 2FA tokens. | `Java` | 6.3k |
+| [**Florisboard**](https://github.com/florisboard/florisboard) | A modern, privacy-respecting, and customizable keyboard. | `Kotlin` | 5.8k |
+| [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) | A beautiful and feature-rich Material Design file manager. | `Java` | 5.4k |
+| [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub). | `Dart` | 5.1k |
+| [**TrackerControl**](https://github.com/TrackerControl/tracker-control-android) | Monitor and control hidden data collection in other apps. | `Java` | 5.1k |
+
+---
+
+## 📱 All Apps
+The list is sorted alphabetically.
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |

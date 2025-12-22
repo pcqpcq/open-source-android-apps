@@ -1,8 +1,31 @@
 # Social Network Apps
 
-A curated list of open-source clients for social networks, forums, and content-sharing platforms on Android. The list is sorted alphabetically.
+A curated list of open-source clients for social networks, forums, and content-sharing platforms on Android.
 
 ---
+
+## 📌 Table of Contents
+- [🔥 Featured Apps (>5k ⭐)](#-featured-apps-5k-)
+- [🌐 All Apps](#-all-apps)
+- [🤝 How to Contribute](#-how-to-contribute)
+
+---
+
+## 🔥 Featured Apps (>5k ⭐)
+| App Name | Description | Language | ⭐ Stars |
+| :--- | :--- | :---: | :---: |
+| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | `TypeScript` | 39.3k |
+| [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client for bypassing network censorship. | `Java` | 34.4k |
+| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | 32.3k |
+| [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | `Java` | 25.1k |
+| [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | `Java` | 24.3k |
+| [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | `Java`/`Kotlin` | 22.8k |
+| [**FastHub**](https://github.com/fastaccess/FastHub) | A feature-rich GitHub client for Android. | `Java` | 5.7k |
+
+---
+
+## 🌐 All Apps
+The list is sorted alphabetically.
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |

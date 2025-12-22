@@ -1,8 +1,33 @@
 # Multi-Media Apps
 
-A curated list of open-source players, galleries, clients, and other multi-media tools for Android. The list is sorted alphabetically.
+A curated list of open-source players, galleries, clients, and other multi-media tools for Android.
 
 ---
+
+## 📌 Table of Contents
+- [🔥 Featured Apps (>5k ⭐)](#-featured-apps-5k-)
+- [🎬 All Apps](#-all-apps)
+- [🤝 How to Contribute](#-how-to-contribute)
+
+---
+
+## 🔥 Featured Apps (>5k ⭐)
+| App Name | Description | Language | ⭐ Stars |
+| :--- | :--- | :---: | :---: |
+| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | 32.3k |
+| [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | 22k |
+| [**UniversalMusicPlayer**](https://github.com/googlesamples/android-UniversalMusicPlayer) | A Google sample demonstrating a cross-platform audio media app. | `Java` | 13.1k |
+| [**VLC for Android**](https://github.com/videolan/vlc-android) | The official port of the versatile, open-source VLC media player. | `C` | 12.8k |
+| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies and TV shows. | `Kotlin` | 11.8k |
+| [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | 8.8k |
+| [**Phonograph**](https://github.com/kabouzeid/Phonograph) | A beautiful and clean Material Design music player for Android. | `Java` | 6.8k |
+| [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) | A powerful and flexible podcast manager for Android. | `Java` | 5.8k |
+| [**bilibili-android-client**](https://github.com/HotBitmapGG/bilibili-android-client) | An unofficial client for the Bilibili video sharing website. | `Java` | 5.1k |
+
+---
+
+## 🎬 All Apps
+The list is sorted alphabetically.
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |

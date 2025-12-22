@@ -1,8 +1,28 @@
 # Communication Apps
 
-A curated list of open-source messengers, email clients, browsers, and other communication tools for Android. The list is sorted alphabetically.
+A curated list of open-source messengers, email clients, browsers, and other communication tools for Android.
 
 ---
+
+## 📌 Table of Contents
+- [🔥 Featured Apps (>5k ⭐)](#-featured-apps-5k-)
+- [💬 All Apps](#-all-apps)
+- [🤝 How to Contribute](#-how-to-contribute)
+
+---
+
+## 🔥 Featured Apps (>5k ⭐)
+| App Name | Description | Language | ⭐ Stars |
+| :--- | :--- | :---: | :---: |
+| [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | `Java` | 25.1k |
+| [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | `Java` | 24.3k |
+| [**K-9 Mail**](https://github.com/k9mail/k-9) | An advanced, open-source email client for Android. | `Java` | 8.8k |
+| [**Tutanota**](https://github.com/tutao/tutanota) | An end-to-end encrypted email client focused on security and privacy. | `JavaScript` | 6.2k |
+
+---
+
+## 💬 All Apps
+The list is sorted alphabetically.
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
