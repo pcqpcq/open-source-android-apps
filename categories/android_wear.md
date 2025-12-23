@@ -13,7 +13,7 @@ A curated list of open-source applications, watch faces, and operating systems f
 | [**FORM Watch Face**](https://github.com/romannurik/FORMWatchFace) | A unique watch face based on the FORM event typeface. | `Java` | `Apache-2.0` | 256 | — |
 | [**LapseFace**](https://github.com/matteolobello/lapseface) | A watch face that allows you to create time-lapses. (Archived) | `Java` | `Apache-2.0` | 7 | — |
 | [**LCARS Watchface**](https://github.com/llelectronics/lcars-v1-watchface-asteroidos) | A Star Trek LCARS-themed watch face specifically for AsteroidOS. | `QML` | `GPL-3.0` | 3 | — |
-| [**Tip Calculator**](https://github.com/mbcrump/FirstGoogleWearableApp) | A simple, voice-activated tip calculator for Wear OS. | `Java` | Not specified | 10 | — |
+| [**Tip Calculator**](https://github.com/mbcrump/FirstGoogleWearableApp) | A simple, voice-activated tip calculator for Wear OS. | `Java` | Not specified | 11 | — |
 | [**Wear for Swarm**](https://github.com/sealskej/wear-for-swarm) | A client for Swarm (Foursquare) on Wear OS. (Archived) | `Java` | `Apache-2.0` | 21 | — |
 | [**Wear Notify for Reddit**](https://github.com/emmaguy/wear-notify-for-reddit) | Get Reddit notifications directly on your Wear OS device. | `Java` | `Apache-2.0` | 49 | — |
 | [**Wear Offline Notes**](https://github.com/soygabimoreno/Wear-Offline-Notes) | A simple offline note-taking application for Wear OS. | `Kotlin` | `Apache-2.0` | 8 | — |
