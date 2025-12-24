@@ -71,4 +71,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "feat: add ${{ github.event.inputs.app_name }} to ${{ github.event.inputs.category }}"
+          git pull --rebase origin master
           git push
