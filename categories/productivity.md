@@ -10,7 +10,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) | A beautiful and feature-rich Material Design file manager for Android. | `Kotlin` | `GPL-3.0` | 5.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amaze.filemanager) |
 | [**Bugzy**](https://github.com/cpunq/bugzy) | A production-ready Fogbugz client for Android, built with Jetpack components. | `Java` | `MIT` | 5 | — |
 | [**Carbon Contacts**](https://github.com/abhijith0505/CarbonContacts) | An app that lets users find and delete duplicate contacts. | `Java` | `MIT` | 23 | — |
-| [**Card Case**](https://github.com/blocoio/cardcase) | An app to exchange digital business cards with people nearby. (Archived) | `Java` | `GPL-3.0` | 141 | — |
+| [**Card Case**](https://github.com/blocoio/cardcase) | An app to exchange digital business cards with people nearby. (Archived) | `Java` | `GPL-3.0` | 142 | — |
 | [**Conquer**](https://github.com/hanks-zyh/Conquer) | A simple to-do list application based on Material Design. (Archived) | `Java` | `Apache-2.0` | 434 | — |
 | [**DevJournal**](https://github.com/alistairholmes/devjournal) | A journal for developers to jot down ideas, notes, to-dos, and bugs. | `Java` | `MIT` | 19 | — |
 | [**DeviceAnalyzer**](https://github.com/blurrr-tech/DeviceAnalyzer) | Provides detailed insights into your device's hardware specifications. | `Java` | `MIT` | 8 | — |

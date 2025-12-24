@@ -17,7 +17,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**frisbee**](https://github.com/gdg-x/frisbee) | An Android application for members of Google Developer Groups (GDG). | `Java` | `Apache-2.0` | 264 | — |
 | [**GitHot**](https://github.com/andyiac/githot) | An app to help you find the world's most popular projects and developers on GitHub. | `Java` | `Apache-2.0` | 377 | — |
 | [**Hacker News (by manmal)**](https://github.com/manmal/hn-android) | A simple and clean Hacker News client for Android. | `Java` | `Apache-2.0` | 495 | — |
-| [**HackerNews-React-Native**](https://github.com/iSimar/HackerNews-React-Native) | A Hacker News client for iOS and Android, built with React Native. | `JavaScript` | `MIT` | 3.7k | — |
+| [**HackerNews-React-Native**](https://github.com/iSimar/HackerNews-React-Native) | A Hacker News client for iOS and Android, built with React Native. | `JavaScript` | `MIT` | 3.8k | — |
 | [**Hex for Hacker News**](https://github.com/longdivision/hex) | A snappy and fun Hacker News app with a focus on design. (Archived) | `Java` | `Apache-2.0` | 29 | — |
 | [**Hummingbird**](https://github.com/xiprox/Hummingbird-for-Android) | A modern client for the anime tracking website Hummingbird.me (now Kitsu). | `Java` | `GPL-3.0` | 62 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/xiprox/Hummingbird-for-Android) |
 | [**Idaily**](https://github.com/liuguangqiang/Idaily) | A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava. | `Java` | `Apache-2.0` | 570 | — |
