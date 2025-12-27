@@ -10,7 +10,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**Barinsta**](https://github.com/Barinsta/barinsta) | A privacy-friendly client for Instagram. (Discontinued) | `Java` | `GPL-3.0` | 1.3k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/me.austinhuang.instagrabber/) |
 | [**Beebo+**](https://github.com/andforce/iBeebo) | A feature-rich client for the Sina Weibo social network. | `Java` | `GPL-3.0` | 298 | — |
 | [**BlackLight**](https://github.com/PaperAirplane-Dev-Team/BlackLight) | A lightweight client for the Sina Weibo social network. | `Kotlin` | `GPL-3.0` | 874 | — |
-| [**Cannonball**](https://github.com/crashlytics/cannonball-android) | An app from Twitter for creating and sharing stories and poems. (Archived) | `Java` | `Apache-2.0` | 301 | — |
+| [**Cannonball**](https://github.com/crashlytics/cannonball-android) | An app from Twitter for creating and sharing stories and poems. (Archived) | `Java` | `Apache-2.0` | 302 | — |
 | [**CNode-android**](https://github.com/iwhys/CNode-android) | An Android client for the CNode.js Chinese technical community. | `Java` | `MIT` | 116 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/iwhys/CNode-android) |
 | [**Coding**](https://coding.net/u/coding/p/Coding-Android/git) | The official Android client for the coding.net development platform. | `Java` | `Apache-2.0` | 2.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.coding.program) |
 | [**Cotable**](https://github.com/wlemuel/Cotable) | A Material Design client for the Chinese blogging platform cnblogs.com. | `Java` | `Apache-2.0` | 37 | — |
@@ -19,7 +19,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 659 | — |
 | [**FishChatAndroid**](https://github.com/oikomi/FishChatAndroid) | A chat application demonstrating modern Android development. | `Java` | Not specified | 64 | — |
 | [**ForkHub**](https://github.com/jonan/ForkHub) | A fork of the deprecated official GitHub Android app, which is still maintained. | `JavaScript` | `Apache-2.0` | 2.8k | — |
-| [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 316 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
+| [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 317 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
 | [**GitHub Visualizer**](https://github.com/dheerajkotwani/GithubVisualizer) | A GitHub client using the official API and Material UI components. | `Kotlin` | `MIT` | 120 | — |
 | [**GitPoint**](https://github.com/gitpoint/git-point) | A GitHub client with a minimal and beautiful user interface, built with React Native. | `JavaScript` | `MIT` | 4.8k | — |
 | [**Gitskarios**](https://github.com/gitskarios/Gitskarios) | A popular and feature-rich GitHub client for Android. | `Java` | `MIT` | 525 | — |
