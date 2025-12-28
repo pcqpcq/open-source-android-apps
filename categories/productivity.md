@@ -24,7 +24,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**LinkHub**](https://github.com/AmrDeveloper/LinkHub) | A simple and effective link management application. | `Kotlin` | `MIT` | 257 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amrdeveloper.linkhub) |
 | [**Linkora**](https://github.com/LinkoraApp/Linkora) | Link organizer for Android and desktop with self-hosted sync. | `Kotalin` | `MIT license` | 722 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.sakethh.linkora)|
 | [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | `Kotlin` | `GPL-3.0` | 9.4k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.isoron.uhabits) |
-| [**MarkNote**](https://github.com/Shouheng88/MarkNote) | A Material Design Markdown note-taking application for Android. | `Java` | `AGPL-3.0` | 914 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://www.coolapk.com/apk/178276) |
+| [**MarkNote**](https://github.com/Shouheng88/MarkNote) | A Material Design Markdown note-taking application for Android. | `Java` | `AGPL-3.0` | 913 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://www.coolapk.com/apk/178276) |
 | [**Memento**](https://github.com/yaa110/Memento) | A simple and elegant note-taking app. (Archived) | `Java` | Not specified | 258 | — |
 | [**Minimal-Todo**](https://github.com/avjinder/Minimal-Todo) | A fully Material Design To-Do app with just enough features to be useful. | `Java` | `MIT` | 2.2k | — |
 | [**Minitask**](https://github.com/luong-komorebi/Minitask) | A simple and lightweight to-do list and task management app. (Archived) | `Java` | `Apache-2.0` | 28 | — |
@@ -40,7 +40,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Quill**](https://github.com/vickychijwani/quill) | A beautiful Android app for managing your Ghost blog. | `Java` | `MIT` | 548 | — |
 | [**Remindly**](https://github.com/blanyal/Remindly) | A simple and user-friendly application for creating reminders. | `Java` | `Apache-2.0` | 578 | — |
 | [**ShutUp!**](https://github.com/RitwickVerma/ShutUp) | An app to automatically silence your phone based on your calendar events. | `Java` | `GPL-3.0` | 20 | — |
-| [**Skiff**](https://github.com/skiff-org/skiff-apps) | A suite of end-to-end encrypted, private email, calendar, and docs apps. | `TypeScript` | `GPL-3.0` | 905 | — |
+| [**Skiff**](https://github.com/skiff-org/skiff-apps) | A suite of end-to-end encrypted, private email, calendar, and docs apps. | `TypeScript` | `GPL-3.0` | 906 | — |
 | [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes) | A simple and elegant note-taking application, simplified for quick use. | `Java` | `Apache-2.0` | 134 | — |
 | [**Tasks**](https://github.com/tasks/tasks) | A CalDAV-based task management app for Android. | `Kotlin` | `GPL-3.0` | 4.7k | — |
 | [**Text Fairy**](https://github.com/renard314/textfairy) | An OCR app that converts images to text, which can then be edited or shared. | `C` | `Apache-2.0` | 825 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.renard.ocr) |
