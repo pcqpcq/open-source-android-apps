@@ -15,7 +15,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**DevJournal**](https://github.com/alistairholmes/devjournal) | A journal for developers to jot down ideas, notes, to-dos, and bugs. | `Java` | `MIT` | 19 | — |
 | [**DeviceAnalyzer**](https://github.com/blurrr-tech/DeviceAnalyzer) | Provides detailed insights into your device's hardware specifications. | `Java` | `MIT` | 8 | — |
 | [**EarthViewer**](https://github.com/PDDStudio/earthview-android) | A wallpaper application and showcase for the `earthview-android` library. | `Java` | `Apache-2.0` | 136 | — |
-| [**EverMemo**](https://github.com/daimajia/EverMemo) | A fast and simple memo app for recording, organizing, and sharing notes. | `Java` | `MIT` | 800 | — |
+| [**EverMemo**](https://github.com/daimajia/EverMemo) | A fast and simple memo app for recording, organizing, and sharing notes. | `Java` | `MIT` | 801 | — |
 | [**Habitica**](https://github.com/HabitRPG/habitica-android) | A habit tracker that gamifies your goals, treating them like an RPG. | `Kotlin` | `GPL-3.0` | 1.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica) |
 | [**Habito**](https://github.com/ivan-magda/Habito) | A simple habit tracker that uses Firebase Realtime Database. (Archived) | `Kotlin` | `MIT` | 79 | — |
 | [**InstaChat**](https://github.com/mohak1712/Insta-Chat) | A chat-head style app that lets you read and reply to messages from any screen. | `Java` | Not specified | 118 | — |
@@ -40,7 +40,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Quill**](https://github.com/vickychijwani/quill) | A beautiful Android app for managing your Ghost blog. | `Java` | `MIT` | 548 | — |
 | [**Remindly**](https://github.com/blanyal/Remindly) | A simple and user-friendly application for creating reminders. | `Java` | `Apache-2.0` | 578 | — |
 | [**ShutUp!**](https://github.com/RitwickVerma/ShutUp) | An app to automatically silence your phone based on your calendar events. | `Java` | `GPL-3.0` | 20 | — |
-| [**Skiff**](https://github.com/skiff-org/skiff-apps) | A suite of end-to-end encrypted, private email, calendar, and docs apps. | `TypeScript` | `GPL-3.0` | 906 | — |
+| [**Skiff**](https://github.com/skiff-org/skiff-apps) | A suite of end-to-end encrypted, private email, calendar, and docs apps. | `TypeScript` | `GPL-3.0` | 907 | — |
 | [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes) | A simple and elegant note-taking application, simplified for quick use. | `Java` | `Apache-2.0` | 134 | — |
 | [**Tasks**](https://github.com/tasks/tasks) | A CalDAV-based task management app for Android. | `Kotlin` | `GPL-3.0` | 4.7k | — |
 | [**Text Fairy**](https://github.com/renard314/textfairy) | An OCR app that converts images to text, which can then be edited or shared. | `C` | `Apache-2.0` | 825 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.renard.ocr) |

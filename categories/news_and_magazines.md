@@ -45,7 +45,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**Yahnac**](https://github.com/malmstein/yahnac) | "Yet Another Hacker News Android Client." | `Java` | `Apache-2.0` | 632 | — |
 | [**ZhiHuDaily-React-Native**](https://github.com/race604/ZhiHuDaily-React-Native) | A Zhihu Daily client implemented using React Native for Android. | `JavaScript` | `MIT` | 3.7k | — |
 | [**ZhihuDailyKotlin**](https://github.com/uknownothingsnow/ZhihuDailyKotlin) | A clone of the Zhihu Daily app, written entirely in Kotlin. | `Kotlin` | `MIT` | 2 | — |
-| [**ZhuanLan**](https://github.com/bxbxbai/ZhuanLan) | A client for the "Zhuanlan" (Columns) section of the Zhihu platform. | `Java` | `Apache-2.0` | 725 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&_rand=1766373349014&sudaref=) |
+| [**ZhuanLan**](https://github.com/bxbxbai/ZhuanLan) | A client for the "Zhuanlan" (Columns) section of the Zhihu platform. | `Java` | `Apache-2.0` | 726 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&_rand=1766373349014&sudaref=) |
 
 ---
 
