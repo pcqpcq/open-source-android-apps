@@ -27,13 +27,13 @@ A curated list of open-source messengers, email clients, browsers, and other com
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | `Java` | `GPL-2.0` | 28.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.telegram.messenger) |
 | [**Tint Browser**](https://github.com/Anasthase/TintBrowser) | A lightweight, open-source web browser for Android 4.0 and above. | `Java` | `GPL-3.0` | 224 | — |
 | [**Tutanota**](https://github.com/tutao/tutanota) | An end-to-end encrypted email client focused on security and privacy. | `TypeScript` | `GPL-3.0` | 7.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.tutao.tutanota) |
-| [**Ulangi**](https://github.com/subconcept-labs/ulangi) | A language learning app that uses spaced repetition and other popular methods. | `TypeScript` | `GPL-3.0` | 451 | — |
+| [**Ulangi**](https://github.com/subconcept-labs/ulangi) | A language learning app that uses spaced repetition and other popular methods. | `TypeScript` | `GPL-3.0` | 450 | — |
 | [**VideoFly**](https://github.com/VideoFly/VideoFly) | A video calling app that allows you to multitask during a call. (Archived) | `Java` | Not specified | 21 | — |
 | [**WeChat (Clone)**](https://github.com/motianhuo/wechat) | A clone of the WeChat application. (Archived) | `Java` | Not specified | 5.4k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk) |
 | [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) | Transmits audio over a local WiFi network, acting like a walkie-talkie. | `Java` | `Apache-2.0` | 158 | — |
 | [**Wire**](https://github.com/wireapp/wire-android) | A secure messenger offering end-to-end encrypted communication. | `Kotlin` | `GPL-3.0` | 216 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.wire) |
 | [**Yaaic**](https://github.com/pocmo/Yaaic) | "Yet Another Android IRC Client" for connecting to IRC networks. (Archived) | `Java` | `GPL-3.0` | 335 | — |
-| [**Zulip**](https://github.com/zulip/zulip-android-legacy) | The official Android client for the powerful open-source group chat platform. | `Java` | `Apache-2.0` | 407 | — |
+| [**Zulip**](https://github.com/zulip/zulip-android-legacy) | The official Android client for the powerful open-source group chat platform. | `Java` | `Apache-2.0` | 406 | — |
 
 ---
 
