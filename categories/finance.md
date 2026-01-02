@@ -6,7 +6,7 @@ A curated list of open-source applications for finance management, expense track
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**bitcoin-wallet**](https://github.com/schildbach/bitcoin-wallet) | A standalone Bitcoin Wallet app for Android with no centralized backend. | `Java` | `GPL-3.0` | 28 | — |
+| [**bitcoin-wallet**](https://github.com/schildbach/bitcoin-wallet) | A standalone Bitcoin Wallet app for Android with no centralized backend. | `Java` | `GPL-3.0` | 29 | — |
 | [**Bither**](https://github.com/bither/bither-android) | A simple and secure Bitcoin wallet for Android. | `Java` | `Apache-2.0` | 454 | — |
 | [**CoCoin**](https://github.com/Nightonke/CoCoin) | A multi-view accounting and expense tracking application. | `Java` | `Apache-2.0` | 2.8k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Nightonke/CoCoin) |
 | [**Coins**](https://github.com/soffes/coins-android) | A simple app to check the value of your Bitcoins. (Archived) | `Java` | `MIT` | 30 | — |
@@ -15,7 +15,7 @@ A curated list of open-source applications for finance management, expense track
 | [**Kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept for Android built with Material Design. | `Kotlin` | `Apache-2.0` | 1.6k | — |
 | [**Kripto**](https://github.com/sauravrao637/Kripto) | A cryptocurrency tracking app that uses the CoinGecko API. | `Kotlin` | `GPL-3.0` | 16 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/sauravrao637/Kripto) |
 | [**Money Manager**](https://github.com/hulkdx/MoneyManager) | A money manager app built with Kotlin and a CLEAN architecture. | `Java` | Not specified | 3 | — |
-| [**Money Manager Ex**](https://github.com/moneymanagerex/android-money-manager-ex) | The official Android port of the popular desktop app Money Manager Ex. | `Java` | `GPL-3.0` | 625 | — |
+| [**Money Manager Ex**](https://github.com/moneymanagerex/android-money-manager-ex) | The official Android port of the popular desktop app Money Manager Ex. | `Java` | `GPL-3.0` | 626 | — |
 | [**Paisa**](https://github.com/RetroMusicPlayer/Paisa) | A clean and simple expense manager app. | `Dart` | `GPL-3.0` | 425 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) |
 | [**Simple Random Stock**](https://github.com/WillWcchan/Simple-Random-Stock) | An app that randomly selects a stock from the 3 major U.S. indexes. | `Java` | `MIT` | 7 | — |
 
