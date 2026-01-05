@@ -9,13 +9,13 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**36krReader**](https://github.com/kinneyyan/36krReader) | A Material Design client for the Chinese tech news site 36kr.com. | `Java` | `Apache-2.0` | 370 | — |
 | [**Android-Ganhuo**](https://github.com/ganhuo/Android-Ganhuo) | The official Android client for the Chinese tech content aggregator ganhuo.io. | `Java` | Not specified | 290 | — |
 | [**AndroidRivers**](https://github.com/dodyg/AndroidRivers) | An "anxiety-free" news reader for Android, written in Kotlin. | `Java` | `GPL-3.0` | 321 | — |
-| [**Book Dash**](https://github.com/bookdash/bookdash-android-app) | An app to download free children's books in different languages from the NPO. | `Java` | `Apache-2.0` | 708 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.bookdash.android) |
+| [**Book Dash**](https://github.com/bookdash/bookdash-android-app) | An app to download free children's books in different languages from the NPO. | `Java` | `Apache-2.0` | 709 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.bookdash.android) |
 | [**CrimeTalk Reader**](https://github.com/JohnPersano/CrimeTalk-Reader) | A lightweight and minimalistic reader for CrimeTalk articles. (Archived) | `Java` | `Apache-2.0` | 64 | — |
 | [**EffectiveAndroidUI**](https://github.com/pedrovgs/EffectiveAndroidUI) | A sample project demonstrating best practices for the Android UI Layer (MVP/MVVM). | `Java` | `Apache-2.0` | 6.0k | — |
 | [**FastHub**](https://github.com/fastaccess/FastHub) | A feature-rich, open-source GitHub client for Android. | `Kotlin` | `Apache-2.0` | 5.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fastaccess.github) |
 | [**Flym News Reader**](https://github.com/FredJul/Flym) | A light, modern, and open-source RSS feed reader for Android. | `Kotlin` | `GPL-3.0` | 959 | — |
 | [**frisbee**](https://github.com/gdg-x/frisbee) | An Android application for members of Google Developer Groups (GDG). | `Java` | `Apache-2.0` | 265 | — |
-| [**GitHot**](https://github.com/andyiac/githot) | An app to help you find the world's most popular projects and developers on GitHub. | `Java` | `Apache-2.0` | 378 | — |
+| [**GitHot**](https://github.com/andyiac/githot) | An app to help you find the world's most popular projects and developers on GitHub. | `Java` | `Apache-2.0` | 379 | — |
 | [**Hacker News (by manmal)**](https://github.com/manmal/hn-android) | A simple and clean Hacker News client for Android. | `Java` | `Apache-2.0` | 495 | — |
 | [**HackerNews-React-Native**](https://github.com/iSimar/HackerNews-React-Native) | A Hacker News client for iOS and Android, built with React Native. | `JavaScript` | `MIT` | 3.8k | — |
 | [**Hex for Hacker News**](https://github.com/longdivision/hex) | A snappy and fun Hacker News app with a focus on design. (Archived) | `Java` | `Apache-2.0` | 29 | — |
