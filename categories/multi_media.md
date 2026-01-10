@@ -46,7 +46,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Showly**](https://github.com/michaldrabik/showly) | A modern, slick, open-source TV show tracker for Android. | `Kotlin` | `GPL-3.0` | 1.3k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2) |
 | [**Shuttle**](https://github.com/timusus/Shuttle) | A simple, lightweight, and intuitive local music player for Android. | `Java` | `GPL-3.0` | 2.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=another.music.player) |
 | [**SoundSpice**](https://github.com/farshed/SoundSpice-mobile) | A lightweight and minimalist music player for Android. | `JavaScript` | `GPL-3.0` | 428 | — |
-| [**spydroid-ipcamera**](https://github.com/fyhertz/spydroid-ipcamera) | An app that streams your phone's camera and microphone to a browser or VLC. | `Java` | `GPL-3.0` | 1.9k | — |
+| [**spydroid-ipcamera**](https://github.com/fyhertz/spydroid-ipcamera) | An app that streams your phone's camera and microphone to a browser or VLC. | `Java` | `GPL-3.0` | 2.0k | — |
 | [**StickerCamera**](https://github.com/Skykai521/StickerCamera) | A camera application that allows you to add stickers to your photos. | `Java` | `Apache-2.0` | 3.2k | — |
 | [**Telecine**](https://github.com/JakeWharton/Telecine) | A simple app for recording full-resolution video of your device's screen. | `Java` | `Apache-2.0` | 2.5k | — |
 | [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.1k | — |
