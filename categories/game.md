@@ -7,12 +7,12 @@ A curated list of open-source games for Android, perfect for developers and enth
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**2048-android**](https://github.com/uberspot/2048-android) | An offline-capable port of the classic 2048 puzzle game. | `Java` | `MIT` | 1.1k | — |
-| [**Anti-mine**](https://github.com/lucasnlm/antimine-android) | A modern, minimalist puzzle game inspired by Minesweeper. | `Kotlin` | `GPL-3.0` | 756 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.logical.minato) |
+| [**Anti-mine**](https://github.com/lucasnlm/antimine-android) | A modern, minimalist puzzle game inspired by Minesweeper. | `Kotlin` | `GPL-3.0` | 757 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.logical.minato) |
 | [**Bintris**](https://github.com/Lallassu/bintris) | A game that combines the mechanics of Tetris with binary numbers. | `Go` | `GPL-3.0` | 164 | — |
 | [**Blockinger**](https://github.com/vocollapse/Blockinger) | A classic Tetris clone with customizable controls. | `Java` | `GPL-3.0` | 222 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/game/org.blockinger.game) |
 | [**Brain Phaser**](https://github.com/ValentinFunk/BrainPhaser) | A Material Design quiz app with user management and stats. | `Java` | `GPL-3.0` | 117 | — |
 | [**cantstoptherock**](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game. | `Java` | `BSD-3-Clause` | 6 | — |
-| [**Chase Whisply**](https://github.com/tvbarthel/ChaseWhisplyProject) | An experimental augmented reality game. | `Java` | `Apache-2.0` | 549 | — |
+| [**Chase Whisply**](https://github.com/tvbarthel/ChaseWhisplyProject) | An experimental augmented reality game. | `Java` | `Apache-2.0` | 550 | — |
 | [**Clones Online**](https://github.com/lukedd3/ClonesOnline) | An online multiplayer board game for Android. | `Java` | `MIT` | 12 | — |
 | [**Cloud Cup**](https://github.com/google/cloud-cup-android) | A Firebase-powered multi-device game client. | `Java` | `Apache-2.0` | 51 | — |
 | [**destiny_game**](https://github.com/VedantAdka/destiny_game) | A choice-based adventure game with a dark-themed UI. | `C++` | `MIT` | 0 | — |
@@ -20,7 +20,7 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Etheroll**](https://github.com/AndreMiras/EtherollApp) | A dice game that runs on the Ethereum blockchain. | `Python` | `MIT` | 56 | — |
 | [**friendspell**](https://github.com/chiuki/friendspell) | A party icebreaker game based on the Google Nearby API. | `Java` | `Apache-2.0` | 414 | — |
 | [**GameOfCards**](https://github.com/rohitramkumar308/GameOfCards) | A simple, rule-free card game. | `Java` | Not specified | 58 | — |
-| [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 120 | — |
+| [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 121 | — |
 | [**Gloomy Dungeons 3D**](https://github.com/restorer/gloomy-dungeons-3d) | An old-school, Wolfenstein-style 3D shooter. | `Java` | `MIT` | 71 | — |
 | [**Google Santa Tracker**](https://github.com/google/santa-tracker-android) | An educational and entertaining app for the Christmas holiday period. | `Java` | `Apache-2.0` | 2.1k | — |
 | [**Material Life**](https://github.com/juankysoriano/MaterialLife) | A Material Design styled implementation of Conway's Game of Life. | `Java` | `GPL-2.0` | 96 | — |

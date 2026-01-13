@@ -24,10 +24,10 @@
 | :--- | :--- | :---: |
 | [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 52.9k |
 | [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 49.4k |
-| [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 48.7k |
+| [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 48.8k |
 | [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 44.3k |
 | [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | 36.6k |
-| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 36.2k |
+| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 36.3k |
 | [**Barcode Scanner (ZXing)**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | 33.8k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 28.3k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 28.1k |
@@ -42,7 +42,7 @@
 | [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android) | An advanced, open-source email client for Android. | 13.0k |
 | [**Organic Maps**](https://github.com/organicmaps/organicmaps) | A privacy-focused, offline maps app for travelers, tourists, hikers, and cyclists. | 13.0k |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 12.2k |
-| [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 11.7k |
+| [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 11.8k |
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 10.5k |
 ## 🗂️ Categories
 
