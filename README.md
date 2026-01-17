@@ -30,7 +30,7 @@
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 36.3k |
 | [**Barcode Scanner (ZXing)**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | 33.8k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 28.3k |
-| [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 28.1k |
+| [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 28.2k |
 | [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 27.6k |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 26.2k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | 21.9k |

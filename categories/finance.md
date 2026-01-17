@@ -7,7 +7,7 @@ A curated list of open-source applications for finance management, expense track
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**bitcoin-wallet**](https://github.com/schildbach/bitcoin-wallet) | A standalone Bitcoin Wallet app for Android with no centralized backend. | `Java` | `GPL-3.0` | 32 | — |
-| [**Bither**](https://github.com/bither/bither-android) | A simple and secure Bitcoin wallet for Android. | `Java` | `Apache-2.0` | 455 | — |
+| [**Bither**](https://github.com/bither/bither-android) | A simple and secure Bitcoin wallet for Android. | `Java` | `Apache-2.0` | 456 | — |
 | [**CoCoin**](https://github.com/Nightonke/CoCoin) | A multi-view accounting and expense tracking application. | `Java` | `Apache-2.0` | 2.8k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Nightonke/CoCoin) |
 | [**Coins**](https://github.com/soffes/coins-android) | A simple app to check the value of your Bitcoins. (Archived) | `Java` | `MIT` | 30 | — |
 | [**Financius**](https://github.com/mvarnagiris/financius) | A simple application to log and track your expenses and balance. | `Java` | `GPL-2.0` | 628 | — |

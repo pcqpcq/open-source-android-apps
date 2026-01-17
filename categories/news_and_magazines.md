@@ -25,7 +25,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**Jager**](https://github.com/JaspervanRiet/Jager) | An unofficial client for Product Hunt with a Material Design interface. (Archived) | `Java` | `GPL-3.0` | 74 | — |
 | [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 759 | — |
 | [**kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept showcasing new trends in Android development. | `Kotlin` | `Apache-2.0` | 1.6k | — |
-| [**KuaiHu**](https://github.com/iKrelve/KuaiHu) | A third-party client for the popular Chinese news aggregator zhihu.com. | `Java` | `Apache-2.0` | 694 | — |
+| [**KuaiHu**](https://github.com/iKrelve/KuaiHu) | A third-party client for the popular Chinese news aggregator zhihu.com. | `Java` | `Apache-2.0` | 693 | — |
 | [**Leisure**](https://github.com/MummyDing/Leisure) | An app that aggregates content from Zhihu Daily, Guokr, and Douban Books. | `Java` | `LGPL-3.0` | 549 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://coolapk.com/apk/com.mummyding.app.leisure) |
 | [**Materialistic**](https://github.com/hidroh/materialistic) | A feature-rich, Material Design Hacker News reader. | `Java` | `Apache-2.0` | 2.3k | — |
 | [**Munch**](https://github.com/crazyhitty/Munch) | A minimalistic and easy-to-use RSS reader application. (Archived) | `Java` | `MIT` | 167 | — |
