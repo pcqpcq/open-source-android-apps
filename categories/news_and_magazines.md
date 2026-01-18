@@ -13,7 +13,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**CrimeTalk Reader**](https://github.com/JohnPersano/CrimeTalk-Reader) | A lightweight and minimalistic reader for CrimeTalk articles. (Archived) | `Java` | `Apache-2.0` | 64 | — |
 | [**EffectiveAndroidUI**](https://github.com/pedrovgs/EffectiveAndroidUI) | A sample project demonstrating best practices for the Android UI Layer (MVP/MVVM). | `Java` | `Apache-2.0` | 6.0k | — |
 | [**FastHub**](https://github.com/fastaccess/FastHub) | A feature-rich, open-source GitHub client for Android. | `Kotlin` | `Apache-2.0` | 5.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fastaccess.github) |
-| [**Flym News Reader**](https://github.com/FredJul/Flym) | A light, modern, and open-source RSS feed reader for Android. | `Kotlin` | `GPL-3.0` | 959 | — |
+| [**Flym News Reader**](https://github.com/FredJul/Flym) | A light, modern, and open-source RSS feed reader for Android. | `Kotlin` | `GPL-3.0` | 958 | — |
 | [**frisbee**](https://github.com/gdg-x/frisbee) | An Android application for members of Google Developer Groups (GDG). | `Java` | `Apache-2.0` | 265 | — |
 | [**GitHot**](https://github.com/andyiac/githot) | An app to help you find the world's most popular projects and developers on GitHub. | `Java` | `Apache-2.0` | 379 | — |
 | [**Hacker News (by manmal)**](https://github.com/manmal/hn-android) | A simple and clean Hacker News client for Android. | `Java` | `Apache-2.0` | 495 | — |
