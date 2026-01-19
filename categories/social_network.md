@@ -8,8 +8,8 @@ A curated list of open-source clients for social networks, forums, and content-s
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**AisenWeiBo**](https://github.com/wangdan/AisenWeiBo) | A client for the Chinese social network Sina Weibo, with Material Design. (Archived) | `Java` | `Apache-2.0` | 1.9k | — |
 | [**Barinsta**](https://github.com/Barinsta/barinsta) | A privacy-friendly client for Instagram. (Discontinued) | `Java` | `GPL-3.0` | 1.3k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/me.austinhuang.instagrabber/) |
-| [**Beebo+**](https://github.com/andforce/iBeebo) | A feature-rich client for the Sina Weibo social network. | `Java` | `GPL-3.0` | 298 | — |
-| [**BlackLight**](https://github.com/PaperAirplane-Dev-Team/BlackLight) | A lightweight client for the Sina Weibo social network. | `Kotlin` | `GPL-3.0` | 874 | — |
+| [**Beebo+**](https://github.com/andforce/iBeebo) | A feature-rich client for the Sina Weibo social network. | `Java` | `GPL-3.0` | 297 | — |
+| [**BlackLight**](https://github.com/PaperAirplane-Dev-Team/BlackLight) | A lightweight client for the Sina Weibo social network. | `Kotlin` | `GPL-3.0` | 873 | — |
 | [**Cannonball**](https://github.com/crashlytics/cannonball-android) | An app from Twitter for creating and sharing stories and poems. (Archived) | `Java` | `Apache-2.0` | 302 | — |
 | [**CNode-android**](https://github.com/iwhys/CNode-android) | An Android client for the CNode.js Chinese technical community. | `Java` | `MIT` | 116 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/iwhys/CNode-android) |
 | [**Coding**](https://coding.net/u/coding/p/Coding-Android/git) | The official Android client for the coding.net development platform. | `Java` | `Apache-2.0` | 2.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.coding.program) |

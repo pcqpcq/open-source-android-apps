@@ -7,7 +7,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**36krReader**](https://github.com/kinneyyan/36krReader) | A Material Design client for the Chinese tech news site 36kr.com. | `Java` | `Apache-2.0` | 370 | — |
-| [**Android-Ganhuo**](https://github.com/ganhuo/Android-Ganhuo) | The official Android client for the Chinese tech content aggregator ganhuo.io. | `Java` | Not specified | 290 | — |
+| [**Android-Ganhuo**](https://github.com/ganhuo/Android-Ganhuo) | The official Android client for the Chinese tech content aggregator ganhuo.io. | `Java` | Not specified | 289 | — |
 | [**AndroidRivers**](https://github.com/dodyg/AndroidRivers) | An "anxiety-free" news reader for Android, written in Kotlin. | `Java` | `GPL-3.0` | 321 | — |
 | [**Book Dash**](https://github.com/bookdash/bookdash-android-app) | An app to download free children's books in different languages from the NPO. | `Java` | `Apache-2.0` | 709 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.bookdash.android) |
 | [**CrimeTalk Reader**](https://github.com/JohnPersano/CrimeTalk-Reader) | A lightweight and minimalistic reader for CrimeTalk articles. (Archived) | `Java` | `Apache-2.0` | 64 | — |
