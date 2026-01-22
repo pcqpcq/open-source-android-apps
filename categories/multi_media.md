@@ -17,7 +17,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Awkward Ratings**](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies that might be awkward to watch with your parents. | `Java` | Not specified | 30 | — |
 | [**Bandhook-Kotlin**](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app written entirely in Kotlin to demonstrate its features. | `Kotlin` | `Apache-2.0` | 1.9k | — |
 | [**bilibili-android-client**](https://github.com/HotBitmapGG/bilibili-android-client) | An unofficial client for the Bilibili video sharing website. (Archived) | `Java` | `WTFPL` | 4.5k | — |
-| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 8.6k | — |
+| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 8.7k | — |
 | [**Droided Media Tank**](https://github.com/vikingbrain/droidedmediatank) | A remote control app for Networked Media Tank (NMT) streamers. | `Java` | `Apache-2.0` | 7 | — |
 | [**Easy Sound Recorder**](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app with a Material Design interface. | `Java` | `GPL-3.0` | 1.5k | — |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | `Apache-2.0` | 21.9k | — |
@@ -38,7 +38,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**NOVA Video Player**](https://github.com/nova-video-player/aos-AVP) | A video player for local/network content with subtitle/metadata support. | `HTML` | `Apache-2.0` | 4.3k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.courville.nova) |
 | [**Opengur**](https://github.com/Kennyc1012/Opengur) | An open-source Imgur client for Android. | `Java` | `GPL-3.0` | 324 | — |
 | [**PDF Creator**](https://github.com/Swati4star/Images-to-PDF) | A simple application to convert images into a single PDF file. | `Java` | `GPL-3.0` | 1.3k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/swati4star.createpdf) |
-| [**Phonograph**](https://github.com/kabouzeid/Phonograph) | A beautiful and clean Material Design music player for Android. | `Java` | `GPL-3.0` | 2.7k | — |
+| [**Phonograph**](https://github.com/karimknaebel/Phonograph) | A beautiful and clean Material Design music player for Android. | `Java` | `GPL-3.0` | 2.7k | — |
 | [**Podverse**](https://github.com/podverse/podverse-rn) | A feature-rich, cross-platform podcast app with a focus on clip sharing. | `TypeScript` | `AGPL-3.0` | 282 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.podverse) |
 | [**QuickNovel**](https://github.com/LagradOst/QuickNovel) | An ad-free, FOSS app for downloading novels and reading them as Epubs. | `Kotlin` | `MIT` | 1.4k | — |
 | [**Retro Music Player**](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | A beautiful, customizable music player that follows Material You design. | `Kotlin` | `GPL-3.0` | 4.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) |
