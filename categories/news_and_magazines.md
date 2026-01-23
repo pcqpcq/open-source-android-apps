@@ -22,7 +22,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**Hummingbird**](https://github.com/xiprox/Hummingbird-for-Android) | A modern client for the anime tracking website Hummingbird.me (now Kitsu). | `Java` | `GPL-3.0` | 62 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/xiprox/Hummingbird-for-Android) |
 | [**Idaily**](https://github.com/liuguangqiang/Idaily) | A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava. | `Java` | `Apache-2.0` | 570 | — |
 | [**ImportNew**](https://github.com/lzjun567/XiYuanFangApp) | The official Android app for the Chinese tech blog ImportNew.com. | `CSS` | `Apache-2.0` | 250 | — |
-| [**Jager**](https://github.com/JaspervanRiet/Jager) | An unofficial client for Product Hunt with a Material Design interface. (Archived) | `Java` | `GPL-3.0` | 74 | — |
+| [**Jager**](https://github.com/JaspervanRiet/Jager) | An unofficial client for Product Hunt with a Material Design interface. (Archived) | `Java` | `GPL-3.0` | 75 | — |
 | [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 759 | — |
 | [**kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept showcasing new trends in Android development. | `Kotlin` | `Apache-2.0` | 1.6k | — |
 | [**KuaiHu**](https://github.com/iKrelve/KuaiHu) | A third-party client for the popular Chinese news aggregator zhihu.com. | `Java` | `Apache-2.0` | 693 | — |
