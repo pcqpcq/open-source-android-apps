@@ -28,14 +28,14 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**Gunnner**](https://github.com/egor-n/gunnner) | A Dribbble client for Android with a clean, material design. (Archived) | `Java` | `Apache-2.0` | 60 | — |
 | [**Helping Hands**](https://github.com/JerrySJoseph/Helping_Hands_Android_client) | An app to find and connect with nearby social service volunteers. | `Java` | Not specified | 3 | — |
 | [**Impeller**](https://github.com/erincandescent/Impeller) | A feature-rich client for the Pump.io open, federated social network. | `Java` | `Apache-2.0` | 48 | — |
-| [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) | An ad-free Reddit client with a clean UI and smooth browsing experience. | `Java` | `AGPL-3.0` | 5.1k | — |
+| [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) | An ad-free Reddit client with a clean UI and smooth browsing experience. | `Java` | `AGPL-3.0` | 5.2k | — |
 | [**Insta Profile Downloader**](https://github.com/hemant3370/Insta) | A tool to view and download media from Instagram profiles. | `Java` | Not specified | 33 | — |
 | [**InstaMaterial**](https://github.com/frogermcs/InstaMaterial) | A concept implementation of Instagram with Material Design. (Archived) | `Java` | `Apache-2.0` | 5.0k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://raw.githubusercontent.com/frogermcs/frogermcs.github.io/master/files/10/InstaMaterial-release-1.0.1-2.apk) |
 | [**Kickstarter**](https://github.com/kickstarter/android-oss) | The official open-source application for the Kickstarter crowdfunding platform. | `Kotlin` | `Apache-2.0` | 5.8k | — |
 | [**Mastodon**](https://github.com/mastodon/mastodon-android) | The official Android client for the decentralized social network Mastodon. | `Java` | `GPL-3.0` | 2.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.joinmastodon.android) |
 | [**minicat**](https://github.com/mcxiaoke/minicat) | A client for the Chinese micro-blogging service fanfou.com. (Archived) | `Java` | `Apache-2.0` | 678 | — |
 | [**Monotweety**](https://github.com/yshrsmz/monotweety) | A simple Twitter client designed for tweeting directly from the notification area. | `Kotlin` | `Apache-2.0` | 112 | — |
-| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | `GPL-3.0` | 36.4k | — |
+| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | `GPL-3.0` | 36.5k | — |
 | [**OctoDroid (gh4a)**](https://github.com/slapperwan/gh4a) | A long-standing, feature-rich GitHub client for Android. | `Java` | `Apache-2.0` | 1.9k | — |
 | [**OSChina Android**](https://gitee.com/oschina/android-app) | The official client for the Chinese open-source community oschina.net. | `Java` | `Apache-2.0` | 4.7k | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/apk/net.oschina.app) |
 | [**PHPHub Android**](https://github.com/CycloneAxe/phphub-android) | An Android client for the PHPHub community. (Archived) | `Java` | `Apache-2.0` | 946 | — |
