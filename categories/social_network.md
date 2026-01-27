@@ -38,7 +38,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | `GPL-3.0` | 36.5k | — |
 | [**OctoDroid (gh4a)**](https://github.com/slapperwan/gh4a) | A long-standing, feature-rich GitHub client for Android. | `Java` | `Apache-2.0` | 1.9k | — |
 | [**OSChina Android**](https://gitee.com/oschina/android-app) | The official client for the Chinese open-source community oschina.net. | `Java` | `Apache-2.0` | 4.7k | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/apk/net.oschina.app) |
-| [**PHPHub Android**](https://github.com/CycloneAxe/phphub-android) | An Android client for the PHPHub community. (Archived) | `Java` | `Apache-2.0` | 946 | — |
+| [**PHPHub Android**](https://github.com/CycloneAxe/phphub-android) | An Android client for the PHPHub community. (Archived) | `Java` | `Apache-2.0` | 945 | — |
 | [**PocketHub**](https://github.com/pockethub/PocketHub) | A community-maintained fork of the original official GitHub Android app. | `Java` | `Apache-2.0` | 9.4k | — |
 | [**Qiitanium**](https://github.com/ogaclejapan/Qiitanium) | An unofficial client for the Japanese technical knowledge sharing service, Qiita. | `Java` | `MIT` | 250 | — |
 | [**ribot-app-android**](https://github.com/ribot/ribot-app-android) | The official studio app for the ribot agency, showcasing their work. (Archived) | `Java` | `Apache-2.0` | 1.2k | — |

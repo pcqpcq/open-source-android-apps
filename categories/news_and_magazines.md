@@ -15,7 +15,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**FastHub**](https://github.com/fastaccess/FastHub) | A feature-rich, open-source GitHub client for Android. | `Kotlin` | `Apache-2.0` | 5.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fastaccess.github) |
 | [**Flym News Reader**](https://github.com/FredJul/Flym) | A light, modern, and open-source RSS feed reader for Android. | `Kotlin` | `GPL-3.0` | 956 | — |
 | [**frisbee**](https://github.com/gdg-x/frisbee) | An Android application for members of Google Developer Groups (GDG). | `Java` | `Apache-2.0` | 265 | — |
-| [**GitHot**](https://github.com/andyiac/githot) | An app to help you find the world's most popular projects and developers on GitHub. | `Java` | `Apache-2.0` | 379 | — |
+| [**GitHot**](https://github.com/andyiac/githot) | An app to help you find the world's most popular projects and developers on GitHub. | `Java` | `Apache-2.0` | 378 | — |
 | [**Hacker News (by manmal)**](https://github.com/manmal/hn-android) | A simple and clean Hacker News client for Android. | `Java` | `Apache-2.0` | 495 | — |
 | [**HackerNews-React-Native**](https://github.com/iSimar/HackerNews-React-Native) | A Hacker News client for iOS and Android, built with React Native. | `JavaScript` | `MIT` | 3.8k | — |
 | [**Hex for Hacker News**](https://github.com/longdivision/hex) | A snappy and fun Hacker News app with a focus on design. (Archived) | `Java` | `Apache-2.0` | 29 | — |
