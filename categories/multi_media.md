@@ -8,7 +8,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**A Photo Manager**](https://github.com/k3b/APhotoManager) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | `Java` | `GPL-3.0` | 236 | — |
 | [**ACEMusicPlayer**](https://github.com/C-Aniruddh/ACEMusicPlayer) | A simple, Material Design music player for the Android platform. | `Java` | `Apache-2.0` | 314 | — |
-| [**ad-free**](https://github.com/abertschi/ad-free) | A proof-of-concept modular audio ad-blocker for Android. | `Kotlin` | `Apache-2.0` | 288 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/ch.abertschi.adfree) |
+| [**ad-free**](https://github.com/abertschi/ad-free) | A proof-of-concept modular audio ad-blocker for Android. | `Kotlin` | `Apache-2.0` | 289 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/ch.abertschi.adfree) |
 | [**AnimeTaste**](https://github.com/daimajia/AnimeTaste) | An app for discovering and watching original animations from around the world. (Archived) | `Java` | `MIT` | 1.6k | — |
 | [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) | A powerful and flexible podcast manager for Android. | `Java` | `GPL-3.0` | 7.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) |
 | [**Apollo**](https://github.com/CyanogenMod/android_packages_apps_Apollo) | The classic, highly customizable music player from CyanogenMod. (Archived) | `Java` | `Apache-2.0` | 260 | — |
@@ -17,7 +17,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Awkward Ratings**](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies that might be awkward to watch with your parents. | `Java` | Not specified | 30 | — |
 | [**Bandhook-Kotlin**](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app written entirely in Kotlin to demonstrate its features. | `Kotlin` | `Apache-2.0` | 1.9k | — |
 | [**bilibili-android-client**](https://github.com/HotBitmapGG/bilibili-android-client) | An unofficial client for the Bilibili video sharing website. (Archived) | `Java` | `WTFPL` | 4.5k | — |
-| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 8.7k | — |
+| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 8.8k | — |
 | [**Droided Media Tank**](https://github.com/vikingbrain/droidedmediatank) | A remote control app for Networked Media Tank (NMT) streamers. | `Java` | `Apache-2.0` | 7 | — |
 | [**Easy Sound Recorder**](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app with a Material Design interface. | `Java` | `GPL-3.0` | 1.5k | — |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | `Apache-2.0` | 21.9k | — |
@@ -27,7 +27,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Kafka for Internet Archive**](https://github.com/vipulyaara/Kafka) | A modern client for Internet Archive with a built-in reader and audio player. | `Kotlin` | `GPL-3.0` | 372 | — |
 | [**L Camera**](https://github.com/PkmX/lcamera) | An experimental camera app using the Android Lollipop camera2 API. (Archived) | `Scala` | `GPL-3.0` | 1.3k | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/PkmX/lcamera) |
 | [**Last.fm**](https://github.com/lastfm/lastfm-android) | The official open-source Android app for the Last.fm music service. | `XSLT` | `GPL-3.0` | 188 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=fm.last.android) |
-| [**Material Audiobook Player**](https://github.com/PaulWoitaschek/Voice) | A feature-rich audiobook player designed for Android. | `Kotlin` | `GPL-3.0` | 2.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) |
+| [**Material Audiobook Player**](https://github.com/PaulWoitaschek/Voice) | A feature-rich audiobook player designed for Android. | `Kotlin` | `GPL-3.0` | 2.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) |
 | [**Material-Movies**](https://github.com/saulmm/Material-Movies) | A sample movie app demonstrating Material Design principles. (Archived) | `Java` | `Apache-2.0` | 2.4k | — |
 | [**MetroList**](https://github.com/mostafaalagamy/Metrolist) | A Material 3 Youtube client for android. | `Kotalin` | `GPL-3.0 license` | 4.5k |[![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/mostafaalagamy/Metrolist/releases) |
 | [**Mizuu**](https://github.com/MizzleDK/Mizuu) | A popular media indexer app for managing movie and TV show collections. (Archived) | `Java` | `Apache-2.0` | 871 | — |

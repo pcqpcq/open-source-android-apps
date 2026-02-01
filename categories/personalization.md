@@ -7,8 +7,8 @@ A curated list of open-source launchers, icon packs, wallpapers, and other tools
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**10-bit Clock Widget**](https://github.com/ashutoshgngwr/10-bitClockWidget) | A unique clock widget that uses 10 binary dots to represent the time. | `Java` | `GPL-3.0` | 55 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/ashutoshgngwr/10-bitClockWidget) |
-| [**Adaptive Theme**](https://github.com/xLexip/Adaptive-Theme) | Uses the light sensor to auto-switch the Android dark mode based on ambient light. | `Kotlin` | `GPL-3.0` | 30 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=dev.lexip.hecate) |
-| [**CandyBar**](https://github.com/zixpo/candybar) | A popular, open-source dashboard library for creating Android icon packs. | `Java` | `Apache-2.0` | 371 | — |
+| [**Adaptive Theme**](https://github.com/xLexip/Adaptive-Theme) | Uses the light sensor to auto-switch the Android dark mode based on ambient light. | `Kotlin` | `GPL-3.0` | 31 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=dev.lexip.hecate) |
+| [**CandyBar**](https://github.com/zixpo/candybar) | A popular, open-source dashboard library for creating Android icon packs. | `Java` | `Apache-2.0` | 372 | — |
 | [**IconShowcase**](https://github.com/jahirfiquitiva/IconShowcase) | A Material Design dashboard specifically made for showcasing icon packs. | `Java` | `Apache-2.0` | 1k | — |
 | [**KISS Launcher**](https://github.com/Neamar/KISS) | A blazingly fast, lightweight launcher that requires minimal memory. | `Java` | `GPL-3.0` | 3.4k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=fr.neamar.kiss) |
 | [**Kvaesitso**](https://github.com/MM2-0/Kvaesitso) | A search-focused, free and open-source launcher for Android. | `Kotlin` | `GPL-3.0` | 4.2k | — |
@@ -23,7 +23,7 @@ A curated list of open-source launchers, icon packs, wallpapers, and other tools
 | [**thumb-key**](https://github.com/dessalines/thumb-key) | A privacy-conscious keyboard designed for efficient two-thumb typing. | `Kotlin` | `AGPL-3.0` | 1.4k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.dessalines.thumbkey) |
 | [**WallpaperStore**](https://github.com/zzhoujay/WallpaperStore) | A wallpaper application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 120 | — |
 | [**wall-splash-android**](https://github.com/mikepenz/wallsplash-android) | An open-source Android client for the high-resolution photo service Unsplash.com. | `Java` | `Apache-2.0` | 787 | — |
-| [**Wally**](https://github.com/musenkishi/wally) | A fast and efficient open-source wallpaper application for Android. | `Java` | `Apache-2.0` | 960 | — |
+| [**Wally**](https://github.com/musenkishi/wally) | A fast and efficient open-source wallpaper application for Android. | `Java` | `Apache-2.0` | 961 | — |
 
 ---
 
