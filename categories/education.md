@@ -6,7 +6,7 @@ A curated list of open-source applications for learning, studying, and self-impr
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | `Kotlin` | `GPL-3.0` | 10.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.ichi2.anki) |
+| [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | `Kotlin` | `GPL-3.0` | 10.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.ichi2.anki) |
 | [**Awesome-Campus**](https://github.com/MummyDing/Awesome-Campus) | An Android app for students of Jiangxi Normal University. | `Java` | `GPL-3.0` | 120 | — |
 | [**Enguage**](https://github.com/pjay94/enguageapp) | A mobile app for Polish speakers to learn English spelling and phrasal verbs. | `Java` | Not specified | 2 | — |
 | [**festnimbus**](https://github.com/appteam-nith/festnimbus) | An open-source college app for the technical fest of NIT Hamirpur, India. | `Java` | `GPL-3.0` | 11 | — |
