@@ -55,7 +55,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | `Kotlin` | `Apache-2.0` | 13.2k | — |
 | [**Vanilla Music**](https://github.com/vanilla-music/vanilla) | A clean, simple, and free open-source music player. | `Java` | `GPL-3.0` | 1.3k | — |
 | [**VLC for Android**](https://github.com/videolan/vlc-android) | The official port of the versatile, open-source VLC media player. | `Kotlin` | `GPL-2.0` | 3.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.videolan.vlc) |
-| [**XimalayaKotlin**](https://github.com/gs666/XimalayaKotlin) | An unofficial client for Ximalaya FM written entirely in Kotlin. (Archived) | `Kotlin` | `MIT` | 181 | — |
+| [**XimalayaKotlin**](https://github.com/gs666/XimalayaKotlin) | An unofficial client for Ximalaya FM written entirely in Kotlin. (Archived) | `Kotlin` | `MIT` | 182 | — |
 
 ---
 
