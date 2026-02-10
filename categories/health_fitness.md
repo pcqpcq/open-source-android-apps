@@ -13,7 +13,7 @@ A curated list of open-source health, wellness, and fitness apps for Android. Th
 | [**Ishihara**](https://github.com/landtanin/Ishihara) | An application for testing color blindness using Ishihara plates. | `Java` | `MIT` | 3 | — |
 | [**NightSight**](https://github.com/meghalagrawal/NightSight) | An app to decrease screen brightness below the system's minimum level. | `Java` | `Apache-2.0` | 24 | — |
 | [**Pedometer**](https://github.com/j4velin/Pedometer) | A lightweight pedometer app that uses the hardware step-sensor. | `Java` | `Apache-2.0` | 1.4k | — |
-| [**RunnerUp**](https://github.com/jonasoreland/runnerup) | An open-source run tracker for tracking fitness activities. | `Java` | `GPL-3.0` | 876 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.runnerup) |
+| [**RunnerUp**](https://github.com/jonasoreland/runnerup) | An open-source run tracker for tracking fitness activities. | `Java` | `GPL-3.0` | 877 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.runnerup) |
 
 ---
 
