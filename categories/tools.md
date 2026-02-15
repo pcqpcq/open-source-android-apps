@@ -76,7 +76,7 @@ A curated list of open-source utilities, file managers, system tools, and other 
 | [**Ninja**](https://github.com/mthli/Ninja) | A web browser that opens links in the background without leaving your current app. | `Java` | `Apache-2.0` | 964 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/apk/io.github.mthli.Ninja) |
 | [**Notally**](https://github.com/OmGodse/Notally) | A beautiful, minimalist, and offline-first notes app. | `Kotlin` | `GPL-3.0` | 2.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.omgodse.notally) |
 | [**Notification Analyser**](https://github.com/MPieter/Notification-Analyser) | An application to analyze your device's notification history. | `Java` | `MIT` | 65 | — |
-| [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | `Dart` | `GPL-3.0` | 15.1k | — |
+| [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | `Dart` | `GPL-3.0` | 15.2k | — |
 | [**Omni Notes**](https://github.com/federicoiosue/Omni-Notes) | A feature-rich, open-source note-taking application for Android. | `Java` | `GPL-3.0` | 2.8k | — |
 | [**OpenHub for GitHub**](https://github.com/ThirtyDegreesRay/OpenHub) | An open source GitHub Android client app, faster and concise. | `Java` | `GPL-3.0` | 4.4k | — |
 | [**OS Monitor**](https://github.com/eolwral/OSMonitor) | A tool for monitoring your Android system's processes, network, and logs. | `Java` | `GPL-2.0` | 332 | — |
