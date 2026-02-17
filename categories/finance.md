@@ -15,7 +15,7 @@ A curated list of open-source applications for finance management, expense track
 | [**Kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept for Android built with Material Design. | `Kotlin` | `Apache-2.0` | 1.6k | — |
 | [**Kripto**](https://github.com/sauravrao637/Kripto) | A cryptocurrency tracking app that uses the CoinGecko API. | `Kotlin` | `GPL-3.0` | 16 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/sauravrao637/Kripto) |
 | [**Money Manager**](https://github.com/hulkdx/MoneyManager) | A money manager app built with Kotlin and a CLEAN architecture. | `Java` | Not specified | 3 | — |
-| [**Money Manager Ex**](https://github.com/moneymanagerex/android-money-manager-ex) | The official Android port of the popular desktop app Money Manager Ex. | `Java` | `GPL-3.0` | 642 | — |
+| [**Money Manager Ex**](https://github.com/moneymanagerex/android-money-manager-ex) | The official Android port of the popular desktop app Money Manager Ex. | `Java` | `GPL-3.0` | 643 | — |
 | [**Paisa**](https://github.com/RetroMusicPlayer/Paisa) | A clean and simple expense manager app. | `Dart` | `GPL-3.0` | 425 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) |
 | [**Simple Random Stock**](https://github.com/WillWcchan/Simple-Random-Stock) | An app that randomly selects a stock from the 3 major U.S. indexes. | `Java` | `MIT` | 7 | — |
 
