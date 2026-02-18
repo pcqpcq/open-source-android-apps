@@ -24,7 +24,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**LinkHub**](https://github.com/AmrDeveloper/LinkHub) | A simple and effective link management application. | `Kotlin` | `MIT` | 285 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amrdeveloper.linkhub) |
 | [**Linkora**](https://github.com/LinkoraApp/Linkora) | Link organizer for Android and desktop with self-hosted sync. | `Kotalin` | `MIT license` | 722 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.sakethh.linkora)|
 | [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | `Kotlin` | `GPL-3.0` | 9.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.isoron.uhabits) |
-| [**MarkNote**](https://github.com/Shouheng88/MarkNote) | A Material Design Markdown note-taking application for Android. | `Java` | `AGPL-3.0` | 910 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://www.coolapk.com/apk/178276) |
+| [**MarkNote**](https://github.com/Shouheng88/MarkNote) | A Material Design Markdown note-taking application for Android. | `Java` | `AGPL-3.0` | 911 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://www.coolapk.com/apk/178276) |
 | [**Memento**](https://github.com/yaa110/Memento) | A simple and elegant note-taking app. (Archived) | `Java` | Not specified | 258 | — |
 | [**Minimal-Todo**](https://github.com/avjinder/Minimal-Todo) | A fully Material Design To-Do app with just enough features to be useful. | `Java` | `MIT` | 2.2k | — |
 | [**Minitask**](https://github.com/luong-komorebi/Minitask) | A simple and lightweight to-do list and task management app. (Archived) | `Java` | `Apache-2.0` | 28 | — |
@@ -48,7 +48,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**todo.txt**](https://github.com/todotxt/todo.txt-android) | The official Android app for managing your `todo.txt` file via Dropbox. | `Java` | `GPL-3.0` | 1.2k | — |
 | [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 65 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/de.k3b.android.toGoZip) |
 | [**tudounotepad**](https://github.com/geminiwen/tudounotepad) | A simple Notepad application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 110 | — |
-| [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.4k | — |
+| [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.3k | — |
 | [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 81 | — |
 
 ---
