@@ -7,8 +7,8 @@ A curated list of open-source applications, watch faces, and operating systems f
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**Arcade Watchface**](https://github.com/prempalsingh/arcade-watchface) | A retro, arcade-style watch face for Wear OS. (Archived) | `Java` | `WTFPL` | 19 | — |
-| [**AsteroidOS**](https://github.com/AsteroidOS/asteroid) | A free and open-source alternative operating system for smartwatches. | `Shell` | `GPL-2.0` | 957 | — |
-| [**AsteroidOS Sync**](https://github.com/AsteroidOS/AsteroidOSSync) | The official sync client to connect your phone to an AsteroidOS watch. | `Java` | `GPL-3.0` | 103 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/org.asteroidos.sync) |
+| [**AsteroidOS**](https://github.com/AsteroidOS/asteroid) | A free and open-source alternative operating system for smartwatches. | `Shell` | `GPL-2.0` | 973 | — |
+| [**AsteroidOS Sync**](https://github.com/AsteroidOS/AsteroidOSSync) | The official sync client to connect your phone to an AsteroidOS watch. | `Java` | `GPL-3.0` | 104 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/org.asteroidos.sync) |
 | [**Binary Watch Face**](https://github.com/dwa012/WearBinaryWatchFace) | A watch face that displays the time in binary format. | `Java` | `Apache-2.0` | 56 | — |
 | [**FORM Watch Face**](https://github.com/romannurik/FORMWatchFace) | A unique watch face based on the FORM event typeface. | `Java` | `Apache-2.0` | 257 | — |
 | [**LapseFace**](https://github.com/matteolobello/lapseface) | A watch face that allows you to create time-lapses. (Archived) | `Java` | `Apache-2.0` | 7 | — |
