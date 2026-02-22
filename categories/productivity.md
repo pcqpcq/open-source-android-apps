@@ -38,7 +38,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**ownCloud**](https://github.com/owncloud/android) | The official Android client for the self-hosted ownCloud file sync platform. | `Kotlin` | `GPL-2.0` | 4.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.owncloud.android) |
 | [**PocketPal AI**](https://github.com/a-ghorbani/pocketpal-ai) | An on-device AI assistant powered by small language models (SLMs). | `TypeScript` | `MIT` | 5.7k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/a-ghorbani/pocketpal-ai) |
 | [**Quill**](https://github.com/vickychijwani/quill) | A beautiful Android app for managing your Ghost blog. | `Java` | `MIT` | 548 | — |
-| [**Remindly**](https://github.com/blanyal/Remindly) | A simple and user-friendly application for creating reminders. | `Java` | `Apache-2.0` | 579 | — |
+| [**Remindly**](https://github.com/blanyal/Remindly) | A simple and user-friendly application for creating reminders. | `Java` | `Apache-2.0` | 578 | — |
 | [**ShutUp!**](https://github.com/RitwickVerma/ShutUp) | An app to automatically silence your phone based on your calendar events. | `Java` | `GPL-3.0` | 20 | — |
 | [**Skiff**](https://github.com/skiff-org/skiff-apps) | A suite of end-to-end encrypted, private email, calendar, and docs apps. | `TypeScript` | `GPL-3.0` | 928 | — |
 | [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes) | A simple and elegant note-taking application, simplified for quick use. | `Java` | `Apache-2.0` | 134 | — |
