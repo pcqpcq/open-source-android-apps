@@ -17,20 +17,20 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Awkward Ratings**](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies that might be awkward to watch with your parents. | `Java` | Not specified | 30 | — |
 | [**Bandhook-Kotlin**](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app written entirely in Kotlin to demonstrate its features. | `Kotlin` | `Apache-2.0` | 1.9k | — |
 | [**bilibili-android-client**](https://github.com/HotBitmapGG/bilibili-android-client) | An unofficial client for the Bilibili video sharing website. (Archived) | `Java` | `WTFPL` | 4.5k | — |
-| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 8.9k | — |
+| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 9.0k | — |
 | [**Droided Media Tank**](https://github.com/vikingbrain/droidedmediatank) | A remote control app for Networked Media Tank (NMT) streamers. | `Java` | `Apache-2.0` | 7 | — |
 | [**Easy Sound Recorder**](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app with a Material Design interface. | `Java` | `GPL-3.0` | 1.5k | — |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | `Apache-2.0` | 21.9k | — |
 | [**GEM**](https://github.com/SubstanceMobile/GEM) | A music player for Android with a stunning Material Design UI. (Archived) | `Java` | `Apache-2.0` | 277 | — |
 | [**JamsMusicPlayer**](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful, and elegant music player for Android. (Archived) | `Java` | `Apache-2.0` | 1.1k | — |
 | [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) | The official Android client for the Jellyfin media server. | `Kotlin` | `GPL-2.0` | 2.4k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) |
-| [**Kafka for Internet Archive**](https://github.com/vipulyaara/Kafka) | A modern client for Internet Archive with a built-in reader and audio player. | `Kotlin` | `GPL-3.0` | 372 | — |
+| [**Kafka for Internet Archive**](https://github.com/vipulyaara/Kafka) | A modern client for Internet Archive with a built-in reader and audio player. | `Kotlin` | `GPL-3.0` | 374 | — |
 | [**L Camera**](https://github.com/PkmX/lcamera) | An experimental camera app using the Android Lollipop camera2 API. (Archived) | `Scala` | `GPL-3.0` | 1.3k | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/PkmX/lcamera) |
 | [**Last.fm**](https://github.com/lastfm/lastfm-android) | The official open-source Android app for the Last.fm music service. | `XSLT` | `GPL-3.0` | 188 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=fm.last.android) |
 | [**Material Audiobook Player**](https://github.com/PaulWoitaschek/Voice) | A feature-rich audiobook player designed for Android. | `Kotlin` | `GPL-3.0` | 2.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) |
 | [**Material-Movies**](https://github.com/saulmm/Material-Movies) | A sample movie app demonstrating Material Design principles. (Archived) | `Java` | `Apache-2.0` | 2.4k | — |
 | [**MetroList**](https://github.com/mostafaalagamy/Metrolist) | A Material 3 Youtube client for android. | `Kotalin` | `GPL-3.0 license` | 4.5k |[![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/mostafaalagamy/Metrolist/releases) |
-| [**Mizuu**](https://github.com/MizzleDK/Mizuu) | A popular media indexer app for managing movie and TV show collections. (Archived) | `Java` | `Apache-2.0` | 871 | — |
+| [**Mizuu**](https://github.com/MizzleDK/Mizuu) | A popular media indexer app for managing movie and TV show collections. (Archived) | `Java` | `Apache-2.0` | 870 | — |
 | [**MovieGuide**](https://github.com/esoxjem/MovieGuide) | A sample movie app showcasing the MVP pattern, RxJava, and Dagger. | `Java` | `MIT` | 2.6k | — |
 | [**MPDroid**](https://github.com/abarisain/dmix) | A client for the Music Player Daemon (MPD) that supports streaming. | `Java` | `Apache-2.0` | 604 | — |
 | [**Music DNA**](https://github.com/harjot-oberai/MusicDNA) | A music player that renders a beautiful DNA-like visualization of the music. | `Java` | `Apache-2.0` | 2.9k | — |
