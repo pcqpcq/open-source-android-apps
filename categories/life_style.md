@@ -11,7 +11,7 @@ A curated list of open-source lifestyle, hobby, and utility apps for Android. Th
 | [**COVID Diary**](https://github.com/apozas/contactdiary) | Helps you keep a private log of people you have recently been with. | `Kotlin` | `GPL-3.0` | 46 | — |
 | [**Easy Diary**](https://github.com/hanjoongcho/aaf-easydiary) | A simple diary application optimized for a great user experience. | `Kotlin` | `GPL-3.0` | 531 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary) |
 | [**Easy Photo Map**](https://github.com/hanjoongcho/aaf-easyphotomap) | Displays the location of photos on a map using their EXIF data. | `Kotlin` | `Apache-2.0` | 42 | — |
-| [**Groceries Store**](https://github.com/hieuwu/android-groceries-store) | An app that demonstrates an online grocery ordering system. | `Kotlin` | `MIT` | 276 | — |
+| [**Groceries Store**](https://github.com/hieuwu/android-groceries-store) | An app that demonstrates an online grocery ordering system. | `Kotlin` | `MIT` | 275 | — |
 | [**Memento Namedays**](https://github.com/alexstyl/Memento-Calendar) | A beautifully designed calendar for tracking namedays. | `Java` | `MIT` | 211 | — |
 | [**Narrate**](https://github.com/timothymiko/narrate-android) | A small, simple, and elegant journaling application. (Archived) | `Java` | `Apache-2.0` | 231 | — |
 | [**Reminder Pro**](https://github.com/FarshidRoohi/ReminderPro) | A reminder app with location, sound recording, and map features. | `Kotlin` | `Apache-2.0` | 34 | — |
