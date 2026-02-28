@@ -20,7 +20,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Habito**](https://github.com/ivan-magda/Habito) | A simple habit tracker that uses Firebase Realtime Database. (Archived) | `Kotlin` | `MIT` | 79 | — |
 | [**InstaChat**](https://github.com/mohak1712/Insta-Chat) | A chat-head style app that lets you read and reply to messages from any screen. | `Java` | Not specified | 118 | — |
 | [**Instalist**](https://github.com/InstaList/instalist-android) | A simple application for managing shopping lists. | `Java` | `Apache-2.0` | 7 | — |
-| [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | `TypeScript` | `MIT` | 53.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.cozic.joplin) |
+| [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | `TypeScript` | `MIT` | 53.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.cozic.joplin) |
 | [**LinkHub**](https://github.com/AmrDeveloper/LinkHub) | A simple and effective link management application. | `Kotlin` | `MIT` | 286 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amrdeveloper.linkhub) |
 | [**Linkora**](https://github.com/LinkoraApp/Linkora) | Link organizer for Android and desktop with self-hosted sync. | `Kotalin` | `MIT license` | 722 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.sakethh.linkora)|
 | [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | `Kotlin` | `GPL-3.0` | 9.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.isoron.uhabits) |
@@ -40,7 +40,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Quill**](https://github.com/vickychijwani/quill) | A beautiful Android app for managing your Ghost blog. | `Java` | `MIT` | 548 | — |
 | [**Remindly**](https://github.com/blanyal/Remindly) | A simple and user-friendly application for creating reminders. | `Java` | `Apache-2.0` | 578 | — |
 | [**ShutUp!**](https://github.com/RitwickVerma/ShutUp) | An app to automatically silence your phone based on your calendar events. | `Java` | `GPL-3.0` | 20 | — |
-| [**Skiff**](https://github.com/skiff-org/skiff-apps) | A suite of end-to-end encrypted, private email, calendar, and docs apps. | `TypeScript` | `GPL-3.0` | 932 | — |
+| [**Skiff**](https://github.com/skiff-org/skiff-apps) | A suite of end-to-end encrypted, private email, calendar, and docs apps. | `TypeScript` | `GPL-3.0` | 933 | — |
 | [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes) | A simple and elegant note-taking application, simplified for quick use. | `Java` | `Apache-2.0` | 134 | — |
 | [**Tasks**](https://github.com/tasks/tasks) | A CalDAV-based task management app for Android. | `Kotlin` | `GPL-3.0` | 5.0k | — |
 | [**Text Fairy**](https://github.com/renard314/textfairy) | An OCR app that converts images to text, which can then be edited or shared. | `C` | `Apache-2.0` | 826 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.renard.ocr) |
@@ -48,7 +48,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**todo.txt**](https://github.com/todotxt/todo.txt-android) | The official Android app for managing your `todo.txt` file via Dropbox. | `Java` | `GPL-3.0` | 1.2k | — |
 | [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 65 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/de.k3b.android.toGoZip) |
 | [**tudounotepad**](https://github.com/geminiwen/tudounotepad) | A simple Notepad application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 111 | — |
-| [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.4k | — |
+| [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.3k | — |
 | [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 80 | — |
 
 ---
