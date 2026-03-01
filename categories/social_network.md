@@ -19,7 +19,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 659 | — |
 | [**FishChatAndroid**](https://github.com/oikomi/FishChatAndroid) | A chat application demonstrating modern Android development. | `Java` | Not specified | 64 | — |
 | [**ForkHub**](https://github.com/jonan/ForkHub) | A fork of the deprecated official GitHub Android app, which is still maintained. | `JavaScript` | `Apache-2.0` | 2.8k | — |
-| [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 317 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
+| [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 318 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
 | [**GitHub Visualizer**](https://github.com/dheerajkotwani/GithubVisualizer) | A GitHub client using the official API and Material UI components. | `Kotlin` | `MIT` | 120 | — |
 | [**GitPoint**](https://github.com/gitpoint/git-point) | A GitHub client with a minimal and beautiful user interface, built with React Native. | `JavaScript` | `MIT` | 4.8k | — |
 | [**Gitskarios**](https://github.com/gitskarios/Gitskarios) | A popular and feature-rich GitHub client for Android. | `Java` | `MIT` | 526 | — |
