@@ -7,7 +7,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**1List**](https://github.com/lolo-io/OneList) | A simple app to manage several to-do lists from a single screen. | `Kotlin` | `MIT` | 115 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.lolo.io.onelist) |
-| [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) | A beautiful and feature-rich Material Design file manager for Android. | `Kotlin` | `GPL-3.0` | 6.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amaze.filemanager) |
+| [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) | A beautiful and feature-rich Material Design file manager for Android. | `Kotlin` | `GPL-3.0` | 6.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amaze.filemanager) |
 | [**Bugzy**](https://github.com/cpunq/bugzy) | A production-ready Fogbugz client for Android, built with Jetpack components. | `Java` | `MIT` | 5 | — |
 | [**Carbon Contacts**](https://github.com/abhijith0505/CarbonContacts) | An app that lets users find and delete duplicate contacts. | `Java` | `MIT` | 23 | — |
 | [**Card Case**](https://github.com/blocoio/cardcase) | An app to exchange digital business cards with people nearby. (Archived) | `Java` | `GPL-3.0` | 142 | — |
