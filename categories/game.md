@@ -31,13 +31,13 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Open Flood**](https://github.com/GunshipPenguin/open_flood) | A simple but challenging flood-fill puzzle game. | `Java` | `MIT` | 143 | — |
 | [**Pie Noon**](https://github.com/google/pienoon) | A multiplayer party game where you throw pies at your friends. | `C++` | `Apache-2.0` | 440 | — |
 | [**Pixel Dungeon**](https://github.com/watabou/pixel-dungeon) | A traditional roguelike game with charming pixel-art graphics. | `Java` | `GPL-3.0` | 3.9k | — |
-| [**PokerTH**](https://github.com/pokerth/pokerth) | A C++/Qt-based poker game for Texas hold 'em. | `C++` | `AGPL-3.0` | 604 | — |
+| [**PokerTH**](https://github.com/pokerth/pokerth) | A C++/Qt-based poker game for Texas hold 'em. | `C++` | `AGPL-3.0` | 605 | — |
 | [**Shattered Pixel Dungeon**](https://github.com/00-Evan/shattered-pixel-dungeon) | A popular roguelike RPG, based on Pixel Dungeon, with frequent updates. | `Java` | `GPL-3.0` | 5.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) |
 | [**Simon Tatham's Puzzles**](https://github.com/chrisboyle/sgtpuzzles) | A collection of dozens of single-player logic puzzle games. | `C` | `MIT` | 695 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) |
 | [**Sleuth**](https://codeberg.org/BWPanda/sleuth) | A single-player logic puzzle game. | `GDScript` | `GPL-3.0` | N/A | [![Codeberg](https://img.shields.io/badge/Download-Codeberg-blue)](https://codeberg.org/BWPanda/sleuth/releases/latest) |
 | [**SOPA**](https://github.com/djschilling/sopa) | A puzzle game where you connect gates with colored tubes. | `Java` | `Apache-2.0` | 35 | — |
 | [**Splinter Sweets**](https://github.com/reime005/splintersweets) | A libGDX mobile game about smashing as many sweets as possible. | `Objective-C` | `Apache-2.0` | 65 | — |
-| [**Stratagus**](https://github.com/drodin/Stratagus) | A port of the Stratagus real-time strategy gaming engine. | `C++` | `GPL-2.0` | 53 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.drodin.stratagus) |
+| [**Stratagus**](https://github.com/drodin/Stratagus) | A port of the Stratagus real-time strategy gaming engine. | `C++` | `GPL-2.0` | 54 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.drodin.stratagus) |
 | [**Tanks of Freedom**](https://github.com/w84death/Tanks-of-Freedom) | An indie Turn-Based Strategy game in isometric pixel art. | `GDScript` | `MIT` | 1.2k | — |
 | [**Zabyrinth**](https://github.com/Zachacious/Zabyrinth) | A physics-based game based on the classic Labyrinth board game. | `C++` | `MIT` | 24 | — |
 

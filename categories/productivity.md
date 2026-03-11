@@ -36,7 +36,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**OpenNoteScanner**](https://github.com/allgood/OpenNoteScanner) | An application for scanning and manipulating handwritten notes. | `Kotlin` | `Apache-2.0` | 1.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.todobom.opennotescanner) |
 | [**Outlay**](https://github.com/bmelnychuk/outlay) | A simple application to help you track your expenses. (Archived) | `Java` | `Apache-2.0` | 47 | — |
 | [**ownCloud**](https://github.com/owncloud/android) | The official Android client for the self-hosted ownCloud file sync platform. | `Kotlin` | `GPL-2.0` | 4.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.owncloud.android) |
-| [**PocketPal AI**](https://github.com/a-ghorbani/pocketpal-ai) | An on-device AI assistant powered by small language models (SLMs). | `TypeScript` | `MIT` | 6.0k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/a-ghorbani/pocketpal-ai) |
+| [**PocketPal AI**](https://github.com/a-ghorbani/pocketpal-ai) | An on-device AI assistant powered by small language models (SLMs). | `TypeScript` | `MIT` | 6.1k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/a-ghorbani/pocketpal-ai) |
 | [**Quill**](https://github.com/vickychijwani/quill) | A beautiful Android app for managing your Ghost blog. | `Java` | `MIT` | 548 | — |
 | [**Remindly**](https://github.com/blanyal/Remindly) | A simple and user-friendly application for creating reminders. | `Java` | `Apache-2.0` | 578 | — |
 | [**ShutUp!**](https://github.com/RitwickVerma/ShutUp) | An app to automatically silence your phone based on your calendar events. | `Java` | `GPL-3.0` | 20 | — |
@@ -48,7 +48,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**todo.txt**](https://github.com/todotxt/todo.txt-android) | The official Android app for managing your `todo.txt` file via Dropbox. | `Java` | `GPL-3.0` | 1.2k | — |
 | [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 64 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/de.k3b.android.toGoZip) |
 | [**tudounotepad**](https://github.com/geminiwen/tudounotepad) | A simple Notepad application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 110 | — |
-| [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.3k | — |
+| [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.4k | — |
 | [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 80 | — |
 
 ---

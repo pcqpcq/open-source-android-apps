@@ -16,7 +16,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**Cotable**](https://github.com/wlemuel/Cotable) | A Material Design client for the Chinese blogging platform cnblogs.com. | `Java` | `Apache-2.0` | 37 | — |
 | [**Douya**](https://github.com/DreaminginCodeZH/Douya) | An Android client for the Chinese social network douban.com. | `Java` | `Apache-2.0` | 2.7k | — |
 | [**Dribbo**](https://github.com/ikew0ng/Dribbo) | A client for Dribbble to browse popular shots and debuts. (Archived) | `Java` | `Apache-2.0` | 631 | — |
-| [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 659 | — |
+| [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 658 | — |
 | [**FishChatAndroid**](https://github.com/oikomi/FishChatAndroid) | A chat application demonstrating modern Android development. | `Java` | Not specified | 64 | — |
 | [**ForkHub**](https://github.com/jonan/ForkHub) | A fork of the deprecated official GitHub Android app, which is still maintained. | `JavaScript` | `Apache-2.0` | 2.8k | — |
 | [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 318 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
@@ -50,7 +50,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**Tusky**](https://github.com/tuskyapp/Tusky) | A beautiful and feature-rich client for the decentralized social network Mastodon. | `Kotlin` | `GPL-3.0` | 2.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) |
 | [**Twiader**](https://github.com/jydimir/Twiader) | A Twitter client that can read tweets aloud. | `Java` | Not specified | 25 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/jydimir/Twiader/blob/master/release/app-release.apk?raw=true) |
 | [**Twidere**](https://github.com/TwidereProject/Twidere-Android) | A powerful, customizable, and material-designed Twitter client. | `Kotlin` | `GPL-3.0` | 2.7k | — |
-| [**v2ex-android**](https://github.com/greatyao/v2ex-android) | A client for the Chinese technology forum v2ex.com. (Archived) | `Java` | `MIT` | 500 | — |
+| [**v2ex-android**](https://github.com/greatyao/v2ex-android) | A client for the Chinese technology forum v2ex.com. (Archived) | `Java` | `MIT` | 499 | — |
 | [**wasteof for Android**](https://github.com/micahlt/wasteof.mobile) | The official Android app for the wasteof.money social media platform. | `JavaScript` | `GPL-3.0` | 20 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile) |
 | [**WeGit**](https://github.com/Leaking/WeGit) | An Android client for GitHub with a focus on a clean user interface. (Archived) | `Java` | `Apache-2.0` | 490 | — |
 | [**weiciyuan**](https://github.com/qii/weiciyuan) | A popular and feature-rich client for the Sina Weibo social network. | `Java` | `GPL-3.0` | 2.6k | — |
