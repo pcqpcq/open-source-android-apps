@@ -21,7 +21,7 @@ A curated list of open-source applications for maps, navigation, public transpor
 | [**SeeWeather**](https://github.com/xcc3641/SeeWeather) | A weather app built with RxJava, Retrofit, and Material Design. | `Java` | `Apache-2.0` | 3.4k | — |
 | [**TICE**](https://github.com/TICESoftware/tice-android) | A secure, real-time location sharing app for meeting up with friends and family. | `HTML` | `GPL-3.0` | 63 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=app.tice.TICE.production) |
 | [**Tracker**](https://github.com/shivamsingh/Tracker) | A simple location tracker that updates a map and UI in a reactive way. (Archived) | `Java` | Not specified | 114 | — |
-| [**Transportr**](https://github.com/grote/Transportr) | A non-commercial app to make using public transport as easy as possible. | `Kotlin` | `GPL-3.0` | 1.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.grobox.liberario) |
+| [**Transportr**](https://github.com/grote/Transportr) | A non-commercial app to make using public transport as easy as possible. | `Kotlin` | `GPL-3.0` | 1.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.grobox.liberario) |
 | [**Travel Mate**](https://github.com/project-travel-mate/Travel-Mate) | An app designed to be a complete travel guide for your trips. (Archived) | `Java` | `MIT` | 1.3k | — |
 
 ---
