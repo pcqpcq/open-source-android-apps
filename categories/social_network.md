@@ -28,7 +28,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**Gunnner**](https://github.com/egor-n/gunnner) | A Dribbble client for Android with a clean, material design. (Archived) | `Java` | `Apache-2.0` | 60 | — |
 | [**Helping Hands**](https://github.com/JerrySJoseph/Helping_Hands_Android_client) | An app to find and connect with nearby social service volunteers. | `Java` | Not specified | 3 | — |
 | [**Impeller**](https://github.com/erincandescent/Impeller) | A feature-rich client for the Pump.io open, federated social network. | `Java` | `Apache-2.0` | 47 | — |
-| [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) | An ad-free Reddit client with a clean UI and smooth browsing experience. | `Java` | `AGPL-3.0` | 5.2k | — |
+| [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) | An ad-free Reddit client with a clean UI and smooth browsing experience. | `Java` | `AGPL-3.0` | 5.3k | — |
 | [**Insta Profile Downloader**](https://github.com/hemant3370/Insta) | A tool to view and download media from Instagram profiles. | `Java` | Not specified | 33 | — |
 | [**InstaMaterial**](https://github.com/frogermcs/InstaMaterial) | A concept implementation of Instagram with Material Design. (Archived) | `Java` | `Apache-2.0` | 5.0k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://raw.githubusercontent.com/frogermcs/frogermcs.github.io/master/files/10/InstaMaterial-release-1.0.1-2.apk) |
 | [**Kickstarter**](https://github.com/kickstarter/android-oss) | The official open-source application for the Kickstarter crowdfunding platform. | `Kotlin` | `Apache-2.0` | 5.8k | — |
