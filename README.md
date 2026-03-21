@@ -32,7 +32,7 @@
 | [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 29.0k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 28.7k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 28.5k |
-| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 26.9k |
+| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 27.0k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.7k |
 | [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information and documentation. | 18.5k |
@@ -41,8 +41,8 @@
 | [**Organic Maps**](https://github.com/organicmaps/organicmaps) | A privacy-focused, offline maps app for travelers, tourists, hikers, and cyclists. | 13.5k |
 | [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android) | An advanced, open-source email client for Android. | 13.2k |
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | 13.2k |
-| [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 12.4k |
-| [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 12.1k |
+| [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 12.5k |
+| [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 12.2k |
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 10.9k |
 ## 🗂️ Categories
 
