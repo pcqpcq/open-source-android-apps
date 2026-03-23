@@ -28,7 +28,7 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | `Java` | `GPL-3.0` | 27.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=io.anuke.mindustry) |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | `C++` | `LGPL-2.1` | 12.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.minetest.minetest) |
 | [**newplanegame**](https://github.com/nuptboyzhb/newplanegame) | A simple airplane game for Android. | `Java` | Not specified | 94 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.wandoujia.com/apps/edu.njupt.zhb.planegame) |
-| [**Open Flood**](https://github.com/GunshipPenguin/open_flood) | A simple but challenging flood-fill puzzle game. | `Java` | `MIT` | 144 | — |
+| [**Open Flood**](https://github.com/GunshipPenguin/open_flood) | A simple but challenging flood-fill puzzle game. | `Java` | `MIT` | 145 | — |
 | [**Pie Noon**](https://github.com/google/pienoon) | A multiplayer party game where you throw pies at your friends. | `C++` | `Apache-2.0` | 440 | — |
 | [**Pixel Dungeon**](https://github.com/watabou/pixel-dungeon) | A traditional roguelike game with charming pixel-art graphics. | `Java` | `GPL-3.0` | 3.9k | — |
 | [**PokerTH**](https://github.com/pokerth/pokerth) | A C++/Qt-based poker game for Texas hold 'em. | `C++` | `AGPL-3.0` | 607 | — |

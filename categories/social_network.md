@@ -36,7 +36,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**minicat**](https://github.com/mcxiaoke/minicat) | A client for the Chinese micro-blogging service fanfou.com. (Archived) | `Java` | `Apache-2.0` | 678 | — |
 | [**Monotweety**](https://github.com/yshrsmz/monotweety) | A simple Twitter client designed for tweeting directly from the notification area. | `Kotlin` | `Apache-2.0` | 112 | — |
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | `GPL-3.0` | 37.6k | — |
-| [**OctoDroid (gh4a)**](https://github.com/slapperwan/gh4a) | A long-standing, feature-rich GitHub client for Android. | `Java` | `Apache-2.0` | 1.9k | — |
+| [**OctoDroid (gh4a)**](https://github.com/slapperwan/gh4a) | A long-standing, feature-rich GitHub client for Android. | `Java` | `Apache-2.0` | 2.0k | — |
 | [**OSChina Android**](https://gitee.com/oschina/android-app) | The official client for the Chinese open-source community oschina.net. | `Java` | `Apache-2.0` | 4.7k | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/apk/net.oschina.app) |
 | [**PHPHub Android**](https://github.com/CycloneAxe/phphub-android) | An Android client for the PHPHub community. (Archived) | `Java` | `Apache-2.0` | 945 | — |
 | [**PocketHub**](https://github.com/pockethub/PocketHub) | A community-maintained fork of the original official GitHub Android app. | `Java` | `Apache-2.0` | 9.4k | — |
