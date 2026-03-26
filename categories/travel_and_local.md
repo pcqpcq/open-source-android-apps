@@ -6,7 +6,7 @@ A curated list of open-source applications for maps, navigation, public transpor
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**A Photo Manager**](https://github.com/k3b/APhotoManager) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | `Java` | `GPL-3.0` | 238 | — |
+| [**A Photo Manager**](https://github.com/k3b/APhotoManager) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | `Java` | `GPL-3.0` | 239 | — |
 | [**c:geo**](https://github.com/cgeo/cgeo) | A full-featured, open-source client for geocaching and other geocaching platforms. | `Java` | `Apache-2.0` | 1.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=cgeo.geocaching) |
 | [**CycleStreets**](https://github.com/cyclestreets/android) | A UK-wide cycle journey planner designed by cyclists, for cyclists. | `Java` | `GPL-3.0` | 224 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.cyclestreets) |
 | [**Mapbox Dev Preview**](https://github.com/mapbox/mapbox-android-demo) | A developer preview app showcasing the features of the Mapbox Maps SDK for Android. | `Java` | `BSD-2-Clause` | 722 | — |
