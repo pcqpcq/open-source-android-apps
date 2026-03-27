@@ -7,7 +7,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**A Photo Manager**](https://github.com/k3b/APhotoManager) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | `Java` | `GPL-3.0` | 239 | — |
-| [**ACEMusicPlayer**](https://github.com/C-Aniruddh/ACEMusicPlayer) | A simple, Material Design music player for the Android platform. | `Java` | `Apache-2.0` | 315 | — |
+| [**ACEMusicPlayer**](https://github.com/C-Aniruddh/ACEMusicPlayer) | A simple, Material Design music player for the Android platform. | `Java` | `Apache-2.0` | 314 | — |
 | [**ad-free**](https://github.com/abertschi/ad-free) | A proof-of-concept modular audio ad-blocker for Android. | `Kotlin` | `Apache-2.0` | 289 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/ch.abertschi.adfree) |
 | [**AnimeTaste**](https://github.com/daimajia/AnimeTaste) | An app for discovering and watching original animations from around the world. (Archived) | `Java` | `MIT` | 1.6k | — |
 | [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) | A powerful and flexible podcast manager for Android. | `Java` | `GPL-3.0` | 7.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) |
