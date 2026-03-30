@@ -29,7 +29,7 @@
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 37.7k |
 | [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | 36.7k |
 | [**Barcode Scanner (ZXing)**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | 33.9k |
-| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 29.1k |
+| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 29.2k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 28.8k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 28.6k |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 27.1k |
