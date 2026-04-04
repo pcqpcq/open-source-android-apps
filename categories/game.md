@@ -7,12 +7,12 @@ A curated list of open-source games for Android, perfect for developers and enth
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**2048-android**](https://github.com/uberspot/2048-android) | An offline-capable port of the classic 2048 puzzle game. | `Java` | `MIT` | 1.1k | — |
-| [**Anti-mine**](https://github.com/lucasnlm/antimine-android) | A modern, minimalist puzzle game inspired by Minesweeper. | `Kotlin` | `GPL-3.0` | 770 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.logical.minato) |
+| [**Anti-mine**](https://github.com/lucasnlm/antimine-android) | A modern, minimalist puzzle game inspired by Minesweeper. | `Kotlin` | `GPL-3.0` | 771 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.logical.minato) |
 | [**Bintris**](https://github.com/Lallassu/bintris) | A game that combines the mechanics of Tetris with binary numbers. | `Go` | `GPL-3.0` | 164 | — |
 | [**Blockinger**](https://github.com/vocollapse/Blockinger) | A classic Tetris clone with customizable controls. | `Java` | `GPL-3.0` | 221 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/game/org.blockinger.game) |
 | [**Brain Phaser**](https://github.com/ValentinFunk/BrainPhaser) | A Material Design quiz app with user management and stats. | `Java` | `GPL-3.0` | 117 | — |
 | [**cantstoptherock**](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game. | `Java` | `BSD-3-Clause` | 6 | — |
-| [**Chase Whisply**](https://github.com/tvbarthel/ChaseWhisplyProject) | An experimental augmented reality game. | `Java` | `Apache-2.0` | 551 | — |
+| [**Chase Whisply**](https://github.com/tvbarthel/ChaseWhisplyProject) | An experimental augmented reality game. | `Java` | `Apache-2.0` | 552 | — |
 | [**Clones Online**](https://github.com/lukedd3/ClonesOnline) | An online multiplayer board game for Android. | `Java` | `MIT` | 13 | — |
 | [**Cloud Cup**](https://github.com/google/cloud-cup-android) | A Firebase-powered multi-device game client. | `Java` | `Apache-2.0` | 51 | — |
 | [**destiny_game**](https://github.com/VedantAdka/destiny_game) | A choice-based adventure game with a dark-themed UI. | `C++` | `MIT` | 0 | — |
@@ -31,7 +31,7 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Open Flood**](https://github.com/GunshipPenguin/open_flood) | A simple but challenging flood-fill puzzle game. | `Java` | `MIT` | 145 | — |
 | [**Pie Noon**](https://github.com/google/pienoon) | A multiplayer party game where you throw pies at your friends. | `C++` | `Apache-2.0` | 440 | — |
 | [**Pixel Dungeon**](https://github.com/watabou/pixel-dungeon) | A traditional roguelike game with charming pixel-art graphics. | `Java` | `GPL-3.0` | 3.9k | — |
-| [**PokerTH**](https://github.com/pokerth/pokerth) | A C++/Qt-based poker game for Texas hold 'em. | `C++` | `AGPL-3.0` | 607 | — |
+| [**PokerTH**](https://github.com/pokerth/pokerth) | A C++/Qt-based poker game for Texas hold 'em. | `C++` | `AGPL-3.0` | 606 | — |
 | [**Shattered Pixel Dungeon**](https://github.com/00-Evan/shattered-pixel-dungeon) | A popular roguelike RPG, based on Pixel Dungeon, with frequent updates. | `Java` | `GPL-3.0` | 6.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) |
 | [**Simon Tatham's Puzzles**](https://github.com/chrisboyle/sgtpuzzles) | A collection of dozens of single-player logic puzzle games. | `C` | `MIT` | 700 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) |
 | [**Sleuth**](https://codeberg.org/BWPanda/sleuth) | A single-player logic puzzle game. | `GDScript` | `GPL-3.0` | N/A | [![Codeberg](https://img.shields.io/badge/Download-Codeberg-blue)](https://codeberg.org/BWPanda/sleuth/releases/latest) |
