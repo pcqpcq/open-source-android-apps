@@ -17,7 +17,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Awkward Ratings**](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies that might be awkward to watch with your parents. | `Java` | Not specified | 30 | — |
 | [**Bandhook-Kotlin**](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app written entirely in Kotlin to demonstrate its features. | `Kotlin` | `Apache-2.0` | 1.9k | — |
 | [**bilibili-android-client**](https://github.com/HotBitmapGG/bilibili-android-client) | An unofficial client for the Bilibili video sharing website. (Archived) | `Java` | `WTFPL` | 4.5k | — |
-| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 9.3k | — |
+| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | `Kotlin` | `GPL-3.0` | 9.4k | — |
 | [**Droided Media Tank**](https://github.com/vikingbrain/droidedmediatank) | A remote control app for Networked Media Tank (NMT) streamers. | `Java` | `Apache-2.0` | 7 | — |
 | [**Easy Sound Recorder**](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app with a Material Design interface. | `Java` | `GPL-3.0` | 1.5k | — |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | `Apache-2.0` | 21.9k | — |
@@ -30,7 +30,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Material Audiobook Player**](https://github.com/PaulWoitaschek/Voice) | A feature-rich audiobook player designed for Android. | `Kotlin` | `GPL-3.0` | 2.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) |
 | [**Material-Movies**](https://github.com/saulmm/Material-Movies) | A sample movie app demonstrating Material Design principles. (Archived) | `Java` | `Apache-2.0` | 2.4k | — |
 | [**MetroList**](https://github.com/mostafaalagamy/Metrolist) | A Material 3 Youtube client for android. | `Kotalin` | `GPL-3.0 license` | 4.5k |[![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/mostafaalagamy/Metrolist/releases) |
-| [**Mizuu**](https://github.com/MizzleDK/Mizuu) | A popular media indexer app for managing movie and TV show collections. (Archived) | `Java` | `Apache-2.0` | 869 | — |
+| [**Mizuu**](https://github.com/MizzleDK/Mizuu) | A popular media indexer app for managing movie and TV show collections. (Archived) | `Java` | `Apache-2.0` | 868 | — |
 | [**MovieGuide**](https://github.com/esoxjem/MovieGuide) | A sample movie app showcasing the MVP pattern, RxJava, and Dagger. | `Java` | `MIT` | 2.6k | — |
 | [**MPDroid**](https://github.com/abarisain/dmix) | A client for the Music Player Daemon (MPD) that supports streaming. | `Java` | `Apache-2.0` | 604 | — |
 | [**Music DNA**](https://github.com/harjot-oberai/MusicDNA) | A music player that renders a beautiful DNA-like visualization of the music. | `Java` | `Apache-2.0` | 2.9k | — |
