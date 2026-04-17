@@ -18,7 +18,7 @@ A curated list of open-source applications, watch faces, and operating systems f
 | [**Wear Notify for Reddit**](https://github.com/emmaguy/wear-notify-for-reddit) | Get Reddit notifications directly on your Wear OS device. | `Java` | `Apache-2.0` | 49 | — |
 | [**Wear Offline Notes**](https://github.com/soygabimoreno/Wear-Offline-Notes) | A simple offline note-taking application for Wear OS. | `Kotlin` | `Apache-2.0` | 8 | — |
 | [**Wearable Chess**](https://github.com/mitchazj/Wearable-Chess) | A functional chess game designed for Wear OS. (Archived) | `Java` | `MIT` | 7 | — |
-| [**WearSquare**](https://github.com/davidvavra/WearSquare) | Another client for Foursquare on Wear OS. (Archived) | `Java` | `Apache-2.0` | 66 | — |
+| [**WearSquare**](https://github.com/davidvavra/WearSquare) | Another client for Foursquare on Wear OS. (Archived) | `Java` | `Apache-2.0` | 65 | — |
 | [**WearTimer**](https://github.com/dkhmelenko/WearTimer) | An improved stopwatch and timer app for Wear OS. | `Java` | `Apache-2.0` | 5 | — |
 
 ---

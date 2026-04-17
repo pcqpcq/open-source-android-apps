@@ -23,13 +23,13 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**Idaily**](https://github.com/liuguangqiang/Idaily) | A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava. | `Java` | `Apache-2.0` | 569 | — |
 | [**ImportNew**](https://github.com/lzjun567/XiYuanFangApp) | The official Android app for the Chinese tech blog ImportNew.com. | `CSS` | `Apache-2.0` | 249 | — |
 | [**Jager**](https://github.com/JaspervanRiet/Jager) | An unofficial client for Product Hunt with a Material Design interface. (Archived) | `Java` | `GPL-3.0` | 75 | — |
-| [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 758 | — |
+| [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 757 | — |
 | [**kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept showcasing new trends in Android development. | `Kotlin` | `Apache-2.0` | 1.6k | — |
-| [**KuaiHu**](https://github.com/iKrelve/KuaiHu) | A third-party client for the popular Chinese news aggregator zhihu.com. | `Java` | `Apache-2.0` | 693 | — |
+| [**KuaiHu**](https://github.com/iKrelve/KuaiHu) | A third-party client for the popular Chinese news aggregator zhihu.com. | `Java` | `Apache-2.0` | 692 | — |
 | [**Leisure**](https://github.com/MummyDing/Leisure) | An app that aggregates content from Zhihu Daily, Guokr, and Douban Books. | `Java` | `LGPL-3.0` | 549 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://coolapk.com/apk/com.mummyding.app.leisure) |
 | [**Materialistic**](https://github.com/hidroh/materialistic) | A feature-rich, Material Design Hacker News reader. | `Java` | `Apache-2.0` | 2.3k | — |
 | [**Munch**](https://github.com/crazyhitty/Munch) | A minimalistic and easy-to-use RSS reader application. (Archived) | `Java` | `MIT` | 169 | — |
-| [**MVVM Hacker News**](https://github.com/hitherejoe/MVVM_Hacker_News) | An experimental Hacker News app using the MVVM pattern and Data Binding library. | `Java` | `Apache-2.0` | 883 | — |
+| [**MVVM Hacker News**](https://github.com/hitherejoe/MVVM_Hacker_News) | An experimental Hacker News app using the MVVM pattern and Data Binding library. | `Java` | `Apache-2.0` | 882 | — |
 | [**NEWS**](https://github.com/hemant3370/NEWS) | An app that fetches the latest news from popular channels. | `Java` | Not specified | 47 | — |
 | [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | `Kotlin` | `Apache-2.0` | 16.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fplay.google.com%2Fapps%2Ftesting%2Fio.plaidapp&dsh=S-298790019%3A1766373339116069&followup=https%3A%2F%2Fplay.google.com%2Fapps%2Ftesting%2Fio.plaidapp&ifkv=Ac2yZaVuDPMFZytKgrezQO49Z4e1y10abrWWPvpY7F0Zq8Ve0P-sM5lN2P9SzngFAmuHBBETrkFL&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin) |
 | [**Predator for ProductHunt**](https://github.com/crazyhitty/Capstone-Project) | A minimalistic client for Product Hunt to browse the latest products and collections. | `Java` | `MIT` | 57 | — |
@@ -45,7 +45,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**Yahnac**](https://github.com/malmstein/yahnac) | "Yet Another Hacker News Android Client." | `Java` | `Apache-2.0` | 633 | — |
 | [**ZhiHuDaily-React-Native**](https://github.com/race604/ZhiHuDaily-React-Native) | A Zhihu Daily client implemented using React Native for Android. | `JavaScript` | `MIT` | 3.7k | — |
 | [**ZhihuDailyKotlin**](https://github.com/happydog-intj/ZhihuDailyKotlin) | A clone of the Zhihu Daily app, written entirely in Kotlin. | `Kotlin` | `MIT` | 2 | — |
-| [**ZhuanLan**](https://github.com/bxbxbai/ZhuanLan) | A client for the "Zhuanlan" (Columns) section of the Zhihu platform. | `Java` | `Apache-2.0` | 726 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&_rand=1766373349014&sudaref=) |
+| [**ZhuanLan**](https://github.com/bxbxbai/ZhuanLan) | A client for the "Zhuanlan" (Columns) section of the Zhihu platform. | `Java` | `Apache-2.0` | 725 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36&_rand=1766373349014&sudaref=) |
 
 ---
 

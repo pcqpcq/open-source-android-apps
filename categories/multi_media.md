@@ -21,7 +21,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Droided Media Tank**](https://github.com/vikingbrain/droidedmediatank) | A remote control app for Networked Media Tank (NMT) streamers. | `Java` | `Apache-2.0` | 7 | — |
 | [**Easy Sound Recorder**](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app with a Material Design interface. | `Java` | `GPL-3.0` | 1.5k | — |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | `Apache-2.0` | 21.9k | — |
-| [**GEM**](https://github.com/SubstanceMobile/GEM) | A music player for Android with a stunning Material Design UI. (Archived) | `Java` | `Apache-2.0` | 276 | — |
+| [**GEM**](https://github.com/SubstanceMobile/GEM) | A music player for Android with a stunning Material Design UI. (Archived) | `Java` | `Apache-2.0` | 275 | — |
 | [**JamsMusicPlayer**](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful, and elegant music player for Android. (Archived) | `Java` | `Apache-2.0` | 1.1k | — |
 | [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) | The official Android client for the Jellyfin media server. | `Kotlin` | `GPL-2.0` | 2.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) |
 | [**Kafka for Internet Archive**](https://github.com/vipulyaara/Kafka) | A modern client for Internet Archive with a built-in reader and audio player. | `Kotlin` | `GPL-3.0` | 379 | — |
@@ -30,7 +30,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Material Audiobook Player**](https://github.com/PaulWoitaschek/Voice) | A feature-rich audiobook player designed for Android. | `Kotlin` | `GPL-3.0` | 2.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) |
 | [**Material-Movies**](https://github.com/saulmm/Material-Movies) | A sample movie app demonstrating Material Design principles. (Archived) | `Java` | `Apache-2.0` | 2.4k | — |
 | [**MetroList**](https://github.com/mostafaalagamy/Metrolist) | A Material 3 Youtube client for android. | `Kotalin` | `GPL-3.0 license` | 4.5k |[![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/mostafaalagamy/Metrolist/releases) |
-| [**Mizuu**](https://github.com/MizzleDK/Mizuu) | A popular media indexer app for managing movie and TV show collections. (Archived) | `Java` | `Apache-2.0` | 868 | — |
+| [**Mizuu**](https://github.com/MizzleDK/Mizuu) | A popular media indexer app for managing movie and TV show collections. (Archived) | `Java` | `Apache-2.0` | 867 | — |
 | [**MovieGuide**](https://github.com/esoxjem/MovieGuide) | A sample movie app showcasing the MVP pattern, RxJava, and Dagger. | `Java` | `MIT` | 2.6k | — |
 | [**MPDroid**](https://github.com/abarisain/dmix) | A client for the Music Player Daemon (MPD) that supports streaming. | `Java` | `Apache-2.0` | 604 | — |
 | [**Music DNA**](https://github.com/harjot-oberai/MusicDNA) | A music player that renders a beautiful DNA-like visualization of the music. | `Java` | `Apache-2.0` | 2.9k | — |
@@ -49,7 +49,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**spydroid-ipcamera**](https://github.com/fyhertz/spydroid-ipcamera) | An app that streams your phone's camera and microphone to a browser or VLC. | `Java` | `GPL-3.0` | 2.0k | — |
 | [**StickerCamera**](https://github.com/Skykai521/StickerCamera) | A camera application that allows you to add stickers to your photos. | `Java` | `Apache-2.0` | 3.2k | — |
 | [**Telecine**](https://github.com/JakeWharton/Telecine) | A simple app for recording full-resolution video of your device's screen. | `Java` | `Apache-2.0` | 2.5k | — |
-| [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.1k | — |
+| [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.0k | — |
 | [**Track My Shows**](https://github.com/chashmeetsingh/TrackMyShows) | A simple app for tracking your favorite TV shows. (Archived) | `Java` | `GPL-3.0` | 11 | — |
 | [**Twire**](https://github.com/Perflyst/Twire) | An open-source, ad-free Twitch browser and stream player for Android. | `Java` | `GPL-3.0` | 5 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.perflyst.twire) |
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | `Kotlin` | `Apache-2.0` | 13.2k | — |
