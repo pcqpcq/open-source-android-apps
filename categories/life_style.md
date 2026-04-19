@@ -13,7 +13,7 @@ A curated list of open-source lifestyle, hobby, and utility apps for Android. Th
 | [**Easy Photo Map**](https://github.com/hanjoongcho/aaf-easyphotomap) | Displays the location of photos on a map using their EXIF data. | `Kotlin` | `Apache-2.0` | 43 | — |
 | [**Groceries Store**](https://github.com/hieuwu/android-groceries-store) | An app that demonstrates an online grocery ordering system. | `Kotlin` | `MIT` | 275 | — |
 | [**Memento Namedays**](https://github.com/alexstyl/Memento-Calendar) | A beautifully designed calendar for tracking namedays. | `Java` | `MIT` | 211 | — |
-| [**Narrate**](https://github.com/timothymiko/narrate-android) | A small, simple, and elegant journaling application. (Archived) | `Java` | `Apache-2.0` | 230 | — |
+| [**Narrate**](https://github.com/ttl-tim/narrate-android) | A small, simple, and elegant journaling application. (Archived) | `Java` | `Apache-2.0` | 230 | — |
 | [**Reminder Pro**](https://github.com/FarshidRoohi/ReminderPro) | A reminder app with location, sound recording, and map features. | `Kotlin` | `Apache-2.0` | 35 | — |
 | [**Teapp**](https://github.com/marianpekar/teapp) | A personal database for tea enthusiasts with a timer and calculator. | `Kotlin` | `GPL-3.0` | 2 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/marianpekar/teapp) |
 | [**Wake You In Music**](https://github.com/CedrickFlocon/wakeyouinmusic) | An alarm clock app for Spotify or Deezer users. (Archived) | `Java` | `Apache-2.0` | 25 | — |
