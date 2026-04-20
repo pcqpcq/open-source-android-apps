@@ -34,7 +34,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**MovieGuide**](https://github.com/esoxjem/MovieGuide) | A sample movie app showcasing the MVP pattern, RxJava, and Dagger. | `Java` | `MIT` | 2.6k | — |
 | [**MPDroid**](https://github.com/abarisain/dmix) | A client for the Music Player Daemon (MPD) that supports streaming. | `Java` | `Apache-2.0` | 604 | — |
 | [**Music DNA**](https://github.com/harjot-oberai/MusicDNA) | A music player that renders a beautiful DNA-like visualization of the music. | `Java` | `Apache-2.0` | 2.9k | — |
-| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | `GPL-3.0` | 37.8k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/org.schabi.newpipe) |
+| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | `GPL-3.0` | 37.9k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/org.schabi.newpipe) |
 | [**NOVA Video Player**](https://github.com/nova-video-player/aos-AVP) | A video player for local/network content with subtitle/metadata support. | `HTML` | `Apache-2.0` | 4.4k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.courville.nova) |
 | [**Opengur**](https://github.com/Kennyc1012/Opengur) | An open-source Imgur client for Android. | `Java` | `GPL-3.0` | 324 | — |
 | [**PDF Creator**](https://github.com/Swati4star/Images-to-PDF) | A simple application to convert images into a single PDF file. | `Java` | `GPL-3.0` | 1.3k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/swati4star.createpdf) |
@@ -49,7 +49,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**spydroid-ipcamera**](https://github.com/fyhertz/spydroid-ipcamera) | An app that streams your phone's camera and microphone to a browser or VLC. | `Java` | `GPL-3.0` | 2.0k | — |
 | [**StickerCamera**](https://github.com/Skykai521/StickerCamera) | A camera application that allows you to add stickers to your photos. | `Java` | `Apache-2.0` | 3.2k | — |
 | [**Telecine**](https://github.com/JakeWharton/Telecine) | A simple app for recording full-resolution video of your device's screen. | `Java` | `Apache-2.0` | 2.5k | — |
-| [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.0k | — |
+| [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.1k | — |
 | [**Track My Shows**](https://github.com/chashmeetsingh/TrackMyShows) | A simple app for tracking your favorite TV shows. (Archived) | `Java` | `GPL-3.0` | 11 | — |
 | [**Twire**](https://github.com/Perflyst/Twire) | An open-source, ad-free Twitch browser and stream player for Android. | `Java` | `GPL-3.0` | 5 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.perflyst.twire) |
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | `Kotlin` | `Apache-2.0` | 13.2k | — |
