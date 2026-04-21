@@ -13,7 +13,7 @@ A curated list of open-source messengers, email clients, browsers, and other com
 | [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android) | An advanced, open-source email client for Android. | `Kotlin` | `Apache-2.0` | 13.4k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fsck.k9) |
 | [**KissProxy**](https://github.com/dawsonice/KissProxy) | An NIO-based local HTTP/HTTPS proxy for Android. (Archived) | `Java` | `Apache-2.0` | 121 | — |
 | [**Kontalk Messenger**](https://github.com/kontalk/androidclient) | The official Android client for the Kontalk instant messaging network. | `Java` | `GPL-3.0` | 579 | — |
-| [**KouChat**](https://github.com/blurpy/kouchat-android) | A serverless LAN chat application for local network communication. | `Java` | `GPL-3.0` | 93 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.usikkert.kouchat.android) |
+| [**KouChat**](https://github.com/blurpy/kouchat-android) | A serverless LAN chat application for local network communication. | `Java` | `GPL-3.0` | 94 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.usikkert.kouchat.android) |
 | [**MaterialQQLite**](https://github.com/wang4yu6peng13/MaterialQQLite) | A Material Design-style client for the QQ messaging service. (Archived) | `Java` | `Apache-2.0` | 128 | — |
 | [**Messaging (Odoo)**](https://github.com/Odoo-mobile/messaging) | The official mobile messaging client for the Odoo platform. | `Java` | `GPL-3.0` | 61 | — |
 | [**ProxyDroid**](https://github.com/madeye/proxydroid) | A global proxy application for Android devices. | `C` | `GPL-3.0` | 2.5k | — |
@@ -33,7 +33,7 @@ A curated list of open-source messengers, email clients, browsers, and other com
 | [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) | Transmits audio over a local WiFi network, acting like a walkie-talkie. | `Java` | `Apache-2.0` | 160 | — |
 | [**Wire**](https://github.com/wireapp/wire-android) | A secure messenger offering end-to-end encrypted communication. | `Kotlin` | `GPL-3.0` | 239 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.wire) |
 | [**Yaaic**](https://github.com/pocmo/Yaaic) | "Yet Another Android IRC Client" for connecting to IRC networks. (Archived) | `Java` | `GPL-3.0` | 335 | — |
-| [**Zulip**](https://github.com/zulip/zulip-android-legacy) | The official Android client for the powerful open-source group chat platform. | `Java` | `Apache-2.0` | 404 | — |
+| [**Zulip**](https://github.com/zulip/zulip-android-legacy) | The official Android client for the powerful open-source group chat platform. | `Java` | `Apache-2.0` | 403 | — |
 
 ---
 
