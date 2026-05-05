@@ -7,10 +7,10 @@ A curated list of open-source tools for note-taking, file management, task track
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**1List**](https://github.com/lolo-io/OneList) | A simple app to manage several to-do lists from a single screen. | `Kotlin` | `MIT` | 116 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.lolo.io.onelist) |
-| [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) | A beautiful and feature-rich Material Design file manager for Android. | `Kotlin` | `GPL-3.0` | 6.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amaze.filemanager) |
+| [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) | A beautiful and feature-rich Material Design file manager for Android. | `Kotlin` | `GPL-3.0` | 6.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amaze.filemanager) |
 | [**Bugzy**](https://github.com/cpunq/bugzy) | A production-ready Fogbugz client for Android, built with Jetpack components. | `Java` | `MIT` | 5 | — |
 | [**Carbon Contacts**](https://github.com/abhijith0505/CarbonContacts) | An app that lets users find and delete duplicate contacts. | `Java` | `MIT` | 23 | — |
-| [**Card Case**](https://github.com/blocoio/cardcase) | An app to exchange digital business cards with people nearby. (Archived) | `Java` | `GPL-3.0` | 141 | — |
+| [**Card Case**](https://github.com/blocoio/cardcase) | An app to exchange digital business cards with people nearby. (Archived) | `Java` | `GPL-3.0` | 140 | — |
 | [**Conquer**](https://github.com/hanks-zyh/Conquer) | A simple to-do list application based on Material Design. (Archived) | `Java` | `Apache-2.0` | 434 | — |
 | [**DevJournal**](https://github.com/alistairholmes/devjournal) | A journal for developers to jot down ideas, notes, to-dos, and bugs. | `Java` | `MIT` | 19 | — |
 | [**DeviceAnalyzer**](https://github.com/blurr-world/DeviceAnalyzer) | Provides detailed insights into your device's hardware specifications. | `Java` | `MIT` | 8 | — |
@@ -36,7 +36,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**OpenNoteScanner**](https://github.com/allgood/OpenNoteScanner) | An application for scanning and manipulating handwritten notes. | `Kotlin` | `Apache-2.0` | 1.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.todobom.opennotescanner) |
 | [**Outlay**](https://github.com/bmelnychuk/outlay) | A simple application to help you track your expenses. (Archived) | `Java` | `Apache-2.0` | 47 | — |
 | [**ownCloud**](https://github.com/owncloud/android) | The official Android client for the self-hosted ownCloud file sync platform. | `Kotlin` | `GPL-2.0` | 4.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.owncloud.android) |
-| [**PocketPal AI**](https://github.com/a-ghorbani/pocketpal-ai) | An on-device AI assistant powered by small language models (SLMs). | `TypeScript` | `MIT` | 6.8k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/a-ghorbani/pocketpal-ai) |
+| [**PocketPal AI**](https://github.com/a-ghorbani/pocketpal-ai) | An on-device AI assistant powered by small language models (SLMs). | `TypeScript` | `MIT` | 6.9k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/a-ghorbani/pocketpal-ai) |
 | [**Quill**](https://github.com/vickychijwani/quill) | A beautiful Android app for managing your Ghost blog. | `Java` | `MIT` | 547 | — |
 | [**Remindly**](https://github.com/blanyal/Remindly) | A simple and user-friendly application for creating reminders. | `Java` | `Apache-2.0` | 576 | — |
 | [**ShutUp!**](https://github.com/RitwickVerma/ShutUp) | An app to automatically silence your phone based on your calendar events. | `Java` | `GPL-3.0` | 20 | — |
