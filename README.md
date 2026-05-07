@@ -55,7 +55,7 @@
 | [💼 Business](categories/business.md) | Tools for business management and productivity. | 2 |
 | [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 31 |
 | [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 21 |
-| [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 11 |
+| [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 12 |
 | [🎮 Game](categories/game.md) | Open-source games for Android. | 37 |
 | [🏥 Health & Fitness](categories/health_fitness.md) | Wellness, tracking, and fitness apps. | 8 |
 | [🏠 LifeStyle](categories/life_style.md) | Apps for daily life and personal habits. | 11 |
