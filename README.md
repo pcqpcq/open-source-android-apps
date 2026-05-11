@@ -36,14 +36,14 @@
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.7k |
 | [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 19.2k |
-| [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information and documentation. | 18.7k |
+| [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information and documentation. | 18.8k |
 | [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 17.0k |
 | [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | 16.2k |
 | [**Organic Maps**](https://github.com/organicmaps/organicmaps) | A privacy-focused, offline maps app for travelers, tourists, hikers, and cyclists. | 13.9k |
-| [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android) | An advanced, open-source email client for Android. | 13.4k |
+| [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android) | An advanced, open-source email client for Android. | 13.5k |
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | 13.2k |
+| [**GitHub Store**](https://github.com/OpenHub-Store/GitHub-Store) | Github Store is a cross‑platform “play store” for GitHub releases. It discovers repositories that ship real installable binaries and lets you install, track, and update them across platforms from one place. | 12.9k |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 12.9k |
-| [**GitHub Store**](https://github.com/OpenHub-Store/GitHub-Store) | Github Store is a cross‑platform “play store” for GitHub releases. It discovers repositories that ship real installable binaries and lets you install, track, and update them across platforms from one place. | 12.8k |
 | [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 12.4k |
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 11.1k |
 ## 🗂️ Categories
