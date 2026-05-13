@@ -16,7 +16,7 @@ A curated list of open-source messengers, email clients, browsers, and other com
 | [**KouChat**](https://github.com/blurpy/kouchat-android) | A serverless LAN chat application for local network communication. | `Java` | `GPL-3.0` | 95 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.usikkert.kouchat.android) |
 | [**MaterialQQLite**](https://github.com/wang4yu6peng13/MaterialQQLite) | A Material Design-style client for the QQ messaging service. (Archived) | `Java` | `Apache-2.0` | 128 | — |
 | [**Messaging (Odoo)**](https://github.com/Odoo-mobile/messaging) | The official mobile messaging client for the Odoo platform. | `Java` | `GPL-3.0` | 61 | — |
-| [**ProxyDroid**](https://github.com/madeye/proxydroid) | A global proxy application for Android devices. | `C` | `GPL-3.0` | 2.5k | — |
+| [**ProxyDroid**](https://github.com/madeye/proxydroid) | A global proxy application for Android devices. | `Kotlin` | `GPL-3.0` | 2.5k | — |
 | [**QKSMS**](https://github.com/moezbhatti/qksms) | An open-source replacement for the stock Android messaging (SMS/MMS) app. | `Kotlin` | `GPL-3.0` | 4.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.moez.QKSMS) |
 | [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | `TypeScript` | `MIT` | 45.3k | — |
 | [**RTranslator**](https://github.com/niedev/RTranslator) | The world's first open-source simultaneous translation app. | `C++` | `Apache-2.0` | 9.9k | — |
