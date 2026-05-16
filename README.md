@@ -22,8 +22,8 @@
 ## 🚀 Hot Apps (Stars > 10k)
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
-| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 56.1k |
-| [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 54.9k |
+| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 56.2k |
+| [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 55.0k |
 | [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 54.8k |
 | [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 45.3k |
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 38.2k |
@@ -41,8 +41,8 @@
 | [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | 16.2k |
 | [**Organic Maps**](https://github.com/organicmaps/organicmaps) | A privacy-focused, offline maps app for travelers, tourists, hikers, and cyclists. | 14.0k |
 | [**Thunderbird for Android**](https://github.com/thunderbird/thunderbird-android) | The official mobile version of the Thunderbird email client (formerly K-9 Mail). | 13.5k |
+| [**GitHub Store**](https://github.com/OpenHub-Store/GitHub-Store) | Github Store is a cross‑platform “play store” for GitHub releases. It discovers repositories that ship real installable binaries and lets you install, track, and update them across platforms from one place. | 13.3k |
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | 13.2k |
-| [**GitHub Store**](https://github.com/OpenHub-Store/GitHub-Store) | Github Store is a cross‑platform “play store” for GitHub releases. It discovers repositories that ship real installable binaries and lets you install, track, and update them across platforms from one place. | 13.1k |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 12.9k |
 | [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 12.4k |
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 11.1k |
