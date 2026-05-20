@@ -6,7 +6,7 @@ A curated list of open-source tools for note-taking, file management, task track
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**1List**](https://github.com/lolo-io/OneList) | A simple app to manage several to-do lists from a single screen. | `Kotlin` | `MIT` | 116 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.lolo.io.onelist) |
+| [**1List**](https://github.com/lolo-io/OneList) | A simple app to manage several to-do lists from a single screen. | `Kotlin` | `MIT` | 117 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.lolo.io.onelist) |
 | [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) | A beautiful and feature-rich Material Design file manager for Android. | `Kotlin` | `GPL-3.0` | 6.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amaze.filemanager) |
 | [**Bugzy**](https://github.com/cpunq/bugzy) | A production-ready Fogbugz client for Android, built with Jetpack components. | `Java` | `MIT` | 5 | — |
 | [**Carbon Contacts**](https://github.com/abhijith0505/CarbonContacts) | An app that lets users find and delete duplicate contacts. | `Java` | `MIT` | 23 | — |
@@ -15,7 +15,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**DevJournal**](https://github.com/alistairholmes/devjournal) | A journal for developers to jot down ideas, notes, to-dos, and bugs. | `Java` | `MIT` | 19 | — |
 | [**DeviceAnalyzer**](https://github.com/blurr-world/DeviceAnalyzer) | Provides detailed insights into your device's hardware specifications. | `Java` | `MIT` | 8 | — |
 | [**EarthViewer**](https://github.com/PDDStudio/earthview-android) | A wallpaper application and showcase for the `earthview-android` library. | `Java` | `Apache-2.0` | 135 | — |
-| [**EverMemo**](https://github.com/daimajia/EverMemo) | A fast and simple memo app for recording, organizing, and sharing notes. | `Java` | `MIT` | 796 | — |
+| [**EverMemo**](https://github.com/daimajia/EverMemo) | A fast and simple memo app for recording, organizing, and sharing notes. | `Java` | `MIT` | 797 | — |
 | [**Habitica**](https://github.com/HabitRPG/habitica-android) | A habit tracker that gamifies your goals, treating them like an RPG. | `Kotlin` | `GPL-3.0` | 1.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica) |
 | [**Habito**](https://github.com/ivan-magda/Habito) | A simple habit tracker that uses Firebase Realtime Database. (Archived) | `Kotlin` | `MIT` | 79 | — |
 | [**InstaChat**](https://github.com/mohak1712/Insta-Chat) | A chat-head style app that lets you read and reply to messages from any screen. | `Java` | Not specified | 118 | — |
@@ -24,7 +24,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**LinkHub**](https://github.com/AmrDeveloper/LinkHub) | A simple and effective link management application. | `Kotlin` | `MIT` | 309 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amrdeveloper.linkhub) |
 | [**Linkora**](https://github.com/LinkoraApp/Linkora) | Link organizer for Android and desktop with self-hosted sync. | `Kotalin` | `MIT license` | 722 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.sakethh.linkora)|
 | [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | `Kotlin` | `GPL-3.0` | 9.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.isoron.uhabits) |
-| [**MarkNote**](https://github.com/Shouheng88/MarkNote) | A Material Design Markdown note-taking application for Android. | `Java` | `AGPL-3.0` | 912 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://www.coolapk.com/apk/178276) |
+| [**MarkNote**](https://github.com/Shouheng88/MarkNote) | A Material Design Markdown note-taking application for Android. | `Java` | `AGPL-3.0` | 913 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://www.coolapk.com/apk/178276) |
 | [**Memento**](https://github.com/yaa110/Memento) | A simple and elegant note-taking app. (Archived) | `Java` | Not specified | 258 | — |
 | [**Minimal-Todo**](https://github.com/avjinder/Minimal-Todo) | A fully Material Design To-Do app with just enough features to be useful. | `Java` | `MIT` | 2.2k | — |
 | [**Minitask**](https://github.com/luong-komorebi/Minitask) | A simple and lightweight to-do list and task management app. (Archived) | `Java` | `Apache-2.0` | 28 | — |
