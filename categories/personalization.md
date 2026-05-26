@@ -23,7 +23,7 @@ A curated list of open-source launchers, icon packs, wallpapers, and other tools
 | [**thumb-key**](https://github.com/dessalines/thumb-key) | A privacy-conscious keyboard designed for efficient two-thumb typing. | `Kotlin` | `AGPL-3.0` | 1.5k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.dessalines.thumbkey) |
 | [**WallpaperStore**](https://github.com/zzhoujay/WallpaperStore) | A wallpaper application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 120 | — |
 | [**wall-splash-android**](https://github.com/mikepenz/wallsplash-android) | An open-source Android client for the high-resolution photo service Unsplash.com. | `Java` | `Apache-2.0` | 785 | — |
-| [**Wally**](https://github.com/musenkishi/wally) | A fast and efficient open-source wallpaper application for Android. | `Java` | `Apache-2.0` | 959 | — |
+| [**Wally**](https://github.com/musenkishi/wally) | A fast and efficient open-source wallpaper application for Android. | `Java` | `Apache-2.0` | 958 | — |
 
 ---
 
