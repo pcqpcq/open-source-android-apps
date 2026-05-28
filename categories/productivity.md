@@ -11,7 +11,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Bugzy**](https://github.com/cpunq/bugzy) | A production-ready Fogbugz client for Android, built with Jetpack components. | `Java` | `MIT` | 5 | — |
 | [**Carbon Contacts**](https://github.com/abhijith0505/CarbonContacts) | An app that lets users find and delete duplicate contacts. | `Java` | `MIT` | 23 | — |
 | [**Card Case**](https://github.com/blocoio/cardcase) | An app to exchange digital business cards with people nearby. (Archived) | `Java` | `GPL-3.0` | 140 | — |
-| [**Conquer**](https://github.com/hanks-zyh/Conquer) | A simple to-do list application based on Material Design. (Archived) | `Java` | `Apache-2.0` | 434 | — |
+| [**Conquer**](https://github.com/hanks-zyh/Conquer) | A simple to-do list application based on Material Design. (Archived) | `Java` | `Apache-2.0` | 433 | — |
 | [**DevJournal**](https://github.com/alistairholmes/devjournal) | A journal for developers to jot down ideas, notes, to-dos, and bugs. | `Java` | `MIT` | 19 | — |
 | [**DeviceAnalyzer**](https://github.com/blurr-world/DeviceAnalyzer) | Provides detailed insights into your device's hardware specifications. | `Java` | `MIT` | 8 | — |
 | [**EarthViewer**](https://github.com/PDDStudio/earthview-android) | A wallpaper application and showcase for the `earthview-android` library. | `Java` | `Apache-2.0` | 135 | — |
@@ -44,7 +44,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | `TypeScript` | `MIT` | 19.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity) |
 | [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes) | A simple and elegant note-taking application, simplified for quick use. | `Java` | `Apache-2.0` | 134 | — |
 | [**Tasks**](https://github.com/tasks/tasks) | A CalDAV-based task management app for Android. | `Kotlin` | `GPL-3.0` | 5.3k | — |
-| [**Text Fairy**](https://github.com/renard314/textfairy) | An OCR app that converts images to text, which can then be edited or shared. | `C` | `Apache-2.0` | 822 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.renard.ocr) |
+| [**Text Fairy**](https://github.com/renard314/textfairy) | An OCR app that converts images to text, which can then be edited or shared. | `C` | `Apache-2.0` | 821 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.renard.ocr) |
 | [**Thunderbird for Android**](https://github.com/thunderbird/thunderbird-android) | The official mobile version of the Thunderbird email client (formerly K-9 Mail). | `Kotlin` | `Apache-2.0` | 13.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.thunderbird.android) |
 | [**todo.txt**](https://github.com/todotxt/todo.txt-android) | The official Android app for managing your `todo.txt` file via Dropbox. | `Java` | `GPL-3.0` | 1.2k | — |
 | [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 65 | — |

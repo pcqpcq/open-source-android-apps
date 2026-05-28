@@ -12,7 +12,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**AnimeTaste**](https://github.com/daimajia/AnimeTaste) | An app for discovering and watching original animations from around the world. (Archived) | `Java` | `MIT` | 1.6k | — |
 | [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) | A powerful and flexible podcast manager for Android. | `Java` | `GPL-3.0` | 7.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) |
 | [**Apollo**](https://github.com/CyanogenMod/android_packages_apps_Apollo) | The classic, highly customizable music player from CyanogenMod. (Archived) | `Java` | `Apache-2.0` | 261 | — |
-| [**Auro**](https://github.com/architjn/Auro) | A fast, modern, open-source music player for Android. | `Java` | `GPL-3.0` | 788 | — |
+| [**Auro**](https://github.com/architjn/Auro) | A fast, modern, open-source music player for Android. | `Java` | `GPL-3.0` | 787 | — |
 | [**Aves**](https://github.com/deckerst/aves) | A gallery and metadata explorer app built for Android with Flutter. | `Dart` | `BSD-3-Clause` | 4.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=deckers.thibault.aves) |
 | [**Awkward Ratings**](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies that might be awkward to watch with your parents. | `Java` | Not specified | 30 | — |
 | [**Bandhook-Kotlin**](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app written entirely in Kotlin to demonstrate its features. | `Kotlin` | `Apache-2.0` | 1.9k | — |
@@ -21,7 +21,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Droided Media Tank**](https://github.com/vikingbrain/droidedmediatank) | A remote control app for Networked Media Tank (NMT) streamers. | `Java` | `Apache-2.0` | 7 | — |
 | [**Easy Sound Recorder**](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app with a Material Design interface. | `Java` | `GPL-3.0` | 1.5k | — |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | `Apache-2.0` | 21.9k | — |
-| [**GEM**](https://github.com/SubstanceMobile/GEM) | A music player for Android with a stunning Material Design UI. (Archived) | `Java` | `Apache-2.0` | 275 | — |
+| [**GEM**](https://github.com/SubstanceMobile/GEM) | A music player for Android with a stunning Material Design UI. (Archived) | `Java` | `Apache-2.0` | 274 | — |
 | [**JamsMusicPlayer**](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful, and elegant music player for Android. (Archived) | `Java` | `Apache-2.0` | 1.1k | — |
 | [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) | The official Android client for the Jellyfin media server. | `Kotlin` | `GPL-2.0` | 2.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) |
 | [**Kafka for Internet Archive**](https://github.com/vipulyaara/Kafka) | A modern client for Internet Archive with a built-in reader and audio player. | `Kotlin` | `GPL-3.0` | 386 | — |
@@ -34,7 +34,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**MovieGuide**](https://github.com/esoxjem/MovieGuide) | A sample movie app showcasing the MVP pattern, RxJava, and Dagger. | `Java` | `MIT` | 2.6k | — |
 | [**MPDroid**](https://github.com/abarisain/dmix) | A client for the Music Player Daemon (MPD) that supports streaming. | `Java` | `Apache-2.0` | 604 | — |
 | [**Music DNA**](https://github.com/harjot-oberai/MusicDNA) | A music player that renders a beautiful DNA-like visualization of the music. | `Java` | `Apache-2.0` | 2.9k | — |
-| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | `GPL-3.0` | 38.3k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/org.schabi.newpipe) |
+| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | `GPL-3.0` | 38.4k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/org.schabi.newpipe) |
 | [**NOVA Video Player**](https://github.com/nova-video-player/aos-AVP) | A video player for local/network content with subtitle/metadata support. | `HTML` | `Apache-2.0` | 4.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.courville.nova) |
 | [**Opengur**](https://github.com/Kennyc1012/Opengur) | An open-source Imgur client for Android. | `Java` | `GPL-3.0` | 323 | — |
 | [**PDF Creator**](https://github.com/Swati4star/Images-to-PDF) | A simple application to convert images into a single PDF file. | `Java` | `GPL-3.0` | 1.3k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/swati4star.createpdf) |
