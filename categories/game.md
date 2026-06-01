@@ -12,7 +12,7 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Blockinger**](https://github.com/vocollapse/Blockinger) | A classic Tetris clone with customizable controls. | `Java` | `GPL-3.0` | 223 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/game/org.blockinger.game) |
 | [**Brain Phaser**](https://github.com/ValentinFunk/BrainPhaser) | A Material Design quiz app with user management and stats. | `Java` | `GPL-3.0` | 116 | — |
 | [**cantstoptherock**](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game. | `Java` | `BSD-3-Clause` | 6 | — |
-| [**Chase Whisply**](https://github.com/tvbarthel/ChaseWhisplyProject) | An experimental augmented reality game. | `Java` | `Apache-2.0` | 551 | — |
+| [**Chase Whisply**](https://github.com/tvbarthel/ChaseWhisplyProject) | An experimental augmented reality game. | `Java` | `Apache-2.0` | 550 | — |
 | [**Clones Online**](https://github.com/lukedd3/ClonesOnline) | An online multiplayer board game for Android. | `Java` | `MIT` | 13 | — |
 | [**Cloud Cup**](https://github.com/google/cloud-cup-android) | A Firebase-powered multi-device game client. | `Java` | `Apache-2.0` | 51 | — |
 | [**destiny_game**](https://github.com/VedantAdka/destiny_game) | A choice-based adventure game with a dark-themed UI. | `C++` | `MIT` | 0 | — |
@@ -23,15 +23,15 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 119 | — |
 | [**Gloomy Dungeons 3D**](https://github.com/restorer/gloomy-dungeons-3d) | An old-school, Wolfenstein-style 3D shooter. | `Java` | `MIT` | 71 | — |
 | [**Google Santa Tracker**](https://github.com/google/santa-tracker-android) | An educational and entertaining app for the Christmas holiday period. | `Java` | `Apache-2.0` | 2.1k | — |
-| [**Material Life**](https://github.com/juankysoriano/MaterialLife) | A Material Design styled implementation of Conway's Game of Life. | `Java` | `GPL-2.0` | 97 | — |
+| [**Material Life**](https://github.com/juankysoriano/MaterialLife) | A Material Design styled implementation of Conway's Game of Life. | `Java` | `GPL-2.0` | 96 | — |
 | [**Memory Game**](https://github.com/sromku/memory-game) | A simple and beautiful memory game designed for kids. | `Java` | `Apache-2.0` | 597 | — |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | `Java` | `GPL-3.0` | 27.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=io.anuke.mindustry) |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | `C++` | `LGPL-2.1` | 12.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.minetest.minetest) |
-| [**newplanegame**](https://github.com/nuptboyzhb/newplanegame) | A simple airplane game for Android. | `Java` | Not specified | 94 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.wandoujia.com/apps/edu.njupt.zhb.planegame) |
+| [**newplanegame**](https://github.com/nuptboyzhb/newplanegame) | A simple airplane game for Android. | `Java` | Not specified | 93 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.wandoujia.com/apps/edu.njupt.zhb.planegame) |
 | [**Open Flood**](https://github.com/GunshipPenguin/open_flood) | A simple but challenging flood-fill puzzle game. | `Java` | `MIT` | 145 | — |
-| [**Pie Noon**](https://github.com/google/pienoon) | A multiplayer party game where you throw pies at your friends. | `C++` | `Apache-2.0` | 440 | — |
+| [**Pie Noon**](https://github.com/google/pienoon) | A multiplayer party game where you throw pies at your friends. | `C++` | `Apache-2.0` | 439 | — |
 | [**Pixel Dungeon**](https://github.com/watabou/pixel-dungeon) | A traditional roguelike game with charming pixel-art graphics. | `Java` | `GPL-3.0` | 3.9k | — |
-| [**PokerTH**](https://github.com/pokerth/pokerth) | A C++/Qt-based poker game for Texas hold 'em. | `C++` | `AGPL-3.0` | 618 | — |
+| [**PokerTH**](https://github.com/pokerth/pokerth) | A C++/Qt-based poker game for Texas hold 'em. | `C++` | `AGPL-3.0` | 620 | — |
 | [**Shattered Pixel Dungeon**](https://github.com/00-Evan/shattered-pixel-dungeon) | A popular roguelike RPG, based on Pixel Dungeon, with frequent updates. | `Java` | `GPL-3.0` | 6.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) |
 | [**Simon Tatham's Puzzles**](https://github.com/chrisboyle/sgtpuzzles) | A collection of dozens of single-player logic puzzle games. | `C` | `MIT` | 719 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) |
 | [**Sleuth**](https://codeberg.org/BWPanda/sleuth) | A single-player logic puzzle game. | `GDScript` | `GPL-3.0` | N/A | [![Codeberg](https://img.shields.io/badge/Download-Codeberg-blue)](https://codeberg.org/BWPanda/sleuth/releases/latest) |
