@@ -6,7 +6,7 @@ A curated list of open-source tools for note-taking, file management, task track
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**1List**](https://github.com/lolo-io/OneList) | A simple app to manage several to-do lists from a single screen. | `Kotlin` | `MIT` | 116 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.lolo.io.onelist) |
+| [**1List**](https://github.com/lolo-io/OneList) | A simple app to manage several to-do lists from a single screen. | `Kotlin` | `MIT` | 115 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.lolo.io.onelist) |
 | [**Amaze File Manager**](https://github.com/TeamAmaze/AmazeFileManager) | A beautiful and feature-rich Material Design file manager for Android. | `Kotlin` | `GPL-3.0` | 6.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.amaze.filemanager) |
 | [**Bugzy**](https://github.com/cpunq/bugzy) | A production-ready Fogbugz client for Android, built with Jetpack components. | `Java` | `MIT` | 5 | — |
 | [**Carbon Contacts**](https://github.com/abhijith0505/CarbonContacts) | An app that lets users find and delete duplicate contacts. | `Java` | `MIT` | 23 | — |
@@ -45,7 +45,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Swiftnotes**](https://github.com/adrianchifor/Swiftnotes) | A simple and elegant note-taking application, simplified for quick use. | `Java` | `Apache-2.0` | 134 | — |
 | [**Tasks**](https://github.com/tasks/tasks) | A CalDAV-based task management app for Android. | `Kotlin` | `GPL-3.0` | 5.3k | — |
 | [**Text Fairy**](https://github.com/renard314/textfairy) | An OCR app that converts images to text, which can then be edited or shared. | `C` | `Apache-2.0` | 820 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.renard.ocr) |
-| [**Thunderbird for Android**](https://github.com/thunderbird/thunderbird-android) | The official mobile version of the Thunderbird email client (formerly K-9 Mail). | `Kotlin` | `Apache-2.0` | 13.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.thunderbird.android) |
+| [**Thunderbird for Android**](https://github.com/thunderbird/thunderbird-android) | The official mobile version of the Thunderbird email client (formerly K-9 Mail). | `Kotlin` | `Apache-2.0` | 13.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.thunderbird.android) |
 | [**todo.txt**](https://github.com/todotxt/todo.txt-android) | The official Android app for managing your `todo.txt` file via Dropbox. | `Java` | `GPL-3.0` | 1.2k | — |
 | [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 65 | — |
 | [**tudounotepad**](https://github.com/geminiwen/tudounotepad) | A simple Notepad application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 109 | — |
