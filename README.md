@@ -32,10 +32,10 @@
 | [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 30.4k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 29.3k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 28.9k |
-| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 27.7k |
+| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 27.8k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.7k |
-| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 19.8k |
+| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 19.9k |
 | [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information and documentation. | 18.8k |
 | [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 17.4k |
 | [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | 16.2k |
