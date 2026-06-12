@@ -20,12 +20,12 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Etheroll**](https://github.com/AndreMiras/EtherollApp) | A dice game that runs on the Ethereum blockchain. | `Python` | `MIT` | 56 | — |
 | [**friendspell**](https://github.com/chiuki/friendspell) | A party icebreaker game based on the Google Nearby API. | `Java` | `Apache-2.0` | 414 | — |
 | [**GameOfCards**](https://github.com/rohitramkumar308/GameOfCards) | A simple, rule-free card game. | `Java` | Not specified | 58 | — |
-| [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 118 | — |
-| [**Gloomy Dungeons 3D**](https://github.com/restorer/gloomy-dungeons-3d) | An old-school, Wolfenstein-style 3D shooter. | `Java` | `MIT` | 71 | — |
+| [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 119 | — |
+| [**Gloomy Dungeons 3D**](https://github.com/restorer/gloomy-dungeons-3d) | An old-school, Wolfenstein-style 3D shooter. | `Java` | `MIT` | 72 | — |
 | [**Google Santa Tracker**](https://github.com/google/santa-tracker-android) | An educational and entertaining app for the Christmas holiday period. | `Java` | `Apache-2.0` | 2.1k | — |
 | [**Material Life**](https://github.com/juankysoriano/MaterialLife) | A Material Design styled implementation of Conway's Game of Life. | `Java` | `GPL-2.0` | 96 | — |
 | [**Memory Game**](https://github.com/sromku/memory-game) | A simple and beautiful memory game designed for kids. | `Java` | `Apache-2.0` | 597 | — |
-| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | `Java` | `GPL-3.0` | 27.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=io.anuke.mindustry) |
+| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | `Java` | `GPL-3.0` | 27.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=io.anuke.mindustry) |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | `C++` | `LGPL-2.1` | 13.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.minetest.minetest) |
 | [**newplanegame**](https://github.com/nuptboyzhb/newplanegame) | A simple airplane game for Android. | `Java` | Not specified | 93 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.wandoujia.com/apps/edu.njupt.zhb.planegame) |
 | [**Open Flood**](https://github.com/GunshipPenguin/open_flood) | A simple but challenging flood-fill puzzle game. | `Java` | `MIT` | 145 | — |

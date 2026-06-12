@@ -15,7 +15,7 @@ A curated list of open-source health, wellness, and fitness apps for Android. Th
 | [**NightSight**](https://github.com/meghalagrawal/NightSight) | An app to decrease screen brightness below the system's minimum level. | `Java` | `Apache-2.0` | 24 | — |
 | [**Pedometer**](https://github.com/j4velin/Pedometer) | A lightweight pedometer app that uses the hardware step-sensor. | `Java` | `Apache-2.0` | 1.4k | — |
 | [**RunnerUp**](https://github.com/jonasoreland/runnerup) | An open-source run tracker for tracking fitness activities. | `Java` | `GPL-3.0` | 931 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.runnerup) |
-| [**trale**](https://github.com/QuantumPhysique/trale) | A simple and privacy-respecting body weight diary app built with Flutter. | `Dart` | `AGPL-3.0` | 178 | — |
+| [**trale**](https://github.com/QuantumPhysique/trale) | A simple and privacy-respecting body weight diary app built with Flutter. | `Dart` | `AGPL-3.0` | 179 | — |
 
 ---
 
