@@ -18,7 +18,7 @@ A curated list of open-source messengers, email clients, browsers, and other com
 | [**Messaging (Odoo)**](https://github.com/Odoo-mobile/messaging) | The official mobile messaging client for the Odoo platform. | `Java` | `GPL-3.0` | 62 | — |
 | [**ProxyDroid**](https://github.com/madeye/proxydroid) | A global proxy application for Android devices. | `Kotlin` | `GPL-3.0` | 2.5k | — |
 | [**QKSMS**](https://github.com/moezbhatti/qksms) | An open-source replacement for the stock Android messaging (SMS/MMS) app. | `Kotlin` | `GPL-3.0` | 4.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.moez.QKSMS) |
-| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | `TypeScript` | `MIT` | 45.4k | — |
+| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | `TypeScript` | `MIT` | 45.5k | — |
 | [**RTranslator**](https://github.com/niedev/RTranslator) | The world's first open-source simultaneous translation app. | `C++` | `Apache-2.0` | 10.1k | — |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | `Kotlin` | `AGPL-3.0` | 28.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) |
 | [**Silence**](https://github.com/SilenceIM/Silence) | A privacy-focused SMS/MMS application that uses end-to-end encryption. | `Java` | `GPL-3.0` | 1.1k | — |
