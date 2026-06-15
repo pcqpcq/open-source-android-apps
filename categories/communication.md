@@ -34,6 +34,7 @@ A curated list of open-source messengers, email clients, browsers, and other com
 | [**Wire**](https://github.com/wireapp/wire-android) | A secure messenger offering end-to-end encrypted communication. | `Kotlin` | `GPL-3.0` | 244 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.wire) |
 | [**Yaaic**](https://github.com/pocmo/Yaaic) | "Yet Another Android IRC Client" for connecting to IRC networks. (Archived) | `Java` | `GPL-3.0` | 336 | — |
 | [**Zulip**](https://github.com/zulip/zulip-android-legacy) | The official Android client for the powerful open-source group chat platform. | `Java` | `Apache-2.0` | 402 | — |
+| [**Crisis Connect**](https://github.com/emirhan-duman/Crisis-Connect) | An open-source, offline-first mesh messaging app over Bluetooth built with Kotlin and Jetpack Compose. | `Kotlin` | `AGPL-3.0` | 4 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.auralis.crisisconnect)|
 
 ---
 
