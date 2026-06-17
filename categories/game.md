@@ -7,12 +7,12 @@ A curated list of open-source games for Android, perfect for developers and enth
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**2048-android**](https://github.com/uberspot/2048-android) | An offline-capable port of the classic 2048 puzzle game. | `Java` | `MIT` | 1.1k | — |
-| [**Anti-mine**](https://github.com/lucasnlm/antimine-android) | A modern, minimalist puzzle game inspired by Minesweeper. | `Kotlin` | `GPL-3.0` | 774 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.logical.minato) |
+| [**Anti-mine**](https://github.com/lucasnlm/antimine-android) | A modern, minimalist puzzle game inspired by Minesweeper. | `Kotlin` | `GPL-3.0` | 776 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.logical.minato) |
 | [**Bintris**](https://github.com/Lallassu/bintris) | A game that combines the mechanics of Tetris with binary numbers. | `Go` | `GPL-3.0` | 164 | — |
 | [**Blockinger**](https://github.com/vocollapse/Blockinger) | A classic Tetris clone with customizable controls. | `Java` | `GPL-3.0` | 222 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/game/org.blockinger.game) |
 | [**Brain Phaser**](https://github.com/ValentinFunk/BrainPhaser) | A Material Design quiz app with user management and stats. | `Java` | `GPL-3.0` | 116 | — |
 | [**cantstoptherock**](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game. | `Java` | `BSD-3-Clause` | 6 | — |
-| [**Chase Whisply**](https://github.com/tvbarthel/ChaseWhisplyProject) | An experimental augmented reality game. | `Java` | `Apache-2.0` | 550 | — |
+| [**Chase Whisply**](https://github.com/tvbarthel/ChaseWhisplyProject) | An experimental augmented reality game. | `Java` | `Apache-2.0` | 549 | — |
 | [**Clones Online**](https://github.com/lukedd3/ClonesOnline) | An online multiplayer board game for Android. | `Java` | `MIT` | 13 | — |
 | [**Cloud Cup**](https://github.com/google/cloud-cup-android) | A Firebase-powered multi-device game client. | `Java` | `Apache-2.0` | 51 | — |
 | [**destiny_game**](https://github.com/VedantAdka/destiny_game) | A choice-based adventure game with a dark-themed UI. | `C++` | `MIT` | 0 | — |
