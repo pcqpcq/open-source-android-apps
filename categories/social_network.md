@@ -16,7 +16,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**Cotable**](https://github.com/wlemuel/Cotable) | A Material Design client for the Chinese blogging platform cnblogs.com. | `Java` | `Apache-2.0` | 37 | — |
 | [**Douya**](https://github.com/DreaminginCodeZH/Douya) | An Android client for the Chinese social network douban.com. | `Java` | `Apache-2.0` | 2.7k | — |
 | [**Dribbo**](https://github.com/ikew0ng/Dribbo) | A client for Dribbble to browse popular shots and debuts. (Archived) | `Java` | `Apache-2.0` | 626 | — |
-| [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 657 | — |
+| [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 656 | — |
 | [**FishChatAndroid**](https://github.com/oikomi/FishChatAndroid) | A chat application demonstrating modern Android development. | `Java` | Not specified | 64 | — |
 | [**ForkHub**](https://github.com/jonan/ForkHub) | A fork of the deprecated official GitHub Android app, which is still maintained. | `JavaScript` | `Apache-2.0` | 2.8k | — |
 | [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 317 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
