@@ -24,7 +24,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**GEM**](https://github.com/SubstanceMobile/GEM) | A music player for Android with a stunning Material Design UI. (Archived) | `Java` | `Apache-2.0` | 273 | — |
 | [**JamsMusicPlayer**](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful, and elegant music player for Android. (Archived) | `Java` | `Apache-2.0` | 1.1k | — |
 | [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) | The official Android client for the Jellyfin media server. | `Kotlin` | `GPL-2.0` | 2.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) |
-| [**Kafka for Internet Archive**](https://github.com/vipulyaara/Kafka) | A modern client for Internet Archive with a built-in reader and audio player. | `Kotlin` | `GPL-3.0` | 388 | — |
+| [**Kafka for Internet Archive**](https://github.com/vipulyaara/Kafka) | A modern client for Internet Archive with a built-in reader and audio player. | `Kotlin` | `GPL-3.0` | 386 | — |
 | [**L Camera**](https://github.com/PkmX/lcamera) | An experimental camera app using the Android Lollipop camera2 API. (Archived) | `Scala` | `GPL-3.0` | 1.3k | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/PkmX/lcamera) |
 | [**Last.fm**](https://github.com/lastfm/lastfm-android) | The official open-source Android app for the Last.fm music service. | `XSLT` | `GPL-3.0` | 188 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=fm.last.android) |
 | [**Material Audiobook Player**](https://github.com/PaulWoitaschek/Voice) | A feature-rich audiobook player designed for Android. | `Kotlin` | `GPL-3.0` | 3.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) |
@@ -54,7 +54,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Twire**](https://github.com/Perflyst/Twire) | An open-source, ad-free Twitch browser and stream player for Android. | `Java` | `GPL-3.0` | 5 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.perflyst.twire) |
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | `Kotlin` | `Apache-2.0` | 13.2k | — |
 | [**Vanilla Music**](https://github.com/vanilla-music/vanilla) | A clean, simple, and free open-source music player. | `Java` | `GPL-3.0` | 1.3k | — |
-| [**VLC for Android**](https://github.com/videolan/vlc-android) | The official port of the versatile, open-source VLC media player. | `Kotlin` | `GPL-2.0` | 3.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.videolan.vlc) |
+| [**VLC for Android**](https://github.com/videolan/vlc-android) | The official port of the versatile, open-source VLC media player. | `Kotlin` | `GPL-2.0` | 3.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.videolan.vlc) |
 | [**XimalayaKotlin**](https://github.com/gs666/XimalayaKotlin) | An unofficial client for Ximalaya FM written entirely in Kotlin. (Archived) | `Kotlin` | `MIT` | 181 | — |
 
 ---
