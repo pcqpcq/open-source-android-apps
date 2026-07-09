@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/pcqpcq/open-source-android-apps/stargazers"><img src="https://img.shields.io/github/stars/pcqpcq/open-source-android-apps?style=for-the-badge&color=gold" alt="GitHub stars"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/network/members"><img src="https://img.shields.io/github/forks/pcqpcq/open-source-android-apps?style=for-the-badge&color=blue" alt="GitHub forks"></a>
-  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-501-brightgreen?style=for-the-badge" alt="Total Apps"></a>
+  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-479-brightgreen?style=for-the-badge" alt="Total Apps"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/commits/master"><img src="https://img.shields.io/github/last-commit/pcqpcq/open-source-android-apps?style=for-the-badge" alt="GitHub last commit"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pcqpcq/open-source-android-apps?style=for-the-badge" alt="License"></a>
 </p>
@@ -55,19 +55,19 @@
 | :--- | :--- | :---: |
 | [📺 Android TV](categories/android_tv.md) | Applications optimized for Android TV. | 4 |
 | [⌚ Android Wear](categories/android_wear.md) | Applications for Android Wear/Wear OS. | 14 |
-| [💼 Business](categories/business.md) | Tools for business management and productivity. | 2 |
-| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 31 |
-| [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 21 |
-| [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 12 |
-| [🎮 Game](categories/game.md) | Open-source games for Android. | 37 |
-| [🏥 Health & Fitness](categories/health_fitness.md) | Wellness, tracking, and fitness apps. | 8 |
+| [💼 Business](categories/business.md) | Tools for business management and productivity. | 3 |
+| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 29 |
+| [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 20 |
+| [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 13 |
+| [🎮 Game](categories/game.md) | Open-source games for Android. | 35 |
+| [🏥 Health & Fitness](categories/health_fitness.md) | Wellness, tracking, and fitness apps. | 12 |
 | [🏠 LifeStyle](categories/life_style.md) | Apps for daily life and personal habits. | 11 |
-| [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 59 |
-| [📰 News & Magazines](categories/news_and_magazines.md) | RSS readers and news aggregators. | 37 |
+| [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 50 |
+| [📰 News & Magazines](categories/news_and_magazines.md) | RSS readers and news aggregators. | 40 |
 | [🎨 Personalization](categories/personalization.md) | Launchers, wallpapers, and UI tweaks. | 18 |
-| [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 47 |
-| [🌐 Social Network](categories/social_network.md) | Clients for popular social platforms. | 58 |
-| [🛠️ Tools](categories/tools.md) | Utilities, system tools, and keyboards. | 125 |
+| [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 46 |
+| [🌐 Social Network](categories/social_network.md) | Clients for popular social platforms. | 51 |
+| [🛠️ Tools](categories/tools.md) | Utilities, system tools, and keyboards. | 115 |
 | [🗺️ Travel & Local](categories/travel_and_local.md) | Maps, navigation, and travel guides. | 18 |
 
 # Contribution Rules
