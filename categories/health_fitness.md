@@ -7,11 +7,11 @@ A curated list of open-source health, wellness, and fitness apps for Android. Th
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**Aarogya Setu**](https://github.com/nic-delhi/AarogyaSetu_Android) | A contact tracing and self-assessment app from the Government of India. | `Java` | `Apache-2.0` | 2.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu) |
-| [**Android app to collect medical data**](https://github.com/Ana06/medical-data-android) | An app designed to collect data for medical analysis. | `Java` | `GPL-3.0` | 29 | — |
+| [**Android app to collect medical data**](https://github.com/Ana06/medical-data-android) | An app designed to collect data for medical analysis. | `Java` | `GPL-3.0` | 28 | — |
 | [**Android heart rate monitor**](https://github.com/phishman3579/android-heart-rate-monitor) | Uses the phone's camera and flash to determine heart rate. | `Java` | `Apache-2.0` | 474 | — |
 | [**fitPlant**](https://github.com/KrisKodira/fitPlant) | A fitness app where you grow virtual plants by tracking your exercise. | `Dart` | `MIT` | 32 | — |
 | [**Ishihara**](https://github.com/landtanin/Ishihara) | An application for testing color blindness using Ishihara plates. | `Java` | `MIT` | 3 | — |
-| [**OpenHearing**](https://github.com/HMAKT99/OpenHearing) | Checks your hearing, builds a personal per-ear sound profile, and amplifies quiet sound in real time on any earbuds. | `Kotlin` | `GPL-3.0` | 7 | — |
+| [**OpenHearing**](https://github.com/HMAKT99/OpenHearing) | Checks your hearing, builds a personal per-ear sound profile, and amplifies quiet sound in real time on any earbuds. | `Kotlin` | `GPL-3.0` | 8 | — |
 | [**OpenTracks**](https://github.com/OpenTracksApp/OpenTracks) | A privacy-focused sport tracking app that records GPS-based workouts without any data leaving your device. | `Java` | `Apache-2.0` | 1.4k | [![F-Droid](https://f-droid.org/badge/get-it-on.png)](https://f-droid.org/en/packages/de.dennisguse.opentracks) |
 | [**NightSight**](https://github.com/meghalagrawal/NightSight) | An app to decrease screen brightness below the system's minimum level. | `Java` | `Apache-2.0` | 24 | — |
 | [**Pedometer**](https://github.com/j4velin/Pedometer) | A lightweight pedometer app that uses the hardware step-sensor. | `Java` | `Apache-2.0` | 1.4k | — |
