@@ -1,38 +1,8 @@
 import os
 import re
 import sys
-import requests
 
-# Reuse logic from maintain_repo.py if possible, but for simplicity we'll define what we need
-GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
-HEADERS = {'Authorization': f'token {GITHUB_TOKEN}'} if GITHUB_TOKEN else {}
-
-def get_github_repo_info(url):
-    match = re.search(r'github\.com/([^/]+)/([^/]+)', url)
-    if not match:
-        return None
-    owner, repo = match.groups()
-    repo = repo.split('/')[0].split('.git')[0]
-    api_url = f'https://api.github.com/repos/{owner}/{repo}'
-    try:
-        response = requests.get(api_url, headers=HEADERS)
-        if response.status_code == 200:
-            data = response.json()
-            stars_count = data.get('stargazers_count', 0)
-            stars = f"{stars_count/1000:.1f}k" if stars_count >= 1000 else str(stars_count)
-            language = data.get('language') or 'Unknown'
-            license_info = data.get('license')
-            license_name = license_info.get('spdx_id') if license_info else 'Not specified'
-            return {
-                'stars': stars,
-                'language': language,
-                'license': license_name,
-                'url': data.get('html_url'),
-                'description': data.get('description', '')
-            }
-    except Exception as e:
-        print(f"Error fetching GitHub info: {e}")
-    return None
+from github_utils import get_github_repo_info
 
 def get_categories():
     categories_dir = 'categories'
@@ -83,13 +53,20 @@ def add_app(name=None, repo=None, store=None, desc=None, category=None):
 
     print(f"\nFetching repository info for {repo_url}...")
     info = get_github_repo_info(repo_url)
-    if not info:
-        print("Could not fetch GitHub info. Please check the URL.")
+    if not info or info.get('is_dead'):
+        print("Could not fetch GitHub info. The repository may not exist or is not a GitHub repo. Please check the URL.")
         return
 
     description = custom_desc if custom_desc else info['description']
     if not description:
         description = "No description provided."
+
+    # Language/license: keep backticks to match the table style used elsewhere.
+    # GitHub returns null license or 'NOASSERTION' when the license can't be mapped.
+    language = info['language'] or 'Unknown'
+    license_name = info['license']
+    if not license_name or license_name == 'NOASSERTION':
+        license_name = 'Not specified'
 
     # 3. Format Download Link
     download_val = "—"
@@ -103,7 +80,7 @@ def add_app(name=None, repo=None, store=None, desc=None, category=None):
 
     # 4. Create Table Row
     # | App Name | Description | Language | License | ⭐ Stars | Download |
-    new_row = f"| [**{app_name}**]({info['url']}) | {description} | `{info['language']}` | `{info['license']}` | {info['stars']} | {download_val} |"
+    new_row = f"| [**{app_name}**]({info['url']}) | {description} | `{language}` | `{license_name}` | {info['stars']} | {download_val} |"
 
     # 5. Insert into File
     with open(category_file, 'r', encoding='utf-8') as f:

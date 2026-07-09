@@ -8,7 +8,6 @@ on:
         required: True
         type: choice
         options:
-          - android_auto.md
           - android_tv.md
           - android_wear.md
           - business.md
@@ -52,24 +51,34 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install -r requirements.txt
 
+      # Pass inputs through env vars instead of interpolating them directly into
+      # the shell, to avoid command injection via crafted app names / URLs.
       - name: Run Add App Script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_CATEGORY: ${{ github.event.inputs.category }}
+          INPUT_NAME: ${{ github.event.inputs.app_name }}
+          INPUT_REPO: ${{ github.event.inputs.repo_url }}
+          INPUT_STORE: ${{ github.event.inputs.store_url }}
+          INPUT_DESC: ${{ github.event.inputs.custom_desc }}
         run: |
           python scripts/add_app.py \
-            --category "${{ github.event.inputs.category }}" \
-            --name "${{ github.event.inputs.app_name }}" \
-            --repo "${{ github.event.inputs.repo_url }}" \
-            --store "${{ github.event.inputs.store_url }}" \
-            --desc "${{ github.event.inputs.custom_desc }}"
+            --category "$INPUT_CATEGORY" \
+            --name "$INPUT_NAME" \
+            --repo "$INPUT_REPO" \
+            --store "$INPUT_STORE" \
+            --desc "$INPUT_DESC"
 
       - name: Commit and push changes
+        env:
+          INPUT_NAME: ${{ github.event.inputs.app_name }}
+          INPUT_CATEGORY: ${{ github.event.inputs.category }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "feat: add ${{ github.event.inputs.app_name }} to ${{ github.event.inputs.category }}"
+          git commit -m "feat: add $INPUT_NAME to $INPUT_CATEGORY"
           git pull --rebase origin master
           git push
