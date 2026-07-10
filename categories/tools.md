@@ -106,7 +106,7 @@ A curated list of open-source utilities, file managers, system tools, and other 
 | [**Telecine**](https://github.com/JakeWharton/Telecine) | A simple app for recording full-resolution video of your device's screen. | `Java` | `Apache-2.0` | 2.4k | — |
 | [**Terminal Emulator**](https://github.com/jackpal/Android-Terminal-Emulator) | A classic VT-100 terminal emulator for the Android OS. | `Java` | `Apache-2.0` | 3.2k | — |
 | [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | `Java` | `GPL-3.0` | 57.4k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.termux) |
-| [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 63 | — |
+| [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 64 | — |
 | [**ToolWizAppLock**](https://github.com/Toolwiz/ToolWizAppLock) | A smart app lock utility for Android. | `Java` | `Apache-2.0` | 501 | — |
 | [**TrackerControl**](https://github.com/TrackerControl/tracker-control-android) | An app to monitor and control hidden data collection (tracking) in other apps. | `Java` | `GPL-3.0` | 2.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play) |
 | [**translate-bubble-android**](https://github.com/xebia-functional/translate-bubble-android) | A floating translation bubble that works without interrupting your workflow. | `Scala` | `Apache-2.0` | 280 | — |
