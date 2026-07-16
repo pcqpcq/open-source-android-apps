@@ -6,14 +6,14 @@ A curated list of open-source players, galleries, clients, and other multi-media
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**A Photo Manager**](https://github.com/k3b/APhotoManager) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | `Java` | `GPL-3.0` | 241 | — |
+| [**A Photo Manager**](https://github.com/k3b/APhotoManager) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | `Java` | `GPL-3.0` | 242 | — |
 | [**ACEMusicPlayer**](https://github.com/C-Aniruddh/ACEMusicPlayer) | A simple, Material Design music player for the Android platform. | `Java` | `Apache-2.0` | 312 | — |
 | [**ad-free**](https://github.com/abertschi/ad-free) | A proof-of-concept modular audio ad-blocker for Android. | `Kotlin` | `Apache-2.0` | 294 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/ch.abertschi.adfree) |
 | [**AnimeTaste**](https://github.com/daimajia/AnimeTaste) | An app for discovering and watching original animations from around the world. (Archived) | `Java` | `MIT` | 1.6k | — |
 | [**AntennaPod**](https://github.com/AntennaPod/AntennaPod) | A powerful and flexible podcast manager for Android. | `Java` | `GPL-3.0` | 8.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) |
 | [**Apollo**](https://github.com/CyanogenMod/android_packages_apps_Apollo) | The classic, highly customizable music player from CyanogenMod. (Archived) | `Java` | `Apache-2.0` | 261 | — |
 | [**Auro**](https://github.com/architjn/Auro) | A fast, modern, open-source music player for Android. | `Java` | `GPL-3.0` | 785 | — |
-| [**Aves**](https://github.com/deckerst/aves) | A gallery and metadata explorer app built for Android with Flutter. | `Dart` | `BSD-3-Clause` | 4.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=deckers.thibault.aves) |
+| [**Aves**](https://github.com/deckerst/aves) | A gallery and metadata explorer app built for Android with Flutter. | `Dart` | `BSD-3-Clause` | 5.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=deckers.thibault.aves) |
 | [**Awkward Ratings**](https://github.com/nasahapps/AwkwardRatings-Android) | Shows a list of movies that might be awkward to watch with your parents. | `Java` | Not specified | 30 | — |
 | [**Bandhook-Kotlin**](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app written entirely in Kotlin to demonstrate its features. | `Kotlin` | `Apache-2.0` | 1.9k | — |
 | [**bilibili-android-client**](https://github.com/HotBitmapGG/bilibili-android-client) | An unofficial client for the Bilibili video sharing website. (Archived) | `Java` | `WTFPL` | 4.5k | — |
