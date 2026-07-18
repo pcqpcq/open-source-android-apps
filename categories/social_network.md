@@ -23,7 +23,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**GitHub Visualizer**](https://github.com/dheerajkotwani/GithubVisualizer) | A GitHub client using the official API and Material UI components. | `Kotlin` | `MIT` | 120 | — |
 | [**GitPoint**](https://github.com/gitpoint/git-point) | A GitHub client with a minimal and beautiful user interface, built with React Native. | `JavaScript` | `MIT` | 4.8k | — |
 | [**Gitskarios**](https://github.com/gitskarios/Gitskarios) | A popular and feature-rich GitHub client for Android. | `Java` | `MIT` | 525 | — |
-| [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | `Kotlin` | `Apache-2.0` | 21.7k | — |
+| [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | `Kotlin` | `Apache-2.0` | 21.6k | — |
 | [**GSD Mobile**](https://github.com/rgocal/GSD_Mobile) | The official app for the GSD (Get Shit Done) website, using RSS and JSON. | `Java` | `Apache-2.0` | 11 | — |
 | [**Gunnner**](https://github.com/egor-n/gunnner) | A Dribbble client for Android with a clean, material design. (Archived) | `Java` | `Apache-2.0` | 59 | — |
 | [**Helping Hands**](https://github.com/JerrySJoseph/Helping_Hands_Android_client) | An app to find and connect with nearby social service volunteers. | `Java` | Not specified | 3 | — |
