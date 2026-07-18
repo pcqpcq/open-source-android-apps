@@ -17,6 +17,7 @@ A curated list of open-source lifestyle, hobby, and utility apps for Android. Th
 | [**Reminder Pro**](https://github.com/FarshidRoohi/ReminderPro) | A reminder app with location, sound recording, and map features. | `Kotlin` | `Apache-2.0` | 36 | — |
 | [**Teapp**](https://github.com/marianpekar/teapp) | A personal database for tea enthusiasts with a timer and calculator. | `Kotlin` | `GPL-3.0` | 2 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/marianpekar/teapp) |
 | [**Wake You In Music**](https://github.com/CedrickFlocon/wakeyouinmusic) | An alarm clock app for Spotify or Deezer users. (Archived) | `Java` | `Apache-2.0` | 25 | — |
+| [**WonderFood**](https://github.com/vaddisrinivas/wonderfood) | Local-first food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals. | `Kotlin` | `Apache-2.0` | 0 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/vaddisrinivas/wonderfood/releases) |
 
 ---
 
