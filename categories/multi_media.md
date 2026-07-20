@@ -1,8 +1,11 @@
 # Multi-Media Apps
 
+
 A curated list of open-source players, galleries, clients, and other multi-media tools for Android. The list is sorted alphabetically.
 
+
 ---
+
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
@@ -22,6 +25,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Easy Sound Recorder**](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app with a Material Design interface. | `Java` | `GPL-3.0` | 1.5k | — |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | `Apache-2.0` | 21.9k | — |
 | [**GEM**](https://github.com/SubstanceMobile/GEM) | A music player for Android with a stunning Material Design UI. (Archived) | `Java` | `Apache-2.0` | 273 | — |
+| [**HeliosCam Pro**](https://github.com/pabasaraf79/HeliosCam) | Open-source Android cinema camera app with RAW video, Log recording, manual controls and film emulation. Free, no ads; RAW/film emulation unlock via one-time purchase. | `Kotlin` | `MIT` | — | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.helioscam.app) |
 | [**JamsMusicPlayer**](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful, and elegant music player for Android. (Archived) | `Java` | `Apache-2.0` | 1.1k | — |
 | [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) | The official Android client for the Jellyfin media server. | `Kotlin` | `GPL-2.0` | 2.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) |
 | [**Kafka for Internet Archive**](https://github.com/vipulyaara/Kafka) | A modern client for Internet Archive with a built-in reader and audio player. | `Kotlin` | `GPL-3.0` | 388 | — |
@@ -38,26 +42,3 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**NOVA Video Player**](https://github.com/nova-video-player/aos-AVP) | A video player for local/network content with subtitle/metadata support. | `HTML` | `Apache-2.0` | 4.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.courville.nova) |
 | [**Opengur**](https://github.com/Kennyc1012/Opengur) | An open-source Imgur client for Android. | `Java` | `GPL-3.0` | 323 | — |
 | [**PDF Creator**](https://github.com/Swati4star/Images-to-PDF) | A simple application to convert images into a single PDF file. | `Java` | `GPL-3.0` | 1.3k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/swati4star.createpdf) |
-| [**Phonograph**](https://github.com/karimknaebel/Phonograph) | A beautiful and clean Material Design music player for Android. | `Java` | `GPL-3.0` | 2.7k | — |
-| [**Podverse**](https://github.com/podverse/podverse-rn) | A feature-rich, cross-platform podcast app with a focus on clip sharing. | `TypeScript` | `AGPL-3.0` | 282 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.podverse) |
-| [**QuickNovel**](https://github.com/LagradOst/QuickNovel) | An ad-free, FOSS app for downloading novels and reading them as Epubs. | `Kotlin` | `GPL-3.0` | 1.7k | — |
-| [**Retro Music Player**](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | A beautiful, customizable music player that follows Material You design. | `Kotlin` | `GPL-3.0` | 5.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) |
-| [**SeriesGuide**](https://github.com/UweTrottmann/SeriesGuide) | Helps you manage and track your favorite TV shows and movies. | `Kotlin` | `Apache-2.0` | 2.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide) |
-| [**Showly**](https://github.com/trakt/showly) | A modern, slick, open-source TV show tracker for Android. | `Kotlin` | `GPL-3.0` | 1.4k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2) |
-| [**Shuttle**](https://github.com/timusus/Shuttle) | A simple, lightweight, and intuitive local music player for Android. | `Java` | `GPL-3.0` | 2.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=another.music.player) |
-| [**SoundSpice**](https://github.com/farshed/SoundSpice-mobile) | A lightweight and minimalist music player for Android. | `JavaScript` | `GPL-3.0` | 427 | — |
-| [**spydroid-ipcamera**](https://github.com/fyhertz/spydroid-ipcamera) | An app that streams your phone's camera and microphone to a browser or VLC. | `Java` | `GPL-3.0` | 2.0k | — |
-| [**StickerCamera**](https://github.com/Skykai521/StickerCamera) | A camera application that allows you to add stickers to your photos. | `Java` | `Apache-2.0` | 3.2k | — |
-| [**Telecine**](https://github.com/JakeWharton/Telecine) | A simple app for recording full-resolution video of your device's screen. | `Java` | `Apache-2.0` | 2.4k | — |
-| [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.0k | — |
-| [**Track My Shows**](https://github.com/chashmeetsingh/TrackMyShows) | A simple app for tracking your favorite TV shows. (Archived) | `Java` | `GPL-3.0` | 11 | — |
-| [**Twire**](https://github.com/Perflyst/Twire) | An open-source, ad-free Twitch browser and stream player for Android. | `Java` | `GPL-3.0` | 5 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.perflyst.twire) |
-| [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | `Kotlin` | `Apache-2.0` | 13.2k | — |
-| [**Vanilla Music**](https://github.com/vanilla-music/vanilla) | A clean, simple, and free open-source music player. | `Java` | `GPL-3.0` | 1.3k | — |
-| [**VLC for Android**](https://github.com/videolan/vlc-android) | The official port of the versatile, open-source VLC media player. | `Kotlin` | `GPL-2.0` | 3.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.videolan.vlc) |
-| [**XimalayaKotlin**](https://github.com/gs666/XimalayaKotlin) | An unofficial client for Ximalaya FM written entirely in Kotlin. (Archived) | `Kotlin` | `MIT` | 181 | — |
-
----
-
-### How to Contribute
-Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!
