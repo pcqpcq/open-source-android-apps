@@ -67,7 +67,7 @@
 | [🎨 Personalization](categories/personalization.md) | Launchers, wallpapers, and UI tweaks. | 18 |
 | [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 46 |
 | [🌐 Social Network](categories/social_network.md) | Clients for popular social platforms. | 51 |
-| [🛠️ Tools](categories/tools.md) | Utilities, system tools, and keyboards. | 116 |
+| [🛠️ Tools](categories/tools.md) | Utilities, system tools, and keyboards. | 117 |
 | [🗺️ Travel & Local](categories/travel_and_local.md) | Maps, navigation, and travel guides. | 18 |
 
 # Contribution Rules
