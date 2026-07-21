@@ -7,7 +7,7 @@ A curated list of open-source lifestyle, hobby, and utility apps for Android. Th
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**Banya**](https://github.com/forezp/banya) | A client for the Douban API with a UI inspired by NetEase Music. | `Java` | `Apache-2.0` | 929 | — |
-| [**Birday**](https://github.com/m-i-n-a-r/birday) | A beautiful and helpful birthday calendar and reminder app. | `Kotlin` | `GPL-3.0` | 1.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.minar.birday) [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.minar.birday) |
+| [**Birday**](https://github.com/m-i-n-a-r/birday) | A beautiful and helpful birthday calendar and reminder app. | `Kotlin` | `GPL-3.0` | 1.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.minar.birday) [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.minar.birday) |
 | [**COVID Diary**](https://github.com/apozas/contactdiary) | Helps you keep a private log of people you have recently been with. | `Kotlin` | `GPL-3.0` | 47 | — |
 | [**Easy Diary**](https://github.com/hanjoongcho/aaf-easydiary) | A simple diary application optimized for a great user experience. | `Kotlin` | `GPL-3.0` | 554 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary) |
 | [**Easy Photo Map**](https://github.com/hanjoongcho/aaf-easyphotomap) | Displays the location of photos on a map using their EXIF data. | `Kotlin` | `Apache-2.0` | 43 | — |
@@ -17,7 +17,7 @@ A curated list of open-source lifestyle, hobby, and utility apps for Android. Th
 | [**Reminder Pro**](https://github.com/FarshidRoohi/ReminderPro) | A reminder app with location, sound recording, and map features. | `Kotlin` | `Apache-2.0` | 36 | — |
 | [**Teapp**](https://github.com/marianpekar/teapp) | A personal database for tea enthusiasts with a timer and calculator. | `Kotlin` | `GPL-3.0` | 2 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/marianpekar/teapp) |
 | [**Wake You In Music**](https://github.com/CedrickFlocon/wakeyouinmusic) | An alarm clock app for Spotify or Deezer users. (Archived) | `Java` | `Apache-2.0` | 25 | — |
-| [**WonderFood**](https://github.com/vaddisrinivas/wonderfood) | Local-first food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals. | `Kotlin` | `Apache-2.0` | 0 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/vaddisrinivas/wonderfood/releases) |
+| [**WonderFood**](https://github.com/vaddisrinivas/wonderfood) | Local-first food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals. | `Kotlin` | `Apache-2.0` | 0 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/vaddisrinivas/wonderfood) |
 
 ---
 

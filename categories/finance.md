@@ -6,12 +6,12 @@ A curated list of open-source applications for finance management, expense track
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**BeeCount**](https://github.com/TNT-Likely/BeeCount) | A privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. | `Dart` | Custom | 1.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.tntlikely.beecount) |
+| [**BeeCount**](https://github.com/TNT-Likely/BeeCount) | A privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design. | `Dart` | Custom | 2.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.tntlikely.beecount) |
 | [**bitcoin-wallet**](https://github.com/schildbach/bitcoin-wallet) | A standalone Bitcoin Wallet app for Android with no centralized backend. | `Java` | `GPL-3.0` | 37 | — |
 | [**Bither**](https://github.com/bither/bither-android) | A simple and secure Bitcoin wallet for Android. | `Java` | `Apache-2.0` | 457 | — |
 | [**CoCoin**](https://github.com/Nightonke/CoCoin) | A multi-view accounting and expense tracking application. | `Java` | `Apache-2.0` | 2.8k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Nightonke/CoCoin) |
 | [**Coins**](https://github.com/soffes/coins-android) | A simple app to check the value of your Bitcoins. (Archived) | `Java` | `MIT` | 30 | — |
-| [**Financius**](https://github.com/mvarnagiris/financius) | A simple application to log and track your expenses and balance. | `Java` | `GPL-2.0` | 625 | — |
+| [**Financius**](https://github.com/mvarnagiris/financius) | A simple application to log and track your expenses and balance. | `Java` | `GPL-2.0` | 626 | — |
 | [**GnuCash**](https://github.com/codinguser/gnucash-android) | The official mobile companion app for GnuCash desktop. | `Java` | `Apache-2.0` | 1.3k | — |
 | [**Kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept for Android built with Material Design. | `Kotlin` | `Apache-2.0` | 1.6k | — |
 | [**Kripto**](https://github.com/sauravrao637/Kripto) | A cryptocurrency tracking app that uses the CoinGecko API. | `Kotlin` | `GPL-3.0` | 16 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/sauravrao637/Kripto) |
