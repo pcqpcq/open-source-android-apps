@@ -20,7 +20,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**HackerNews-React-Native**](https://github.com/iSimar/HackerNews-React-Native) | A Hacker News client for iOS and Android, built with React Native. | `JavaScript` | `MIT` | 3.7k | — |
 | [**Hex for Hacker News**](https://github.com/longdivision/hex) | A snappy and fun Hacker News app with a focus on design. (Archived) | `Java` | `Apache-2.0` | 29 | — |
 | [**Hummingbird**](https://github.com/xiprox/Hummingbird-for-Android) | A modern client for the anime tracking website Hummingbird.me (now Kitsu). | `Java` | `GPL-3.0` | 62 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/xiprox/Hummingbird-for-Android) |
-| [**Idaily**](https://github.com/liuguangqiang/Idaily) | A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava. | `Java` | `Apache-2.0` | 568 | — |
+| [**Idaily**](https://github.com/liuguangqiang/Idaily) | A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava. | `Java` | `Apache-2.0` | 567 | — |
 | [**ImportNew**](https://github.com/lzjun567/XiYuanFangApp) | The official Android app for the Chinese tech blog ImportNew.com. | `CSS` | `Apache-2.0` | 249 | — |
 | [**Jager**](https://github.com/JaspervanRiet/Jager) | An unofficial client for Product Hunt with a Material Design interface. (Archived) | `Java` | `GPL-3.0` | 74 | — |
 | [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 757 | — |
@@ -29,7 +29,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**Leisure**](https://github.com/MummyDing/Leisure) | An app that aggregates content from Zhihu Daily, Guokr, and Douban Books. | `Java` | `LGPL-3.0` | 546 | — |
 | [**Materialistic**](https://github.com/hidroh/materialistic) | A feature-rich, Material Design Hacker News reader. | `Java` | `Apache-2.0` | 2.3k | — |
 | [**Munch**](https://github.com/crazyhitty/Munch) | A minimalistic and easy-to-use RSS reader application. (Archived) | `Java` | `MIT` | 162 | — |
-| [**MVVM Hacker News**](https://github.com/hitherejoe/MVVM_Hacker_News) | An experimental Hacker News app using the MVVM pattern and Data Binding library. | `Java` | `Apache-2.0` | 877 | — |
+| [**MVVM Hacker News**](https://github.com/hitherejoe/MVVM_Hacker_News) | An experimental Hacker News app using the MVVM pattern and Data Binding library. | `Java` | `Apache-2.0` | 876 | — |
 | [**NEWS**](https://github.com/hemant3370/NEWS) | An app that fetches the latest news from popular channels. | `Java` | Not specified | 47 | — |
 | [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | `Kotlin` | `Apache-2.0` | 16.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fplay.google.com%2Fapps%2Ftesting%2Fio.plaidapp&dsh=S-298790019%3A1766373339116069&followup=https%3A%2F%2Fplay.google.com%2Fapps%2Ftesting%2Fio.plaidapp&ifkv=Ac2yZaVuDPMFZytKgrezQO49Z4e1y10abrWWPvpY7F0Zq8Ve0P-sM5lN2P9SzngFAmuHBBETrkFL&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin) |
 | [**Predator for ProductHunt**](https://github.com/crazyhitty/Capstone-Project) | A minimalistic client for Product Hunt to browse the latest products and collections. | `Java` | `MIT` | 57 | — |
