@@ -124,6 +124,7 @@ A curated list of open-source utilities, file managers, system tools, and other 
 | [**Work Tracker**](https://github.com/parmstrong842/WorkTracker) | A simple app to keep a log of the hours you have worked. | `Kotlin` | `Apache-2.0` | 17 | — |
 | [**Xsocks**](https://github.com/lparam/xSocks-android) | A secure and fast proxy to protect your network traffic. | `C` | `GPL-3.0` | 85 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/lparam/xsocks-android) |
 | [**XWriter**](https://github.com/Abir-Tx/XWriter) | An app for printing text as many times as needed and copying to the clipboard. | `Java` | `GPL-3.0` | 3 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/Abir-Tx/XWriter) |
+| [**ZigDash**](https://gitlab.com/tamamg/zigdash) | A Material 3 MQTT dashboard built for Zigbee2MQTT smart homes, with automatic device discovery. | `Dart` | `MIT` | — | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.giladtamam.zigdash) |
 
 ---
 
