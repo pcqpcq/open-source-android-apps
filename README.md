@@ -22,16 +22,16 @@
 ## 🚀 Hot Apps (Stars > 10k)
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
-| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 60.6k |
+| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 60.7k |
 | [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 58.7k |
 | [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 55.8k |
 | [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 45.9k |
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 39.2k |
 | [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | 36.8k |
 | [**Barcode Scanner (ZXing)**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | 34.1k |
-| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 31.7k |
+| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 31.8k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 29.7k |
-| [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 29.1k |
+| [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 29.2k |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 28.5k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.6k |
@@ -46,8 +46,8 @@
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | 13.2k |
 | [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 12.8k |
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 11.5k |
+| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | 10.4k |
 | [**RTranslator**](https://github.com/niedev/RTranslator) | The world's first open-source simultaneous translation app. | 10.3k |
-| [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | 10.3k |
 | [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | 10.1k |
 ## 🗂️ Categories
 
