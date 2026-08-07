@@ -12,6 +12,8 @@ A curated list of open-source lifestyle, hobby, and utility apps for Android. Th
 | [**Easy Diary**](https://github.com/hanjoongcho/aaf-easydiary) | A simple diary application optimized for a great user experience. | `Kotlin` | `GPL-3.0` | 553 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary) |
 | [**Easy Photo Map**](https://github.com/hanjoongcho/aaf-easyphotomap) | Displays the location of photos on a map using their EXIF data. | `Kotlin` | `Apache-2.0` | 43 | — |
 | [**Groceries Store**](https://github.com/hieuwu/android-groceries-store) | An app that demonstrates an online grocery ordering system. | `Kotlin` | `MIT` | 276 | — |
+| [**Material Prayer Times**](https://github.com/2plus1star/material-prayer-times) | Offline prayer times, qibla compass and Hijri date, calculated on device. | `Kotlin` | `Apache-2.0` | 0 | — |
+| [**Material Quran**](https://github.com/2plus1star/material-quran) | Quran reader with the Uthmani text, translation and tajweed colouring, plus optional recitation audio. | `Kotlin` | `Apache-2.0` | 0 | — |
 | [**Memento Namedays**](https://github.com/alexstyl/Memento-Calendar) | A beautifully designed calendar for tracking namedays. | `Java` | `MIT` | 210 | — |
 | [**Narrate**](https://github.com/ttl-tim/narrate-android) | A small, simple, and elegant journaling application. (Archived) | `Java` | `Apache-2.0` | 226 | — |
 | [**Reminder Pro**](https://github.com/FarshidRoohi/ReminderPro) | A reminder app with location, sound recording, and map features. | `Kotlin` | `Apache-2.0` | 36 | — |
