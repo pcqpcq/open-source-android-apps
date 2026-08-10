@@ -19,7 +19,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 656 | — |
 | [**FishChatAndroid**](https://github.com/oikomi/FishChatAndroid) | A chat application demonstrating modern Android development. | `Java` | Not specified | 64 | — |
 | [**ForkHub**](https://github.com/jonan/ForkHub) | A fork of the deprecated official GitHub Android app, which is still maintained. | `JavaScript` | `Apache-2.0` | 2.8k | — |
-| [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 317 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
+| [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 316 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
 | [**GitHub Visualizer**](https://github.com/dheerajkotwani/GithubVisualizer) | A GitHub client using the official API and Material UI components. | `Kotlin` | `MIT` | 121 | — |
 | [**GitPoint**](https://github.com/gitpoint/git-point) | A GitHub client with a minimal and beautiful user interface, built with React Native. | `JavaScript` | `MIT` | 4.8k | — |
 | [**Gitskarios**](https://github.com/gitskarios/Gitskarios) | A popular and feature-rich GitHub client for Android. | `Java` | `MIT` | 525 | — |
@@ -56,7 +56,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**weiciyuan**](https://github.com/qii/weiciyuan) | A popular and feature-rich client for the Sina Weibo social network. | `Java` | `GPL-3.0` | 2.6k | — |
 | [**WordPress**](https://github.com/wordpress-mobile/WordPress-Android) | The official open-source app for managing WordPress sites. | `Kotlin` | `GPL-2.0` | 3.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.wordpress.android) |
 | [**Xtra**](https://github.com/crackededed/Xtra) | An open-source, ad-free Twitch player and browser for Android. | `Kotlin` | `AGPL-3.0` | 2.2k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.github.andreyasadchy.xtra) |
-| [**YouJoin**](https://github.com/FreedomZZQ/YouJoin-Android) | A social connection app with a focus on Material Design. (Archived) | `Java` | `MIT` | 297 | — |
+| [**YouJoin**](https://github.com/FreedomZZQ/YouJoin-Android) | A social connection app with a focus on Material Design. (Archived) | `Java` | `MIT` | 296 | — |
 
 ---
 

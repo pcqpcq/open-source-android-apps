@@ -21,7 +21,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Droided Media Tank**](https://github.com/vikingbrain/droidedmediatank) | A remote control app for Networked Media Tank (NMT) streamers. | `Java` | `Apache-2.0` | 7 | — |
 | [**Easy Sound Recorder**](https://github.com/dkim0419/SoundRecorder) | A simple sound recording app with a Material Design interface. | `Java` | `GPL-3.0` | 1.5k | — |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | `Java` | `Apache-2.0` | 21.9k | — |
-| [**GEM**](https://github.com/SubstanceMobile/GEM) | A music player for Android with a stunning Material Design UI. (Archived) | `Java` | `Apache-2.0` | 273 | — |
+| [**GEM**](https://github.com/SubstanceMobile/GEM) | A music player for Android with a stunning Material Design UI. (Archived) | `Java` | `Apache-2.0` | 272 | — |
 | [**JamsMusicPlayer**](https://github.com/psaravan/JamsMusicPlayer) | A free, powerful, and elegant music player for Android. (Archived) | `Java` | `Apache-2.0` | 1.1k | — |
 | [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) | The official Android client for the Jellyfin media server. | `Kotlin` | `GPL-2.0` | 2.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.jellyfin.mobile) |
 | [**Kafka for Internet Archive**](https://github.com/vipulyaara/Kafka) | A modern client for Internet Archive with a built-in reader and audio player. | `Kotlin` | `GPL-3.0` | 389 | — |
