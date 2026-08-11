@@ -79,7 +79,7 @@ A curated list of open-source utilities, file managers, system tools, and other 
 | [**NetGuard**](https://github.com/M66B/NetGuard) | A no-root firewall for Android to block internet access on a per-app basis. | `Java` | `GPL-3.0` | 3.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=eu.faircode.netguard) |
 | [**Nevolution**](https://github.com/Nevolution/sdk) | Evolve the Android notification experience with community-driven plug-ins. | `Java` | `Apache-2.0` | 677 | — |
 | [**Nextcloud**](https://github.com/nextcloud/android) | The official client for the self-hosted Nextcloud productivity platform. | `Kotlin` | `GPL-2.0` | 5.5k | — |
-| [**Ninja**](https://github.com/mthli/Ninja) | A web browser that opens links in the background without leaving your current app. | `Java` | `Apache-2.0` | 964 | — |
+| [**Ninja**](https://github.com/mthli/Ninja) | A web browser that opens links in the background without leaving your current app. | `Java` | `Apache-2.0` | 963 | — |
 | [**Notally**](https://github.com/OmGodse/Notally) | A beautiful, minimalist, and offline-first notes app. | `Kotlin` | `GPL-3.0` | 2.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.omgodse.notally) |
 | [**Notification Analyser**](https://github.com/MPieter/Notification-Analyser) | An application to analyze your device's notification history. | `Java` | `MIT` | 65 | — |
 | [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | `Dart` | `GPL-3.0` | 18.9k | — |
