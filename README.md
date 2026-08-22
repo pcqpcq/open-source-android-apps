@@ -29,7 +29,7 @@
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 39.4k |
 | [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | 36.8k |
 | [**Barcode Scanner (ZXing)**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | 34.1k |
-| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 32.1k |
+| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 32.2k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 29.7k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 29.2k |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 28.7k |
@@ -48,7 +48,7 @@
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 11.6k |
 | [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | 10.5k |
 | [**RTranslator**](https://github.com/niedev/RTranslator) | The world's first open-source simultaneous translation app. | 10.3k |
-| [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | 10.1k |
+| [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | 10.2k |
 ## 🗂️ Categories
 
 | Category | Description | Count |
