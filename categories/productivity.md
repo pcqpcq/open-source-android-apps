@@ -16,7 +16,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**DeviceAnalyzer**](https://github.com/blurr-world/DeviceAnalyzer) | Provides detailed insights into your device's hardware specifications. | `Java` | `MIT` | 8 | — |
 | [**EarthViewer**](https://github.com/PDDStudio/earthview-android) | A wallpaper application and showcase for the `earthview-android` library. | `Java` | `Apache-2.0` | 135 | — |
 | [**EverMemo**](https://github.com/daimajia/EverMemo) | A fast and simple memo app for recording, organizing, and sharing notes. | `Java` | `MIT` | 797 | — |
-| [**Expanda**](https://github.com/diegomarzaa/expanda) | Offline text expansion with reusable snippets and dynamic templates, without Internet permission. | `Kotlin` | `MIT` | 0 | [GitHub Releases](https://github.com/diegomarzaa/expanda/releases) |
+| [**Expanda**](https://github.com/diegomarzaa/expanda) | Offline text expansion with reusable snippets and dynamic templates, without Internet permission. | `Kotlin` | `MIT` | 22 | [GitHub Releases](https://github.com/diegomarzaa/expanda) |
 | [**Habitica**](https://github.com/HabitRPG/habitica-android) | A habit tracker that gamifies your goals, treating them like an RPG. | `Kotlin` | `GPL-3.0` | 1.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica) |
 | [**Habito**](https://github.com/ivan-magda/Habito) | A simple habit tracker that uses Firebase Realtime Database. (Archived) | `Kotlin` | `MIT` | 80 | — |
 | [**InstaChat**](https://github.com/mohak1712/Insta-Chat) | A chat-head style app that lets you read and reply to messages from any screen. | `Java` | Not specified | 118 | — |
