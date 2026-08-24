@@ -65,7 +65,7 @@
 | [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 51 |
 | [📰 News & Magazines](categories/news_and_magazines.md) | RSS readers and news aggregators. | 40 |
 | [🎨 Personalization](categories/personalization.md) | Launchers, wallpapers, and UI tweaks. | 18 |
-| [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 48 |
+| [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 49 |
 | [🌐 Social Network](categories/social_network.md) | Clients for popular social platforms. | 51 |
 | [🛠️ Tools](categories/tools.md) | Utilities, system tools, and keyboards. | 123 |
 | [🗺️ Travel & Local](categories/travel_and_local.md) | Maps, navigation, and travel guides. | 18 |
