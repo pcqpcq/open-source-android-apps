@@ -14,7 +14,7 @@ A curated list of open-source lifestyle, hobby, and utility apps for Android. Th
 | [**Groceries Store**](https://github.com/hieuwu/android-groceries-store) | An app that demonstrates an online grocery ordering system. | `Kotlin` | `MIT` | 278 | — |
 | [**Material Prayer Times**](https://github.com/2plus1star/material-prayer-times) | Offline prayer times, qibla compass and Hijri date, calculated on device. | `Kotlin` | `Apache-2.0` | 0 | — |
 | [**Material Quran**](https://github.com/2plus1star/material-quran) | Quran reader with the Uthmani text, translation and tajweed colouring, plus optional recitation audio. | `Kotlin` | `Apache-2.0` | 0 | — |
-| [**Memento Namedays**](https://github.com/alexstyl/Memento-Calendar) | A beautifully designed calendar for tracking namedays. | `Java` | `MIT` | 210 | — |
+| [**Memento Namedays**](https://github.com/alexstyl/Memento-Calendar) | A beautifully designed calendar for tracking namedays. | `Java` | `MIT` | 209 | — |
 | [**Narrate**](https://github.com/ttl-tim/narrate-android) | A small, simple, and elegant journaling application. (Archived) | `Java` | `Apache-2.0` | 226 | — |
 | [**Reminder Pro**](https://github.com/FarshidRoohi/ReminderPro) | A reminder app with location, sound recording, and map features. | `Kotlin` | `Apache-2.0` | 36 | — |
 | [**Teapp**](https://github.com/marianpekar/teapp) | A personal database for tea enthusiasts with a timer and calculator. | `Kotlin` | `GPL-3.0` | 2 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/marianpekar/teapp) |
