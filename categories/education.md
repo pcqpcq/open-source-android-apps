@@ -25,7 +25,7 @@ A curated list of open-source applications for learning, studying, and self-impr
 | [**Ulangi**](https://github.com/subconcept-labs/ulangi) | A language learning app that uses spaced repetition and other popular methods. | `TypeScript` | `GPL-3.0` | 457 | — |
 | [**Umbrella**](https://github.com/securityfirst/Umbrella_android) | An app to learn about digital and physical security, from comms to kidnapping. | `Kotlin` | `GPL-3.0` | 292 | — |
 | [**Unisannio**](https://github.com/alter-ego/unisannio-reboot) | An app for students of the University of Sannio, Italy. | `Java` | `GPL-3.0` | 33 | — |
-| [**WaniKani for Android**](https://github.com/xiprox/WaniKani-for-Android) | An Android client for the popular kanji learning website wanikani.com. | `Java` | `GPL-3.0` | 507 | — |
+| [**WaniKani for Android**](https://github.com/xiprox/WaniKani-for-Android) | An Android client for the popular kanji learning website wanikani.com. | `Java` | `GPL-3.0` | 508 | — |
 
 <br>
 
