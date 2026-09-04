@@ -11,7 +11,7 @@ A curated list of open-source applications designed specifically for the Android
 | [**NuvioTV**](https://github.com/NuvioMedia/NuvioTV) | A modern Android TV media player powered by the Stremio addon ecosystem. | `Kotlin` | `GPL-3.0` | 2.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.nuvio.app) |
 | [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | `Java` | `MIT` | 32.6k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/yuliskov/SmartTube) |
 | [**Vineyard**](https://github.com/hitherejoe/Vineyard) | An open-source client for the Vine video service on Android TV. (Archived) | `Java` | `Apache-2.0` | 718 | — |
-| [**XiaomiTV**](https://github.com/XiaoMi/android_tv_metro) | A metro-style framework and server API for Android TV. (Archived) | `Java` | `Apache-2.0` | 669 | — |
+| [**XiaomiTV**](https://github.com/XiaoMi/android_tv_metro) | A metro-style framework and server API for Android TV. (Archived) | `Java` | `Apache-2.0` | 670 | — |
 
 ---
 
