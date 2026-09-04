@@ -11,7 +11,7 @@ A curated list of open-source applications, watch faces, and operating systems f
 | [**AsteroidOS Sync**](https://github.com/AsteroidOS/AsteroidOSSync) | The official sync client to connect your phone to an AsteroidOS watch. | `Java` | `GPL-3.0` | 114 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/org.asteroidos.sync) |
 | [**Binary Watch Face**](https://github.com/dwa012/WearBinaryWatchFace) | A watch face that displays the time in binary format. | `Java` | `Apache-2.0` | 57 | — |
 | [**FORM Watch Face**](https://github.com/romannurik/FORMWatchFace) | A unique watch face based on the FORM event typeface. | `Java` | `Apache-2.0` | 254 | — |
-| [**Herold**](https://github.com/chackrahunter/herold) | Runs a Samsung Galaxy Watch from an iPhone with no Google account: ANCS notifications, health sensor readouts, an account-free app store and a watch face. | `Java` | `MIT` | 0 | [Releases](https://github.com/chackrahunter/herold/releases/latest) |
+| [**Herold**](https://github.com/chackrahunter/herold) | Runs a Samsung Galaxy Watch from an iPhone with no Google account: ANCS notifications, health sensor readouts, an account-free app store and a watch face. | `Java` | `MIT` | 0 | — |
 | [**LapseFace**](https://github.com/matteolobello/lapseface) | A watch face that allows you to create time-lapses. (Archived) | `Java` | `Apache-2.0` | 7 | — |
 | [**LCARS Watchface**](https://github.com/llelectronics/lcars-v1-watchface-asteroidos) | A Star Trek LCARS-themed watch face specifically for AsteroidOS. | `QML` | `GPL-3.0` | 3 | — |
 | [**Tip Calculator**](https://github.com/mbcrump/FirstGoogleWearableApp) | A simple, voice-activated tip calculator for Wear OS. | `Java` | Not specified | 11 | — |
