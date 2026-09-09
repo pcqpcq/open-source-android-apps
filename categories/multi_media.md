@@ -53,6 +53,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Telecine**](https://github.com/JakeWharton/Telecine) | A simple app for recording full-resolution video of your device's screen. | `Java` | `Apache-2.0` | 2.4k | — |
 | [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.0k | — |
 | [**Track My Shows**](https://github.com/chashmeetsingh/TrackMyShows) | A simple app for tracking your favorite TV shows. (Archived) | `Java` | `GPL-3.0` | 11 | — |
+| [**TrimPlayer**](https://github.com/yonatanholdings/TrimPlayer) | A podcast player that automatically skips intros, ads and outros by detecting audio that repeats across a show's episodes. | `Java` | `GPL-3.0` | 0 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.trimplayer) |
 | [**Twire**](https://github.com/Perflyst/Twire) | An open-source, ad-free Twitch browser and stream player for Android. | `Java` | `GPL-3.0` | 5 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.perflyst.twire) |
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | `Kotlin` | `Apache-2.0` | 13.2k | — |
 | [**Vanilla Music**](https://github.com/vanilla-music/vanilla) | A clean, simple, and free open-source music player. | `Java` | `GPL-3.0` | 1.3k | — |
