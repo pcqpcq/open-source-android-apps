@@ -81,7 +81,7 @@ A curated list of open-source utilities, file managers, system tools, and other 
 | [**Nevolution**](https://github.com/Nevolution/sdk) | Evolve the Android notification experience with community-driven plug-ins. | `Java` | `Apache-2.0` | 679 | — |
 | [**Nextcloud**](https://github.com/nextcloud/android) | The official client for the self-hosted Nextcloud productivity platform. | `Kotlin` | `GPL-2.0` | 5.6k | — |
 | [**Ninja**](https://github.com/mthli/Ninja) | A web browser that opens links in the background without leaving your current app. | `Java` | `Apache-2.0` | 962 | — |
-| [**NodeLook**](https://github.com/nodelook/android) | NodeLook Android app | `Kotlin` | `MIT` | 32 | — |
+| [**NodeLook**](https://github.com/nodelook/android) | A general website checker for users facing internet restrictions. | `Kotlin` | `MIT` | 32 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/ir.ammari.nodelook/) |
 | [**Notally**](https://github.com/OmGodse/Notally) | A beautiful, minimalist, and offline-first notes app. | `Kotlin` | `GPL-3.0` | 2.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.omgodse.notally) |
 | [**Notification Analyser**](https://github.com/MPieter/Notification-Analyser) | An application to analyze your device's notification history. | `Java` | `MIT` | 65 | — |
 | [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | `Dart` | `GPL-3.0` | 19.6k | — |
