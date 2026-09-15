@@ -16,7 +16,7 @@ A curated list of open-source messengers, email clients, browsers, and other com
 | [**KouChat**](https://github.com/blurpy/kouchat-android) | A serverless LAN chat application for local network communication. | `Java` | `GPL-3.0` | 99 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.usikkert.kouchat.android) |
 | [**MaterialQQLite**](https://github.com/wang4yu6peng13/MaterialQQLite) | A Material Design-style client for the QQ messaging service. (Archived) | `Java` | `Apache-2.0` | 128 | — |
 | [**Messaging (Odoo)**](https://github.com/Odoo-mobile/messaging) | The official mobile messaging client for the Odoo platform. | `Java` | `GPL-3.0` | 62 | — |
-| [**ProxyDroid**](https://github.com/madeye/proxydroid) | A global proxy application for Android devices. | `Kotlin` | `GPL-3.0` | 2.5k | — |
+| [**ProxyDroid**](https://github.com/madeye/proxydroid) | A global proxy application for Android devices. | `Kotlin` | `GPL-3.0` | 2.6k | — |
 | [**QKSMS**](https://github.com/moezbhatti/qksms) | An open-source replacement for the stock Android messaging (SMS/MMS) app. | `Kotlin` | `GPL-3.0` | 4.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.moez.QKSMS) |
 | [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | `TypeScript` | `MIT` | 46.1k | — |
 | [**RTranslator**](https://github.com/niedev/RTranslator) | The world's first open-source simultaneous translation app. | `Java` | `Apache-2.0` | 10.4k | — |
@@ -31,7 +31,7 @@ A curated list of open-source messengers, email clients, browsers, and other com
 | [**Ulangi**](https://github.com/subconcept-labs/ulangi) | A language learning app that uses spaced repetition and other popular methods. | `TypeScript` | `GPL-3.0` | 455 | — |
 | [**VideoFly**](https://github.com/VideoFly/VideoFly) | A video calling app that allows you to multitask during a call. (Archived) | `Java` | Not specified | 21 | — |
 | [**WeChat (Clone)**](https://github.com/motianhuo/wechat) | A clone of the WeChat application. (Archived) | `Java` | Not specified | 5.5k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk) |
-| [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) | Transmits audio over a local WiFi network, acting like a walkie-talkie. | `Java` | `Apache-2.0` | 161 | — |
+| [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) | Transmits audio over a local WiFi network, acting like a walkie-talkie. | `Java` | `Apache-2.0` | 162 | — |
 | [**Wire**](https://github.com/wireapp/wire-android) | A secure messenger offering end-to-end encrypted communication. | `Kotlin` | `GPL-3.0` | 253 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.wire) |
 | [**Yaaic**](https://github.com/pocmo/Yaaic) | "Yet Another Android IRC Client" for connecting to IRC networks. (Archived) | `Java` | `GPL-3.0` | 338 | — |
 | [**Zulip**](https://github.com/zulip/zulip-android-legacy) | The official Android client for the powerful open-source group chat platform. | `Java` | `Apache-2.0` | 402 | — |
