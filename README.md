@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/pcqpcq/open-source-android-apps/stargazers"><img src="https://img.shields.io/github/stars/pcqpcq/open-source-android-apps?style=for-the-badge&color=gold" alt="GitHub stars"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/network/members"><img src="https://img.shields.io/github/forks/pcqpcq/open-source-android-apps?style=for-the-badge&color=blue" alt="GitHub forks"></a>
-  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-508-brightgreen?style=for-the-badge" alt="Total Apps"></a>
+  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-509-brightgreen?style=for-the-badge" alt="Total Apps"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/commits/master"><img src="https://img.shields.io/github/last-commit/pcqpcq/open-source-android-apps?style=for-the-badge" alt="GitHub last commit"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pcqpcq/open-source-android-apps?style=for-the-badge" alt="License"></a>
 </p>
@@ -22,9 +22,9 @@
 ## 🚀 Hot Apps (Stars > 10k)
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
-| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 62.8k |
+| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 62.9k |
 | [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 61.1k |
-| [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 56.4k |
+| [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 56.5k |
 | [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 46.1k |
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 39.7k |
 | [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | 36.8k |
@@ -32,8 +32,8 @@
 | [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 33.9k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 29.9k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 29.4k |
-| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 29.0k |
-| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 22.1k |
+| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 29.1k |
+| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 22.2k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.6k |
 | [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 19.8k |
@@ -56,7 +56,7 @@
 | [📺 Android TV](categories/android_tv.md) | Applications optimized for Android TV. | 6 |
 | [⌚ Android Wear](categories/android_wear.md) | Applications for Android Wear/Wear OS. | 15 |
 | [💼 Business](categories/business.md) | Tools for business management and productivity. | 4 |
-| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 30 |
+| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 31 |
 | [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 22 |
 | [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 14 |
 | [🎮 Game](categories/game.md) | Open-source games for Android. | 35 |
