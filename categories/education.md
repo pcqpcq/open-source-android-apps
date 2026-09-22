@@ -11,7 +11,7 @@ A curated list of open-source applications for learning, studying, and self-impr
 | [**Brainforest**](https://github.com/nicedreamzapp/brainforest-app) | An offline K-4 learning app with voiced lessons, reading and quests, no ads or accounts. | `JavaScript` | `MIT` | 0 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.brainforest.app) |
 | [**Enguage**](https://github.com/pjay94/enguageapp) | A mobile app for Polish speakers to learn English spelling and phrasal verbs. | `Java` | Not specified | 2 | — |
 | [**festnimbus**](https://github.com/appteam-nith/festnimbus) | An open-source college app for the technical fest of NIT Hamirpur, India. | `Java` | `GPL-3.0` | 11 | — |
-| [**ForgetMeNot**](https://github.com/tema6120/ForgetMeNot) | A simple and user-friendly flashcard application for Android. | `Kotlin` | `GPL-3.0` | 441 | — |
+| [**ForgetMeNot**](https://github.com/tema6120/ForgetMeNot) | A simple and user-friendly flashcard application for Android. | `Kotlin` | `GPL-3.0` | 442 | — |
 | [**GivesMeHope**](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Android client for the Gives Me Hope website for educational purposes. | `Java` | `MIT` | 214 | — |
 | [**Hillffair**](https://github.com/appteam-nith/Hillffair) | The official open-source app for the cultural fest of NIT Hamirpur, India. | `Java` | `GPL-3.0` | 24 | — |
 | [**Hubble Gallery**](https://github.com/derekcsm/hubble_gallery) | An app to view, save, and read about the Hubble Telescope's best images. | `Java` | `Apache-2.0` | 223 | — |
@@ -23,7 +23,7 @@ A curated list of open-source applications for learning, studying, and self-impr
 | [**Sahayak**](https://github.com/Neophytes/microsoft-pragyan-hackathon) | A fun-filled educational tool aimed at rural children and adults in India. | `Java` | `MIT` | 18 | — |
 | [**Say-Hi**](https://github.com/amritsinghcse/Say-Hi) | An app to help understand different English accents around the world. | `Java` | `MIT` | 3 | — |
 | [**Seashell-app**](https://github.com/drakeet/Seashell-app) | The official Android client for the "贝壳单词" (Seashell Words) app. | `Java` | `Apache-2.0` | 1.7k | — |
-| [**Stepik**](https://github.com/StepicOrg/stepik-android) | An app offering free, certificate-based online courses on various subjects. | `Kotlin` | `Apache-2.0` | 196 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.stepic.droid) |
+| [**Stepik**](https://github.com/StepicOrg/stepik-android) | An app offering free, certificate-based online courses on various subjects. | `Kotlin` | `Apache-2.0` | 195 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.stepic.droid) |
 | [**Ulangi**](https://github.com/subconcept-labs/ulangi) | A language learning app that uses spaced repetition and other popular methods. | `TypeScript` | `GPL-3.0` | 455 | — |
 | [**Umbrella**](https://github.com/securityfirst/Umbrella_android) | An app to learn about digital and physical security, from comms to kidnapping. | `Kotlin` | `GPL-3.0` | 292 | — |
 | [**Unisannio**](https://github.com/alter-ego/unisannio-reboot) | An app for students of the University of Sannio, Italy. | `Java` | `GPL-3.0` | 33 | — |
