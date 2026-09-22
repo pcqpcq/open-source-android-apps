@@ -38,7 +38,7 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Sleuth**](https://codeberg.org/BWPanda/sleuth) | A single-player logic puzzle game. | `GDScript` | `GPL-3.0` | N/A | [![Codeberg](https://img.shields.io/badge/Download-Codeberg-blue)](https://codeberg.org/BWPanda/sleuth/releases/latest) |
 | [**SOPA**](https://github.com/djschilling/sopa) | A puzzle game where you connect gates with colored tubes. | `Java` | `Apache-2.0` | 36 | — |
 | [**Splinter Sweets**](https://github.com/reime005/splintersweets) | A libGDX mobile game about smashing as many sweets as possible. | `Objective-C` | `Apache-2.0` | 64 | — |
-| [**Stratagus**](https://github.com/drodin/Stratagus) | A port of the Stratagus real-time strategy gaming engine. | `C++` | `GPL-2.0` | 55 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.drodin.stratagus) |
+| [**Stratagus**](https://github.com/drodin/Stratagus) | A port of the Stratagus real-time strategy gaming engine. | `C++` | `GPL-2.0` | 56 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.drodin.stratagus) |
 | [**Tanks of Freedom**](https://github.com/w84death/Tanks-of-Freedom) | An indie Turn-Based Strategy game in isometric pixel art. | `GDScript` | `MIT` | 1.2k | — |
 | [**Zabyrinth**](https://github.com/Zachacious/Zabyrinth) | A physics-based game based on the classic Labyrinth board game. | `C++` | `MIT` | 25 | — |
 

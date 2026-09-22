@@ -26,7 +26,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 757 | — |
 | [**kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept showcasing new trends in Android development. | `Kotlin` | `Apache-2.0` | 1.6k | — |
 | [**KuaiHu**](https://github.com/iKrelve/KuaiHu) | A third-party client for the popular Chinese news aggregator zhihu.com. | `Java` | `Apache-2.0` | 685 | — |
-| [**Leisure**](https://github.com/MummyDing/Leisure) | An app that aggregates content from Zhihu Daily, Guokr, and Douban Books. | `Java` | `LGPL-3.0` | 546 | — |
+| [**Leisure**](https://github.com/MummyDing/Leisure) | An app that aggregates content from Zhihu Daily, Guokr, and Douban Books. | `Java` | `LGPL-3.0` | 545 | — |
 | [**Materialistic**](https://github.com/hidroh/materialistic) | A feature-rich, Material Design Hacker News reader. | `Java` | `Apache-2.0` | 2.3k | — |
 | [**Munch**](https://github.com/crazyhitty/Munch) | A minimalistic and easy-to-use RSS reader application. (Archived) | `Java` | `MIT` | 161 | — |
 | [**MVVM Hacker News**](https://github.com/hitherejoe/MVVM_Hacker_News) | An experimental Hacker News app using the MVVM pattern and Data Binding library. | `Java` | `Apache-2.0` | 877 | — |
@@ -35,7 +35,7 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**Predator for ProductHunt**](https://github.com/crazyhitty/Capstone-Project) | A minimalistic client for Product Hunt to browse the latest products and collections. | `Java` | `MIT` | 56 | — |
 | [**Qiitanium**](https://github.com/ogaclejapan/Qiitanium) | An unofficial Android application for the Japanese tech community Qiita. | `Java` | `MIT` | 251 | — |
 | [**RedReader**](https://github.com/QuantumBadger/RedReader) | A fast, feature-rich, and accessibility-focused Reddit client. | `Java` | `GPL-3.0` | 2.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader) |
-| [**scala-days-android**](https://github.com/xebia-functional/scala-days-android) | The official Android application for the Scala Days conferences. | `Scala` | `Apache-2.0` | 138 | — |
+| [**scala-days-android**](https://github.com/xebia-functional/scala-days-android) | The official Android application for the Scala Days conferences. | `Scala` | `Apache-2.0` | 139 | — |
 | [**Slide**](https://github.com/Haptic-Apps/Slide) | A feature-packed, ad-free, and open-source Reddit browser for Android. | `Java` | `GPL-3.0` | 1.8k | — |
 | [**somosOCO**](https://github.com/pekebyte/somosoco) | A simple reader app for the "somos oco" Blogger blog. | `Java` | Not specified | 6 | — |
 | [**StartupNews**](https://github.com/halzhang/StartupNews) | A client for Startup News, a social news site for startup founders. | `Java` | `Apache-2.0` | 331 | — |
