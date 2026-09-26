@@ -23,9 +23,9 @@ A curated list of open-source news readers, content aggregators, and clients for
 | [**Idaily**](https://github.com/liuguangqiang/Idaily) | A Zhihu Daily client based on MVVM architecture, using Dagger2, Retrofit2, and RxJava. | `Java` | `Apache-2.0` | 567 | — |
 | [**ImportNew**](https://github.com/lzjun567/XiYuanFangApp) | The official Android app for the Chinese tech blog ImportNew.com. | `CSS` | `Apache-2.0` | 249 | — |
 | [**Jager**](https://github.com/JaspervanRiet/Jager) | An unofficial client for Product Hunt with a Material Design interface. (Archived) | `Java` | `GPL-3.0` | 74 | — |
-| [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 756 | — |
+| [**JianDan**](https://github.com/ZhaoKaiQiang/JianDan) | A high-fidelity clone of the Chinese entertainment news app "JianDan". | `Java` | `Apache-2.0` | 753 | — |
 | [**kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept showcasing new trends in Android development. | `Kotlin` | `Apache-2.0` | 1.6k | — |
-| [**KuaiHu**](https://github.com/iKrelve/KuaiHu) | A third-party client for the popular Chinese news aggregator zhihu.com. | `Java` | `Apache-2.0` | 684 | — |
+| [**KuaiHu**](https://github.com/iKrelve/KuaiHu) | A third-party client for the popular Chinese news aggregator zhihu.com. | `Java` | `Apache-2.0` | 683 | — |
 | [**Leisure**](https://github.com/MummyDing/Leisure) | An app that aggregates content from Zhihu Daily, Guokr, and Douban Books. | `Java` | `LGPL-3.0` | 545 | — |
 | [**Materialistic**](https://github.com/hidroh/materialistic) | A feature-rich, Material Design Hacker News reader. | `Java` | `Apache-2.0` | 2.3k | — |
 | [**Munch**](https://github.com/crazyhitty/Munch) | A minimalistic and easy-to-use RSS reader application. (Archived) | `Java` | `MIT` | 161 | — |

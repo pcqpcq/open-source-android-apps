@@ -13,7 +13,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**Cannonball**](https://github.com/crashlytics/cannonball-android) | An app from Twitter for creating and sharing stories and poems. (Archived) | `Java` | `Apache-2.0` | 302 | — |
 | [**CNode-android**](https://github.com/iwhys/CNode-android) | An Android client for the CNode.js Chinese technical community. | `Java` | `MIT` | 115 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/iwhys/CNode-android) |
 | [**Coding**](https://coding.net/u/coding/p/Coding-Android/git) | The official Android client for the coding.net development platform. | `Java` | `Apache-2.0` | 2.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.coding.program) |
-| [**Cotable**](https://github.com/wlemuel/Cotable) | A Material Design client for the Chinese blogging platform cnblogs.com. | `Java` | `Apache-2.0` | 37 | — |
+| [**Cotable**](https://github.com/wlemuel/Cotable) | A Material Design client for the Chinese blogging platform cnblogs.com. | `Java` | `Apache-2.0` | 36 | — |
 | [**Douya**](https://github.com/DreaminginCodeZH/Douya) | An Android client for the Chinese social network douban.com. | `Java` | `Apache-2.0` | 2.7k | — |
 | [**Dribbo**](https://github.com/ikew0ng/Dribbo) | A client for Dribbble to browse popular shots and debuts. (Archived) | `Java` | `Apache-2.0` | 624 | — |
 | [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 653 | — |
@@ -56,7 +56,7 @@ A curated list of open-source clients for social networks, forums, and content-s
 | [**weiciyuan**](https://github.com/qii/weiciyuan) | A popular and feature-rich client for the Sina Weibo social network. | `Java` | `GPL-3.0` | 2.6k | — |
 | [**WordPress**](https://github.com/wordpress-mobile/WordPress-Android) | The official open-source app for managing WordPress sites. | `Kotlin` | `GPL-2.0` | 3.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.wordpress.android) |
 | [**Xtra**](https://github.com/crackededed/Xtra) | An open-source, ad-free Twitch player and browser for Android. | `Kotlin` | `AGPL-3.0` | 2.3k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.github.andreyasadchy.xtra) |
-| [**YouJoin**](https://github.com/FreedomZZQ/YouJoin-Android) | A social connection app with a focus on Material Design. (Archived) | `Java` | `MIT` | 297 | — |
+| [**YouJoin**](https://github.com/FreedomZZQ/YouJoin-Android) | A social connection app with a focus on Material Design. (Archived) | `Java` | `MIT` | 296 | — |
 
 ---
 
