@@ -16,7 +16,7 @@ A curated list of open-source lifestyle, hobby, and utility apps for Android. Th
 | [**Material Quran**](https://github.com/2plus1star/material-quran) | Quran reader with the Uthmani text, translation and tajweed colouring, plus optional recitation audio. | `Kotlin` | `Apache-2.0` | 0 | — |
 | [**Memento Namedays**](https://github.com/alexstyl/Memento-Calendar) | A beautifully designed calendar for tracking namedays. | `Java` | `MIT` | 209 | — |
 | [**Narrate**](https://github.com/ttl-tim/narrate-android) | A small, simple, and elegant journaling application. (Archived) | `Java` | `Apache-2.0` | 226 | — |
-| [**Reminder Pro**](https://github.com/FarshidRoohi/ReminderPro) | A reminder app with location, sound recording, and map features. | `Kotlin` | `Apache-2.0` | 36 | — |
+| [**Reminder Pro**](https://github.com/FarshidRoohi/ReminderPro) | A reminder app with location, sound recording, and map features. | `Kotlin` | `Apache-2.0` | 35 | — |
 | [**Teapp**](https://github.com/marianpekar/teapp) | A personal database for tea enthusiasts with a timer and calculator. | `Kotlin` | `GPL-3.0` | 2 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/marianpekar/teapp) |
 | [**Wake You In Music**](https://github.com/CedrickFlocon/wakeyouinmusic) | An alarm clock app for Spotify or Deezer users. (Archived) | `Java` | `Apache-2.0` | 25 | — |
 | [**WonderFood**](https://github.com/vaddisrinivas/wonderfood) | Local-first food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals. | `Kotlin` | `Apache-2.0` | 0 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/vaddisrinivas/wonderfood) |
