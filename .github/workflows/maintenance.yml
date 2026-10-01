@@ -11,16 +11,21 @@ on:
       - 'README.md'
       - 'scripts/*.py'
 
+# 同一时间只允许一个维护任务运行，避免两个运行竞争产生 rebase 冲突
+concurrency:
+  group: maintenance
+  cancel-in-progress: true
+
 jobs:
   maintain:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.x'
 
@@ -34,9 +39,36 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: automated repository maintenance (stars, links, metadata)"
-          git pull --rebase origin master
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          # [skip ci] 防止本 workflow 被自己的提交再次触发
+          git commit -m "chore: automated repository maintenance (stars, links, metadata) [skip ci]"
+
+          # 带重试的推送：若上游有新提交导致 rebase 冲突，由于维护提交完全
+          # 可由脚本重新生成，直接重置到上游后重新生成再试。
+          for attempt in 1 2 3; do
+            git fetch origin master
+            if git rebase origin/master; then
+              if git push origin HEAD:master; then
+                echo "Pushed on attempt $attempt"
+                exit 0
+              fi
+            else
+              git rebase --abort
+              git reset --hard origin/master
+              python scripts/maintain_repo.py
+              git add .
+              if git diff --cached --quiet; then
+                echo "Upstream already contains these maintenance changes"
+                exit 0
+              fi
+              git commit -m "chore: automated repository maintenance (stars, links, metadata) [skip ci]"
+            fi
+          done
+          echo "::error::Failed to push after 3 attempts"
+          exit 1

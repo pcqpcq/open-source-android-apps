@@ -37,16 +37,21 @@ on:
         description: 'Custom Description (Optional, uses GitHub desc if empty)'
         required: False
 
+# 同一时间只允许一个添加任务运行
+concurrency:
+  group: add-app
+  cancel-in-progress: true
+
 jobs:
   add-app:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.x'
 
@@ -73,12 +78,46 @@ jobs:
 
       - name: Commit and push changes
         env:
-          INPUT_NAME: ${{ github.event.inputs.app_name }}
           INPUT_CATEGORY: ${{ github.event.inputs.category }}
+          INPUT_NAME: ${{ github.event.inputs.app_name }}
+          INPUT_REPO: ${{ github.event.inputs.repo_url }}
+          INPUT_STORE: ${{ github.event.inputs.store_url }}
+          INPUT_DESC: ${{ github.event.inputs.custom_desc }}
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
           git commit -m "feat: add $INPUT_NAME to $INPUT_CATEGORY"
-          git pull --rebase origin master
-          git push
+
+          # 带重试的推送：若上游有新提交导致 rebase 冲突，重置到上游后
+          # 用相同输入重新生成提交再试。
+          for attempt in 1 2 3; do
+            git fetch origin master
+            if git rebase origin/master; then
+              if git push origin HEAD:master; then
+                echo "Pushed on attempt $attempt"
+                exit 0
+              fi
+            else
+              git rebase --abort
+              git reset --hard origin/master
+              python scripts/add_app.py \
+                --category "$INPUT_CATEGORY" \
+                --name "$INPUT_NAME" \
+                --repo "$INPUT_REPO" \
+                --store "$INPUT_STORE" \
+                --desc "$INPUT_DESC"
+              git add .
+              if git diff --cached --quiet; then
+                echo "Upstream already contains this app"
+                exit 0
+              fi
+              git commit -m "feat: add $INPUT_NAME to $INPUT_CATEGORY"
+            fi
+          done
+          echo "::error::Failed to push after 3 attempts"
+          exit 1
