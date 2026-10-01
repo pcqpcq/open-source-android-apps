@@ -1,4 +1,4 @@
-# Wearable Apps
+# Android Wear Apps
 
 A curated list of open-source applications, watch faces, and operating systems for Wear OS and other wearable platforms. The list is sorted alphabetically.
 
