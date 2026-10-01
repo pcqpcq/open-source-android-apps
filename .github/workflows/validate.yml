@@ -1,0 +1,33 @@
+name: Validate
+
+on:
+  pull_request:
+    paths:
+      - 'categories/*.md'
+      - 'README.md'
+      - 'scripts/*.py'
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Counts and the Total Apps badge are synced by maintenance.yml after
+      # merge, so PRs only gate on duplicates, ordering, and format.
+      - name: Check data quality
+        run: python scripts/check_repo.py --skip-counts

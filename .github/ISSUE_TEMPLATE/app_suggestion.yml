@@ -1,0 +1,43 @@
+name: App suggestion
+description: Suggest an open-source Android app to add to the list
+title: "Add <App Name>"
+labels: [app-suggestion]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository URL
+      description: Must be a public repository with open-source code.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Android TV
+        - Android Wear
+        - Business
+        - Communication
+        - Education
+        - Finance
+        - Games
+        - Health & Fitness
+        - LifeStyle
+        - Multi-Media
+        - News & Magazines
+        - Personalization
+        - Productivity
+        - Social Network
+        - Tools
+        - Travel & Local
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does this app belong here?
+      description: One or two sentences — what it does and what makes it a good open-source app.
+    validations:
+      required: true

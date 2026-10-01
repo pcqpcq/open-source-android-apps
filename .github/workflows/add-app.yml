@@ -91,7 +91,7 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "feat: add $INPUT_NAME to $INPUT_CATEGORY"
+          git commit -m "feat: add $INPUT_NAME to ${INPUT_CATEGORY%.md}"
 
           # 带重试的推送：若上游有新提交导致 rebase 冲突，重置到上游后
           # 用相同输入重新生成提交再试。
@@ -116,7 +116,7 @@ jobs:
                 echo "Upstream already contains this app"
                 exit 0
               fi
-              git commit -m "feat: add $INPUT_NAME to $INPUT_CATEGORY"
+              git commit -m "feat: add $INPUT_NAME to ${INPUT_CATEGORY%.md}"
             fi
           done
           echo "::error::Failed to push after 3 attempts"
