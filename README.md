@@ -16,6 +16,7 @@
 > You are welcome to [star](https://github.com/pcqpcq/open-source-android-apps/stargazers) and [fork](https://github.com/pcqpcq/open-source-android-apps#fork-destination-box) this repository.
 > If you know of an app that isn't listed here, please feel free to submit a [Pull Request](https://github.com/pcqpcq/open-source-android-apps/pulls) or use our [**Add App Workflow**](https://github.com/pcqpcq/open-source-android-apps/actions/workflows/add-app.yml).
 > All applications are organized into specific categories for easy navigation.
+> See [CONTRIBUTING.md](CONTRIBUTING.md) for the row format and detailed guidelines.
 
 # What's Inside?
 
@@ -59,7 +60,7 @@
 | [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 32 |
 | [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 22 |
 | [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 14 |
-| [🎮 Game](categories/game.md) | Open-source games for Android. | 35 |
+| [🎮 Games](categories/game.md) | Open-source games for Android. | 35 |
 | [🏥 Health & Fitness](categories/health_fitness.md) | Wellness, tracking, and fitness apps. | 13 |
 | [🏠 LifeStyle](categories/life_style.md) | Apps for daily life and personal habits. | 14 |
 | [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 56 |
@@ -74,7 +75,7 @@
 
 > 1. Don't be evil.
 > 2. Don't repeat yourself (DRY).
-> 3. Make only one change per commit ([English](http://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](http://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
+> 3. Make only one change per commit ([English](https://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/), [Chinese](https://www.infoq.com/cn/news/2015/02/pull-reques-ten-suggestion))
 
 # FAQ
 
@@ -84,7 +85,7 @@
 
 > Enjoying this project? Share it with your friends!  
 >   
-> [![Share on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/tweet?text=Look%20at%20this%20nice%20project,%20a%20collection%20of%20Android%20open%20source%20apps.%20Made%20by%20@pcq019.%20https://github.com/pcqpcq/open-source-android-apps) &nbsp; [![Share on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/pcqpcq/open-source-android-apps) &nbsp; [![Share on Weibo](https://img.shields.io/badge/Weibo-E6162D?style=for-the-badge&logo=sinaweibo&logoColor=white)](http://service.weibo.com/share/share.php?searchPic=false&title=Android%25E5%25BC%2580%25E6%25BA%2590%25E5%25BA%2594%25E7%2594%25A8%25E9%259B%2586%25E5%2590%2588%2520by%2520@pcqpcq%2520&url=https://github.com/pcqpcq/open-source-android-apps)
+> [![Share on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/tweet?text=Look%20at%20this%20nice%20project,%20a%20collection%20of%20Android%20open%20source%20apps.%20Made%20by%20@pcq019.%20https://github.com/pcqpcq/open-source-android-apps) &nbsp; [![Share on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/pcqpcq/open-source-android-apps) &nbsp; [![Share on Weibo](https://img.shields.io/badge/Weibo-E6162D?style=for-the-badge&logo=sinaweibo&logoColor=white)](https://service.weibo.com/share/share.php?searchPic=false&title=Android%25E5%25BC%2580%25E6%25BA%2590%25E5%25BA%2594%25E7%2594%25A8%25E9%259B%2586%25E5%2590%2588%2520by%2520@pcqpcq%2520&url=https://github.com/pcqpcq/open-source-android-apps)
 
 ## Star History
 

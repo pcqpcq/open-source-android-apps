@@ -1,1 +1,3 @@
+# Keep in sync with pyproject.toml (CI uses pip; locally `uv run` resolves
+# dependencies from pyproject.toml automatically).
 requests>=2.28

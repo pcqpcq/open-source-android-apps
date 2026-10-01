@@ -65,7 +65,11 @@ those numbers by hand when adding an app.
 You can validate the repo locally before opening a PR:
 
 ```bash
-python scripts/check_repo.py
+python scripts/check_repo.py --skip-counts
 ```
 
-It exits non-zero if counts have drifted or an app is duplicated within a file.
+It checks for duplicates, alphabetical ordering, and format, and exits
+non-zero on any error. The same check runs automatically on every pull
+request. Counts and the Total Apps badge are intentionally excluded there —
+they are refreshed by the maintenance workflow after merge, so the full
+`python scripts/check_repo.py` may report drift until it next runs.
