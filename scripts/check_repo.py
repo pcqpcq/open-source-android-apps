@@ -4,13 +4,18 @@ Checks:
   1. Per-category app counts match the README categories table.
   2. The "Total Apps" badge matches the sum of category counts.
   3. No app is listed more than once within the same category file.
-  4. Reports apps that appear in multiple categories (informational — cross-listing
+  4. Main-table rows are in case-insensitive alphabetical order.
+  5. Reports apps that appear in multiple categories (informational — cross-listing
      is sometimes intentional, e.g. NewPipe under both Multi-Media and News).
 
-Exit code is non-zero when any hard error (checks 1-3) is found, so this can be
-used to gate CI. Run it from the repo root:  python scripts/check_repo.py
+Exit code is non-zero when any hard error is found, so this can be used to gate
+CI. Run it from the repo root:  python scripts/check_repo.py
+
+Use --skip-counts in PR CI: counts and the Total badge are synced by
+maintenance.yml after merge, so they legitimately lag behind a PR.
 """
 
+import argparse
 import os
 import re
 import sys
@@ -79,40 +84,74 @@ def find_duplicates():
     return cross, within_file
 
 
+def find_order_issues():
+    """Return (filename, name_a, name_b) for adjacent main-table rows that
+    break the case-insensitive alphabetical order."""
+    issues = []
+    name_re = re.compile(r'^\| \[\*\*([^*]+)\*\*\]')
+    for filename in sorted(os.listdir(CATEGORIES_DIR)):
+        if not filename.endswith('.md'):
+            continue
+        path = os.path.join(CATEGORIES_DIR, filename)
+        with open(path, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+        start = next((i for i, l in enumerate(lines) if l.startswith('| App Name |')), None)
+        if start is None:
+            continue
+        end = start + 1
+        while end < len(lines) and lines[end].startswith('|'):
+            end += 1
+        names = [name_re.match(l.strip()).group(1)
+                 for l in lines[start + 2:end] if l.startswith('| [**')]
+        for a, b in zip(names, names[1:]):
+            if a.lower() > b.lower():
+                issues.append((filename, a, b))
+    return issues
+
+
 def main():
+    parser = argparse.ArgumentParser(description='Lint the repository for data-quality issues.')
+    parser.add_argument('--skip-counts', action='store_true',
+                        help='Skip README count/badge checks (they are synced '
+                             'by maintenance.yml after merge; useful for PR CI)')
+    args = parser.parse_args()
+
     errors = 0
     warnings = 0
 
     actual = read_category_counts()
     readme_counts = parse_readme_counts()
 
-    print("== Per-category counts (README vs actual) ==")
-    for filename, count in sorted(actual.items()):
-        stated = readme_counts.get(filename)
-        if stated is None:
-            print(f"  [WARN] {filename}: not listed in README categories table")
+    if args.skip_counts:
+        print("== Per-category counts & Total badge: skipped (--skip-counts) ==")
+    else:
+        print("== Per-category counts (README vs actual) ==")
+        for filename, count in sorted(actual.items()):
+            stated = readme_counts.get(filename)
+            if stated is None:
+                print(f"  [WARN] {filename}: not listed in README categories table")
+                warnings += 1
+            elif stated != count:
+                print(f"  [FAIL] {filename}: README says {stated}, actual {count}")
+                errors += 1
+            else:
+                print(f"  [ OK ] {filename}: {count}")
+        for filename in readme_counts:
+            if filename not in actual:
+                print(f"  [FAIL] {filename}: listed in README but file is missing")
+                errors += 1
+
+        total = sum(actual.values())
+        badge = parse_readme_badge_total()
+        print("\n== Total Apps badge ==")
+        if badge is None:
+            print("  [WARN] Total Apps badge not found in README")
             warnings += 1
-        elif stated != count:
-            print(f"  [FAIL] {filename}: README says {stated}, actual {count}")
+        elif badge != total:
+            print(f"  [FAIL] badge says {badge}, actual total {total}")
             errors += 1
         else:
-            print(f"  [ OK ] {filename}: {count}")
-    for filename in readme_counts:
-        if filename not in actual:
-            print(f"  [FAIL] {filename}: listed in README but file is missing")
-            errors += 1
-
-    total = sum(actual.values())
-    badge = parse_readme_badge_total()
-    print("\n== Total Apps badge ==")
-    if badge is None:
-        print("  [WARN] Total Apps badge not found in README")
-        warnings += 1
-    elif badge != total:
-        print(f"  [FAIL] badge says {badge}, actual total {total}")
-        errors += 1
-    else:
-        print(f"  [ OK ] badge {badge} == total {total}")
+            print(f"  [ OK ] badge {badge} == total {total}")
 
     cross, within_file = find_duplicates()
     print("\n== Duplicate entries ==")
@@ -128,6 +167,15 @@ def main():
         for name, files in sorted(cross.items()):
             print(f"    - {name}: {', '.join(files)}")
         warnings += 1
+
+    print("\n== Alphabetical order ==")
+    order_issues = find_order_issues()
+    if order_issues:
+        for filename, a, b in order_issues:
+            print(f"  [FAIL] {filename}: '{a}' should come after '{b}'")
+            errors += 1
+    else:
+        print("  [ OK ] all main tables are in case-insensitive alphabetical order")
 
     print(f"\n{errors} error(s), {warnings} warning(s)")
     return 1 if errors else 0

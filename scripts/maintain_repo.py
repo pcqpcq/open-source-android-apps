@@ -1,57 +1,17 @@
 import os
 import re
-import requests
 
 from github_utils import get_github_repo_info
 
-URL_CACHE = {}
-
-def get_final_url(url):
-    """Follow redirects and return the final canonical URL. Returns (url, is_dead).
-
-    Only GitHub links are checked: store URLs (Play Store, F-Droid, ...) are
-    stable, so re-fetching every one of them on each run is needlessly slow and
-    risks being blocked. Dead-link/redirect detection only matters for GitHub,
-    where repos get renamed or deleted.
-    """
-    if not url or not url.startswith('http'):
-        return url, False
-    if url in URL_CACHE:
-        return URL_CACHE[url]
-
-    # Skip badges and static assets, plus anything that isn't a GitHub link.
-    if any(x in url for x in ['img.shields.io', 'badge', 'wikimedia.org', 'githubassets.com']):
-        return url, False
-    if 'github.com' not in url:
-        return url, False
-
-    try:
-        # Use a browser-like User-Agent to avoid being blocked.
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
-        # stream=True so we can read the final URL without downloading the body.
-        response = requests.get(url, headers=headers, allow_redirects=True, timeout=10, stream=True)
-        try:
-            if response.status_code == 404:
-                return url, True
-            final_url = response.url.rstrip('/')
-        finally:
-            response.close()
-
-        # Normalise GitHub URLs to the clean repo root.
-        match = re.search(r'(https://github\.com/[^/]+/[^/]+)', final_url)
-        if match:
-            final_url = match.group(1)
-
-        URL_CACHE[url] = (final_url, False)
-        return final_url, False
-    except Exception as e:
-        print(f"Warning: Could not check redirect for {url}: {e}")
-        return url, False
 
 def update_links_in_text(text):
-    """Find all markdown links and update them if they redirect. Remove dead links."""
+    """Rebuild a Download-column cell.
+
+    GitHub links are verified through the API: dead repositories are dropped
+    and live ones canonicalised to the repo root (the API's html_url is the
+    canonical URL, so no separate redirect-following request is needed).
+    Non-GitHub links (Play Store, F-Droid, ...) are stable and kept as-is.
+    """
     # Improved regex to handle nested brackets (like image badges inside links)
     # Matches: [label](url) where label can contain [nested]
     link_pattern = r'\[((?:[^\[\]]|\[[^\[\]]*\])*)\]\((https?://[^\s\)]+)\)'
@@ -61,9 +21,12 @@ def update_links_in_text(text):
         
     new_links = []
     for label, url in links:
-        final_url, is_dead = get_final_url(url)
-        if not is_dead:
-            new_links.append(f"[{label}]({final_url})")
+        if 'github.com' in url:
+            info = get_github_repo_info(url)
+            if not info or info.get('is_dead'):
+                continue
+            url = info['url']
+        new_links.append(f"[{label}]({url})")
     
     if not new_links:
         return "—"
@@ -256,6 +219,11 @@ def update_readme(hot_apps, category_counts):
         f.writelines(new_lines)
 
 if __name__ == "__main__":
+    if not os.environ.get('GITHUB_TOKEN'):
+        print("Warning: GITHUB_TOKEN is not set. Unauthenticated GitHub API "
+              "requests are limited to 60/hour, which is not enough for a "
+              "full run (~1 request per app); the run may fail partway through.\n")
+
     all_hot_apps = []
     category_counts = {}
     categories_dir = 'categories'

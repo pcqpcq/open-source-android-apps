@@ -11,12 +11,17 @@ import requests
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')
 HEADERS = {'Authorization': f'token {GITHUB_TOKEN}'} if GITHUB_TOKEN else {}
 
+# Cache API responses per repo: cross-listed apps and Download-column links
+# would otherwise trigger a second identical request within one run.
+_INFO_CACHE = {}
+
 
 def get_github_repo_info(url):
     """Fetch metadata for a GitHub repository URL.
 
     Returns a dict with stars/stars_val/language/license/url/description,
     a {'is_dead': True} dict when the repo returns 404, or None on failure.
+    Successful results and 404s are cached for the lifetime of the process.
     """
     match = re.search(r'github\.com/([^/]+)/([^/]+)', url)
     if not match:
@@ -24,16 +29,20 @@ def get_github_repo_info(url):
     owner, repo = match.groups()
     # Strip trailing slashes, ".git", and any path segments after the repo name.
     repo = repo.split('/')[0].split('.git')[0]
+    cache_key = f'{owner}/{repo}'.lower()
+    if cache_key in _INFO_CACHE:
+        return _INFO_CACHE[cache_key]
+
     api_url = f'https://api.github.com/repos/{owner}/{repo}'
     try:
-        response = requests.get(api_url, headers=HEADERS)
+        response = requests.get(api_url, headers=HEADERS, timeout=10)
         if response.status_code == 200:
             data = response.json()
             stars_count = data.get('stargazers_count', 0) or 0
             stars = f"{stars_count/1000:.1f}k" if stars_count >= 1000 else str(stars_count)
             license_info = data.get('license')
             license_name = license_info.get('spdx_id') if license_info else None
-            return {
+            result = {
                 'stars': stars,
                 'stars_val': stars_count,
                 'language': data.get('language'),
@@ -42,9 +51,13 @@ def get_github_repo_info(url):
                 'description': data.get('description', '') or '',
             }
         elif response.status_code == 404:
-            return {'is_dead': True}
+            result = {'is_dead': True}
         else:
             print(f"Error fetching {url}: {response.status_code}")
+            return None
     except Exception as e:
         print(f"Exception for {url}: {e}")
-    return None
+        return None
+
+    _INFO_CACHE[cache_key] = result
+    return result
