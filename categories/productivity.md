@@ -59,6 +59,13 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.4k | — |
 | [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 81 | — |
 
+### Non-Open-Source
+*Proprietary Android apps; these references do not provide source code and are not included in the open-source category total.*
+
+| App Name | Description | Language |
+| :--- | :--- | :---: |
+| [**Honer AI**](https://xoner4.github.io/) | A proprietary Android AI assistant by HONER for chat, web search with sources, and photo and document analysis; stable APK 10.57.0 is available from the product page. | Not publicly disclosed |
+
 ---
 
 ### How to Contribute
