@@ -6,7 +6,7 @@ A curated list of open-source applications for learning, studying, and self-impr
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | `Kotlin` | `GPL-3.0` | 11.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.ichi2.anki) |
+| [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | `Kotlin` | `GPL-3.0` | 12.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.ichi2.anki) |
 | [**Awesome-Campus**](https://github.com/MummyDing/Awesome-Campus) | An Android app for students of Jiangxi Normal University. | `Java` | `GPL-3.0` | 122 | — |
 | [**Brainforest**](https://github.com/nicedreamzapp/brainforest-app) | An offline K-4 learning app with voiced lessons, reading and quests, no ads or accounts. | `JavaScript` | `MIT` | 0 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.brainforest.app) |
 | [**Enguage**](https://github.com/pjay94/enguageapp) | A mobile app for Polish speakers to learn English spelling and phrasal verbs. | `Java` | Not specified | 2 | — |
@@ -18,7 +18,7 @@ A curated list of open-source applications for learning, studying, and self-impr
 | [**Learn Braille**](https://github.com/braille-systems/learn-braille) | A screen-reader compatible app for studying the Russian Braille alphabet. | `Kotlin` | `Apache-2.0` | 11 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.github.braillesystems.learnbraille) |
 | [**LeeCo**](https://github.com/Nightonke/LeeCo) | An app for algorithm problems, solutions, and discussions from LeetCode. | `Java` | `Apache-2.0` | 498 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Nightonke/LeeCo) |
 | [**NSIT Connect**](https://github.com/NSITonline/NSIT-Connect) | The official companion app for students of Netaji Subhas University of Technology. | `Java` | `MIT` | 70 | — |
-| [**Oppia**](https://github.com/oppia/oppia-android) | An interactive learning app that enables users to create and share lessons. | `Kotlin` | `Apache-2.0` | 416 | — |
+| [**Oppia**](https://github.com/oppia/oppia-android) | An interactive learning app that enables users to create and share lessons. | `Kotlin` | `Apache-2.0` | 417 | — |
 | [**RealTime Space**](https://github.com/nicedreamzapp/RealTime-Space) | A real-time 3D solar system explorer rendered with Three.js and WebGL using NASA imagery. | `JavaScript` | `MIT` | 1 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.nicedreamz.realtimespace) |
 | [**Sahayak**](https://github.com/Neophytes/microsoft-pragyan-hackathon) | A fun-filled educational tool aimed at rural children and adults in India. | `Java` | `MIT` | 18 | — |
 | [**Say-Hi**](https://github.com/amritsinghcse/Say-Hi) | An app to help understand different English accents around the world. | `Java` | `MIT` | 3 | — |
