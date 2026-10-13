@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/pcqpcq/open-source-android-apps/stargazers"><img src="https://img.shields.io/github/stars/pcqpcq/open-source-android-apps?style=for-the-badge&color=gold" alt="GitHub stars"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/network/members"><img src="https://img.shields.io/github/forks/pcqpcq/open-source-android-apps?style=for-the-badge&color=blue" alt="GitHub forks"></a>
-  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-534-brightgreen?style=for-the-badge" alt="Total Apps"></a>
+  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-535-brightgreen?style=for-the-badge" alt="Total Apps"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/commits/master"><img src="https://img.shields.io/github/last-commit/pcqpcq/open-source-android-apps?style=for-the-badge" alt="GitHub last commit"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pcqpcq/open-source-android-apps?style=for-the-badge" alt="License"></a>
 </p>
@@ -57,7 +57,7 @@
 | [📺 Android TV](categories/android_tv.md) | Applications optimized for Android TV. | 7 |
 | [⌚ Android Wear](categories/android_wear.md) | Applications for Android Wear/Wear OS. | 15 |
 | [💼 Business](categories/business.md) | Tools for business management and productivity. | 4 |
-| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 33 |
+| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 34 |
 | [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 22 |
 | [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 15 |
 | [🎮 Games](categories/game.md) | Open-source games for Android. | 35 |
