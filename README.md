@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/pcqpcq/open-source-android-apps/stargazers"><img src="https://img.shields.io/github/stars/pcqpcq/open-source-android-apps?style=for-the-badge&color=gold" alt="GitHub stars"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/network/members"><img src="https://img.shields.io/github/forks/pcqpcq/open-source-android-apps?style=for-the-badge&color=blue" alt="GitHub forks"></a>
-  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-536-brightgreen?style=for-the-badge" alt="Total Apps"></a>
+  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-537-brightgreen?style=for-the-badge" alt="Total Apps"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/commits/master"><img src="https://img.shields.io/github/last-commit/pcqpcq/open-source-android-apps?style=for-the-badge" alt="GitHub last commit"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pcqpcq/open-source-android-apps?style=for-the-badge" alt="License"></a>
 </p>
@@ -33,7 +33,7 @@
 | [**Barcode Scanner (ZXing)**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | 34.2k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 30.1k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 29.5k |
-| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 29.3k |
+| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 29.4k |
 | [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 22.8k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. (Deprecated, development moved to [androidx.media3](https://github.com/androidx/media).) | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.6k |
@@ -68,7 +68,7 @@
 | [🎨 Personalization](categories/personalization.md) | Launchers, wallpapers, and UI tweaks. | 19 |
 | [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 52 |
 | [🌐 Social Network](categories/social_network.md) | Clients for popular social platforms. | 51 |
-| [🛠️ Tools](categories/tools.md) | Utilities, system tools, and keyboards. | 132 |
+| [🛠️ Tools](categories/tools.md) | Utilities, system tools, and keyboards. | 133 |
 | [🗺️ Travel & Local](categories/travel_and_local.md) | Maps, navigation, and travel guides. | 20 |
 
 # Contribution Rules
