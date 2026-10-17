@@ -57,7 +57,7 @@
 | [📺 Android TV](categories/android_tv.md) | Applications optimized for Android TV. | 7 |
 | [⌚ Android Wear](categories/android_wear.md) | Applications for Android Wear/Wear OS. | 15 |
 | [💼 Business](categories/business.md) | Tools for business management and productivity. | 4 |
-| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 34 |
+| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 35 |
 | [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 22 |
 | [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 15 |
 | [🎮 Games](categories/game.md) | Open-source games for Android. | 35 |
