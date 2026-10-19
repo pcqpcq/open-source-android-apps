@@ -23,6 +23,7 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 121 | — |
 | [**Gloomy Dungeons 3D**](https://github.com/restorer/gloomy-dungeons-3d) | An old-school, Wolfenstein-style 3D shooter. | `Java` | `MIT` | 73 | — |
 | [**Google Santa Tracker**](https://github.com/google/santa-tracker-android) | An educational and entertaining app for the Christmas holiday period. | `Java` | `Apache-2.0` | 2.1k | — |
+| [**Kairo**](https://github.com/0scar07/Kairo) | Stats, live games and alerts for League of Legends, TFT, Brawl Stars, Clash Royale, Clash of Clans, Dota 2, Fortnite, Apex Legends and PUBG, with no accounts or ads. | `JavaScript` | `MIT` | 1 | [Releases](https://github.com/0scar07/Kairo/releases/latest) |
 | [**Material Life**](https://github.com/juankysoriano/MaterialLife) | A Material Design styled implementation of Conway's Game of Life. | `Java` | `GPL-2.0` | 96 | — |
 | [**Memory Game**](https://github.com/sromku/memory-game) | A simple and beautiful memory game designed for kids. | `Kotlin` | `Apache-2.0` | 597 | — |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | `Java` | `GPL-3.0` | 29.4k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=io.anuke.mindustry) |
