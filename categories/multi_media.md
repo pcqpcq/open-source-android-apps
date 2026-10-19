@@ -66,6 +66,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**Vanilla Music**](https://github.com/vanilla-music/vanilla) | A clean, simple, and free open-source music player. | `Java` | `GPL-3.0` | 1.4k | — |
 | [**Vibe - Music Player**](https://github.com/fiedri/vibe-player) | Fast, minimalist local music player, 100% offline | `Kotlin` | `GPL-3.0` | 7 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/dev.fiedri.vibe) |
 | [**VLC for Android**](https://github.com/videolan/vlc-android) | The official port of the versatile, open-source VLC media player. | `Kotlin` | `GPL-2.0` | 4.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.videolan.vlc) |
+| [**Waifu Deck**](https://github.com/fancydirty/waifu-deck) | An anime art collection app that unifies 10 image boards into one swipe deck, saves full-resolution originals locally, and syncs to your own encrypted cloud | `TypeScript` | `AGPL-3.0` | 1 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/fancydirty/waifu-deck/releases) |
 | [**XimalayaKotlin**](https://github.com/gs666/XimalayaKotlin) | An unofficial client for Ximalaya FM written entirely in Kotlin. (Archived) | `Kotlin` | `MIT` | 181 | — |
 
 ---
