@@ -7,7 +7,7 @@ A curated list of open-source health, wellness, and fitness apps for Android. Th
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**Aarogya Setu**](https://github.com/nic-delhi/AarogyaSetu_Android) | A contact tracing and self-assessment app from the Government of India. | `Java` | `Apache-2.0` | 2.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu) |
-| [**Android app to collect medical data**](https://github.com/Ana06/medical-data-android) | An app designed to collect data for medical analysis. | `Java` | `GPL-3.0` | 28 | — |
+| [**Android app to collect medical data**](https://github.com/Ana06/medical-data-android) | An app designed to collect data for medical analysis. | `Java` | `GPL-3.0` | 29 | — |
 | [**Android heart rate monitor**](https://github.com/phishman3579/android-heart-rate-monitor) | Uses the phone's camera and flash to determine heart rate. | `Java` | `Apache-2.0` | 472 | — |
 | [**Baby Nap Track**](https://github.com/spremtlabs/baby-nap-track) | Logs a baby's sleep with one tap and says when the next nap should start. | `TypeScript` | `MIT` | 0 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.spremtlabs.babysleep) |
 | [**Chompass**](https://codeberg.org/fitguy/Chompass) | Ad-free calorie and food diary with optional BYOK / on-device AI; data stays on-device; open JSON export. | `Kotlin` | `MIT` | 1 | — |
@@ -20,7 +20,7 @@ A curated list of open-source health, wellness, and fitness apps for Android. Th
 | [**Pixy**](https://github.com/mrzmyr/pixy-mood-tracker-app) | A mood tracker with one pixel per day, so your whole year fits on one screen. No account, no ads, entries stay on your phone. | `TypeScript` | `MIT` | 153 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.devmood.pixymoodtracker) |
 | [**RunnerUp**](https://github.com/jonasoreland/runnerup) | An open-source run tracker for tracking fitness activities. | `Java` | `GPL-3.0` | 960 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.runnerup) |
 | [**SoulSync**](https://github.com/Antimatter543/mood-tracker) | A free mood tracker that stores everything on-device in SQLite, with no account, ads, or subscription. | `TypeScript` | `GPL-3.0` | 2 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp) |
-| [**trale**](https://github.com/QuantumPhysique/trale) | A simple and privacy-respecting body weight diary app built with Flutter. | `Dart` | `AGPL-3.0` | 238 | — |
+| [**trale**](https://github.com/QuantumPhysique/trale) | A simple and privacy-respecting body weight diary app built with Flutter. | `Dart` | `AGPL-3.0` | 239 | — |
 
 ---
 
