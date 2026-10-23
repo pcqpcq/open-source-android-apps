@@ -58,6 +58,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**tudounotepad**](https://github.com/geminiwen/tudounotepad) | A simple Notepad application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 108 | — |
 | [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.4k | — |
 | [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 81 | — |
+| [**Voltip**](https://github.com/sunerpy/voltip) | Push-to-talk dictation that recognizes speech and cleans it up with an LLM, or pairs with a computer as its microphone and keyboard over an end-to-end encrypted relay. | `Rust` | `AGPL-3.0` | 3 | [GitHub Releases](https://github.com/sunerpy/voltip/releases/latest) |
 
 ---
 
