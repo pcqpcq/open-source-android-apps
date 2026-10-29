@@ -11,7 +11,7 @@ A curated list of open-source applications for learning, studying, and self-impr
 | [**Brainforest**](https://github.com/nicedreamzapp/brainforest-app) | An offline K-4 learning app with voiced lessons, reading and quests, no ads or accounts. | `JavaScript` | `MIT` | 0 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.brainforest.app) |
 | [**Enguage**](https://github.com/pjay94/enguageapp) | A mobile app for Polish speakers to learn English spelling and phrasal verbs. | `Java` | Not specified | 2 | — |
 | [**festnimbus**](https://github.com/appteam-nith/festnimbus) | An open-source college app for the technical fest of NIT Hamirpur, India. | `Java` | `GPL-3.0` | 11 | — |
-| [**ForgetMeNot**](https://github.com/tema6120/ForgetMeNot) | A simple and user-friendly flashcard application for Android. | `Kotlin` | `GPL-3.0` | 442 | — |
+| [**ForgetMeNot**](https://github.com/tema6120/ForgetMeNot) | A simple and user-friendly flashcard application for Android. | `Kotlin` | `GPL-3.0` | 443 | — |
 | [**GivesMeHope**](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Android client for the Gives Me Hope website for educational purposes. | `Java` | `MIT` | 214 | — |
 | [**Hillffair**](https://github.com/appteam-nith/Hillffair) | The official open-source app for the cultural fest of NIT Hamirpur, India. | `Java` | `GPL-3.0` | 24 | — |
 | [**Hubble Gallery**](https://github.com/derekcsm/hubble_gallery) | An app to view, save, and read about the Hubble Telescope's best images. | `Java` | `Apache-2.0` | 223 | — |
