@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/pcqpcq/open-source-android-apps/stargazers"><img src="https://img.shields.io/github/stars/pcqpcq/open-source-android-apps?style=for-the-badge&color=gold" alt="GitHub stars"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/network/members"><img src="https://img.shields.io/github/forks/pcqpcq/open-source-android-apps?style=for-the-badge&color=blue" alt="GitHub forks"></a>
-  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-558-brightgreen?style=for-the-badge" alt="Total Apps"></a>
+  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-559-brightgreen?style=for-the-badge" alt="Total Apps"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/commits/master"><img src="https://img.shields.io/github/last-commit/pcqpcq/open-source-android-apps?style=for-the-badge" alt="GitHub last commit"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pcqpcq/open-source-android-apps?style=for-the-badge" alt="License"></a>
 </p>
@@ -63,7 +63,7 @@
 | [🎮 Games](categories/game.md) | Open-source games for Android. | 37 |
 | [🏥 Health & Fitness](categories/health_fitness.md) | Wellness, tracking, and fitness apps. | 17 |
 | [🏠 LifeStyle](categories/life_style.md) | Apps for daily life and personal habits. | 14 |
-| [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 66 |
+| [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 67 |
 | [📰 News & Magazines](categories/news_and_magazines.md) | RSS readers and news aggregators. | 41 |
 | [🎨 Personalization](categories/personalization.md) | Launchers, wallpapers, and UI tweaks. | 19 |
 | [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 55 |
