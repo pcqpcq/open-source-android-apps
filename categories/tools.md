@@ -109,7 +109,7 @@ A curated list of open-source utilities, file managers, system tools, and other 
 | [**Qalam**](https://github.com/nim444/qalam) | A companion app that turns a Galaxy phone's S Pen into a pen tablet for the Mac, with on-screen ink for screen recordings. | `Swift` | `Apache-2.0` | 1 | — |
 | [**Random Image Generator**](https://github.com/stedi-akk/RandomImageGeneratorApp) | A developer tool to generate a large number of random images quickly. | `Kotlin` | `MIT` | 7 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.stedi.randomimagegenerator.app) |
 | [**Ravenpass**](https://github.com/dortanes/ravenpass) | A password manager with local encrypted vaults, passkeys, TOTP codes, and system autofill (beta). | `Go` | `GPL-3.0` | 13 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/dortanes/ravenpass) |
-| [**Red Moon**](https://github.com/LibreShift/red-moon) | A feature-rich screen filter app to reduce blue light at night. | `Kotlin` | `GPL-3.0` | 744 | — |
+| [**Red Moon**](https://github.com/LibreShift/red-moon) | A feature-rich screen filter app to reduce blue light at night. | `Kotlin` | `GPL-3.0` | 745 | — |
 | [**Ringdroid**](https://github.com/google/ringdroid) | The classic, open-source ringtone maker from early Android days. (Archived) | `Java` | `Apache-2.0` | 862 | — |
 | [**RxWeather**](https://github.com/SmartDengg/RxWeather) | A weather app built to demonstrate architecting Android with RxJava. | `Java` | `Apache-2.0` | 562 | — |
 | [**S Tools+**](https://github.com/naman14/S-Tools) | A utility app to track CPU, sensors, and other device information. | `Java` | `GPL-3.0` | 200 | — |
