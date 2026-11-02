@@ -59,6 +59,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 66 | — |
 | [**tudounotepad**](https://github.com/geminiwen/tudounotepad) | A simple Notepad application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 108 | — |
 | [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.4k | — |
+| [**Usugami**](https://github.com/Nath-Goa/usugami) | Turns photos, Word, PowerPoint and EPUB files into PDFs, and merges, splits, edits, signs, compresses and redacts PDFs offline, with no ads, tracking or uploads. | `Kotlin` | `GPL-3.0` | 2 | [GitHub Releases](https://github.com/Nath-Goa/usugami/releases/latest) |
 | [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 81 | — |
 | [**Voltip**](https://github.com/sunerpy/voltip) | Push-to-talk dictation that recognizes speech and cleans it up with an LLM, or pairs with a computer as its microphone and keyboard over an end-to-end encrypted relay. | `Rust` | `AGPL-3.0` | 78 | [GitHub Releases](https://github.com/sunerpy/voltip) |
 
