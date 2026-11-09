@@ -6,7 +6,7 @@ A curated list of open-source messengers, email clients, browsers, and other com
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**Aster Mail**](https://github.com/Aster-Privacy/Aster-Android) | Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. | `Kotlin` | `AGPL-3.0` | 59 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.astermail.android) |
+| [**Aster Mail**](https://github.com/Aster-Privacy/Aster-Android) | Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. | `Kotlin` | `AGPL-3.0` | 62 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.astermail.android) |
 | [**ChatSecure**](https://github.com/guardianproject/ChatSecureAndroid) | A private and secure messaging app for Android and iOS. (Archived) | `Java` | `Apache-2.0` | 1.1k | — |
 | [**Crisis Connect**](https://github.com/emirhan-duman/Crisis-Connect) | An open-source, offline-first mesh messaging app over Bluetooth built with Kotlin and Jetpack Compose. | `Kotlin` | `AGPL-3.0` | 4 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.auralis.crisisconnect)|
 | [**FairEmail**](https://github.com/M66B/FairEmail) | A fully featured, privacy-friendly open-source email app for Android. | `Java` | `GPL-3.0` | 4.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=eu.faircode.email) |
@@ -39,7 +39,7 @@ A curated list of open-source messengers, email clients, browsers, and other com
 | [**VideoFly**](https://github.com/VideoFly/VideoFly) | A video calling app that allows you to multitask during a call. (Archived) | `Java` | Not specified | 21 | — |
 | [**WeChat (Clone)**](https://github.com/motianhuo/wechat) | A clone of the WeChat application. (Archived) | `Java` | Not specified | 5.5k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk) |
 | [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) | Transmits audio over a local WiFi network, acting like a walkie-talkie. | `Java` | `Apache-2.0` | 163 | — |
-| [**Wire**](https://github.com/wireapp/wire-android) | A secure messenger offering end-to-end encrypted communication. | `Kotlin` | `GPL-3.0` | 258 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.wire) |
+| [**Wire**](https://github.com/wireapp/wire-android) | A secure messenger offering end-to-end encrypted communication. | `Kotlin` | `GPL-3.0` | 259 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.wire) |
 | [**Yaaic**](https://github.com/pocmo/Yaaic) | "Yet Another Android IRC Client" for connecting to IRC networks. (Archived) | `Java` | `GPL-3.0` | 337 | — |
 | [**Zulip**](https://github.com/zulip/zulip-android-legacy) | The official Android client for the powerful open-source group chat platform. | `Java` | `Apache-2.0` | 403 | — |
 
