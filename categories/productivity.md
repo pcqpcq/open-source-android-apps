@@ -65,6 +65,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**Usugami**](https://github.com/Nath-Goa/usugami) | Turns photos, Word, PowerPoint and EPUB files into PDFs, and merges, splits, edits, signs, compresses and redacts PDFs offline, with no ads, tracking or uploads. | `Kotlin` | `GPL-3.0` | 22 | [GitHub Releases](https://github.com/Nath-Goa/usugami) |
 | [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 81 | — |
 | [**Voltip**](https://github.com/sunerpy/voltip) | Push-to-talk dictation that recognizes speech and cleans it up with an LLM, or pairs with a computer as its microphone and keyboard over an end-to-end encrypted relay. | `Rust` | `AGPL-3.0` | 95 | [GitHub Releases](https://github.com/sunerpy/voltip) |
+| [**VoxScribe**](https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation) | Types what you say into any app from a floating button; Whisper speech recognition runs on the phone, so it works offline. | `Dart` | `MIT` | 40 | [releases](https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation/releases/tag/android-v1.1.4) |
 
 ---
 
