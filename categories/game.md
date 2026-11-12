@@ -7,7 +7,7 @@ A curated list of open-source games for Android, perfect for developers and enth
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | [**2048-android**](https://github.com/uberspot/2048-android) | An offline-capable port of the classic 2048 puzzle game. | `Java` | `MIT` | 1.1k | — |
-| [**Anti-mine**](https://github.com/lucasnlm/antimine-android) | A modern, minimalist puzzle game inspired by Minesweeper. | `Kotlin` | `GPL-3.0` | 809 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.logical.minato) |
+| [**Anti-mine**](https://github.com/lucasnlm/antimine-android) | A modern, minimalist puzzle game inspired by Minesweeper. | `Kotlin` | `GPL-3.0` | 811 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.logical.minato) |
 | [**Bintris**](https://github.com/Lallassu/bintris) | A game that combines the mechanics of Tetris with binary numbers. | `Go` | `GPL-3.0` | 163 | — |
 | [**Blockinger**](https://github.com/vocollapse/Blockinger) | A classic Tetris clone with customizable controls. | `Java` | `GPL-3.0` | 222 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/game/org.blockinger.game) |
 | [**Borderline Fluent**](https://github.com/itsaryuk/borderline-fluent) | A showcase of Android's on-device AI: a voice story game where you talk your way past AI border officers out loud in 10 languages, with Gemini Nano, speech recognition and voices all running on the phone. | `Kotlin` | `GPL-3.0` | 0 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.lampensoft.borderlinefluent) |
@@ -19,14 +19,14 @@ A curated list of open-source games for Android, perfect for developers and enth
 | [**destiny_game**](https://github.com/VedantAdka/destiny_game) | A choice-based adventure game with a dark-themed UI. | `C++` | `MIT` | 0 | — |
 | [**Dungeon Crawl Stone Soup**](https://github.com/crawl/crawl) | A classic roguelike game of dungeon exploration, combat, and magic. | `C++` | `GPL-2.0` | 3.1k | — |
 | [**Etheroll**](https://github.com/AndreMiras/EtherollApp) | A dice game that runs on the Ethereum blockchain. | `Python` | `MIT` | 56 | — |
-| [**friendspell**](https://github.com/chiuki/friendspell) | A party icebreaker game based on the Google Nearby API. | `Java` | `Apache-2.0` | 413 | — |
+| [**friendspell**](https://github.com/chiuki/friendspell) | A party icebreaker game based on the Google Nearby API. | `Java` | `Apache-2.0` | 412 | — |
 | [**GameOfCards**](https://github.com/rohitramkumar308/GameOfCards) | A simple, rule-free card game. | `Java` | Not specified | 59 | — |
 | [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 122 | — |
 | [**Gloomy Dungeons 3D**](https://github.com/restorer/gloomy-dungeons-3d) | An old-school, Wolfenstein-style 3D shooter. | `Java` | `MIT` | 73 | — |
 | [**Google Santa Tracker**](https://github.com/google/santa-tracker-android) | An educational and entertaining app for the Christmas holiday period. | `Java` | `Apache-2.0` | 2.1k | — |
 | [**Kairo**](https://github.com/0scar07/Kairo) | Stats, live games and alerts for League of Legends, TFT, Brawl Stars, Clash Royale, Clash of Clans, Dota 2, Fortnite, Apex Legends and PUBG, with no accounts or ads. | `JavaScript` | `MIT` | 1 | [Releases](https://github.com/0scar07/Kairo) |
 | [**Material Life**](https://github.com/juankysoriano/MaterialLife) | A Material Design styled implementation of Conway's Game of Life. | `Java` | `GPL-2.0` | 96 | — |
-| [**Memory Game**](https://github.com/sromku/memory-game) | A simple and beautiful memory game designed for kids. | `Kotlin` | `Apache-2.0` | 597 | — |
+| [**Memory Game**](https://github.com/sromku/memory-game) | A simple and beautiful memory game designed for kids. | `Kotlin` | `Apache-2.0` | 596 | — |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | `Java` | `GPL-3.0` | 29.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=io.anuke.mindustry) |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | `C++` | `LGPL-2.1` | 13.8k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.minetest.minetest) |
 | [**newplanegame**](https://github.com/nuptboyzhb/newplanegame) | A simple airplane game for Android. | `Java` | Not specified | 93 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.wandoujia.com/apps/edu.njupt.zhb.planegame) |
