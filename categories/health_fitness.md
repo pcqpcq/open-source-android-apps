@@ -23,6 +23,7 @@ A curated list of open-source health, wellness, and fitness apps for Android. Th
 | [**SoulSync**](https://github.com/Antimatter543/mood-tracker) | A free mood tracker that stores everything on-device in SQLite, with no account, ads, or subscription. | `TypeScript` | `GPL-3.0` | 3 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp) |
 | [**TooClose**](https://github.com/monarchsofchaos004-gif/tooclose) | Covers the screen when a child holds the phone too close to their eyes, like iPhone Screen Distance; on-device face detection, no internet permission. | `Kotlin` | `MIT` | 1 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/monarchsofchaos004-gif/tooclose) |
 | [**trale**](https://github.com/QuantumPhysique/trale) | A simple and privacy-respecting body weight diary app built with Flutter. | `Dart` | `AGPL-3.0` | 253 | — |
+| [**UNICUM**](https://github.com/peol-13/unicum) | Brings nutrition, activity, sleep, HRV-based recovery and your running plan (from PDF or Notion) into one screen via Health Connect; no account, data stays on the phone. | `Kotlin` | `GPL-3.0` | 4 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/peol-13/unicum/releases/latest) |
 
 ---
 
