@@ -11,7 +11,7 @@ A curated list of open-source applications for finance management, expense track
 | [**Bither**](https://github.com/bither/bither-android) | A simple and secure Bitcoin wallet for Android. | `Java` | `Apache-2.0` | 458 | — |
 | [**CoCoin**](https://github.com/Nightonke/CoCoin) | A multi-view accounting and expense tracking application. | `Java` | `Apache-2.0` | 2.8k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Nightonke/CoCoin) |
 | [**Coins**](https://github.com/soffes/coins-android) | A simple app to check the value of your Bitcoins. (Archived) | `Java` | `MIT` | 30 | — |
-| [**Financius**](https://github.com/mvarnagiris/financius) | A simple application to log and track your expenses and balance. | `Java` | `GPL-2.0` | 624 | — |
+| [**Financius**](https://github.com/mvarnagiris/financius) | A simple application to log and track your expenses and balance. | `Java` | `GPL-2.0` | 625 | — |
 | [**Gem Wallet**](https://github.com/gemwalletcom/wallet) | Open-source, self-custodial multi-chain crypto wallet with swaps, staking and WalletConnect. | `Rust` | `GPL-3.0` | 416 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.gemwallet.android) |
 | [**GnuCash**](https://github.com/codinguser/gnucash-android) | The official mobile companion app for GnuCash desktop. | `Java` | `Apache-2.0` | 1.3k | — |
 | [**Kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept for Android built with Material Design. | `Kotlin` | `Apache-2.0` | 1.6k | — |
