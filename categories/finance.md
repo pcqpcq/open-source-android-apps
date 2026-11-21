@@ -22,6 +22,7 @@ A curated list of open-source applications for finance management, expense track
 | [**Paisa**](https://github.com/RetroMusicPlayer/Paisa) | A clean and simple expense manager app. | `Dart` | `GPL-3.0` | 425 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) |
 | [**PennyRush**](https://github.com/royalpinto007/PennyRush) | A private money hub for expenses, budgets, and spending insights; statements are parsed in memory and discarded. | `Kotlin` | `MIT` | 3 | — |
 | [**Simple Random Stock**](https://github.com/WillWcchan/Simple-Random-Stock) | An app that randomly selects a stock from the 3 major U.S. indexes. | `Java` | `MIT` | 8 | — |
+| [**Tally**](https://github.com/IamAndelib/Tally-android) | A pocket notebook for your money: one tap per expense, every account in its own currency, loans and lendings, fully offline with no internet permission. | `JavaScript` | `MIT` | 45 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/app.tally.expenses) |
 
 ---
 
