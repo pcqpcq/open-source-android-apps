@@ -65,7 +65,7 @@
 | [🏠 LifeStyle](categories/life_style.md) | Apps for daily life and personal habits. | 15 |
 | [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 72 |
 | [📰 News & Magazines](categories/news_and_magazines.md) | RSS readers and news aggregators. | 41 |
-| [🎨 Personalization](categories/personalization.md) | Launchers, wallpapers, and UI tweaks. | 19 |
+| [🎨 Personalization](categories/personalization.md) | Launchers, wallpapers, and UI tweaks. | 20 |
 | [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 64 |
 | [🌐 Social Network](categories/social_network.md) | Clients for popular social platforms. | 51 |
 | [🛠️ Tools](categories/tools.md) | Utilities, system tools, and keyboards. | 153 |
