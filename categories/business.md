@@ -10,7 +10,7 @@ A curated list of open-source applications for e-commerce, ERP, CRM, and other b
 | [**OpenPetra**](https://github.com/openpetra/openpetra) | Administration software (CRM/ERP) for charitable organizations. | `C#` | `GPL-3.0` | 118 | — |
 | [**OpenPost**](https://github.com/getopenpost/openpost) | Native app for drafting, scheduling, and tracking social posts through OpenPost Hosted or a self-hosted server. | `TypeScript` | `AGPL-3.0` | 950 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/getopenpost/openpost) |
 | [**OpenShop.io**](https://github.com/openshopio/openshop.io-android) | A mobile E-commerce solution connected to Facebook Ads and Google. (Archived) | `Java` | `MIT` | 502 | — |
-| [**Trina AX**](https://github.com/trina-app/trina-ax) | Phone client for a team's own Trina AX server, with shared files, chat rooms and an AI that sees only what the signed-in person may open. | `TypeScript` | `AGPL-3.0` | 92 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=app.trina.ax) |
+| [**Trina AX**](https://github.com/trina-app/trina-ax) | Phone client for a team's own Trina AX server, with shared files, chat rooms and an AI that sees only what the signed-in person may open. | `TypeScript` | `AGPL-3.0` | 130 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=app.trina.ax) |
 
 ---
 
