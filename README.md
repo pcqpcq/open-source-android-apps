@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/pcqpcq/open-source-android-apps/stargazers"><img src="https://img.shields.io/github/stars/pcqpcq/open-source-android-apps?style=for-the-badge&color=gold" alt="GitHub stars"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/network/members"><img src="https://img.shields.io/github/forks/pcqpcq/open-source-android-apps?style=for-the-badge&color=blue" alt="GitHub forks"></a>
-  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-596-brightgreen?style=for-the-badge" alt="Total Apps"></a>
+  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-600-brightgreen?style=for-the-badge" alt="Total Apps"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/commits/master"><img src="https://img.shields.io/github/last-commit/pcqpcq/open-source-android-apps?style=for-the-badge" alt="GitHub last commit"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pcqpcq/open-source-android-apps?style=for-the-badge" alt="License"></a>
 </p>
@@ -34,7 +34,7 @@
 | [**Telegram**](https://github.com/TelegramMessenger/Telegram-Android) | The official, open-source Android client for the Telegram messaging service. | 30.4k |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 29.9k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 29.7k |
-| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 23.9k |
+| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 24.0k |
 | [**Komi Store**](https://github.com/komi-store/komi-store) | A cross-platform client for discovering and installing app releases published on GitHub. | 22.0k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. (Deprecated, development moved to [androidx.media3](https://github.com/androidx/media).) | 21.9k |
 | [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 21.8k |
@@ -57,13 +57,13 @@
 | [📺 Android TV](categories/android_tv.md) | Applications optimized for Android TV. | 11 |
 | [⌚ Android Wear](categories/android_wear.md) | Applications for Android Wear/Wear OS. | 15 |
 | [💼 Business](categories/business.md) | Tools for business management and productivity. | 4 |
-| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 36 |
+| [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 37 |
 | [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 22 |
-| [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 16 |
+| [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 17 |
 | [🎮 Games](categories/game.md) | Open-source games for Android. | 39 |
 | [🏥 Health & Fitness](categories/health_fitness.md) | Wellness, tracking, and fitness apps. | 18 |
 | [🏠 LifeStyle](categories/life_style.md) | Apps for daily life and personal habits. | 15 |
-| [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 72 |
+| [🎬 Multi-Media](categories/multi_media.md) | Video players, music apps, and editors. | 73 |
 | [📰 News & Magazines](categories/news_and_magazines.md) | RSS readers and news aggregators. | 41 |
 | [🎨 Personalization](categories/personalization.md) | Launchers, wallpapers, and UI tweaks. | 20 |
 | [📈 Productivity](categories/productivity.md) | Note-taking, task management, and office tools. | 64 |
