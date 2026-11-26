@@ -24,7 +24,7 @@ A curated list of open-source applications for finance management, expense track
 | [**Simple Random Stock**](https://github.com/WillWcchan/Simple-Random-Stock) | An app that randomly selects a stock from the 3 major U.S. indexes. | `Java` | `MIT` | 8 | — |
 | [**SumBuddy**](https://github.com/akhilux-design/sumbuddy) | A monthly spending tracker made for India that reads bank and UPI SMS on the phone and splits shared payments with friends. | `Kotlin` | `GPL-3.0` | 0 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/akhilux-design/sumbuddy) |
 | [**Tally**](https://github.com/IamAndelib/Tally-android) | A pocket notebook for your money: one tap per expense, every account in its own currency, loans and lendings, fully offline with no internet permission. | `JavaScript` | `MIT` | 51 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/app.tally.expenses) |
-| [**Tameki**](https://github.com/antomanc/tameki) | Offline expense and subscription tracker with savings suggestions, no account. | `Kotlin` | `GPL-3.0` | 1 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/antomanc/tameki/releases) |
+| [**Tameki**](https://github.com/antomanc/tameki) | Offline expense and subscription tracker with savings suggestions, no account. | `Kotlin` | `GPL-3.0` | 1 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/antomanc/tameki) |
 
 ---
 
