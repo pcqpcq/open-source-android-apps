@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/pcqpcq/open-source-android-apps/stargazers"><img src="https://img.shields.io/github/stars/pcqpcq/open-source-android-apps?style=for-the-badge&color=gold" alt="GitHub stars"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/network/members"><img src="https://img.shields.io/github/forks/pcqpcq/open-source-android-apps?style=for-the-badge&color=blue" alt="GitHub forks"></a>
-  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-615-brightgreen?style=for-the-badge" alt="Total Apps"></a>
+  <a href="https://github.com/pcqpcq/open-source-android-apps#%EF%B8%8F-categories"><img src="https://img.shields.io/badge/Total%20Apps-616-brightgreen?style=for-the-badge" alt="Total Apps"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/commits/master"><img src="https://img.shields.io/github/last-commit/pcqpcq/open-source-android-apps?style=for-the-badge" alt="GitHub last commit"></a>
   <a href="https://github.com/pcqpcq/open-source-android-apps/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pcqpcq/open-source-android-apps?style=for-the-badge" alt="License"></a>
 </p>
@@ -40,9 +40,9 @@
 | [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.6k |
 | [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information and documentation. | 19.2k |
-| [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | 16.2k |
+| [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | 16.1k |
 | [**Organic Maps**](https://github.com/organicmaps/organicmaps) | A privacy-focused, offline maps app for travelers, tourists, hikers, and cyclists. | 16.1k |
-| [**Orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator) | Companion app for the Orchestrator desktop workspace that shows what each coding agent (Claude Code, Codex and others) is doing and lets you answer blocked agents from your phone. | 15.1k |
+| [**Orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator) | Companion app for the Orchestrator desktop workspace that shows what each coding agent (Claude Code, Codex and others) is doing and lets you answer blocked agents from your phone. | 15.2k |
 | [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android) | An advanced, open-source email client for Android. | 14.3k |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 13.9k |
 | [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 13.6k |
@@ -57,7 +57,7 @@
 | :--- | :--- | :---: |
 | [📺 Android TV](categories/android_tv.md) | Applications optimized for Android TV. | 13 |
 | [⌚ Android Wear](categories/android_wear.md) | Applications for Android Wear/Wear OS. | 15 |
-| [💼 Business](categories/business.md) | Tools for business management and productivity. | 5 |
+| [💼 Business](categories/business.md) | Tools for business management and productivity. | 6 |
 | [💬 Communication](categories/communication.md) | Messengers, email clients, and social tools. | 38 |
 | [🎓 Education](categories/education.md) | Learning platforms and educational resources. | 22 |
 | [💰 Finance](categories/finance.md) | Budgeting, banking, and financial management. | 19 |
