@@ -23,10 +23,10 @@
 ## 🚀 Hot Apps (Stars > 10k)
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
-| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 66.6k |
-| [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 65.8k |
+| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 66.7k |
+| [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 65.9k |
 | [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 57.4k |
-| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 46.6k |
+| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 46.5k |
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 41.0k |
 | [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | 36.9k |
 | [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 36.7k |
@@ -35,19 +35,19 @@
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 30.0k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 29.7k |
 | [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 24.1k |
-| [**Komi Store**](https://github.com/komi-store/komi-store) | A cross-platform client for discovering and installing app releases published on GitHub. | 22.5k |
+| [**Komi Store**](https://github.com/komi-store/komi-store) | A cross-platform client for discovering and installing app releases published on GitHub. | 22.6k |
+| [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 22.0k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. (Deprecated, development moved to [androidx.media3](https://github.com/androidx/media).) | 21.9k |
-| [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.6k |
 | [**BookStack**](https://github.com/BookStackApp/BookStack) | A self-hosted platform for storing and organizing information and documentation. | 19.2k |
+| [**Organic Maps**](https://github.com/organicmaps/organicmaps) | A privacy-focused, offline maps app for travelers, tourists, hikers, and cyclists. | 16.2k |
 | [**Plaid**](https://github.com/nickbutcher/plaid) | A beautiful showcase of Material Design that pulls news from Dribbble & Product Hunt. | 16.1k |
-| [**Organic Maps**](https://github.com/organicmaps/organicmaps) | A privacy-focused, offline maps app for travelers, tourists, hikers, and cyclists. | 16.1k |
 | [**Orchestrator**](https://github.com/OrchestratorInc/agent-orchestrator) | Companion app for the Orchestrator desktop workspace that shows what each coding agent (Claude Code, Codex and others) is doing and lets you answer blocked agents from your phone. | 15.2k |
 | [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android) | An advanced, open-source email client for Android. | 14.3k |
 | [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | 13.9k |
-| [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 13.6k |
+| [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 13.7k |
 | [**UniversalMusicPlayer**](https://github.com/android/uamp) | A Google sample demonstrating a cross-platform audio media app. | 13.2k |
-| [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 12.3k |
+| [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 12.4k |
 | [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | 11.4k |
 | [**RTranslator**](https://github.com/niedev/RTranslator) | The world's first open-source simultaneous translation app. | 10.7k |
 | [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | 10.5k |

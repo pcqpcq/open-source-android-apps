@@ -12,7 +12,7 @@ A curated list of open-source applications for finance management, expense track
 | [**CoCoin**](https://github.com/Nightonke/CoCoin) | A multi-view accounting and expense tracking application. | `Java` | `Apache-2.0` | 2.8k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Nightonke/CoCoin) |
 | [**Coins**](https://github.com/soffes/coins-android) | A simple app to check the value of your Bitcoins. (Archived) | `Java` | `MIT` | 30 | — |
 | [**Financius**](https://github.com/mvarnagiris/financius) | A simple application to log and track your expenses and balance. | `Java` | `GPL-2.0` | 625 | — |
-| [**Gem Wallet**](https://github.com/gemwalletcom/wallet) | Open-source, self-custodial multi-chain crypto wallet with swaps, staking and WalletConnect. | `Rust` | `GPL-3.0` | 423 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.gemwallet.android) |
+| [**Gem Wallet**](https://github.com/gemwalletcom/wallet) | Open-source, self-custodial multi-chain crypto wallet with swaps, staking and WalletConnect. | `Rust` | `GPL-3.0` | 422 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.gemwallet.android) |
 | [**GnuCash**](https://github.com/codinguser/gnucash-android) | The official mobile companion app for GnuCash desktop. | `Java` | `Apache-2.0` | 1.3k | — |
 | [**Kickmaterial**](https://github.com/byoutline/kickmaterial) | A crowdfunding app concept for Android built with Material Design. | `Kotlin` | `Apache-2.0` | 1.6k | — |
 | [**Kripto**](https://github.com/sauravrao637/Kripto) | A cryptocurrency tracking app that uses the CoinGecko API. | `Kotlin` | `GPL-3.0` | 16 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/sauravrao637/Kripto) |
@@ -24,7 +24,7 @@ A curated list of open-source applications for finance management, expense track
 | [**Simple Random Stock**](https://github.com/WillWcchan/Simple-Random-Stock) | An app that randomly selects a stock from the 3 major U.S. indexes. | `Java` | `MIT` | 8 | — |
 | [**SumBuddy**](https://github.com/akhilux-design/sumbuddy) | A monthly spending tracker made for India that reads bank and UPI SMS on the phone and splits shared payments with friends. | `Kotlin` | `GPL-3.0` | 0 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/akhilux-design/sumbuddy) |
 | [**Tally**](https://github.com/IamAndelib/Tally-android) | A pocket notebook for your money: one tap per expense, every account in its own currency, loans and lendings, fully offline with no internet permission. | `JavaScript` | `MIT` | 51 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/app.tally.expenses) |
-| [**Tameki**](https://github.com/antomanc/tameki) | Offline expense and subscription tracker with savings suggestions, no account. | `Kotlin` | `GPL-3.0` | 1 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/antomanc/tameki) |
+| [**Tameki**](https://github.com/antomanc/tameki) | Offline expense and subscription tracker with savings suggestions, no account. | `Kotlin` | `GPL-3.0` | 2 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/antomanc/tameki) |
 
 ---
 
